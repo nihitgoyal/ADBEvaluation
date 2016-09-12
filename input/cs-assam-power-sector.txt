@@ -1,0 +1,443 @@
+INDIA:
+
+CASE STUDIES ON
+Assam Power Sector
+Development Program
+
+A Case Study from the 2007 Special Evaluation Study
+on Energy Sector in India ­ Building on Success for
+More Results
+
+
+
+October 2007
+
+
+Robert Schenck
+
+
+Operations Evaluation Department
+Abbreviations
+
+ADB           Asian Development Bank
+AERC          Assam Electricity Regulatory Commission
+ASEB          Assam State Electricity Board
+SMEC          Snowy Mountains Engineering Corporation
+
+
+
+
+Note
+In this report, "$" refers to US dollars.
+    I.     Background
+                               1.     India is one of the fastest growing developing
+                               economies, having expanded by about 6% per annum in the
+                               1990s and by some 8% in recent years. This growth and
+                               rapid rate of industrialization and urbanization have fueled
+                               energy demand so that in 2003 it ranked sixth worldwide in
+                               primary energy consumption. Since the Asian Development
+                               Bank's (ADB) power sector operations in India began in
+                               1986, there have been 24 public sector loans for 21 projects
+with a total value of $4.6 billion (29% of the total public sector lending to India). This has
+been supported by an additional $337 million of loans through ADB's private sector
+operations. One of the three state electricity boards that ADB provided program
+assistance is Assam.
+
+2.     ADB provided a policy loan (Loan 2036-IND)1 of $150 million and an investment
+loan (Loan 2037-IND)2 of $100 million for the Assam Power Sector Development
+Program. The loans were supported by technical assistance (TA), which was
+administered by ADB but financed from the India Trust Fund of the United Kingdom's
+Department for International Development. The loans were approved in December
+2003. Two previous ADB TA grants had prepared the way for the loans by supporting
+the development of a power sector development program and capacity building in the
+Assam Electricity Regulatory Commission (AERC). The policy loan was divided into two
+tranches of $90 million and $60 million. Conditions on the first tranche included actions
+by the Assam state government to sanction necessary staffing for AERC, development
+of an unbundled industry structure including at least three distribution companies as well
+as registration of the new companies, commitment to budgetary support, some financial
+restructuring, and filing of a tariff petition. The most important effect of the restructuring
+has been the financial turnaround of the Assam distribution sector, which raised
+revenues and reversed its cost increases.
+
+
+
+
+1
+    ADB. 2003. Report and Recommendation of   the President to the Board of Directors on a Proposed Loans and
+    Technical Assistance Grants Assam Power   Sector Development Program. Manila (Loan 2036-IND, for $150
+    million, approved on 10 December).
+2
+    ADB. 2003. Report and Recommendation of   the President to the Board of Directors on a Proposed Loans and
+    Technical Assistance Grants Assam Power   Sector Development Program. Manila (Loan 2037-IND, for $100
+    million, approved on 10 December).
+2     Energy Sector in India: Assam Power Sector Development Program
+
+
+
+                             8
+                                 Figure 1: Declining Losses in Net Revenues
+                             7
+                             6          Average Cost to Serve
+                             5
+
+
+
+
+                     Re/Rs
+                             4
+                             3
+                             2
+                             1
+                                                               Average Revenues
+                             0
+
+
+
+
+                                 FY86
+                                 FY87
+                                 FY88
+                                        FY89
+                                        FY90
+                                        FY91
+                                        FY92
+                                                 FY93
+                                                 FY94
+                                                 FY95
+                                                         FY96
+                                                         FY97
+                                                         FY98
+                                                                  FY99
+                                                                  FY00
+                                                                  FY01
+                                                                  FY02
+                                                                            FY03
+                                                                            FY04
+                                                                            FY05
+                             FY = financial year.
+                             Source: PricewaterhouseCoopers.
+
+
+
+3.     The detailed planning that preceded the loan had been complemented with a
+commitment to reform from the power authorities in Assam. Throughout the sector,
+there is an acceptance that the overall conditions imposed by ADB were well thought
+out and necessary to support change. Financial restructuring would not have taken
+place without ADB. Procurement procedures have been improved. There is general
+support for the principle of unbundling.
+
+4.       Unbundling is partly complete involving five companies: one each responsible for
+generation and transmission, and three for distribution. The new companies are
+established under the 1956 Companies Act and are owned by the state government.
+The Assam State Electricity Board (ASEB) is not acting as a legal holding company. In
+many ways, however, it continues to behave as a holding company and there is limited
+separation between the finances and human resources of the five companies. The three
+distribution companies, in particular, are still largely behaving as a single unit. Power
+purchasing is a central function and the three distribution companies have identical
+tariffs.
+
+5.     Staffing issues have complicated the restructuring process. ASEB had around
+16,000 employees when ADB became involved. There had been no recruitment for 10
+years and, as a result, the workforce is aging. Many staff are approaching pension age
+and there are few younger staff with the information technology skills needed to run a
+modern utility. This has created many problems for ASEB. For example, most of the
+linemen are aging and no longer able to climb poles. Clerical staffs have no experience
+of working with computers. In the past year, ASEB has taken on some 70 graduates, 85
+diploma engineers, and 45 accounts officers. There are plans to recruit 50 more
+engineers this year. The new staffs are generally information technology literate and
+enthusiastic.
+
+6.      There is uncertainty over how many staff the new companies will need,
+especially in distribution. Work undertaken by the Snowy Mountains Engineering
+Corporation (SMEC) has estimated total staffing needs in the distribution companies at
+14,087 people, which on some estimates is around current staffing levels. But recent
+submissions to the regulator show total distribution companies staffing as 10,765 and
+falling to 9,974 in FY2006­2007. SMEC's figures are not fully accepted, and it seems
+                            Energy Sector in India: Assam Power Sector Development Program   3
+
+
+that further analysis will be required in the new companies to establish final staffing
+needs and the skills sets of those staff. At present, moreover, staff transfer between
+companies without much consideration for procedures. The high levels of retirement
+over the next few years offer an opportunity to restructure staffing, but the pension costs
+are also high.
+
+7.    As part of the process of reducing political interference in the sector, the
+Government has established an independent committee to make senior power sector
+appointments. It has external membership from organizations such as the Power Grid
+and the Power Finance Corporation Limited. The current managing directors of the new
+companies are temporary and one is on secondment from the public service.
+Permanent appointments will be made through the committee.
+
+8.     Pensions have proved to be a major issue. When ADB made its loan, there was
+no employee database hence the uncertainty over the number of staff and their age
+structure. Analysis undertaken in the past 2 years, with support from consultants, has
+exposed a major shortfall in funding for pensions. This has been partially remedied. The
+Government has provided additional funding and ADB has picked up $48 million of
+costs through another project.
+
+9.    Transmission and distribution losses have fluctuated since the ADB loans were
+made, as shown in the following table.
+
+
+                            Table 1: Transmission Losses ASEB
+
+                         Financial Year             Transmission and
+                                                distribution losses as a %
+                                                of power available for sale
+
+                           2000­2001                        39.80
+                           2001­2002                        42.50
+                           2002­2003                        39.07
+                           2003­2004                        36.29
+                           2004­2005                        38.94
+                    ASEB: Assam State Electricity Board
+                    Source: Operation Evaluation Mission.
+
+10.     There are doubts over the reliability of the figures. In discussion,
+PricewaterhouseCoopers suggested that the FY2004­2005 figure was a reasonable
+estimate but the FY2003­2004 figure was too low and a more accurate figure would be
+about 40%. Errors arise because a large number of consumers are not metered and
+billing records are not reconciled properly. However, the figures do illustrate that there is
+considerable scope for improving operational and financial performance by reducing
+losses.
+4     Energy Sector in India: Assam Power Sector Development Program
+
+
+11.     There are still about 80,000 unmetered consumers in rural areas. A meter
+installation program is in progress and all new consumers receive a meter. All 11-
+kilovolt feeders are now metered, and this has exposed examples of very high losses
+(e.g., 64% on one line). Only 25% of households are electrified and there is likely to be
+considerable expansion in the next few years. In order to help meet this challenge and
+manage losses, the distribution companies are introducing a rural franchising scheme
+under which franchisees undertake billing and cash collection.
+
+12      Accounting issues are many. As part of the efforts to improve their accounting
+and finance, the distribution companies are starting to computerize--with the initial
+focus on billing. There are around 150 accounting units, divided between 14 circles.
+Computer billing is being rolled out in phases, with the first phase covering three of the
+circles. The new systems provide better management information and enable faster
+billing. Progress so far has been good, and plans call for achieving 100% coverage
+within a period of 3 to 4 months. There is no communications connectivity between
+offices or with the center at present. This impedes both effective backup procedures
+and data consolidation. Full connectivity is likely to take time to achieve and involve a
+combination of land lines, mobile communications, and very small aperture technology.
+Data backup procedures involve keeping a copy of the data on site on tape, and there
+are clear security shortcomings.
+
+13.     There are plans to computerize other aspects of accounting in the longer term,
+but this is bound to be both costly and time-consuming. Other deficiencies in accounting
+systems will need to be addressed, such as the absence of fixed assets registers.
+Further cleanup of accounting data is needed, which requires a more thorough
+reconciliation of records between accounting units, circles and the head office.
+
+14.    Pilot schemes are being initiated to demonstrate the
+effects of monitoring and reconciling billing with meters,
+decentralized     transformer    maintenance      and    parts
+procurement, and customer service centers. The benefits of
+increased metering and monitoring are being realized
+through the faster identification of nontechnical losses and
+matching transformer data with computerized billing of
+meters. A pilot project reduced losses in one feeder having
+mainly industrial customers from over 65% to 6% in only 4 weeks after the controls were
+established (figure 2). A similar pilot project reduced transformer failures in one circle
+from an average of 12% to 0% over a 22-week implementation period. Customer
+service centers have been set up in several districts, where all customer service
+requests and complaints are logged on computers and are being regularly monitored.
+This has increased transparency, and customer response will in future be part of the
+performance-based regulation of the Assam regulator. There has been widespread
+acceptance of these pilot programs by management and employees and they are now
+being gradually introduced throughout Assam.
+                                    Energy Sector in India: Assam Power Sector Development Program       5
+
+
+
+                                                          % Losses
+                 Losses
+                          Figure 2: ASEB Pilot Loss reduction Scheme
+                  80%
+                  70%
+                  60%
+                  50%
+                  40%
+                  30%
+                  20%
+                  10%
+                   0%      Oct-05
+
+
+
+                                        Nov-05
+
+
+
+                                                 Dec-05
+
+
+
+                                                           Jan-06
+
+
+
+                                                                     Feb-06
+
+
+
+
+                                                                                       Apr-06
+
+
+
+                                                                                                May-06
+                                                                              Mar-06
+                Source: Assam State Electricity Board.
+
+
+15.    ASEB has had difficulties in presenting audited accounts to ADB on a timely
+basis. ASEB's accounts were unreliable and the audit reports on those accounts were
+also unreliable in the sense that they were incomplete. Hence the level of assurance
+that ADB has gained by seeking audited accounts is quite limited. It is entirely
+appropriate and understandable that ADB should request the accounts, and the
+timetable for completing the accounts and audit has generally been reasonable.
+However, in these circumstances, ADB needs to take a long view and assess whether
+progress is being made to improve accounts rather than becoming unduly focused on
+whether exact deadlines are being met. Cleaning up accounts is often slow and
+contentious, as it involves detailed reconciliation of ledgers, writing off old balances, and
+recognizing losses that often occurred some years ago. Consequently, the process of
+cleaning the accounts commonly delays the finalization and audit of the accounts. In
+circumstances such as Assam faces, it is worth waiting and delaying the audit as the
+resultant accounts are likely to be of a higher standard.
+
+16.    ASEB has benefited significantly from TA, both before and since the ADB loans
+were made. Currently, ASEB is receiving advice and support from SMEC and
+PricewaterhouseCoopers. SMEC is providing implementation support on management
+of the investment program as well as undertaking a systems planning study and
+advising on various other aspects of reform implementation. PricewaterhouseCoopers
+has been involved on various financial issues and is training and supporting ASEB in
+loss estimation and reduction. All consulting support will be completed by the middle of
+2007 upon completion of a systems study.
+
+17.     There were initial spending delays with the project loans, largely because
+capacity was lacking in ASEB. Staff lacked knowledge of ADB procedures and only
+started to consider how to manage the loan funds after loan effectiveness. It then took a
+year to appoint an implementation consultant. Tasks such as route surveys were also
+initiated only after loan effectiveness, and the work was then delayed by flooding. With
+hindsight, the surveys should have been undertaken earlier. However, progress has
+accelerated since appointment of the implementation consultant. Currently, expenditure
+is somewhat over 6 months behind schedule and a loan extension of up to 1 year will be
+needed in order to complete the four remaining packages of works. The expenditure
+6     Energy Sector in India: Assam Power Sector Development Program
+
+
+program is now adhering to the revised timetable. This aspect of consulting support has
+therefore been needed and it has worked well.
+
+18.    A regulator has been appointed for the sector and is making tariff decisions. The
+regulatory function is working well in some areas in that, for example, decisions and
+correspondence are now made transparent through the internet. There have been some
+losses of trained staff, however. Initial TA funding for setting up the regulator and
+preparing tariff filings have established well documented procedures and guidelines for
+future staff. The documentation was considered to be sufficiently detailed to permit a
+continuity of functions without a loss of institutional memory. Additionally, the AERC is
+assisting consumer representatives with understanding the regulatory process and to
+make filings to express consumer concerns.
+
+19.    The introduction of time of day tariffs has shifted about 7% of demand away from
+system peak. Over time, there is an expectation that Assam will move toward a more
+cost-related tariff structure for each of the distribution companies.
+
+20.     Peak demand in Assam is currently around 750 MW, but this could rise to 1,000
+MW if constraints on transmission and distribution were removed. There is about 380
+MW of captive capacity in four refineries and paper mills, but the owners are currently
+unwilling to sell surplus power to ASEB because they are apprehensive about
+synchronizing with the grid. In any case, the energy would be expensive as the
+generating sets burn heating oil. ASEB currently generates around 20% of its own
+needs and it would like to increase this through rehabilitation of existing stations and
+new construction. There is potential for hydropower development as well as new
+thermal capacity.
+
+21.    In order to sustain reform, ASEB will
+undoubtedly continue to need consulting support, Assam wants and can use more of
+                                                        ADB loans. There is potential for
+certainly for the next 2 to 3 years and perhaps longer. rapid demand growth, which
+Capacities of the new companies need to be requires more transmission
+developed in many areas, including finance, capacity and significant
+information technology, human resources, as well as performance improvements in
+core engineering capabilities. Many on ASEB's staff distribution. The reform program is
+are not accustomed to the business practices of a clearly incomplete and ADB needs
+modern utility, and it has been a challenge for the to continue to be involved by
+                                                        setting covenants that promote
+consultants to ensure that ASEB staffs are fully further improvements and in
+engaged with consulting projects, as distinct from financing both investments and
+attending associated training courses. This has been technical assistance.
+an issue with the systems planning study and parts of
+the other work undertaken by SMEC. For example,
+the work on staffing does not seem to be fully accepted within ASEB. The information
+technology strategy component is essentially a long report that has not been read by
+ASEB staff and seems to have little impact. PricewaterhouseCoopers seem to have had
+more success in providing process consulting support, which engages with ASEB staff,
+                           Energy Sector in India: Assam Power Sector Development Program   7
+
+
+and it is this type of assistance which ASEB needs in future in order to develop its
+capabilities.
+
+22.      This lesson may be useful in designing future programs of support for state
+electricity boards. There are a number of other points which may help to improve future
+designs. First, the division of labor between different groups of consultants might be
+improved. PA Consulting's work on finance was of very limited assistance to
+PricewaterhouseCoopers in advising ASEB on financial issues. Second, for utilities with
+limited internal capacity, such as ASEB, the implementation consultant to support the
+utility in making use of ADB funds needs to be brought into place more quickly. Third,
+work on performance improvement and on organizational restructuring and human
+resource issues could beneficially be brought forward to earlier in the program. Fourth,
+the Assam experience makes a clear case for the use of demonstration projects where
+management and technological changes can deliver a better customer-focused service.
+
+23.    Assam wants and can use more ADB loans. There is potential for rapid demand
+growth, which requires more transmission capacity and significant performance
+improvements in distribution. The reform program is clearly incomplete and ADB needs
+to continue to be involved by setting covenants that promote further improvements and
+in financing both investments and TA. The study concludes that the program loan and
+associated TA are successful. The Project is not complete, however, due to earlier
+delays. It is showing early indications, though, of a successful outcome.
+
+
+II. Conclusions
+24.    Tranche releases of policy loans and related
+covenants have been well supported by ASEB and have
+contributed to the major outcomes being achieved. The depth
+and length of ADB policy dialogue and client interaction is
+evident from the length of time in loan preparation and from
+client responses. This was instrumental in matching client
+capabilities and inputs with ADB assistance.
+
+25.    The main lessons identified from the evaluation are (i) ADB's approach to lending
+at state level has worked well and should be used as a model for future assistance, (ii)
+sustained TA is needed to support the reform programs at state level, and (iii)
+corporatization is providing benefits similar to those normally attributed to privatization.
+ADB project loans and TA have resulted in both increased capacity to serve additional
+load and, more importantly, greater reliability of service delivery. A significant portion of
+the loans were used to upgrade systems that had suffered from a lack of expansion and
+inadequate operations and maintenance. Maintenance has shifted from being primarily
+reactive to preventive, and this has resulted in better quality of supply. Metering has
+been widely implemented at all levels in the service delivery chain, and this is enabling
+widespread detection and reduction of nontechnical losses.
+8     Energy Sector in India: Assam Power Sector Development Program
+
+
+26.    The study concludes that the policy shift adopted by ADB in 1996 has resulted in
+a direct positive and sustainable impact:
+       (i)     Financial restructuring together with tariff restructuring, as well as lower
+               costs, have reduced the need for subsidies. This means fewer funds are
+               required for the power sector, leaving more available for social sectors.
+       (ii)    The increased quality of supply has improved the reliability of supply. This
+               is a major attraction to industries that are heavily reliant on secure fuel
+               supplies (such as the information technology industry) and will impact
+               more highly on the developed states.
+       (iii)   The concurrent development of regulators' expertise and independence,
+               transparency, and consumer advocacy is removing political interference
+               and providing a balance between the needs of consumers and industry.
+               This has led to consumer involvement and a shift across many of the
+               states to a service focus from a supply focus.
+

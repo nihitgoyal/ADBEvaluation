@@ -1,0 +1,2910 @@
+ASIAN DEVELOPMENT BANK              PPA: IND 22139
+
+
+
+
+         PROJECT PERFORMANCE AUDIT REPORT
+
+                      ON THE
+
+
+
+            TELECOMMUNICATIONS PROJECT
+                   (Loan 886-IND)
+
+                       AND
+
+        SECOND TELECOMMUNICATIONS PROJECT
+                   (Loan 954-IND)
+
+
+
+                        IN
+
+
+
+                      INDIA
+
+
+
+
+                    August 2000
+                              CURRENCY EQUIVALENTS
+
+                         Currency Unit ­ Indian rupee/s (Re/Rs)
+
+Loan 886-IND: Telecommunications Project
+
+                At Appraisal            At Project Completion           At Post Evaluation
+                (1 March 1988)          (28 May 1997)                   (31 March 2000)
+Re1.00   =      $0.07123                $0.02792                        $0.02293
+ $1.00   =      Rs14.04                 Rs35.82                         Rs43.61
+
+Loan 954-IND: Second Telecommunications Project
+
+                At Appraisal            At Project Completion           At Post Evaluation
+                (31 December 1988)      (12 December 1996)              (31 March 2000)
+Re1.00   =      $0.06680                $0.02809                        $0.02293
+$ 1.00   =      Rs14.97                 Rs35.60                         Rs43.61
+
+
+                                  ABBREVIATIONS
+
+             ADB          ­      Asian Development Bank
+             CDTMX        ­      computerized digital trunk manual exchange
+             ckm          ­      conductor kilometer
+             DOT          ­      Department of Telecommunications
+             DTS          ­      Department of Telecom Services
+             EIRR         ­      economic internal rate of return
+             FIRR         ­      financial internal rate of return
+             HCL          ­      Hindustan Cables Limited
+             IDR          ­      intermediate digital rate
+             IGTX         ­      international gateway telephone exchange
+             INTELSAT     ­      International Telecommunications Satellite Organization
+             INMARSAT     ­      International Maritime Satellite Organization
+             MTNL         ­      Mahanagar Telephone Nigam Limited
+             OEO          ­      Operations Evaluation Office
+             PCR          ­      project completion report
+             PIJF         ­      polyethylene insulated jelly filled
+             PPTA         ­      project preparatory technical assistance
+             PPAR         ­      project performance audit report
+             R&D          ­      research and development
+             STD          ­      subscriber trunk dialing
+             TA           ­      technical assistance
+             VSAT         ­      very small aperture terminal
+             VSNL         ­      Videsh Sanchar Nigam Limited
+
+
+                                          NOTE
+                  The fiscal year of the Government ends on 31 March.
+
+
+                        Operations Evaluation Office, PE ­ 549
+                                         CONTENTS
+
+
+
+                                                                      Page
+
+BASIC PROJECT DATA                                                     ii
+
+EXECUTIVE SUMMARY                                                      iv
+
+I.     BACKGROUND                                                      1
+
+       A.    Rationale                                                 1
+       B.    Formulation                                               1
+       C.    Purpose and Outputs                                       3
+       D.    Cost, Financing and Executing Arrangements                3
+       E.    Completion and Self-Evaluation                            4
+       F.    OEO Evaluation                                            4
+
+II.    PLANNING AND IMPLEMENTATION PERFORMANCE                         5
+
+       A.    Formulation and Design                                    5
+       B.    Cost and Scheduling                                       6
+       C.    Consultant's Performance, Procurement and Construction    7
+       D.    Organization and Management                               8
+
+III.   ACHIEVEMENT OF PROJECT PURPOSES                                 9
+
+       A.    Operational Performance                                   9
+       B.    Performance of the Operating Entity                      12
+       C.    Sustainability                                           15
+
+IV.    ACHIEVEMENT OF OTHER DEVELOPMENT IMPACTS                       15
+
+       A.    Socioeconomic and Sociocultural Impacts                  15
+       B.    Environmental Impacts                                    15
+       C.    Impacts on Institutions and Policy                       15
+
+V.     OVERALL ASSESSMENT                                             16
+
+       A.    Telecommunications Project                               16
+       B.    Second Telecommunications Project                        18
+
+VI.    ISSUES, LESSONS AND FOLLOWUP ACTIONS                           19
+
+       A.    Key Issues for the Future                                19
+       B.    Lessons Identified                                       20
+       C.    Follow-up Actions                                        21
+
+APPENDIXES
+                                            BASIC PROJECT DATA
+
+
+I.       Telecommunications Project (Loan 886-IND)
+
+
+
+Key Project Data ($ million)
+Item                                            As Per ADB Loan Documents                   Actual
+Total Project Cost                                       247.0                              152.86
+ Foreign Exchange Cost                                   135.0                               88.21
+ Local Currency Cost                                     112.0                               64.65
+ADB Loan Amount/Utilization                              135.0                               88.21
+ Foreign Exchange Cost                                   135.0                               88.21
+ Local Currency Cost                                       0.0                                0.00
+ADB Loan Amount Cancellation                               0.0                               46.79
+
+
+Key Dates
+
+
+Item                                                 Expected                      Actual
+Fact-Finding                                                            14 Sep-20 Oct 1987
+Appraisal                                                               25 Nov-12 Dec 1987
+Loan Negotiations                                                       29 Feb-3 Mar 1988
+Board Approval                                                          4 Apr 1988
+Loan Agreement                                                          6 May 1988
+Loan Effectiveness                                5 Aug 1988            28 Jul 1988
+First Disbursement                                                      15 Dec 1988
+Project Completion                                1 Sep 1992            31 Jul 1997
+Loan Closing                                      28 Feb 1993           31 Mar 1997
+Months (Effectiveness to Completion)              49                    108
+
+
+
+Key Performance Indicators (%)
+
+
+Item                                                        Appraisal       PCR                PPAR
+Financial Internal Rate of Return                                24.4       14.6                 --
+  CDTMX
+    - Delhi and Bombay (MTNL)                                    29.1       --                 < 0.0
+    - Six Cities (DOT) & Domestic Satellite Facilities           12.6       --                 < 0.0
+    - Combined                                                   18.9       --                  --
+  IGTX
+    - Delhi, Bombay, Madras                                      35.8        --                  --
+    - Calcutta Gateway                                           28.3        --                  --
+  INMARSAT Coast Earth Station                                   17.6        --                 50.2
+  VSNL Combined                                                  32.0        --                  --
+  VSAT                                                            --         --                  --
+Economic Internal Rate of Return                                 36.1       31.3                 --
+  CDTMX
+    - Delhi and Bombay (MTNL)                                    46.8       --                  <0
+    - Six Cities (DOT) & Domestic Satellite Facilities           21.7       --                  <0
+    - Combined                                                   30.7       --                  --
+  IGTX
+                                                                v
+
+
+      - Delhi, Bombay, Madras                                        46.6                --                    --
+      - Calcutta Gateway                                             43.7                --                    --
+    INMARSAT Coast Earth Station                                     28.2                --                   80.8
+    VSNL Combined                                                    43.5                --                    --
+    VSAT                                                                                 --                    --
+Borrower                                                     India
+
+
+Executing Agencies                                           Department of Telecommunications (DOT)
+                                                             Mahanagar Telephone Nigam Limited (MTNL)
+                                                             Videsh Sanchar Nigam Limited (VSNL)
+
+
+Mission Data
+
+
+Type of Mission                                                     No. of Missions               Person-days
+Fact-Finding                                                            1                           87
+Appraisal                                                                    1                        95
+Project Administration
+  Review                                                                     7                           95
+  Special Project Administration                                             4                           42
+  Project Completion Review                                                  1                           57
+       Total                                                                12                          194
+                       a
+Operations Evaluation                                                        1                           31
+a
+    Operations evaluation of the First and Second Telecommunications projects.
+
+
+
+II.          Second Telecommunications Project (Loan 954-IND)
+
+
+Institution Building
+
+
+                                                                            Consultant          TA            Approval Date
+    TA No.                    Project Title                     Type          Person-         Amount
+                                                                              Months
+    1123      Managing Training for Department of               ADTA            4.2           $390,000         9 Feb 1989
+              Telecommunications (DOT)
+    1124      Study of DOT's Specifications for                 ADTA             0.0          $90,000          9 Feb 1989
+              Polyethelene-Insulated Jelly-Filled Cable
+              a
+
+    1125      Study of Industrial Engineering Standards         ADTA             0.0          $270,000         9 Feb 1989
+                                    a
+              and Costing Systems
+ADTA = advisory technical assistance
+
+a
+     Cancelled.
+
+
+
+
+Key Project Data ($ million)
+                               vi
+
+
+Item                            As Per ADB Loan   Actual
+                                   Documents
+Total Project Cost                    254.0       101.62
+ Foreign Exchange Cost                118.0        67.96
+ Local Currency Cost                  136.0        33.66
+ADB Loan Amount/Utilization           118.0        67.96
+ Foreign Exchange Cost                118.0        67.96
+ Local Currency Cost                    0.0         0.00
+ADB Loan Amount Cancellation            0.0        50.04
+                                                                vii
+
+
+Key Dates
+
+
+Item                                                                   Expected                   Actual
+Fact-Finding                                                                               15 May-3 Jun 1988
+Appraisal                                                                                  26 Jul-19 Aug 1988
+Loan Negotiations                                                                          12-14 Dec 1988
+Board Approval                                                                             9 Feb 1989
+Loan Agreement                                                                             15 Mar 1989
+Loan Effectiveness                                                    13 Jun 1989          29 May 1989
+First Disbursement                                                                         5 Sep 1990
+Project Completion                                                    31 Dec 1991          31 Dec 1997
+Loan Closing                                                          31 Dec 1992          6 Oct 1995
+Months (Effectiveness to Completion)                                  31                   103
+
+
+Key Performance Indicators (%)
+
+
+Item                                                              Appraisal           PCR               PPAR
+Financial Internal Rate of Return                                   17.3             1.2-5.6             --
+Economic Internal Rate of Return                                    28.3            10.1-16.2            <0
+
+Borrower                                                     India
+
+
+Executing Agency                                             Hindustan Cables Limited
+
+
+Mission Data
+
+
+Type of Mission                                                   No. of Missions               Person-days
+Fact-Finding                                                               1                      54
+Appraisal                                                                  1                      112
+Project Administration
+  Review                                                                   5                       82
+  Special Project Administration                                           1                        8
+  Project Completion Review                                                1                       36
+        Total                                                              7                      126
+Operations Evaluation a                                                    1                       31
+a
+    Operations evaluation of the First and Second Telecommunications projects.
+                                                viii
+
+
+
+
+                                    EXECUTIVE SUMMARY
+
+
+                                 The private sector does it better
+
+
+       In 1988, when the Asian Development Bank (ADB) approved its first
+telecommunications project in India, telecommunications services in the country were
+characterized by low levels of access and poor quality. Most of India's telecommunications
+plants and equipment were old, of poor quality, and technologically obsolete.
+Telecommunications was a public sector monopoly and the Government of India was the sole
+provider of telecommunications services. A small number of state-owned enterprises had
+responsibility for supplying virtually all telecommunications equipment.
+
+        The main objective of the Telecommunications Project (Loan 886-IND), approved on 4
+April 1988, was to improve the quality of domestic telecommunications services and expand
+international telecommunications facilities to help meet growing demand. Improved
+telecommunications were expected to help eliminate infrastructure bottlenecks and promote
+growth in the commercial and industrial sectors. ADB provided $135 million from its ordinary
+capital resources to finance the entire foreign exchange cost of the Project. The actual project
+cost at completion amounted to $152.8 million, with a foreign exchange cost of $88.2 million (58
+percent of the actual total cost) and a local currency cost of $64.6 million. The actual cost of the
+Project was about 38 percent less than the appraisal estimate because of lower equipment
+prices.
+
+       The Telecommunications Project was expected to have been implemented over a four-
+year, eight-month period, beginning in January 1988 and ending in August 1992. However,
+project delays began in the fourth quarter of 1989 when the Government suspended
+implementation to conduct a review of the telecommunications sector by a telecommunications
+commission. The suspension lasted about two years. Delays of an additional two years were
+experienced because the Government failed to issue import licenses for some of the project
+components. When Project implementation resumed, further delays occurred because of the
+need to revise tender documents, tender evaluation, and contract awards. This was aggravated
+by inexperience and unfamiliarity with ADB procedures. As a result of these delays,
+implementation took nine and a half years.
+
+        Even while the first telecommunications project was experiencing delays, ADB approved
+Loan 954-IND for the Second Telecommunications Project on 9 February 1989 for $118 million
+from its ordinary capital resources to finance the entire foreign exchange cost of the Project.
+The actual project cost at completion amounted to $101.6 million, with a foreign exchange cost
+of $68 million (67 percent of the actual total cost) and a local currency cost of $33.6 million. The
+actual cost of the Project was about 60 percent less than the appraisal estimate because of
+lower equipment prices and the cancellation of a project component. The local cost component
+was lower because of a change in Government policy on taxes and duties. The second Project
+was to help expand and improve the quality of telecommunications services, and improve the
+efficiency of telecommunications equipment manufacturing. Improved telecommunications was
+expected to help promote growth in the commercial and industrial sectors.
+                                                 ix
+
+
+       The Government's decision to conduct a review of the telecommunications sector also
+affected the second Project. The Project was expected to take about three and a half years to
+complete from July 1988, when advance procurement was authorized by ADB, to project
+completion in December 1991. However, overall implementation also took nine and a half
+years. The main reasons for the delays were the need to retender contracts, a shortage of
+funds to pay customs duties on some equipment, the slow performance of some suppliers, and
+a delay in issuing import licenses.
+
+         No project preparatory technical assistance (PPTA) was provided to prepare a
+preliminary design for either project and to assess its technical, financial, and economic
+feasibility. Moreover, ADB did not do sufficient economic analysis in the telecommunications
+sector to underpin the rationale for the projects. PPTAs should have been undertaken to clarify
+the need for the projects and identify key policy issues.
+
+        Notwithstanding the long delay, the components of the first Project were implemented
+satisfactorily. The three satellite earth stations and the associated equipment generated
+substantial economic and financial benefits and high internal rates of return. However, some of
+the components are underutilized because of inappropriate technology or inadequate
+marketing. The second Project was implemented partly satisfactorily. The conversion to
+polyethylene insulated jelly filled (PIJF) cable production was successful. However, the concast
+copper rod facility is still not in operation, and the thermo-shrink jointing kits, and telephone and
+other cord production facilities are idle and will probably never operate. The inability to compete
+with the private sector in PIJF cable production and the low international prices for PIJF cable
+made the PIJF cable component economically unviable.
+
+        The executing agencies for the first Project are in a good financial position to ensure
+project sustainability. However, Hindustan Cables Limited (HCL) is in a precarious financial
+position and the second Project is not sustainable without Government budgetary support.
+HCL's inability to effectively compete with the private sector in price is the main reason for its
+small share of the PIJF market.
+
+          The experience with the two Projects highlights one major issue. The
+telecommunications industry is a rapidly changing one with new technologies becoming
+available frequently. To keep up with these advances, telecommunications companies need
+flexibility in their investment decisions and the marketing of their services. Public sector
+enterprises are not suited to operating in the telecommunications sector.
+
+       This project performance audit finds that both Projects were unsuccessful. The rationale
+of the first Project was weak and project preparation was poor. The Government's initial
+decision to cancel a major portion of the loan as a result of a telecommunications sector review
+should have been supported by ADB, rather than convincing it to reverse its decision. The
+major objective of the Project (supporting economic growth) was achieved to a limited extent,
+although several components of the Project are either underutilized or not in use. The Project
+was not accompanied by any policy reforms to place the telecommunications sector on a
+sounder economic footing and there was no evidence that the Project benefited the poor.
+
+        The rationale of the second Project was also weak and project preparation poor. The
+Project added telephone cable manufacturing capacity in an area where the private sector
+adequately met the market demand. HCL is inefficient and cannot compete with the private
+sector. Thus, the Project is not sustainable without government support. The Project did not
+                                                x
+
+
+succeed in achieving its objective of improving the efficiency of telecommunications equipment
+manufacturing.
+
+       The evaluation demonstrated the need for a sound project rationale. It should be based
+on a well-defined and focused country operational strategy, supported by PPTA. A PPTA
+should be mandatory if there is little or no experience in the sector. Project preparation should
+include an assessment of the sector's policy environment and the scope for private sector
+involvement in the sector. Support for interventionist government policies is not appropriate.
+Project preparation should also assess the institutional capabilities of the executing agency and
+ensure that sufficient consulting services are provided during project implementation.
+
+        Project administration also needs to closely monitor the policy environment in which a
+project is being implemented, in addition to its usual activities regarding procurement and other
+implementation activities. Any major changes should be assessed in light of the project's
+rationale and objectives, and the economic and financial feasibility of the project should be
+reassessed to ensure continued relevance. If the rationale is no longer relevant or the project is
+no longer viable, steps should be taken to terminate the project.
+                                    I.      BACKGROUND
+
+
+
+A.     Rationale
+
+
+1.       Telecommunications services in India in 1988 were characterized by low levels of
+access and poor quality. The average telephone density was 0.52 direct exchange lines per 100
+people, one of the lowest in Asia. The average waiting time for obtaining a telephone
+connection was more than three years. Most of the country's telecommunications plants and
+equipment were old, of poor quality, and technologically obsolete. Congestion and fault rates
+were high. Telecommunications was a public sector monopoly, with the Government as the sole
+provider of telecommunications services. A small number of state-owned enterprises had
+responsibility for supplying virtually all telecommunications equipment. Recognizing that poor
+telecommunications were a serious impediment to economic growth, the Government
+embarked on a program of modernization and expansion, mainly through the introduction of
+digital technology, under the 1986-1990 seventh five-year plan. Restrictions on the import of
+advanced technologies were to be eased and domestic equipment manufacturing was to be
+gradually liberalized. Efficiency and effectiveness were also to be improved through institutional
+reforms. The modernization drive was to be underwritten by external financing, including
+financing from multilateral sources.
+
+
+B.     Formulation
+
+
+2.      The Telecommunications Project was first brought to the attention of the Asian
+Development Bank (ADB) during the 24 November­4 December 1986 country programming
+mission to India. A reconnaissance mission was fielded in February 1987 to decide on the
+components to be included in the Project. However, because of incomplete documentation, a
+follow-up reconnaissance mission in August 1987 was required to complete project preparation.
+A contact mission was then fielded in October 1987 to continue the preparation of the Project,
+and was subsequently upgraded to a fact-finding mission. The ADB appraisal mission visited
+India from 24 November to 12 December 1987. The Telecommunications Project loan was
+approved by ADB's Board of Directors on 7 April 1988. This was ADB's first loan to the
+telecommunications sector in India.
+
+3.       The Government lacked the resources for financing some of the components of its
+investment plan for telecommunications. These components became the basis for the
+Telecommunications Project. The Project was formulated as a set of disjointed components
+that, in some cases, did not seem to have a strong rationale. The Project was not coordinated
+or monitored as part of an overall investment plan including other funding organizations, such
+as the World Bank. ADB staff in charge of project preparation were not successful in
+introducing any policy measures into the Project because of strong Government resistance to
+                                                              2
+
+                                                                                      1
+policy conditionalities. The Government's stance was supported by senior staff in ADB. In
+short, project preparation was weak and the Project lacked focus.
+
+
+
+
+1
+    Government officials had direct contact with ADB headquarters during the preparation of the Project, according to
+    ADB mission staff. Thus, mission staff were not in a strong position to negotiate policy conditions for the Project. The
+    lack of policy conditionalities under the Telecommunications Project was a major concern of some members of ADB's
+    Board of Directors.
+                                                 3
+
+
+4.      The Government of India requested the Second Telecommunications Project during the
+1-12 February 1988 country programming mission. A reconnaissance mission was fielded in
+May-June 1988 to carry out preparatory work on the Project. This was subsequently upgraded
+to a fact-finding mission. The appraisal mission visited India in July-August 1988. The Second
+Telecommunications Project (the second Project) loan was approved by ADB's Board of
+Directors on 9 February 1989, less than a year after approval of the Telecommunications
+Project (the first Project).
+
+5.       No project preparatory technical assistance (PPTA) was provided to prepare a
+preliminary design for either project and to assess its technical, financial, and economic
+feasibility. Since India had begun borrowing from ADB only in 1986, ADB had not done
+sufficient economic or sector analysis to clarify the rationale for the projects. Even though there
+was a major lack of understanding of the sector's policy issues, ADB seemed keen to quickly
+enter a sector in which it had little experience. There was no justification for dispensing with the
+PPTAs; it would have been highly desirable to implement one for each project to justify the
+need for each project and identify key policy issues. Although ADB's Board of Directors noted
+these weaknesses during the discussions on loan approvals, it nevertheless gave its approval.
+
+6.      The Board of Directors also noted that the first Project lacked policy content. A major
+weakness that the Board identified was the lack of measures to privatize the telecommunications
+sector and the lack of cofinancing in the sector by commercial sources. Some Board members felt
+that ADB should not finance telecommunications in India because the World Bank and other
+funding agencies were already providing substantial assistance. But the extent of ADB's
+coordination with the World Bank and other aid agencies was not evident from the Project
+documents. The Board also noted weaknesses in the financial position of some of the executing
+agencies and a lack of rationale for some project components. In the case of the second Project,
+two Board members abstained from voting on the loan. Board members pointed out that
+telecommunications was highly protected in India, ADB had no country strategy to guide its
+program of assistance, and the Government's policy to liberalize and deregulate the sector was
+vague. It was also pointed out that the Project seemed to be hastily put together and the
+evaluation in the project documents was superficial. Several Board members did not agree with
+the inclusion of the three technical assistance (TA) components in the Project.
+
+7.      In November 1989, the Government notified ADB that it intended to cancel $114 million
+of the $135 million first Project and was likely to cancel the entire second Project as well
+because of changes in its telecommunications policy related to procurement of equipment from
+domestic sources. A formal request was made to cancel the $114 million in March 1990, but the
+Government changed its mind and reaffirmed its support for the second Project. The
+Government reversed its decision to cancel the $114 million in September 1991 on the advice
+of the ADB.
+
+8.      ADB project staff confirm that ADB actively pursued the reversal of the Government's
+decision to cancel the major portion of the first Project. The motives are unclear, but it was
+apparently not for economic or technical reasons. As the PPAR will show, it would have been
+better to cancel the loan as requested or, at the least, reformulate the Project.
+                                                        4
+
+
+
+C.        Purpose and Outputs
+
+9.       The main objective of the first Project was to improve the quality of domestic
+telecommunications services and expand international telecommunications facilities to help
+meet growing demand. Improved telecommunications were expected to help eliminate
+infrastructure bottlenecks, and promote growth in the commercial and industrial sectors. The
+Project had seven components: (i) modernization of manual trunk services by providing and
+installing computerized digital trunk manual exchange (CDTMX) equipment at 8 locations; (ii)
+improvement of domestic satellite facilities at 12 locations by providing intermediate digital rate
+(IDR) equipment to enable digital transmission; (iii) upgrading of international gateway
+telephone exchange (IGTX) facilities at Delhi, Mumbai, and Chennai; (iv) establishment and
+expansion of IGTX at Calcutta in two phases; (v) establishment of an International
+Telecommunications Satellite Organization (INTELSAT) F2-type earth station at Calcutta; (vi)
+establishment of an INTELSAT A-type earth station near Calcutta; and (vii) establishment of an
+International Maritime Satellite Organization (INMARSAT) C-type coast earth station near
+Mumbai.
+
+10.       The objective of the second Project was to help expand and improve the quality of
+telecommunications services, and improve the efficiency of telecommunications equipment
+manufacturing. A secondary objective was the institutional strengthening of the Department of
+Telecommunications (DOT) and the Ministry of Industry's Department of Public Enterprises
+through the provision of technical assistance. Improved telecommunications were expected to
+help promote commercial and industrial growth. The Project had six components: (i) provision
+and installation of equipment to convert cable manufacturing by Hindustan Cables Limited
+        2
+(HCL) at Hyderabad and Rupnarainpur from paper-covered unit twin to polyethylene insulated
+jelly filled (PIJF), with a total installed capacity of 2.5 million conductor kilometers (ckm), and
+convert HCL's production of coaxial cables to PIJF at Rupnarainpur, with a total installed
+capacity of 0.6 million ckm; (ii) civil works, and provision and installation of equipment to
+establish a new unit for PIJF cable production at Rupnarainpur, with a total installed capacity of
+1.8 million ckm; (iii) provision and installation of equipment, and technical collaboration to
+manufacture thermo-shrink jointing kits at Rupnarainpur; (iv) provision and installation of
+equipment, and technical collaboration to manufacture telephone cords at Rupnarainpur; (v)
+provision of equipment to augment HCL's research and development (R&D) at Hyderabad and
+establish a new R&D unit at Rupnarainpur; and (vi) provision of raw materials for trial-run
+operations of components (i) to (iv).
+
+
+D.        Cost, Financing and Executing Arrangements
+
+
+11.    ADB approved Loan 886-IND: Telecommunications Project for $135 million from its
+ordinary capital resources on 4 April 1988 to finance the entire foreign exchange cost of the
+Project (Basic Project Data and Appendix 1). The Government provided budgetary support for
+the local costs incurred by the Department of Telecommunications. The executing agencies,
+                                              3                                             4
+Mahanagar Telephone Nigam Limited (MTNL) and Videsh Sanchar Nigam Limited (VSNL),
+
+2
+    HCL is a wholly Government-owned telephone cable manufacturing enterprise.
+3
+    MTNL provides telecommunication services in Delhi and Mumbai. It is a publicly traded company with Government
+    majority ownership.
+                                                             5
+
+
+financed the local costs of their components from their own resources. The loan had a term of
+24 years, including a grace period of 4 years, with interest determined in accordance with the
+pool-based variable lending rate system and a commitment charge of 0.75 percent per annum.
+ADB financing covered 55 percent of the total project costs of $247 million as estimated at
+appraisal. The borrower was India. The Government re-lent the loan funds to MTNL and VSNL
+             5
+at 18 percent for 12 years, with no grace period. The Government bears the foreign exchange
+risk.
+
+12.      ADB approved Loan 954-IND: Second Telecommunications Project for $118 million from
+its ordinary capital resources on 9 February 1989 to finance the entire foreign exchange cost of
+the Project (Basic Project Data and Appendix 2). The executing agency, HCL, financed the
+local cost components. The loan had a term of 24 years, including a grace period of 4 years,
+with interest determined in accordance with the pool-based variable lending rate system and a
+commitment charge of 0.75 percent per annum. ADB financing covered 46 percent of the total
+project costs of $254 million as estimated at appraisal. The borrower was India. The
+Government re-lent the loan funds to HCL at rates in accordance with the Government's
+standard financing arrangements for development assistance to public sector undertakings and
+not less than that charged on loans from ADB's ordinary capital resources. Repayment was
+over 15 years with a 4-year grace period. The Government bears the foreign exchange risk.
+
+
+E.         Completion and Self-Evaluation
+
+
+13.      A project completion report (PCR) for the Telecommunications Project was prepared in
+December 1997 and discusses the design, scope, implementation, and operational aspects of
+the Project, and provides detailed project information. The PCR was well prepared and the
+technical assessment was thorough. However, the economic and financial reevaluations used a
+different approach from that in the appraisal report. The economic internal rate of return (EIRR)
+and the financial internal rate of return (FIRR) were based on time-slice analyses whereas the
+appraisal analyses had been done by component. Since the benefits can be separately
+identified for most components, EIRRs and FIRRs should have been calculated for each
+component. The PCR rated the Project as partly successful.
+
+14.    The PCR for the Second Telecommunications Project was prepared in September 1997
+and also discusses the design, scope, implementation, and operational aspects of the Project,
+and provides detailed project information. The PCR was adequately prepared from a technical
+perspective, but it did not sufficiently cover the financial, economic, and institutional aspects of
+the Project. Although HCL was obviously in financial difficulty, the PCR was still optimistic about
+HCL's and the Project's prospects. The policy issues that arose from the introduction of
+competition in the industry were not discussed. The Project was rated as partly successful.
+
+
+F.         OEO Evaluation
+
+
+
+
+4
+    VSNL provides international telecommunication services throughout India. It is entirely owned by the Government.
+5
+     If loan amounts were repaid within one month of drawdown, the interest rate was 12 percent.
+                                              6
+
+
+15.     This project performance audit report (PPAR) focuses on the pertinent aspects of the
+two Projects, and presents the findings of the Operations Evaluation Mission to India from 16-
+31 March 2000. The PPAR assesses the projects' relevance, effectiveness in achieving their
+objectives and generating benefits, and the sustainability of their impacts.
+                                                7
+
+
+16.      The PPAR is based on a review of the PCRs, the appraisal reports, material in ADB
+files, a report by a consultant engaged by the Operations Evaluation Mission, and discussions
+with staff members of ADB, the Borrower, and the executing agencies. Copies of the draft
+PPAR were provided to the Borrower, the executing agencies, and the concerned ADB staff for
+review and comments. Their comments were taken into consideration in finalizing the report.
+
+
+
+                II.     PLANNING AND IMPLEMENTATION PERFORMANCE
+
+
+
+A.     Formulation and Design
+
+
+17.     ADB's role in India's development process, according to the Report and
+Recommendation of the President, was "to provide well-directed and sustained financial
+assistance in consonance with the Government's own development objectives, priorities, and
+programs." The operational strategy was "focused on rapid industrialization of the economy,
+one of the Government's most important objectives." The two projects were consistent with the
+operational strategy, even though experience had demonstrated that industrialization through
+public sector investment is generally not efficient and often leads to serious resource
+misallocation. Moreover, poverty in India was, and still is, endemic with more than half the
+population living on less than a dollar a day. The project designs did not include any elements
+specifically for poverty reduction.
+
+18.     With the exception of the CDTMX component, the telecommunications equipment
+appears to have been appropriate and according to industry standard. The CDTMX equipment
+is industry standard, but it is questionable whether it was appropriate at the time of project
+appraisal. DOT and MTNL knew that manual trunk traffic would decrease as subscriber trunk
+dialing (STD) facilities increased, and the writing of customized software to copy a manual
+operator trunk desk is not generally considered good practice. Nevertheless, the Government
+insisted on this approach and ADB acceded to its wishes.
+
+19.      The first Project underwent substantial design changes during implementation because
+of the availability of savings in the project cost resulting from lower than expected prices. The
+number of CDTMX facilities to be procured was increased from 8 to 14. IDR equipment was
+provided at 4 more locations in addition to the 12 locations envisaged at appraisal. The
+upgrading of IGTX facilities was expanded to increase the circuit handling capacity of these
+facilities by a factor of 3 in Mumbai, 5 in Delhi, and 10 in Chennai. The circuit handling capacity
+of the IGTX facilities at Calcutta was increased by a factor of 4. An additional INTELSAT A-type
+earth station was established near Chennai. A very small aperture terminal (VSAT) hub station
+with a capacity of 200 VSAT stations was established near Mumbai. Digital microwave links
+were installed between Delhi and Dehradun, and between Mumbai and Arvi. The upgrading of
+the IGTX facilities, the addition of the INTELSAT station, and the digital microwave links
+strengthened the Project; the other design changes did not. ADB approved two changes in
+scope, one in 1991 and one in 1992. Given the number and scope of changes, the whole
+Project should have been reappraised and redesigned.
+
+20.    From a technical perspective, the design of the second Project seems to have been
+appropriate. The changes in scope were related more to changes in the size of the components
+rather than their objectives. The establishment of a new PIJF cable production facility at
+                                                            8
+
+
+Rupnarainpur was canceled because of the Government's policy of encouraging more private
+sector involvement in the production of PIJF cable. A new component was introduced to
+                 6
+produce concast copper rods for the production of PIJF cables. This was supposed to reduce
+the expenditure on imported copper cathodes. As a result, concast copper rods were added to
+the raw materials component for the trial production runs. The scope of the component for the
+production of coiled and straight telephone cords was expanded to include the production of
+other electronic cords. HCL said it had identified a market opportunity to sell computer and
+other similar cords. However, HCL provided no evidence of such an opportunity. Production of
+these cords is a relatively simple process and the private sector satisfactorily met the market
+demand for telephone and other electronic cords. HCL had no obvious competitive advantage
+in the production of these items. Thus, there was no strong justification for including this
+component in the Project.
+
+21.    The second Project included three TAs, for (i) management training of DOT staff, (ii) a
+study of DOT specifications for PIJF cables, and (iii) a study of industrial engineering standards
+and costing systems. The latter two TAs were subsequently canceled because DOT felt that
+the TA for the specifications study was inadequately formulated, and HCL had already
+embarked on a computerization program.
+
+
+B.        Cost and Scheduling
+
+
+22.     At appraisal, the first Project was estimated at $247 million, comprising a foreign
+currency cost of $135 million and a local currency cost of $112 million. ADB provided a loan of
+$135 million representing 55 percent of the total cost, while the Government and its agencies
+were to provide the balance to finance the remaining 45 percent of the total cost. The actual
+project cost at completion amounted to $152.8 million, with a foreign exchange cost of $88.2
+million (58 percent of the actual total cost) and a local currency cost of $64.6 million. The actual
+cost of the Project was about 38 percent less than the appraisal estimate because of lower
+equipment prices, even though additional components were included under the changes in
+scope. An amount of $46.8 million was canceled from the loan.
+
+23.     The second Project was estimated at $254 million at appraisal, comprising a foreign
+currency cost of $118 million and a local currency cost of $136 million. ADB provided a loan of
+$118 million representing 46 percent of the total cost, while HCL was to finance the remaining
+54 percent of the total cost. The actual project cost at completion amounted to $101.6 million,
+with a foreign exchange cost of $68 million (67 percent of the actual total cost) and a local
+currency cost of $33.6 million. The actual cost was about 60 percent less than the appraisal
+estimate because of lower equipment prices and the cancellation of a PIJF component under
+the Project. The local cost component was smaller because of the Government's change in
+policy on taxes and duties. An amount of $50 million was canceled from the loan.
+
+24.    The first Project was expected to have been implemented over a four-year, eight-month
+period, beginning in January 1988 and ending in August 1992 (Appendix 3). This seems to
+have been a reasonable implementation schedule. However, project delays began in the fourth
+quarter of 1989 when the Government suspended implementation to conduct a review of the
+telecommunications sector by a telecommunications commission. The suspension lasted about
+
+6
+    Concast is an abbreviation for continuous casting process.
+                                               9
+
+
+two years. Delays of an additional two years resulted because the Government failed to issue
+import licenses to VSNL for some of the project components. The Government suspension of
+implementation led to further delays because of the need to revise tender documents, tender
+evaluation, and contract awards. This was further aggravated by inexperience and unfamiliarity
+with ADB procedures. As a result of these delays, implementation took nine and a half years.
+
+25.     The Government's decision to review the telecommunications sector also affected the
+second Project (Appendix 4). The Project was expected to take about three and a half years to
+complete from July 1988, when advance procurement was authorized by ADB, to project
+completion in December 1991. However, overall implementation took nine and a half years. The
+main reasons for the delay were the need to retender contracts, a shortage of funds for HCL to
+pay customs duties on some equipment, the slow performance of some suppliers, and a delay
+in issuing import licenses.
+
+
+C.     Consultant's Performance, Procurement and Construction
+
+
+26.      Procurement for both projects was carried out according to ADB's Guidelines for
+Procurement. Equipment for the first Project was procured under international competitive
+bidding. Additional circuits for the IGTX expansion were procured by repeat order from the
+original supplier after ADB approval was obtained. The preparation of CDTMX tender
+documents was very slow and required extensive assistance from ADB staff as DOT was not
+familiar with ADB procedures. Retendering was required for this component because the
+Government suspended the Project. DOT took three years to prepare revised CDTMX tender
+documents, conduct retendering, and award the contract, largely because of rapid
+developments in digital switching technology and DOT's inability to come to a firm decision on
+equipment needs. The contractor also had problems with developing the required customized
+software; after 8 revisions and an additional 10 months, the electronic billing system was
+commissioned in November 1997. Contracting for the VSAT equipment took more than two
+years. The contract for the supply and installation of VSAT equipment did not provide for any
+retension money to be paid on commissioning, as is the normal practice, so the supplier could
+not be penalized for delays. DOT requested additional software for the VSAT hub during
+installation, which caused some of the delays. The suppliers of the other components generally
+performed satisfactorily. No consultants were engaged under the Project, although the provision
+of consulting services for assistance in tendering would probably have avoided some of the
+delays.
+
+27.     Delays also occurred because of the Government's new policy on procurement of
+equipment from domestic sources (para. 7). Bids already submitted were broken down by
+component to identify components that could be contracted locally. The process of scrutinizing
+each bid was time-consuming and caused additional delays as tenders had to be rewritten and
+rebid. This fragmentation of contracts made it more difficult to integrate all components into a
+working system. These delays also added to the risks associated with the selection of
+technologies. Given the rapid pace of change in the telecommunications industry, technical
+decisions seldom remain applicable for two years. The fragmentation of the bids to benefit a
+local supplier is also unfair to other suppliers.
+
+28.     Equipment (excluding R&D equipment) and raw materials for the second Project were
+procured through international competitive bidding. International shopping was used for the
+R&D equipment because no one supplier could provide all of the components. The supplier of
+the jointing kits component provided and installed the necessary equipment, but failed to
+                                                10
+
+
+complete the final phase for the transfer of technology for the manufacture of "preforms." The
+manufacture of preforms from raw materials is the initial stage of the production process and
+the use of imported preforms was not seen as a commercially viable alternative. As a result of
+this nonperformance, HCL initiated arbitration proceedings in June 1996; this legal action is still
+ongoing and there is no firm date for this matter to be settled. The performance of the suppliers
+of PIJF manufacturing, telephone cords, R&D facilities, copper rods, and raw materials
+components was generally satisfactory. However, the installation of facilities for the
+manufacture of the telephone and other cords, and for concast copper rods, was delayed
+because the release of the plant and equipment from the Calcutta port was held up due to
+HCL's lack of funds to pay for custom duties. With Government assistance, this plant and
+equipment have now been delivered and agreements have been reached with the suppliers to
+finish commissioning the facilities. HCL expects production from these facilities to commence
+within a year. Like the first Project, no consultants were engaged.
+
+
+D.     Organization and Management
+
+
+29.     The first Project had three executing agencies. DOT served as the Executing Agency for
+the CDTMX component outside Delhi and Mumbai, and for the domestic satellite and VSAT
+components. MTNL was the Executing Agency for the CDTMX component in Delhi and
+Mumbai, although DOT carried out the procurement on behalf of MTNL. VSNL was the
+Executing Agency for the IGTX, earth stations, and digital microwave link components. Overall
+coordination was through DOT's director of coordination and planning. The director of
+coordination and planning supervised the implementation of the DOT components, and the
+general manager (technical) and the general manager (switching planning), supervised the
+MTNL and VSNL components, respectively. Supervisors of the MTNL and VSNL components
+satisfactorily discharged their responsibilities. However, DOT did not have the capacity to
+effectively implement its components of the Project. As a result, long delays occurred even
+though advance procurement for some parts of the Project was approved by ADB.
+
+30.     HCL was the Executing Agency for the second Project. The managing director, assisted
+by the director (technical and planning), had overall responsibility for implementation. The chief
+general manager (Hyderabad) and the chief general manager (Rupnarainpur) were responsible
+for day-to-day implementation at their centers of production. HCL had difficulties implementing
+the Project. Its financial position was weak and it had problems raising funds for the local cost
+part of the Project. HCL lacked experience in contracting and selected a supplier (for the
+jointing kits component) that was not able to supply the necessary technology. Furthermore, the
+contract conditions between HCL and the supplier did not provide adequate assurance that the
+technology transfer would be completed.
+
+31.    The loan agreements for the two projects contained a number of covenants. In addition
+to standard covenants related to reporting requirements and the use of loan proceeds, the Loan
+Agreement for the first Project contained several project-specific covenants related to financial
+performance. These covenants, except one, were complied with (Appendix 5). The Government
+was required to furnish ADB with a report on the execution and initial operation of the Project.
+However, this report was not received by ADB. The main loan covenants of the second Project
+were also related to financial performance, as well as to the pricing of PIJF cable. However,
+these were generally not complied with (Appendix 6). The covenanted 13 percent rate of return
+                                                             11
+
+
+on capital employed was not achieved and the financial targets were not amended when the
+                                               7
+Seventh Pricing Agreement was renegotiated. ADB made no apparent effort to amend the loan
+covenant's financial targets. The action plan for strengthening HCL's efficiency and productivity
+was only partly complied with.
+
+
+                              III.        ACHIEVEMENT OF PROJECT PURPOSES
+
+
+
+A.        Operational Performance
+
+
+
+          1.        Telecommunications Project
+
+                                                                     8
+32.     CDTMX facilities were successfully installed at 14 locations and operator training was
+completed. During implementation, subscribers were beginning to shift from manually switched
+trunk calls to subscriber trunk dialing (STD) because STD eliminated the need to use an
+operator for intercity and other calls (Figure). There was also a proliferation of commercially
+operated public calling offices that used STD. Thus, the number of manual trunk calls fell from
+206 million in 1993 to 49 million in 1999 (Appendix 7). Therefore, the use of CDTMXs also fell.
+Only about 30-40 percent of the CDTMX capacity is currently being utilized and use continues
+to decline. Although a CDTMX can employ up to 150 operators, the Project's CDTMXs currently
+employ on average 25 operators. There are no plans to use the CDTMXs for other services.
+
+                                                   Manual Trunk Traffic
+
+                              300
+                              250
+               Number of      200
+                effective     150
+                trunk calls
+                              100
+                (millions)
+                                50
+                                     0
+                                         1989 1990 1991 1992 1993 1994 1995 1996 1997 1998 1999
+
+
+
+33.      The IDR equipment was meant to make more efficient use of the domestic satellite
+                                                       9
+facilities. IDR equipment was installed at 16 locations to enable digital transmission (5 IDR
+
+
+7
+    The Seventh Pricing Agreement stipulated that HCL would sell its output to DOT at cost plus 10 percent. This formula
+    was extended under the Eighth Pricing Agreement that ran from 1989-1992. In 1992, the Pricing Agreement with DOT
+    was terminated.
+8
+    The 14 locations are Ahmedabad, Bangalore, Calcutta, Chandigarh, Chennai, Delhi, Ernakulam, Hyderabad, Indore,
+    Jaipur, Kanpur, Mumbai, Patna, and Pune.
+9
+    The 16 locations are Ahmedabad, Bangalore, Bhubaneshwar, Calcutta, Chennai, Delhi, Ernakulam, Guwahati,
+    Hyderabad, Jaipur, Jullundhar, Kalpa, Keylong, Lucknow, Mumbai, and Shimla.
+                                                            12
+
+
+routes with speed at 8 megabits per second and 11 at 2 megabits per second, all using 64
+kilobit voice encoding). However, much of the intended cost saving from the IDR equipment
+was negated by delays in implementing the component. The IDR equipment is operational but
+the equipment is now used sporadically, in cases where there is equipment failure in other parts
+of the network or during periods when the network cannot accommodate the volume of traffic.
+                                                                                         10
+Otherwise, the IDR equipment is idle. The rapid expansion of the fiber optic network has
+made the IDR equipment largely superfluous.
+
+34.      The VSAT hub station was established at Yeur near Mumbai and had a capacity of 200
+VSAT stations. However, only 61 VSAT stations are installed at customer premises, about 75
+percent at public sector institutions. The poor use of the VSAT stations is because of
+competition from the private sector. About 9,000 VSAT terminals are presently in use in India.
+DOT is weak in the marketing of the VSAT service and does not have flexibility in setting the
+tariff. DOT is also reluctant to sell VSAT terminals, preferring lease arrangements. DOT also
+required a bank guarantee that customers found onerous and expensive. This requirement has
+now been removed. DOT currently has 138 customer terminals in stock, which it would like to
+put into service.
+
+35.     IGTX facilities at Chennai, Delhi, and Mumbai were upgraded from analog to digital, and
+the circuit handling capacity of these facilities was expanded by a factor of 10 in Chennai, 5 in
+Delhi, and 3 in Mumbai. A digital IGTX was established at Calcutta in two phases. Limited
+capacity was installed in the first phase to better match capacity with demand. In the second
+phase, circuit handling capacity was increased by a factor of four. Digital microwave links were
+installed between Delhi and Dehradun, and between Mumbai and Arvi. The IGTX and digital
+microwave links are operating as intended.
+
+36.      The INTELSAT F2-type earth station was constructed at VSNL's office building in
+Calcutta where the IGTX facilities were installed. This earth station provides international links
+for IGTX in the first phase. Two other earth stations, both INTELSAT A-type, were established
+at Halisahar (near Calcutta) and Thiruvalluvar (near Chennai). All are operating as intended. An
+INMARSAT C-type coast earth station was established at Arvi, near Mumbai. The rate of
+utilization of the INMARSAT station has fallen recently, from a traffic volume peak of 2.7 million
+minutes in 1997 to 1.2 million minutes in 1999. Use is falling because the installed INMARSAT
+station is based on an analog standard while the new standard is digital. VSNL expects traffic
+volume for this facility to fall by about 20 percent each year over the next three years.
+
+
+           2.       Second Telecommunications Project
+
+
+37.     The conversion of HCL facilities at Hyderabad and Rupnarainpur from paper covered
+unit twin production to PIJF added 2.5 million ckm of production capacity (Appendix 8). The
+conversion of coaxial producing facilities to PIJF at Rupnarainpur added another 0.6 million ckm
+in production capacity. These facilities are still in working order, but are housed in factory
+buildings that were constructed in 1954 and show signs of advanced deterioration. The
+standard of maintenance of the PIJF production equipment and the factory floor is low.
+Equipment is not fine-tuned: chains on pumps are loose and brakes on take-up spools squeal.
+Waste material from the production process is routinely left on the ground, plastics used in the
+
+10
+     Fiber optic technology was already in use worldwide during the preparation of the Telecommunications Project.
+                                                             13
+
+
+coating process are not adequately contained, and waste is not properly recycled. At the time of
+the Operations Evaluation Mission, the factory floor had not been cleaned for some time and
+may be a safety hazard. The amount of waste from the production process indicates
+inefficiency. Waste is eventually placed outside on the factory grounds in open piles. In general,
+the maintenance of the PIJF production facilities is inadequate, raising questions about how
+long the equipment will last.
+
+38.    HCL's total production capacity of PIJF cable is now 8.2 million ckm, up from 5.1 ckm in
+1992. Production of PIJF cable at the new facilities began in 1993. However, actual production
+of PIJF cable before 2000 was significantly less than capacity (Table 1).
+
+                                           Table 1: HCL PIJF Production
+                                                   (in million ckm)
+
+
+                          Year                         Output                   % of Rated Capacity
+
+
+                          1993                             3.9                            48
+                          1994                             4.4                            54
+                          1995                             6.5                            80
+                          1996                             2.7                            33
+                          1997                             3.6                            44
+                          1998                             1.9                            23
+                          1999                             1.2                            15
+                          2000                             8.4                           104
+
+
+The Project added 3.1 million ckm to HCL's PIJF capacity. However, the 5.1 million ckm of
+original capacity could have produced all the PIJF cable demanded annually by DOT, except in
+1995 (Appendix 8). Moreover, the private sector began PIJF cable production in 1989 and, by
+1997, it had established about 40 million ckm of PIJF production capacity, compared to a total
+demand of 26.5 million ckm. Today, the private sector capacity is about 80 million ckm and the
+demand from DOT, the major buyer, is about 50 million ckm annually. Therefore, HCL is a
+small player in the PIJF cable market. The private sector's involvement in PIJF cable production
+brings into question the need to have augmented PIJF cable production capacity in HCL. The
+Project should have been cancelled when the Government changed its policy to encourage
+private sector investment in the telecommunications sector.
+
+39.     HCL's inability to effectively compete with the private sector on price was the main
+                                              11
+reason for its small share of the PIJF market. Even though a plan was developed for HCL to
+reduce costs and increase productivity as part of the loan's covenants, HCL was not able to
+implement the plan with any great success because of a lack of Government support. HCL's
+high cost structure was the result of a number of factors: (i) substantial surplus labor; (ii) above
+market wage rates; (iii) a top-heavy management; (iv) high levels of social overheads, including
+provision of housing, transport, health, education, and other benefits to staff; and (v)
+burdensome bureaucratic procedures in managing the firm.
+
+
+
+
+11
+     DOT rates 60 percent of the tenders for PIJF cable on price, and the balance on delivery and quality.
+                                                           14
+
+
+40.     The Government became concerned about HCL's excess capacity and inability to
+compete in the market. To improve HCL's competitiveness, the Government agreed to
+subsidize the voluntary retirement of labor from HCL's workforce; HCL's workforce was reduced
+                                                                                                   12
+from 6,790 persons in 1995 to 5,134 in 1998. Today, the work force is about 4,400.
+Nevertheless, the current workforce may still be too high. For example, the Rupnarainpur
+factory employs about 2,000 persons. However, the factory uses about 370 persons for each of
+three shifts, which is full capacity utilization. This indicates an excess of about 900 persons. The
+Government also directed state-owned financial institutions to reduce the interest rate on loans
+to HCL to 4-5 percentage points below the market rate. To improve capacity utilization, DOT
+was directed to allocate 30 percent of its demand for PIJF cable in 2000 to HCL based on the
+lowest bid price. The balance was allocated to the private sector based on tender submissions.
+In 2001, the proportion allocated to HCL will be reduced to 25 percent and, in 2002, the
+Government will review this policy. Giving HCL a share of the PIJF cable market at the behest
+of the Government does not encourage efficiency and penalizes the more efficient private
+producers.
+
+41.     The equipment procured for the thermo-shrink jointing kits is stored in an unused,
+locked factory building at HCL's Rupnarainpur site. It has been sitting unprotected, covered in
+dust and cobwebs, for the past five years. The equipment seems to be deteriorating from
+humidity and other natural causes. It is doubtful that this equipment could ever be used for the
+purpose it was designed. The equipment for the production of telephone and other cords is
+similarly stored, although it seems to be in better condition. HCL and the supplier of the
+equipment have agreed to put this equipment into operation, but it is uncertain whether the
+equipment is still in working condition. The facilities for the production of concast copper rods
+were installed about a year ago, but are not yet in operation because of a lack of electronic
+                                                        13
+equipment to ensure an uninterruptible power supply. The equipment is in good condition and
+should operate as designed when uninterruptible power is provided (assuming the facility is
+soon put into operation). However, there is a risk that HCL will not hire skilled staff to monitor
+and control the quality of the casting process. The R&D equipment, primarily cable testing
+equipment, is in good working order.
+
+
+B.         Performance of the Operating Entity
+
+
+
+           1.       Telecommunications Project
+
+
+42.     Three agencies implemented the components of the Telecommunications Project: DOT,
+MTNL, and VSNL. DOT, renamed the Department of Telecom Services (DTS) in November
+1999, operates independently from the Ministry of Communications and prepares its own
+financial statements (Appendix 9). Over the past 10 years, this department has earned a profit
+and a high rate of return on its fixed assets. It does not pay income tax but, if it had, it would still
+be highly profitable. The tariff allowed by the Government is adequate to maintain DTS's good
+financial position. Its debt load is relatively light with a debt-equity ratio of about 15 percent in
+
+
+12
+     The exact number of staff is not available for 2000.
+13
+     The electronic equipment would ensure that power is restored to the induction furnace within 60 seconds to prevent
+     major damage caused by solidifying copper metal.
+                                                 15
+
+
+1999. MTNL is an independent, largely government-owned telecommunications company. Its
+financial statements (Appendix 10) show that MTNL is profitable with a manageable debt load.
+MTNL pays income tax and a regular dividend. MTNL's shares are listed on several stock
+exchanges, including London. Its shares are expected to be listed on the New York Stock
+Exchange next year. VSNL is also an independent, government-owned telecommunications
+company. Its financial statements (Appendix 11) show that VSNL is profitable with virtually no
+debt. VSNL pays income tax and a regular dividend. With an expanding telecommunications
+market and falling equipment prices, economies of scale should ensure good financial
+performance for DTS, MTNL, and VSNL, even without tariff increases.
+
+43.      Components of the Project were designed to service the market for long distance calls,
+both domestic and international. Some of the components provide services that can be
+identified separately, such as incremental transmission capacity for long distance voice and
+data services from the IGTX/earth stations, the intermediate digital rate equipment, the VSAT
+hub, and the digital microwave links. The CDTMX component is an integral part of the overall
+communications system and its benefits cannot be easily isolated. Nevertheless, some
+judgment may be made on the impact of this component. Since the CDTMX facilities are
+grossly underutilized and the trend to STD calls is firmly established, the expected economic
+benefits of this component have clearly not been realized. The CDTMX was not a least cost
+solution. Moreover, placing a long distance call via the CDTMX increases revenue to DTS and
+MTNL by Rs5.00 (about $0.11). Therefore, there is little incremental financial benefit from the
+CDTMX service and the FIRR is deemed negative. As pointed out in para. 33, the IDR
+component is largely superfluous and consequently the economic and financial impacts of this
+component are negative.
+
+44.     The VSAT component is also grossly underutilized, with most of the VSAT terminals still
+in storage. Nevertheless, the 61 VSAT terminals that have been leased to customers are
+generating substantial revenue for DTS. For example, in 2000, revenues from the VSAT service
+were double the initial capital cost of the VSAT hub and terminals. Also, the initial capital cost of
+the investment was completely recovered in the first three years of operation. Therefore, the
+calculation of an EIRR or FIRR would not result in any meaningful measure of economic or
+financial performance. However, the use of scarce public resources has not been efficient. The
+private sector has more flexibility and provides a more efficient service. Although this
+component is financially successful, in economic terms, the private sector provides the service
+at a lower cost.
+
+45.    The economic benefits of the components for upgrading the IGTX facilities at Delhi,
+Mumbai, and Chennai, expanding the IGTX facilities at Delhi, and installating the digital
+microwave link from Delhi to Dehrandum cannot be estimated separately because these
+components are relatively small and form an integral part of the whole international telephone
+network. Nevertheless, the upgrading and expansion of these facilities were necessary from a
+technical perspective because of the global shift from the analog to the digital standard.
+Therefore, the economic and financial impact has been positive and substantial.
+
+46.    The INMARSAT C-type coastal station, the expansion of the IGTX at Mumbai, and the
+Arvi-Mumbai digital microwave link are part of the same network that provides marine
+telecommunications. Therefore, these components are evaluated together, details of which are
+found in Appendix 13. The calculation of the EIRR and the FIRR assumes that these
+components require no incremental operating and maintenance costs, as advised by VSNL.
+Since 1999, telecommunication traffic on the INMARSAT has been falling and is expected to fall
+about 20 percent per annum because the INMARSAT coastal station is based on an outdated
+analog standard. Nevertheless, the economic and financial benefits of this component have
+                                                            16
+
+
+been substantial. The composite EIRR for these components is 80.8 percent. The
+corresponding FIRR is 50.2 percent.
+
+47.     The two INTELSAT A-type earth stations at Calcutta and Chennai, the INTELSAT F2-
+type earth station at Calcutta, and the IGTX equipment at Calcutta and Chennai form a unit that
+may be evaluated together. As in the VSAT and INMARSAT components, the revenues
+generated by this component have been substantial. By 1994, this component had recovered
+the entire initial capital investment and, therefore, the calculation of an EIRR or FIRR would not
+result in any meaningful measure of economic or financial performance. It may be safely
+concluded that this component is successful from the economic and financial perspectives.
+
+
+           2.       Second Telecommunications Project
+
+                                                                         14
+48.      HCL's financial position is precarious and deteriorating rapidly (Appendix 12). HCL has
+been incurring increasing losses since 1996, losing a record $65 million in 1998. HCL`s equity
+capital is negligible and is positive only because the Government is subsidizing HCL's losses.
+Without Government assistance, HCL would quickly become insolvent. HCL seems to have
+difficulty controlling its expenses. Although the workforce is being reduced, the company's wage
+bill is still increasing. Staff welfare expenses are inordinately high. Interest payments are high
+and form a major expenditure item. Although the Government has taken steps to improve
+profitability (para. 40), it is uncertain whether these measures to turn HCL around financially will
+be successful. In the meantime, the Government is likely to provide budgetary support to HCL
+to maintain a company that is inefficient and whose product has little demand.
+
+49.     The largest component of the Project was the PIJF cable conversion. The PPAR
+reevaluates this component on the basis of a with and without project analysis. The concast
+copper rod, R&D equipment, and raw material components are integral parts of the PIJF cable
+production process. Subsequent to the approval of the Project, Government policy in the
+telecommunications sector changed. The private sector was allowed to compete with HCL in
+the production and sale of PIJF cable in 1989 and the demand for PIJF cable could have been
+easily met without the Project (para. 38). Therefore, the net economic benefit of these
+components is negative. The prudent course of action would have been to cancel the Project in
+the early 1990s when it became obvious that the Project was not needed.
+
+50.     Without the policy change allowing the private sector to enter the PIJF cable market,
+could this Project component have been successful? Appendix 14 indicates that the Project
+would still not have been economically viable. Based on 2000 labor, raw material, and utility
+costs, an import price of $10.00 per ckm of PIJF cable at Calcutta, and the assumption of full
+capacity utilization of the Project component, the Project has a negative net present value of
+Rs1,616.7 million. There are three reasons for this outcome. First, HCL is an inefficient
+producer because of its highly inefficient use of labor and the high cost of raw materials
+purchased from other state-owned enterprises that are similarly inefficient. Second,
+international prices of PIJF cable are low. And third, capacity was not fully utilized in the early
+years of the Project when PIJF cable prices were higher.
+
+
+14
+     According to HCL's auditors, its financial position is worse than indicated in its financial statements. In 1998, HCL
+     underreported depreciation expenses and made no provision for accrued leave liabilities or for bad and doubtful
+     debts.
+                                              17
+
+
+51.      The components for the manufacture of thermo-shrink jointing kits and of telephone and
+other electronic cords are not in operation. Given the amount of time that has passed since
+expenditure on these facilities took place and the uncertainty about when production from these
+facilities will begin, it is safe to assume that the EIRR and FIRR of these components are
+negative.
+
+
+C.     Sustainability
+
+
+52.     DTS, MTNL, and VSNL are in a good financial position to ensure the Project's
+sustainability. On the other hand, HCL is technically insolvent and bankrupt and could not
+continue operating without Government budgetary support. Given India's vast developmental
+needs, the Government can ill afford to prop up poorly managed companies such as HCL. With
+a large number of private sector companies producing PIJF cable, there is no reason for the
+public sector to be involved in this area. Divestiture of HCL or its assets should be considered
+and supported by ADB.
+
+
+               IV.      ACHIEVEMENT OF OTHER DEVELOPMENT IMPACTS
+
+
+
+A.     Socioeconomic and Sociocultural Impacts
+
+
+53.     The purpose of the first Project was to improve the domestic and international long
+distance telephone service. The main beneficiaries of this Project were firms that conduct
+business nationally and internationally, and households in the higher income brackets. Firms
+benefited by improving their access to telecommunications that, in turn, improved their
+efficiency and ability to compete. There is no evidence that the poor benefited from the Project
+to any significant extent.
+
+54.    The socioeconomic impact of the second Project is indirect. HCL requires budgetary
+support to maintain solvency. These resources could be better used elsewhere, for example, to
+augment Government poverty reduction programs. Therefore, the Project probably had a
+negative income distribution effect. There were no gender-specific impacts in either project.
+
+
+B.     Environmental Impacts
+
+
+55.    The first Project had no apparent negative impact on the environment. The second
+Project resulted in the production of some waste that was not disposed of in an optimal manner.
+However, this waste is environmentally benign and does not create a hazard except, perhaps,
+in terms of safety. Nevertheless, as waste builds up (assuming that production continues at the
+present rate), HCL will need to develop a continuous, environmentally acceptable, disposal
+process for it.
+                                                         18
+
+
+C.       Impacts on Institutions and Policy
+
+
+56.     The first Project made no effort at institutional reform or capacity building. The Project
+also had no measures to address the policy environment in which the telecommunications
+sector operates. The lack of policy measures was at the insistence of the Government to which
+ADB acquiesced (para. 3). The major effort of the second Project at institutional strengthening
+                      15
+was the training TA. Implementation took place from November 1993 to January 1995. The
+objective of the TA was to strengthen the management capabilities of DOT's middle level
+managers who are engaged in critical line functions. The areas of focus were (i) network
+planning for forecasting the needs of the expanding telecommunications system and planning
+for orderly growth and efficient operations; (ii) operational management to identify and solve
+problems, monitor and control traffic flow, handle day-to-day routing operations, and organize
+and schedule work activities; and (iii) development of management information systems to
+satisfy key information requirements; build effective data bases; use computers to store,
+process, and retrieve information; and monitor and measure performance.
+
+57.     The main TA activities comprised (i) an initial training needs assessment that served as
+a basis for selecting DOT participants and formulating training modules; (ii) design of course
+          16
+modules; and (iii) provision of four training courses of four weeks each at the consultant's
+training college in the UK, each involving 10 senior DOT officials. The training courses provided
+DOT managers with a basic foundation related to network expansion, improvement in the
+quality of service, and technology change. However, senior DOT officials were not aware of the
+training that was undertaken in DOT and therefore it is not possible to assess the impact of the
+TA. The Project had no measures to address the policy environment of the telecommunications
+sector.
+
+
+                                     V.        OVERALL ASSESSMENT
+
+
+
+A.       Telecommunications Project
+
+
+58.    Relevance. The rationale for the Project was weak and project preparation was poor.
+The motivation for the Project seemed to be to rapidly build up a loan portfolio in India. Project
+preparation did not include a PPTA and the Project was designed in a piecemeal fashion. There
+was a lack of understanding of the sector's policy issues and no economic or sector work was
+undertaken in advance. Although the Project was apparently consistent with the Government's
+development strategy and ADB's strategic objectives, investment in public enterprises is not the
+optimal way to achieve these objectives. The Project did not attempt to bring about policy
+reforms to place the telecommunications sector on a sounder economic footing. Moreover, the
+Project supported and perpetuated Government policies in the sector that created economic
+
+15
+    TA 1123-IND: Management Training for Department of Telecommunications, approved on 9 February 1989 for
+   $390,000. The Government signed the TA Agreement only in January 1991 because of its review of
+   telecommunication policy.
+16
+    Course components consisted of (i) technical management skills, (ii) operational management skills, (iii) resource
+   management, (iv) personal effectiveness skills, (v) change management, and (vi) a personal action plan. Visits to
+   operational facilities such as customer service centers were included.
+                                                           19
+
+
+distortions. Opening telecommunications to the private sector would have had a greater
+economic impact. The Project also had no specific measures to address the poverty issue.
+
+59.    Efficacy. The major objective of the Project (supporting economic growth) may be said
+to have been partly achieved. The Project improved the quality of telecommunications services
+and helped to eliminate some infrastructure bottlenecks. However, not all of the components
+contributed to the efficacy of the Project ­ the CDTMX, IDR and VSAT components are
+underutilized. The introduction of the private sector in a competitive environment would have
+been more effective in supporting economic growth.
+
+60.      Efficiency. The economic and financial impacts of the first Project are mixed. The IGTX
+facilities installed in Delhi, Mumbai and Chennai and the digital microwave link from Delhi to
+Dehrandum were required for technical reasons, so their economic and financial impact is
+positive and substantial. The component comprising the INMARSAT C-type coastal station, the
+IGTX facilities at Mumbai, and the Arvi-Mumbai digital microwave link is also a successful
+investment with a high EIRR and FIRR. The two INTELSAT A-type earth stations at Calcutta
+and Chennai, the INTELSAT F2-type earth station at Calcutta, and the associated IGTX
+equipment have also resulted in substantial economic and financial benefits that exceed the
+opportunity cost of capital. On the other hand, the CDTMX facilities are grossly underutilized
+and the IDR equipment is not in use. These two components are not cost effective. Although
+the VSAT component earns a high financial rate of return, the underutilization of the VSAT
+facilities also results in a lack of cost effectiveness. The lack of policy content in the Project
+perpetuated distortions in the market that result in a monopoly position for the
+telecommunications service providers. The Project did nothing to improve economic efficiency
+in the sector.
+
+61.    Sustainability. The executing agencies for the Project are in a good financial position to
+ensure the Project's sustainability.
+
+62.     Institutional Development and Other Impacts. The Project provided no measures to
+address institution development and socioeconomic issues. It is unlikely that any of the benefits
+of the economic growth from the Project trickled down to the poor because long distance
+telecommunications is a service primarily utilized and higher income groups. Therefore, the
+Project has no perceivable impact on poverty
+
+63.     Overall Project Rating. Table 2 summarizes the overall assessment of the Project. The
+Project is rated as unsuccessful.
+
+                        Table 2: Assessment of Overall Project Performance
+                                 Telecommunications Project
+
+            Criteria                     Assessment              Rating (0-3)     Weight (%)      Weighted Rating
+ 1. Relevance                              Irrelevant                 0              25                0.00
+ 2. Efficacy                            Less efficacious              1              25                0.25
+ 3. Efficiency                             Inefficient                0              25                0.00
+ 4. Sustainability                        Substantial                 2              15                0.30
+ 5. Institutional Development             Negligible                  0              10                0.00
+ Overall Rating                                                                      100               0.55
+
+Rating for relevance: 3=highly relevant; 2=relevant; 1=partly relevant; 0=irrelevant
+Rating for efficacy: 3=highly efficacious; 2=efficacious; 1=less efficacious; 0=inefficacious
+Rating for efficiency: 3=highly efficient; 2=efficient; 1=less efficient; 0=inefficient
+Rating for sustainability: 3=most likely; 2=likely; 1=less likely; 0=unlikely
+Rating for institutional development impacts: 3=substantial; 2=moderate; 1=little; 0=negligible
+                                            20
+
+
+
+Overall Rating:
+HS = highly successful      2.5 < HS  3.0
+S    = successful           1.6  S  2.5
+LS = less than successful   0.6  LS < 1.6
+U    = unsuccessful         < 0.6
+                                             21
+
+
+64.     Assessment of ADB and Borrower Performance. The performance of ADB was
+unsatisfactory in two respects. First, during the preparation of the Project, ADB should have
+insisted on policy conditions to deregulate and liberalize the telecommunications sector.
+Second, it was inappropriate for ADB to lobby the Government to reverse its decision to cancel
+the major portion of the Telecommunications Project loan.
+
+65.     During the implementation of the Project, ADB sent seven review missions and four
+special project administration missions. Additional review was provided by other ADB missions
+to India. These missions mainly followed up on the progress of procurement of equipment for
+the Project and provided assistance and advice in this regard. The review missions were not
+effective in ensuring the timely completion of the Project. Overall, ADB performance was less
+than satisfactory.
+
+66.    The implementation performance of the Government was also less than satisfactory.
+The Government delayed implementation by delaying the issuance of import licenses to the
+executing agencies for equipment financed under the Project. Delays were also caused by the
+Government's new procurement policy that required the fragmentation of tender bids to identify
+components that could be contracted locally. Decision-making in the Government and
+executing agencies was sluggish.
+
+
+B.     Second Telecommunications Project
+
+
+67.     Relevance. The rationale for the Project was also weak and project preparation poor.
+Project preparation did not include a PPTA and there was no economic or sector work
+undertaken in advance. The Project and HCL's financial position were inadequately appraised
+during project formulation. There is no justification for ADB to finance public sector
+manufacturing, particularly when public policy discourages private sector participation.
+Moreover, the Government's policy to liberalize and deregulate the sector was vague. The
+objective of improving commercial and industrial growth through provision of incremental
+capacity for PIJF cable production was also spurious.
+
+68.    Efficacy. The objective of the Project to expand and improve the quality of
+telecommunications services and to improve the efficiency of telecommunications equipment
+manufacturing was not achieved. The Project created excess capacity in telecommunications
+equipment manufacturing. To date, the thermo-shrink jointing kit component, the telephone and
+other cord production component, and the concast copper rod production component are not in
+use.
+
+69.     Efficiency. The PIJF cable production component of the second Project was not
+needed because the private sector installed sufficient capacity to meet the demand for PIJF
+cable. Moreover, HCL is an inefficient producer of PIJF cable. The thermo-shrink jointing kit
+component, the telephone and other cord production component, and the concast copper rod
+production component generate no economic benefits. Therefore, the net economic benefit of
+the Project is negative. With the large number of private sector companies producing PIJF
+cable, there is no reason for the public sector to be involved in this area. The Second
+Telecommunications Project should have been canceled when it became evident that the
+private sector had the capacity to meet market demand for PIJF cable.
+
+70.    Sustainability. HCL is technically insolvent and bankrupt and cannot continue operating
+without Government budgetary support. The Project is not sustainable.
+                                                            22
+
+
+71.      Institutional Development and Other Impacts. The Project provided three TAs for
+institutional development. Two of the TAs were subsequently canceled, indicating a poor
+assessment of institutional needs at TA formulation. The TA that was implemented in DOT
+could not be assessed because DOT officials were not aware of the TA's impact or the
+whereabouts of the trainees. Therefore, it may be concluded that the TA was not successful.
+The Project had no impact on poverty.
+
+72.     Overall Project Rating. Table 3 summarizes the overall assessment of the Project. The
+Project is rated as unsuccessful.
+
+                        Table 3: Assessment of Overall Project Performance
+                                 Second Telecommunications Project
+             Criteria                       Assessment              Rating (0-3)    Weight (%)    Weighted Rating
+ 1. Relevance                                 Irrelevant                 0             25              0.00
+ 2. Efficacy                                Inefficacious                0             25              0.00
+ 3. Efficiency                                Inefficient                0             25              0.00
+ 4. Sustainability                             Unlikely                  0             15              0.00
+ 5. Institutional Development                 Negligible                 0             10              0.00
+ Overall Rating                                                                        100             0.00
+Rating for relevance: 3=highly relevant; 2=relevant; 1=partly relevant; 0=irrelevant
+Rating for efficacy: 3=highly efficacious; 2=efficacious; 1=less efficacious; 0=inefficacious
+Rating for efficiency: 3=highly efficient; 2=efficient; 1=less efficient; 0=inefficient
+Rating for sustainability: 3=most likely; 2=likely; 1=less likely; 0=unlikely
+Rating for institutional development impacts: 3=substantial; 2=moderate; 1=little; 0=negligible
+Overall Rating:
+HS = highly successful              2.5 < HS  3.0
+S    = successful                   1.6  S  2.5
+LS = less than successful           0.6  LS < 1.6
+U    = unsuccessful                 < 0.6
+
+73.     Assessment of ADB and Borrower Performance. The performance of ADB was
+unsatisfactory. During the implementation of the Project, ADB fielded five review missions.
+Additional review was also provided by other ADB missions to India. The review missions
+focused largely on procurement, and did not adequately monitor the more substantive and
+crucial operational aspects, such as the deterioration in HCL's financial position and the policy
+environment.
+
+74.     The implementation performance of the Government was also not satisfactory. The
+Government delayed implementation by delaying the issuance of import licenses to the
+executing agencies for equipment financed under the Project. Decision-making in the
+Government and executing agencies was also sluggish. The Government was slow in reacting
+to resolving HCL's problem of insufficient counterpart funds.
+
+
+                       VI.       ISSUES, LESSONS AND FOLLOWUP ACTIONS
+
+
+
+A.       Key Issues for the Future
+
+
+75.      The telecommunications industry is a rapidly changing one with prices of equipment
+falling and new technologies becoming available all the time. To keep up with these advances,
+telecommunications companies need flexibility in their investment decisions and the marketing
+of their services. It has long been understood that state-owned enterprises, in India and
+                                                      23
+
+
+elsewhere, do not have this required flexibility and need to overcome a certain amount of inertia
+when making decisions. In the Telecommunications Project, this lack of flexibility has resulted in
+the installation of some equipment that soon became obsolete. Given the characteristics of this
+industry and public sector inefficiencies, the public sector is not suited to operate in the
+telecommunications sector and manage the inherent risks.
+
+76.     The Government has maintained high prices for telecommunications services in the face
+of increasing economies of scale and falling equipment prices. This excess revenue has been
+transferred to Government coffers in the form of income tax and dividends. In essence, the
+state-owned telecommunications enterprises in India behave like monopolists. Economic theory
+suggests that monopolies that keep prices above the competitive level result in net welfare
+losses. Government policies that encourage this kind of monopoly should not be supported.
+The appropriate policy initiatives in these circumstances should include privatization and
+competition in the sector.
+                           17
+77.     Recent studies have demonstrated that the expansion of telecommunications into rural
+areas has significant poverty impacts. An improvement in telecommunications benefits
+commercially active rural people by improving their access to market information, such as
+commodity prices, and making it easier to order supplies. This results in higher incomes.
+Improved telecommunications links also encourage the establishment of service sector
+businesses, such as tea shops, guest houses, and stores. Rural telecommunications improve
+the delivery of social services. Reduced isolation encourages teachers and health workers to
+move to remote areas. Better government administration and banking services have also been
+attributed to access to telecommunications in rural areas. Governments should encourage the
+private sector to invest in rural telecommunications.
+
+
+B.         Lessons Identified
+
+
+78.    The evaluation demonstrates the need for a sound project rationale. It should be based
+on a well-defined and focused country operational strategy, supported by PPTA. A PPTA
+should be mandatory if there is little or no experience in the sector. Project preparation should
+include an assessment of the sector's policy environment and the scope for private sector
+involvement in the sector. Support for interventionist government policies is not appropriate.
+Project preparation should also assess the institutional capabilities of the executing agency and
+ensure that sufficient consulting services are provided during project implementation.
+
+79.     Project administration needs to closely monitor the policy environment in which a project
+is being implemented, in addition to its usual activities regarding procurement and other
+implementation activities. Any major changes should be assessed in light of the project's
+rationale and objectives, and the economic and financial feasibility of the project should be
+reassessed to ensure continued relevance. If the rationale is no longer relevant or the project is
+no longer viable, steps should be taken to terminate the project.
+
+80.   Project administration also needs to closely monitor tender evaluation and procurement
+procedures to ensure that they conform to ADB guidelines. It is not acceptable for an executing
+
+17
+     For example, Rural Telecommunications in Nepal (October 1998) prepared by Intelecon for the Royal Danish
+     Embassy in Nepal.
+                                            24
+
+
+agency to fragment bids to identify components that could be contracted by other suppliers.
+This practice is contrary to ADB guidelines and causes delays in implementation.
+                                               25
+
+
+
+C.     Follow-Up Actions
+
+
+81.      Project administration staff in Infrastructure Department West should assist DTS in fully
+utilizing the remaining VSAT terminals that are in storage. In particular, DTS should be
+encouraged to sell these terminals on the same conditions that the private sector does, rather
+than leasing them. Otherwise, ADB should engage the Government in a dialogue with a view to
+DTS divesting itself of this component. This may be the better option. The matter should be
+undertaken immediately to resolve the issue at the earliest possible time.
+                                          26
+
+
+
+                                    APPENDIXES
+
+
+Number   Title                                                Page      Cited on
+                                                                     (page, para.)
+
+  1      Project Costs at Appraisal and Actual Expenditures
+         (Loan 886-IND: Telecommunications Project)            23       3,    11
+
+  2      Project Costs at Appraisal and Actual Expenditures
+         (Loan 954-IND: Second Telecommunications
+         Project)                                              25       4,    12
+
+  3      Project Implementation Schedule
+         (Loan 886-IND: Telecommunications Project)            27       6,    24
+
+  4      Project Implementation Schedule
+         (Loan 954-IND: Second Telecommunications
+         Project)                                              28       7,    25
+
+  5      Compliance with Loan Covenants
+         (Loan 886-IND: Telecommunications Project)            29       8,    31
+
+  6      Compliance with Loan Covenants
+         (Loan 954-IND: Second Telecommunications
+         Project)                                              31       8,    31
+
+  7      Development of Domestic Telecommunications
+         Services                                              33       9,    32
+
+  8      HCL Production History of Cables                      35      10,    37
+
+  9      Department of Telecommunications
+         Financial Statements                                  36      12,    42
+
+  10     Mahanagar Telephone Nigam Limited
+         Financial Statements                                  39      12,    42
+
+  11     Videsh Sanchar Nigam Limited
+         Financial Statements                                  42      12,    42
+
+  12     Hindustan Cables Limited
+         Financial Statements                                  45      14,    48
+
+  13     Economic Reevaluation of the INMARSAT
+         C-Type Coastal Earth Station and
+         Associated Components                                 48      13,    46
+
+  14     Economic Reevaluation of PIJF Cable Conversion
+         and Associated Components                             50      14,    50
+                                                                                                                  Appendix 1, page 1
+
+                           PROJECT COSTS AT APPRAISAL AND ACTUAL EXPENDITURES
+                                  (Loan 886-IND: Telecommunications Project)
+                                                              ($ million)
+
+                          Appraisal Estimates                                                            Actual Costs
+                                         Foreign  Local                                                             Foreign  Local
+                                        Exchange Currency   Total                                                  Exchange Currency   Total
+                                           Cost    Cost     Cost                                                      Cost    Cost     Cost
+
+A.   Computerized Digital Trunk Manual                                 A.    CDTMX at 14 Sites
+     Exchanges (CDTMX) at 8 Sites
+                                                                                                            a
+     1.   Digital Exchanges                   22.6   19.3    41.9            1.   Machinery & Equipment              17.3       --     17.3
+     2.   Operator Positions                  29.1   24.7    53.8                 (Exchanges & Training)
+     3.   Buildings                             --    1.0     1.0            2.   Machinery & Equipment               --       2.6      2.6
+     4.   Airconditioning                       --    0.2     0.2                 (Operator Positions &
+     5.   Spare Parts                          5.2    4.4     9.6                 Others)
+     6.   Shipping/Supplier Supervision        6.2    4.8    11.0            3.   Civil Works & Installation          --       1.2      1.2
+                                          a
+     7.   Training (180 person-months)         0.9     --     0.9            4.   Taxes & Duties                       --     11.4     11.4
+             Subtotal                         64.0   54.4   118.4                   Subtotal                         17.3     15.2     32.5
+
+B.   Domestic Satellite Facilities                                     B.    Domestic Satellite Facilities
+     at 12 Sites                                                             at 16 Sites
+     1. Low-Noise Amplifiers                   0.9    0.2     1.1            1. Low-Noise Amplifiers                  0.1       --      0.1
+     2. Echo Cancellers                        2.9    0.7     3.6            2. Echo Cancellers                       0.7       --      0.7
+     3. Microwave Link Equipment               2.4    0.6     3.0            3. Microwave Link Equipment              2.6       --      2.6
+     4. Power Supply/Aircon/Tower               --    4.2     4.2            4. Up/Down Converter                     1.7       --      1.7
+     5. Test Euipment                          4.0    1.0     5.0            5. RF Spectrum Analyzer                  0.2       --      0.2
+     6. Spare Parts                            1.1    0.7     1.8            6. IDR Modem                             2.1       --      2.1
+     7. Shipping/Supplier Supervision          1.2    0.3     1.5            7. Microwave Link Analyzer               0.4       --      0.4
+     8. Training (15 person-months)a           0.1     --     0.1            8. Spare Parts                           0.4       --      0.4
+             Subtotal                         12.6    7.7    20.3            9. Other Equipment                        --       --       --
+                                                                                    Subtotal                          8.2      0.0      8.2
+
+C.   International Gateway Telephone                                   C.    VSAT Network Facilities
+                                                                                                         a
+     Exchanges (IGTX)                                                        1. Machinery & Equipment                 4.6      0.9      5.5
+     (including Phase 1 Calcutta)                                            2. Civil Works & Installation             --      0.3      0.3
+     1. 4 New Exchanges                       10.6    9.0    19.6            3. Taxes & Duties                         --      3.8      3.8
+     2. Operator Positions                     1.5    1.3     2.8                  Subtotal                           4.6      5.0      9.6
+     3. Echo Cancellers                        2.0    1.6     3.6
+     4. Power Supply/Airconditioning            --    0.4     0.4      D. (i) Expansion of IGTX at Delhi, Mumbai, and
+     5. Spare Parts                            1.4    1.3     2.7             Chennai, and IGTX at Calcutta, Phase 1
+     6.   Land and Building                     --    0.7     0.7            1.   Machinery & Equipmenta             12.9       --     12.9
+     7.   Shipping/Supplier Supervision        2.9    1.3     4.2                 (4 Exchanges & Training)
+     8.   Training (15 person-months)a         0.6     --     0.6            2.   Machinery & Equipment               --       1.6      1.6
+             Subtotal                         19.0   15.6    34.6                 (Operator Positions & Others)
+                                                                             3.   Civil Works & Installation           --       --       --
+                                                                             4.   Taxes & Duties                       --     10.8     10.8
+                                                                                     Subtotal                        12.9     12.4     25.3
+
+D.   IGTX at Calcutta, Phase 2                                         D. (ii) Expansion of IGTX at Delhi,
+     1. New Exchange                           2.6    2.2     4.8              Mumbai, and Chennai
+     2.   Operator Positions                   0.3    0.3     0.6            1.   Machinery & Equipmenta              7.6       --      7.6
+     3.   Echo Cancellers                      0.4    0.3     0.7                 (3 Exchanges & Training)
+     4.   Power Supply/Aircon/Tower             --    0.2     0.2            2.   Machinery & Equipment                --       --       --
+     5.   Spare Parts                          0.3    0.3     0.6            3.   Civil Works & Installation           --       --       --
+     6.   Land and Building                     --    0.3     0.3            4.   Taxes & Duties                       --      9.0      9.0
+     7.   Shipping/Supplier Supervision        0.7    0.3     1.0                    Subtotal                         7.6      9.0     16.6
+     8.   Training (30 person-months)a         0.2     --     0.2
+             Subtotal                          4.5    3.9     8.4            Total of D.(i) and D.(ii)               20.5     21.4     41.9
+
+                                                                       E.    IGTX at Calcutta, Phase 2
+                                                                             1.   Machinery & Equipmenta              1.8       --      1.8
+                                                                                  (Exchange & Training)
+                                                                             2.   Machinery & Equipment                --       --       --
+                                                                             3.   Civil Works & Installation           --       --       --
+                                                                             4.   Taxes & Duties                       --      1.1      1.1
+                                                                                     Subtotal                         1.8      1.1      2.9
+                                                                                                                              Appendix 1, page 2
+
+
+                          Appraisal Estimates                                                                       Actual Costs
+                                          Foreign  Local                                                                       Foreign  Local
+                                         Exchange Currency          Total                                                     Exchange Currency    Total
+                                           Cost     Cost            Cost                                                         Cost    Cost      Cost
+
+E.   INTELSAT F2-Type Earth Station                                           E.      INTELSAT F2-Type Earth Station
+     1. Ground Com. Equipment                  0.7         0.6         1.3            at Calcutta
+                                                                                                                      a
+     2.   Antenna/Generator/                   --          0.5         0.5            1.   Machinery & Equipment                 0.8       0.7       1.5
+          Power Supply                                                                2.   Civil Works & Installation             --        --        --
+     3.   Spare Parts                          0.1         0.1         0.2            3.   Taxes & Duties                         --       1.1       1.1
+     4.   Shipping/Supplier Supervision        0.1         0.1         0.2                    Subtotal                           0.8       1.8       2.6
+                                        a
+     5.   Training (15 person-months)          0.1          --         0.1
+             Subtotal                          1.0         1.3         2.3    G.(i) INTELSAT A-Type Earth Station
+                                                                                    near Calcutta
+                                                                                                                a
+F.   INTELSAT A-Type Earth Station                                                  1. Machinery & Equipment                     4.7        --       4.7
+     near Calcutta                                                                  2. Civil Works & Installation                 --        --        --
+     1. Ground Com. Equipment                  1.3         1.1         2.4          3. Taxes & Duties                               -      3.8       3.8
+     2. Antenna/Generator/                      --         1.5         1.5                Subtotal                               4.7       3.8       8.5
+         Power Supply
+     3. Microwave Link                         0.3         1.6         1.9    G.(ii) INTELSAT A-Type Earth Station
+     4. Spare Parts                            0.2         0.5         0.7           near Chennai
+     5.   Land and Building                     --         0.4         0.4            1.   Machinery & Equipmenta                4.7        --       4.7
+     6.   Shipping/Supplier/Supervision        0.3         0.2         0.5            2.   Civil Works & Installation             --       3.9       3.9
+            Subtotal                           2.1         5.3         7.4            3.   Taxes & Duties                         --       4.5       4.5
+                                                                                              Subtotal                           4.7       8.4      13.1
+
+                                                                                              Total of G.(i) and G.(ii)          9.4      12.2      21.6
+
+G.   INMARSAT Coast Earth Station                                             H.      INMARSAT Coast Earth Station
+     at Arvi, near Mumbai                                                             at Arvi, near Mumbai
+                                                                                                                  a
+     1.   Ground Com. Equipment                3.6         3.1         6.7            1. Machinery & Equipment                   3.7       0.9       3.7
+     2.   Antenna/Generator/                   0.9         1.0         1.9            2. Civil Works & Installation               --       0.4       0.4
+          Power Supply                                                                3. Taxes & Duties                           --       4.4       4.4
+     3.   Spare Parts                          0.5         0.4         0.9                   Subtotal                            3.7       5.7       9.4
+     4.   Building                              --         0.5         0.5
+     5.   Shipping/Supplier/Supervision        1.0         0.4         1.4    I.(i)   Digital Microwave Link Between
+                                      a
+     6.   Training (15 person-months)          0.1          --         0.1            Delhi and Dehradun
+                                                                                                                  a
+            Subtotal                           6.1         5.4        11.5            1. Machinery & Equipment                   1.4        --       1.4
+                                                                                      2. Civil Works & Installation               --        --        --
+                                                                                      3. Taxes & Duties                           --       1.2       1.2
+                                                                                             Subtotal                            1.4       1.2       2.6
+
+                                                                              I.(ii) Digital Microwave Link Between
+                                                                                     Mumbai and Arvi
+                                                                                      1.   Machinery & Equipmenta                0.8        --       0.8
+                                                                                      2.   Civil Works & Installation             --        --        --
+                                                                                      3.   Taxes & Duties                         --       0.9       0.9
+                                                                                              Subtotal                           0.8       0.9       1.7
+
+                                                                                              Total of I.(i) and I.(ii)          2.2       2.1       4.3
+
+     Subtotal A-G                           109.3         93.6      202.9                    Subtotal A-I                       68.5      64.5     133.0
+
+J.   Contingencies                                                            J.      Contingencies
+     1. Physical Contingencies                 5.5         4.7        10.2            1. Physical Contingencies                   --        --        --
+     2. Price Contingencies                    1.0         1.7         2.7            2. Price Contingencies                      --        --        --
+            Subtotal                           6.5         6.4        12.9                   Subtotal                             --        --        --
+
+K.   Interest and Other Charges                                               K.      Interest and Other Charges
+     During Construction                     19.2         12.0        31.2            During Construction                       19.8        --      19.8
+
+            Total                           135.0        112.0      247.0                     Total                             88.3      64.5     152.8
+
+ --=    magnitude zero.
+CDTMX = computerized digital trunk manual exchange; IGTX = international gateway telephone exchange; IDR = intermediate digital rate;
+INTELSAT = International Telecommunications Satellite Organization; and INMARSAT = International Maritime Satellite Organization; RF = radio frequency.
+a
+   In actual expenditures, costs of training were included in those of machinery and equipment.
+                                                                                                Appendix 2, page 1
+
+                       PROJECT COSTS AT APPRAISAL AND ACTUAL EXPENDITURES
+                           (Loan 954-IND: Second Telecommunications Project)
+                                                      ($ million)
+
+                                                    Appraisal Estimate                         Actual Cost
+                                             Foreign       Local                     Foreign      Local
+          Item                              Exchange     Exchange                   Exchange    Exchange     Total
+                                              Cost          Cost       Total Cost     Cost        Cost       Cost
+
+A. PIJF Conversion Components
+   1. Conversion from PCUT to PIJF
+      at Rupnarainpur Unit 1
+          Machinery and Equipment              12.3           11.1        23.4         9.0           --       9.0
+          Taxes and Duties a                     --             --          --          --          5.1       5.1
+          Civils and Installation                --            0.5         0.5          --          0.2       0.2
+               Subtotal                        12.3           11.6        23.9         9.0          5.3      14.3
+
+   2. Conversion from PCUT to PIJF
+      at Rupnarainpur Unit 3
+          Machinery and Equipment              10.5           10.0        20.5         6.7           --       6.7
+          Taxes and Duties a                     --             --          --          --          4.5       4.5
+          Civils and Installation                --            0.5         0.5          --          0.2       0.2
+               Subtotal                        10.5           10.5        21.0         6.7          4.7      11.4
+
+   3. Conversion from PCUT to PIJF
+      at Hyderabad Unit 1
+          Machinery and Equipment              11.9           10.7        22.6         7.3           --       7.3
+          Taxes and Duties a                     --             --          --          --          4.3       4.3
+          Civils and Installation                --            0.7         0.7          --          0.3       0.3
+               Subtotal                        11.9           11.4        23.3         7.3          4.6      11.9
+
+   4. Conversion from Coaxial to PIJF
+      at Rupnarainpur Unit
+          Machinery and Equipment               9.2            8.3        17.5         6.6           --       6.6
+          Taxes and Duties a                     --             --          --          --          5.5       5.5
+          Civils and Installation                --            0.4         0.4          --          0.1       0.1
+               Subtotal                         9.2            8.7        17.9         6.6          5.6      12.2
+
+                  Total                        43.9           42.2        86.1        29.6         20.2      49.8
+
+B. PIJF Expansion Component
+      PIJF Cables at Rupnaraipur New Unit
+          Machinery and Equipment              22.2           23.0        45.2          --           --        --
+          Taxes and Duties a                     --             --          --          --           --        --
+          Civils and Installation                --            6.9         6.9          --           --        --
+
+                  Total                        22.2           29.9        52.1          --           --        --
+
+C. Thermo-Shrink Jointing Kits
+         Machinery and Equipment                4.6            5.4        10.0         3.0           --       3.0
+         Technical Collaboration                2.0            0.5         2.5          --           --        --
+         Taxes and Duties a                      --             --          --          --           --        --
+         Civils and Installation                 --            0.9         0.9          --           --        --
+
+                  Total                         6.6            6.8        13.4         3.0           --       3.0
+                                                                                                                               Appendix 2, page 2
+
+
+                                                                       Appraisal Estimate                                     Actual Cost
+                                                                Foreign       Local                                Foreign       Local
+            Item                                               Exchange     Exchange                              Exchange     Exchange
+                                                                 Cost          Cost       Total Cost                Cost         Cost       Total Cost
+
+D. Telephone Cords
+         Machinery and Equipment                                     1.5           1.6               3.1             2.4              --       2.4
+         Technical Collaboration                                     0.1            --               0.1              --              --        --
+         Taxes and Duties a                                           --            --                --              --             1.0       1.0
+         Civils and Installation                                      --           0.5               0.5              --              --        --
+
+                       Total                                         1.6           2.1               3.7             2.4             1.0       3.4
+
+E. Concast Copper Rod
+         Machinery and Equipment                                      --            --                --             2.9              --       2.9
+         Taxes and Duties a                                           --            --                --              --             1.2       1.2
+         Civils and Installation                                      --            --                --              --             0.1       0.1
+
+                       Total                                          --            --                --             2.9             1.3       4.2
+
+F. Research and Development
+         Equipment                                                   1.6           2.6               4.2             0.6              --       0.6
+         Taxes and Duties a                                           --            --                --              --             0.2       0.2
+         Civils and Installation                                      --           0.3               0.3              --              --        --
+
+                       Total                                         1.6           2.9               4.5             0.6             0.2       0.7
+
+G. Raw Materials
+        Raw Materials                                              14.6           18.3             32.9             17.5              --      17.5
+        Taxes and Duties a                                           --             --               --               --            11.0      11.0
+        Civils and Installation                                      --             --               --               --              --        --
+
+                       Total                                       14.6           18.3             32.9             17.5            11.0      28.5
+
+                                                                                         b
+       Subtotal (A to G)                                           90.5          102.2            192.7             56.0            33.7      89.6
+
+H. Contingencies
+          Physical                                                   4.5           5.1              9.6               --             --         --
+          Price                                                      6.2           8.9             15.1               --             --         --
+
+                       Total                                       10.7           14.0             24.7               --             --         --
+
+I. IDC                                                             16.8           19.8             36.6             12.0             --       12.0
+
+    Total                                                         118.0          136.0            254.0             68.0            33.7     101.6
+
+
+-- = magnitude zero
+IDC = interest during construction; PCUT = paper cut unit twin; and PIJF = polyethylene insulated jelly-filled.
+a
+    At appraisal, taxes and duties were included in "civils and installation".
+b
+    Subtotal comprised taxes and duties of $83.7 million, civil works of $10.7 million and indigenious equipment of $7.8 million.
+                                                                                                         Appendix 3
+                             PROJECT IMPLEMENTATION SCHEDULE
+                           (Loan 886-IND: Telecommunications Project)
+
+                                           1988 1989 1990 1991 1992 1993 1994 1995 1996 1997
+                                           1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4
+
+1. Computerized Digital Trunk
+   Manual Exchanges (CDTMX)
+
+2. Domestic Satellite Facilities
+   (DSF)
+
+3. Very Small Aperture Terminal
+   (VSAT) Network                                   Approved in July 1992
+4. a. Upgrading of International Gateway
+      Telephone Exchanges (IGTX) at
+      Delhi, Mumbai, and Chennai
+4. b. Expansion of IGTX at Delhi,
+      Mumbai, and Chennai                     Approved in Dec 1991
+5. a. Establishment of IGTX at
+      Calcutta, Phase I
+
+5. b. Expansion of IGTX at
+      Calcutta, Phase II
+
+6. INTELSAT F2-Type Earth Station
+   in Calcutta
+
+7. a. INTELSAT A-Type Earth Station
+      near Calcutta
+
+7. b. INTELSAT A-Type Earth Station
+      at Arvi                                   Approved in Dec 1991
+8. INMARSAT Cost Earth Station
+   at Arvi
+
+9. a. Ancillary Transmission Digital
+      Microwave Link Between Delhi                Approved in Dec 1991
+      and Dehradun
+9. b. Ancillary Transmission Digital
+      Microwave Link Between Mumbai               Approved in Dec 1991
+      and Arvi
+Total Project
+
+
+
+
+                                             Original schedule at Appraisal
+
+                                             Actual implementation schedule
+
+                                             Suspension of implementation due to the Government's overall
+                                             review of the sector.
+                                             Issuance of import licenses (from application to issuance)
+                                                                                                          Appendix 4
+
+                            PROJECT IMPLEMENTATION SCHEDULE
+                        (Loan 954-IND: Second Telecommunications Project)
+
+                                                    1989 1990 1991 1992 1993 1994 1995 1996 1997
+                                                3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4
+
+
+1. Conversion from PCUT to PIJF
+   Cables at Rupnarainpur and
+   Hyderabad Units (2.5 million ckm)
+   a. Rupnarainpur Unit 1 (0.8 million ckm)
+   b. Rupnarainpur Unit 3 (0.8 million ckm)
+   c. Hyderabad Unit 1 (0.9 million ckm)
+
+2.   Conversion from Coaxial to PIJF
+     Cables at Rupnairainpur Unit
+     (0.6 million ckm)
+
+3.   Expansion of PIJF Cables at                                              Cancelled in March 1992
+     Rupnarainpur Unit (1.8 million ckm)
+
+4.   Thermo-Shrink Jointing Kits at
+     Rupnarainpur Site
+
+
+
+5.   Telephone Cord Sets and Other
+     Cords at Rupnarainpur Site
+
+
+
+6.   Concast Copper Rod Facilities                        Approved in August 1993
+     at Rupnarainpur Site
+
+7.   Research and Development Equipment
+
+
+
+
+8.   Raw Materials
+
+Total Project
+
+
+
+
+ckm = conductor kilometer; PCUT = paper cut unit twin; and PIJF = polyethylene insulated jelly filled.
+                                                               Original schedule at Appraisal
+                                                                    Actual implementation schedule
+                                                                                  Appendix 5, page 1
+
+
+                            COMPLIANCE WITH LOAN COVENANTS
+                          (Loan 668-IND: Telecommunications Project)
+
+                                                            Reference to                Status of
+                       Covenant                            Loan Agreement              Compliance
+
+     Financial Covenants
+
+1.   The Borrower will maintain, or ensure               Loan Agreement (LA),        Complied with.
+     maintenance of, records and accounts                Section (Sec) 4.06 (a)
+     adequate to identifying the goods, services,
+     and other items of expenditure financed
+     through the loan, and to reflect the operations
+     and financial condition of Department of
+     Telecommunications      (DOT),      Mahanagar
+     Telephone Nigam Limited (MTNL), and Videsh
+     Sanchar Nigam Limited (VSNL).
+
+2.   The Borrower will furnish to the Asian              LA, Sec. 4.06 (b)           Delayed
+     Development Bank (ADB), as soon as                                              compliance. Most
+     available but not later than nine months after                                  of audited
+     the end of each related fiscal year, certified                                  financial
+     copies of such audited accounts and financial                                   statements were
+     statements and the reports of the auditors                                      submitted more
+     relating thereto.                                                               than nine months
+                                                                                     after fiscal year.
+
+3.   The Borrower will ensure that DOT and MTNL          LA, Schedule (Sch) 5,       Complied with.
+     take all measures required to realize an annual     Para. 4
+     rate of return on a consolidated basis of not
+     less than 11 percent of the average net value
+     of DOT's and MTNL's fixed assets in operation.
+
+4.   The Borrower will ensure that VSNL produces         LA, Sch. 5, Para. 6         Complied with.
+     funds from internal sources equivalent to not
+     less than 50 percent of the annual average of
+     VSNL's capital expenditures incurred for that
+     year, and the previous fiscal year, and
+     expected to be incurred for the next fiscal year.
+
+     Other Covenants
+
+5.   Overall coordination and monitoring of the          LA, Sch. 5, Para. 2         Complied with.
+     Project will be carried out by the director,
+     coordination and planning, in DOT, who will
+     also be responsible for the implementation of
+     the DOT components. The MTNL component
+     will be implemented under the supervision of
+     the general manager (technical), MTNL. For
+     the VSNL components, implementation will be
+     supervised by the general manager (switching
+     and planning), VSNL.
+                                                                                Appendix 5, page 2
+
+
+                                                            Reference to              Status of
+                       Covenant                            Loan Agreement            Compliance
+
+6.   The Borrower will ensure that quarterly reports     LA, Sec. 4.07 (b)         Partially complied
+     are furnished to ADB on the implementation of                                 with. DOT and
+     the Project, and the operation and                                            MTNL did not
+     management of the project facilities.                                         consistently
+                                                                                   furnish the
+                                                                                   quarterly reports.
+
+7.   The Borrower will prepare and furnish to ADB        LA, Sec. 4.07 (c)         Partially complied
+     a report on the execution and initial operation                               with. The report
+     of the Project, promptly after physical                                       on DOT and
+     completion of the Project, but in any event not                               MTNL
+     later than four months thereafter.                                            components has
+                                                                                   not been
+                                                                                   furnished to ADB.
+
+8.   The Borrower will ensure that the executing         LA, Sch. 5, Para. 7       Complied with.
+     agencies monitor productivity and quality of
+     service indicators covering physical, efficiency,
+     and financial targets that have been agreed
+     with ADB, and forward the details of
+     compliance with such indicators annually to
+     ADB.
+
+9.   The Borrower will ensure that VSNL utilizes the     LA, Sch. 5, Para. 10      Not applicable,
+     international gateway telephone exchange                                      since the
+     equipment at Calcutta provided under Phase 1                                  equipment is
+     at another location.                                                          utilized at
+                                                                                   Calcutta.
+                                                                           Appendix 6, page 1
+
+
+                          COMPLIANCE WITH LOAN COVENANTS
+                    (Loan 954-INO: Second Telecommunications Project)
+
+                                                         Reference to           Status of
+                       Covenant                         Loan Agreement         Compliance
+
+     Financial Covenants
+1.   Hindustan Cables Limited (HCL) will maintain       Loan Agreement     Not complied with.
+     an annual rate of return on capital employed of    (LA), Schedule
+     not less than 13 percent.                          (Sch) 5, Para. 2
+                                                        (a) and Project
+                                                        Agreement (PA)
+
+2.   The financial covenant referred to in para. 2,     LA, Sch. 5,        Not complied with.
+     Sch. 5, LA will be applicable until the Seventh    Para. 3
+     Pricing Agreement between DOT and HCL is
+     amended or terminated, at which time the
+     Borrower, HCL, and ADB will review HCL's
+     financial condition and agree on an appropriate
+     financial target for HCL.
+
+3.   The requirements set forth in para. 3, Sch. 5,     LA, Sch. 5,        Not complied with.
+     LA will be reviewed if necessary from time to      Para. 4
+     time between the Borrower, HCL and ADB.
+
+4.   HCL will maintain separate accounts for the        PA, Sec. 2.09.     Complied with.
+     Project and its overall operations, have the
+     accounts audited annually, and furnish to
+     ADB, not later than six months after the close
+     of the fiscal year, certified copies of such
+     audited accounts and financial statements.
+     Other Covenants
+5.   The Project will be implemented under the          LA, Sch. 5,        Complied with.
+     overall coordination, control, and monitoring of   Para. 1
+     the chairman-cum-managing director of HCL,
+     who will be assisted by the director (technical
+     and planning).
+
+6.   The Borrower will ensure that the agreed DOT       LA, Sch. 5,        Complied with.
+     plan of expanding competition in the domestic      Para. 5
+     procurement of telecommunications equipment
+     is carried out, and will inform ADB annually of
+     progress in this regard.
+
+7.   HCL will carry out the agreed HCL plan, in         LA, Sch. 5,        Partially complied
+     accordance with the time schedule set forth        Para. 6            with. Cable
+     therein, with respect to its manpower policy,                         production,
+     cost accounting, and factory layout in order to                       productivity, and
+     strengthen its productivity and efficiency and                        accounts receivable
+     will inform ADB annually of progress in this                          were below the
+     regard.                                                               target.
+                                                                           Appendix 6, page 2
+
+
+                                                       Reference to             Status of
+                       Covenant                       Loan Agreement           Compliance
+
+8.    HCL will take all necessary measures to         LA, Sch. 5,          Complied with.
+      ensure that it complies at all times with the   Para. 7
+      environmental and pollution control laws
+      applicable in India.
+
+9.    HCL will furnish to ADB quarterly reports on    PA, Sec. 2.08. (b)   Complied with.
+      the execution of the Project, and on the
+      operation and management of the project
+      facilities.
+
+10.   HCL will prepare and furnish to ADB a project   PA, Sec. 2.08. (c)   Complied with. The
+      completion report not later than three months                        report was submitted
+      after physical completion of the Project.                            although three
+                                                                           components are yet
+                                                                           to be completed.
+                                           DEVELOPMENT OF TELECOMMUNICATIONS SERVICES
+
+                                                      Table A7.1: Domestic Services
+
+                                                                                Fiscal Year Ending 31 March
+      Item                                    1989   1990      1991     1992        1993      1994     1995      1996     1997     1998     1999
+
+I.   Network and Traffic Expansion
+
+A.   Direct Exhange Lines ('000)
+      DOT                                    3,149   3,478    3,855     4,414      5,210    6,176    7,587     9,370     11,531   14,395   17,940
+      MTNL                                   1,018   1,112    1,220     1,396      1,587    1,850    2,208     2,608      3,012    3,407    3,654
+          Total                              4,167   4,590    5,075     5,810      6,797    8,026    9,795    11,978     14,543   17,802   21,594
+      Percentage Increase                      9.9    10.2     10.6      14.5       17.0     18.1     22.1      22.3       21.4     22.4     21.3
+
+B.   Number of Telephone Metered Call
+     Units (billion)                          20.3    21.5     23.9      30.6       40.1     46.7     58.6       78.4      93.3    117.7    146.6
+
+C.   Manual Trunk Call Traffic (million)      204     220       224      206         206       162      122        76       68       56       49
+      Percentage Increase                      --     7.8       1.8      -8.0        0.0     -21.4    -24.7      -37.4    -10.5    -17.6    -12.5
+
+II. Productivity
+
+A.   Number of Staff ('000)
+      DOT                                     312     320       326       322        331      335      358        358      358      362      362
+      MTNL                                     50      50        49        51         54       60       61         63       63       63       62
+        Total                                 362     370       375       373        385      395      419        421      421      425      424
+
+B.   Staff per 1,000 DELs
+      DOT                                      99       92       85        73         64       54       47         38       31       25       20
+      MTNL                                     49       45       40        37         34       32       28         24       21       18       17
+           Total                               87       81       74        64         57       49       43         35       29       24       20
+
+C.   Faults/100 Stations/Month                21.2    19.9     18.5      19.1       18.2     18.3     17.9       15.8      17.2     17.4     16.4
+
+
+
+-- = nil.
+DEL = direct exchange lines; DOT = Department of Telecommunications; MTNL = Mahanagar Telephone Nigam Limited.
+Source: DOT and MTNL annual reports.
+                                                     Table A7. 2: International Services
+
+                                                                                   Fiscal Year Ending 31 March
+      Item                                    1989      1990      1991      1992       1993      1994     1995      1996      1997      1998        1999
+I.   IGTX Capacity and Traffic
+
+A.   International Telephone Traffic
+       1. Annual Paid Minutes                235.2     306.6     369.4     473.9      614.2    742.8     942.0    1,147.6   1,384.9   1,684.5     1,945.0
+          (million minutes)
+
+B.   Traffic Handling Capacity
+       1. Number of Circuits                 1,993     1,993     2,323     4,513     11,053    15,703    15,703    15,393    23,899    25,560      25,560
+                                     a
+       2. Capacity in Annual Minutes         178.9     178.9     208.5     405.0      992.0   1,409.3   1,409.3   1,381.5   2,144.9   2,294.0     2,294.0
+           (million minutes)
+
+II. Performance Indicators for VSNL
+
+A.   Telephone Paid Minutes (million)       235.30    306.56    369.44    473.90     614.20   742.82    942.00 1,147.56 1,384.90 1,684.51 1,935.01
+
+B.   Telex Paid Minutes (million)            51.80     50.83     47.00     42.10      38.67    30.99     24.19      20.40     17.35     14.02      11.06
+
+C.   Television Traffic (minutes)           48,621    47,780    48,314    70,955     55,748   62,159    99,811    116,683   143,050   185,930     92,530
+
+D.   Data Transmission ('000 minutes)            0       541       989     1,977      3,522    4,868     8,673      7,725     7,982     8,920      7,929
+
+E.   INMARSAT Traffic
+       Telephone ('000 minutes)                  0         0         0         0        754    1,808     2,250      2,597     3,307     2,660      1,961
+       Telex ('000 minutes)                      0         0         0         0        347      770       930        983       878       807        272
+
+F.   Telephone Circuits                         --        --     2,109     3,331      4,789    8,520    11,525     12,873    14,184    15,431     17,922
+
+G.   Telex Circuits                             --        --     1,143     1,124        936    1,039     1,064      1,128     1,081     1,012        787
+
+H.   Satellite Circuits                      1,252     1,434     1,430     2,465      3,749    6,937     7,702      8,573     9,200     9,266     10,609
+
+I.   Cable Circuits                            654       615       679       866      1,040    1,583     3,781      4,300     4,964     6,165      7,313
+
+J.   Total Staff                             2,990     2,880     2,798     2,757      2,852    2,806     2,769      2,814     2,873     2,861      2,975
+
+
+-- = not available.
+IGTX = international gateway telephone exchange; INMARSAT = International Maritime Satellite Organization; VSNL = Videsh Sanchar Nigam Limited.
+a
+  Calculation assumes: 90 calls/circuit/day, 2.77 minutes/call, 360 days/year.
+Source: VSNL annual reports.
+                                                            HCL PRODUCTION HISTORY OF CABLES
+
+
+              Fiscal Year Ending 31 March                     1989      1990    1991   1992   1993   1994   1995       1996       1997   1998   1999   2000
+
+A. PIJF Cables (million conductor kilometers)
+
+    1. Rupnarainpur Unit
+       a. Original Facilities (listed capacity: 1.6)            0.6       0.4    0.4    0.5    1.3    1.1    1.4        0.4         --     --     --     --
+       b. Project Facilities
+          i. Coaxial to PIJF (listed capacity: 0.6)               0         0      0      0    0.2    0.6    0.8        0.2         --     --     --     --
+                                                                                                                   a          a
+          ii. PCUT to PIJF Unit 1 (listed capacity: 0.8)          0         0      0      0      0      0    0.8        0.3         --     --     --     --
+          iii. PCUT to PIJF Unit 3 (listed capacity: 0.8)         0         0      0      0      0      0      0          0         --     --     --     --
+               Subtotal of Project Facilities                     0         0      0      0    0.2    0.6    1.6        0.6         --     --     --     --
+                   Total of Rupnarainpur Unit                   0.6       0.4    0.4    0.5    1.4    1.7    3.0        0.9        0.6    0.3    0.4    3.8
+
+    2. Hyderabad Unit
+       a. Original Facilities
+          i. Unit 1 (listed capacity 0.5)                       0.6       0.2    0.1    0.1    0.4    0.5      0          0          0     0      0      0
+          ii. Unit 2 (listed capacity 3.0)                      2.5       1.6    1.4    0.8    2.1    2.2    2.8        1.4        2.0     --     --     --
+       b. Project Facilities
+          i. PCUT to PIJF Unit 1 (listed capacity: 0.9)           0         0      0      0      0      0    0.7        0.4        1.0     --     --     --
+                  Total of Hyderabad Unit                       3.1       1.8    1.5    0.9    2.5    2.7    3.5        1.8        3.0    1.6    0.8    4.6
+
+    3. Total Production
+       a. Original Facilities                                   3.7       2.2    1.9    1.4    3.8    3.8    4.2        1.7         --     --     --     --
+       b. Project Facilities                                      0         0      0      0    0.2    0.6    2.3        1.0         --     --     --     --
+                  Total Production of PIJF Cables               3.7       2.2    1.9    1.4    3.9    4.4    6.5        2.7        3.6    1.9    1.2    8.4
+
+    4. Listed Production Capacity
+       a. Original Facilities                                   5.1       5.1    5.1    5.1    5.1    5.1    5.1        5.1        5.1    5.1    5.1    5.1
+       b. Project Facilities                                      0         0      0      0    0.6    0.6    3.1        3.1        3.1    3.1    3.1    3.1
+                  Total Production Capacity                     5.1       5.1    5.1    5.1    5.7    5.7    8.2        8.2        8.2    8.2    8.2    8.2
+
+
+
+-- = not available.
+PCUT = paper covered unit twin; PIJF = polyethylene insulated jelly filled.
+a
+  Total production of unit 1 and unit 3.
+Source: Department of Telecommunications.
+                               DEPARTMENT OF TELECOMMUNICATIONS' FINANCIAL STATEMENTS
+
+                                                       Table A9.1: Income Satements
+                                                      (Year ending 31 March, Rs million)
+
+
+      Item                                1989     1990     1991     1992     1993     1994     1995     1996     1997      1998      1999
+
+
+A.   Operating Revenue                   23,590    27,770   34,590   39,980   46,940   62,680   76,540   96,760   121,839   145,903   176,375
+
+
+B.   Operating Expenses
+      Staff Expenses                      8,550     9,420   10,350   11,580   12,350   13,590   15,370   18,000    22,614    31,400    35,191
+      Operating Cost                      2,140     2,360    2,590    2,890    3,090    3,400    3,840    4,500     9,416     7,850     8,798
+      Depreciation                        2,360     3,020    3,880    4,910    6,400    7,760    9,760   12,230    15,244    18,323    21,866
+         Total Operating Expenses        13,050    14,800   16,820   19,380   21,840   24,750   28,970   34,730    47,274    57,573    65,855
+
+
+C.   Operating Income                    10,540    12,970   17,770   20,600   25,100   37,930   47,570   62,030    74,584    88,330   110,520
+
+
+D.   Other Income                         1,520     1,640    1,100    1,130    3,510    3,940    5,110    6,560     7,929     7,263     7,121
+
+
+E.   Interest Expense                     2,490     3,110    3,980    4,630    6,660   15,030   12,920   12,020    20,428    13,482    11,221
+
+
+F.   Net Income                           9,570    11,500   14,890   17,100   21,950   26,840   39,760   56,570    62,085    82,111   106,420
+
+
+G.   Operating Ratio                      55.3%     53.3%    48.6%    48.5%    46.5%    39.5%    37.8%    35.9%     38.8%     40.4%     38.0%
+
+
+H.   Return on Fixed Assets               24.8%     23.2%    24.7%    22.9%    21.7%    24.8%    24.1%    25.4%     24.7%     24.0%     25.0%
+
+
+
+Source: Department of Telecommunications annual reports.
+                                                            Table A9.2: Balance Sheets
+                                                          (Year ending 31 March, Rs million)
+
+     Item                              1989      1990        1991      1992      1993      1994      1995      1996     1997      1998      1999
+
+A.   Assets
+      Current Assets
+       Cash/Bank                        5,060     5,300       5,690     6,220     6,210     7,860     8,350     2,760        --        --        --
+       Accounts Receivable              5,300     6,170       7,530     9,710    12,500    16,700    20,080    25,650    28,552    33,734    38,911
+       Inventories                      1,870     2,970       3,910     2,880     3,270     3,110     3,080     3,670     3,856     4,714     5,171
+          Total Current Assets         12,230    14,440      17,130    18,810    21,980    27,670    31,510    32,080    32,408    38,448    44,082
+
+      Fixed Assets
+        Gross Fixed Assets             76,040    96,190     117,990   145,440   183,910   230,810   288,180   359,350   433,098   517,946   610,817
+        Accumulated Depreciation       11,740    14,350      17,900    22,380    28,230    35,450    44,430    55,520    69,209    85,919   106,153
+        Net Fixed Assets               64,300    81,840     100,090   123,060   155,680   195,360   243,750   303,830   363,889   432,027   504,664
+
+        Investment in MTNL              8,620     8,570       8,370     8,170     7,950     7,740     7,520     7,300    27,693    28,298    28,255
+
+      Total Assets                     85,150   104,850     125,590   150,040   185,610   230,770   282,780   343,210   423,990   498,773   577,001
+
+B.   Liabilities
+      Current Liabilities
+        Accounts Payable                2,060     2,240       2,370     2,810     3,470     4,250     4,470     5,290     6,149     7,224     8,785
+           Total Current Liabilities    2,060     2,240       2,370     2,810     3,470     4,250     4,470     5,290     6,149     7,224     8,785
+
+C.   Capital/Fund
+       Retained Earnings               49,810    66,370      84,850   108,010   142,600   186,070   236,740   301,440   363,532   374,185   475,019
+       Borrowed Funds                  29,550    32,150      33,870    34,260    34,530    35,430    35,430    35,430    35,427    97,500    73,737
+       Telecom Capital Fund             3,730     4,090       4,500     4,960     5,010     5,020     6,140     1,050    18,882    19,864    19,460
+          Total Capital/Fund           83,090   102,610     123,220   147,230   182,140   226,520   278,310   337,920   417,841   491,549   568,216
+
+     Liabilities and Capital           85,150   104,850     125,590   150,040   185,610   230,770   282,780   343,210   423,990   498,773   577,001
+
+D.   Debt/Equity Ratio                  59.3%     48.4%       39.9%     31.7%     24.2%     19.0%     15.0%     11.8%      9.3%     24.7%     14.9%
+
+
+
+Source: Department of Telecommunications annual reports.
+                                               Table A9.3: Sources and Applications of Funds
+                                                      (Year ending 31 March, Rs million)
+
+
+      Item                           1989        1990      1991    1992      1993       1994       1995       1996       1997       1998       1999
+
+
+A.   Sources of Funds
+      Net Income                      9,570     11,500    14,890   17,100    21,950     26,840     39,760     56,570     62,085      82,111    106,420
+      Depreciation                    2,360      3,020     3,880    4,920     6,400      7,760      9,760     12,230     15,244      18,323     21,866
+      Other Sources                   2,490      3,110     3,980    4,630     6,660     15,030     12,920     12,020     18,050       4,474    (18,489)
+         Total Internal Sources      14,420     17,630    22,750   26,650    35,010     49,630     62,440     80,820     95,379     104,908    109,797
+
+
+      Borrowed Funds (Net)             380       2,590     3,830     390        270        890            0          0          0          0          0
+
+
+         Total Sources               14,800     20,220    26,580   27,040    35,280     50,520     62,440     80,820     95,379     104,908    109,797
+
+
+B.   Applications of Funds
+      Capital Expenditure            16,570     20,710    22,140   27,880    39,020     47,440     58,160     72,310     75,302      86,461     94,503
+      Debt Service                    2,490      3,110     3,980    4,630     6,660     15,030     12,920     12,020     20,428      13,482     11,221
+      Increase/Decrease              (4,560)    (3,840)       70   (6,000)   (10,390)   (13,610)   (9,130)      (250)      (531)      4,965      4,073
+       in Working Capital
+         Total Applications          14,500     19,980    26,190   26,510    35,290     48,860     61,950     84,080     95,199     104,908    109,797
+
+
+C.   Increase/Decrease in Cash         300        240       390      530         (10)    1,660       490      (3,260)      180             0          0
+
+
+D.   Debt-Service Ratio                 5.8        5.7       5.7      5.8        5.3        3.3       4.8        6.7        4.1         8.4       12.4
+
+
+
+Source: Department of Telecommunications annual reports.
+                                  MAHANAGAR TELEPHONE NIGAM LIMITED FINANCIAL STATEMENTS
+                                               Table A10.1: Income Statements
+                                               (Year ending 31 March, Rs million)
+
+          Item                          1989     1990       1991    1992     1993     1994     1995     1996     1997     1998     1999
+
+A.        Operating Revenue
+           Telephone                     9,176   10,326   11,786    14,214   17,134   23,848   28,301   33,422   39,128   45,433   49,238
+           Telex                           778      728      817       792      727      635      535      444      361      267      216
+           Circuits                        329      468      497       547      489      593      633      615      820      846      871
+              Total Operating Revenue   10,283   11,522   13,100    15,553   18,350   25,076   29,469   34,481   40,309   46,546   50,325
+
+B.      Operating Expenses
+     1.  Personnel                       1,133    1,177    1,367     1,677    1,848    2,167    2,495    3,128    4,284    5,167    6,165
+     2.  a. Use of National Network      2,269    2,578    3,533     3,477    4,101    5,494    6,337    7,613    8,823   10,240   10,912
+         b. Levy/License Fee               771    1,609    1,570       450        0    1,249    1,480    1,986    2,347    2,711    3,066
+     3. Operation and Maintenance            0        0        0         0      629      784    1,046    1,040    1,557    1,731    1,945
+     4. Administration                   1,068    1,111    1,349     1,867    1,789    2,114    2,378    2,656    3,211    4,502    4,307
+     5. Depreciation                     1,619    1,929    2,482     3,109    3,790    3,998    4,290    4,654    5,150    5,856    6,571
+             Total Operating Expenses    6,860    8,404   10,301    10,580   12,157   15,806   18,026   21,077   25,372   30,207   32,966
+
+C.        Operating Income               3,423    3,118     2,799    4,973    6,193    9,270   11,443   13,404   14,937   16,339   17,359
+
+D.        Interest on Bonds and           529      750       949     1,457    1,637    1,607    1,686    1,629    1,476     866      729
+          Long-Term Loans
+
+E.        Nonoperating Income (Net)       187      201        80      246      257      140      682      705      653     1,247    2,268
+
+F.        Income before Tax              3,081    2,569     1,930    3,762    4,813    7,803   10,439   12,480   14,114   16,720   18,898
+
+G.        Tax                             560      770       900     2,050    2,730    4,362    4,674    5,185    5,493    5,247    6,016
+
+H.        Dividend                        840      840       360      360      480      600      600     1,200    1,200    1,827    1,890
+
+I.        Retained Profit                1,681     959       670     1,352    1,603    2,841    5,165    6,095    7,421    9,646   10,992
+
+
+
+Source: Mahanagar Telephone Nigam Limited annual reports.
+                                                             Table A10.2: Balance Sheets
+                                                           (Year Ending 31 March, Rs million)
+           Item                                1989     1990     1991     1992      1993      1994      1995         1996     1997      1998      1999
+
+A.       Assets
+      1.  Gross Fixed Assets                   15,057   18,060   23,149   28,856    35,047    42,025    48,720       60,110    69,856    80,581    89,461
+      2.  Accumulated Depreciation              3,897    5,821    8,265   11,369    15,188    19,226    23,164       27,445    31,611    37,100    42,997
+      3.  Net Fixed Assets                     11,160   12,239   14,884   17,487    19,859    22,799    25,556       32,665    38,245    43,481    46,464
+      4.  Capital Work in Progress              2,594    4,396    4,135    4,073     4,764     6,154     9,436        7,882     7,812     6,213     7,106
+      5.  Investment                                0        0      874    2,000     1,500         0         0            0         0         0         0
+      6.  Loans and Advances a
+          a. Loan to Government                10,500   15,500   17,220   23,240    35,670    46,756    56,486    59,328       70,333    62,723    37,960
+          b. Others                             2,214    2,312    4,470    5,533    14,856    14,173     7,325     8,801       13,698    13,547    16,981
+                  Subtotal                     26,468   34,447   41,583   52,333    76,649    89,882    98,803   108,676      130,088   125,964   108,511
+      7. Current Assets
+          a. Cash and Deposits                   346      462     1,054    3,478     1,475     2,790     2,764        3,061     3,721    13,285    13,564
+          b. Accounts Receivable
+             i. Sundry Debtors                    963    1,313    1,780    2,618     3,312     4,088     4,639     5,409        6,223     6,106     6,549
+             ii. Income Accrued                 1,234    1,434    1,731    2,489     2,484     3,233     3,715     4,130        4,310     5,391     5,886
+             iii. Others Accrued                    2        3       42        1        27         1         0         2            0         0         0
+             Total Accounts Receivable          2,199    2,750    3,553    5,108     5,823     7,322     8,354     9,541       10,533    11,497    12,435
+          c. Inventories                        1,771    2,140    2,301    1,450     2,217     1,992     2,821     2,312        2,457     2,558     2,274
+                  Subtotal                      4,316    5,352    6,908   10,036     9,515    12,104    13,939    14,914       16,711    27,340    28,273
+                      Total Assets             30,784   39,799   48,491   62,369    86,164   101,986   112,742   123,590      146,799   153,304   136,784
+B.         Equity and Liabilities
+      1.    Share Capital - Paidup              6,000    6,000    6,000    6,000     6,000     6,000     6,000        6,000     6,000     6,300     6,300
+      2.    Retained Earnings                   2,679    3,638    4,309    5,661     7,265    10,107    15,273       21,368    29,376    45,318    56,193
+                   Subtotal                     8,679    9,638   10,309   11,661    13,265    16,107    21,273       27,368    35,376    51,618    62,493
+      3.    Telephone Bonds                    11,336   18,334   23,681   35,416    37,835    52,431    59,195       62,786    73,614    64,216    38,136
+      4.    Government Loans
+            a. IBRD Project                       162      455      559      580       536       492       441          391       342       277       242
+            b. ADB Project                          0        0        0        0         0         0         0            0         0         0         0
+            c. Other                            2,600    2,819    2,869    2,170    10,505     4,736     7,267        6,303     2,085     1,000         0
+                   Subtotal                     2,762    3,274    3,428    2,750    11,041     5,228     7,708        6,694     2,427     1,277       242
+      5.    Subscriber Deposits                 2,577    3,162    3,656    4,399     5,323     6,216     7,713        8,724     9,686    10,497    10,925
+      6.    Current Liabilities
+            a. Accounts Payable                 1,132      713      968      479     8,744     9,840     1,678       895          794     1,333       429
+            b. Advance Rentals                     86      103      139      146       177       187       288       443          428       425       485
+            c. Income Tax Provision                16      123    1,664    2,050     2,730     4,363     4,674     5,185       10,667    10,630    11,153
+            d. Dividend Provision                 840      840      360      360       480       600       600     1,200        1,200     1,827     1,890
+            e. Other                            3,356    3,612    4,286    5,108     6,569     7,014     9,613    10,295       12,607    11,481    11,032
+                   Subtotal                     5,430    5,391    7,417    8,143    18,700    22,004    16,853    18,018       25,696    25,696    24,989
+                Total Equity and Liabilities   30,784   39,799   48,491   62,369    86,164   101,986   112,742   123,590      146,799   153,304   136,785
+a
+    Bond funds transferred to the Government for assisting in Department of Telecommunications' capital financing.
+Source: Mahanagar Telephone Nigam Limited annual reports.
+                                              Table A10.3: Sources and Applications of Funds
+                                                     (Year ending 31 March, Rs million)
+
+
+          Item                            1989      1990     1991     1992     1993      1994       1995      1996       1997       1998       1999
+
+A.      Sources
+     1.  Operating Income                  3,423     3,118    2,799    4,973    6,193     9,270     11,443    13,404     14,937     16,339     17,359
+     2.  Depreciation                      1,634     1,924    2,444    3,104    3,819     4,038      3,938     4,281      5,150      5,856      6,571
+     3.  Nonoperating Income (net)           187       201       80      246      257       140        682       705        653      1,247      2,268
+     4.  Subscriber Deposits                 324       585      494      743      924       893      1,497     1,011        962        811        428
+             Subtotal                      5,568     5,828    5,817    9,066   11,193    14,341     17,560    19,401     21,702     24,253     26,626
+     5. Telephone Bonds                    3,000     5,000    4,350    8,740    9,430    17,944      9,510     3,592     10,828          0          0
+     6. Government Loan
+         a. IBRD Project                     162       292      104       22        6           6        0           0          0          0          0
+         b. ADB Project                        0         0        0        0        0           0        0           0          0          0          0
+         c. Other                          1,000     2,420    2,500    3,000    4,552           0    2,750           0          0          0          0
+             Subtotal                      1,162     2,712    2,604    3,022    4,558           6    2,750           0          0          0          0
+     7. Redemption of Investment
+         in Government Companies               0         0        0        0      500     1,500          0         0          0          0          0
+             Total Sources                 9,730    13,540   12,771   20,828   25,681    33,791     29,820    22,993     32,530     24,253     26,626
+
+B.        Applications
+     1.    Capital Expenditure             3,903     4,805    4,828    5,645    7,039     8,368      9,977     9,836      8,980      9,527     10,507
+     2.    Investment in Government            0         0      874    1,126        0         0          0         0          0          0          0
+           Companies
+     3.    Debt Service                    4,729     5,950    4,122    8,183   17,334    21,861     14,431     5,496     22,738     (2,977)     6,573
+     4.    Tax                               560       770      900    2,050    2,730     4,362      4,674     5,185      5,493      5,247      6,016
+     5.    Dividend                          840       840      360      360      480       600        600     1,200      1,200      1,827      1,890
+     6.    Increase in Working Capital        35     1,059    1,095    1,040      101    (2,715)       164       979     (6,541)     1,065      1,361
+           excluding Cash
+               Total Applications         10,067    13,424   12,179   18,404   27,684    32,476     29,846    22,696     31,870     14,689     26,347
+
+C.        Cash Status
+     1.    Cash Surplus for Year            (337)     116       592    2,424   (2,003)    1,315        (26)      297        660      9,564        279
+     2.    Cash at Beginning of Year         683      346       462    1,054    3,478     1,475      2,790     2,764      3,061      3,721     13,285
+     3.    Cash at End of Year               346      462     1,054    3,478    1,475     2,790      2,764     3,061      3,721     13,285     13,564
+
+D.        Others
+     1.    Operating Ratio (%)             66.7%     72.9%    78.6%    68.0%    66.3%     63.0%      61.2%     61.1%      62.9%      64.9%      65.5%
+     2.    Rate of Return                  29.1%     18.7%    10.0%    14.7%    15.7%     21.4%      27.1%     25.1%      24.7%      25.5%      24.4%
+     3.    Debt Service Ratio (times)        5.0       3.6      1.1      2.4      0.8       0.4        5.6       4.3        0.9        n.a.       4.0
+     4.    Accounts Receivable (months)      2.6       2.9      3.3      3.9      3.8       3.5        3.4       3.3        3.1        3.0        3.0
+     5.    Debt/-Equity Ratio (%)         162.4%    224.2%   263.0%   327.3%   368.5%    358.0%     314.5%    253.9%     215.0%     126.9%      61.4%
+
+
+Source: Mahanagar Telephone Nigam Limited annual reports.
+                                       VIDESH SANCHAR NIGAM LIMITED FINANCIAL STATEMENTS
+                                                  Table A11.1: Income Statements
+                                                  (Year ending 31 March, Rs million)
+
+          Item                             1989      1990       1991      1992      1993       1994     1995 a     1996 a     1997 a      1998 a      1999 a
+
+A.        Operating Revenue
+     1.    Telephone                       2,078      2,705     3,273      4,924     6,703     7,131    33,889     42,329      49,318      57,527      62,077
+     2.    Telex                             287        225       193        163       122       195       778        646         576         453         359
+     3.    Telegraph                          46         39        36         41        27        14        92         78          68          62          50
+     4.    Leased Channels                    89         96       117        166       184       235       345        682       1,188       1,886       2,499
+     5.    INTELSAT/INMARSAT                  66         44        58        152       185       211       247        280         376         501         754
+     6.    Other                              59         62        78        542       168       180       250        327         580         822       1,442
+           Total Operating Revenue         2,625      3,171     3,755      5,988     7,389     7,966    35,601     44,342      52,106      61,251      67,181
+
+B.        Operating Expenses
+     1.    Personnel                         108        122       135        159       179       244       291        462         566         804         790
+     2.    Satellite Channels                 88        108        74        206       428       600       632        817       1,155       1,401       1,667
+     3.    Land Lines                      1,166      1,623     1,872      2,870     3,467     3,121    29,306     35,231      41,260      45,720      47,845
+     4.    Operation and Maintenance          52         55        59         88       148       212       269        303         470         418         547
+     5.    Administration                     64         41        51         74       164         2      (552)       356         305       1,067         453
+     6.    Depreciation                      249        205       240        395       694       407       495        558         576         655         803
+           Total Operating Expenses        1,727      2,154     2,431      3,792     5,080     4,586    30,441     37,727      44,332      50,065      52,105
+
+C.        Operating Income                   898      1,017     1,324      2,196     2,309     3,380      5,160     6,615       7,774      11,186      15,076
+
+D.        Interest on Bonds and                76        55          0        13        22       196        427        67          44          12              1
+          Long-Term Loans
+
+E.        Nonoperating Income (Net)          281        112       198       187         87       176        467       388         747       3,110       4,072
+
+F.        Income before Tax                1,113      1,074     1,522      2,370     2,374     3,360      5,210     6,936       8,477      14,284      19,147
+
+G.        Tax                                470        495       740      1,330     1,250     1,600      2,220     2,850       3,220       4,310       6,382
+
+H.        Dividend                           120        180       180       240        240       240        280       360         280         380            760
+
+I.        Retained Profit                    523        399       602       800        884     1,520      2,710     3,726       4,977       9,594      12,005
+
+
+INMARSAT = International Maritime Satellite Organization; INTELSAT = International Telecommunications Satellite Organization.
+a
+  Since fiscal year 1994/95, gross traffic revenue has been shown as income and charge for use of transmission facilities, instead of net traffic revenue.
+Source: Videsh Sanchar Nigam Limited annual reports.
+                                                              Table A11.2: Balance Sheets
+                                                            (Year ending 31 March, Rs million)
+
+
+          Item                               1989       1990       1991       1992       1993       1994      1995       1996        1997         1998        1999
+
+
+A.      Assets
+     1.  Gross Fixed Assets                   1,461      1,537      1,864      2,579      4,063      5,122      8,204    10,566       12,345      15,216      17,698
+     2.  Accumulated Depreciation               625        826      1,063      1,455      2,158      2,284      2,776     3,333        3,961       4,632       5,420
+     3.  Net Fixed Assets                       836        711        791      1,124      1,905      2,838      5,429     7,232        8,384      10,584      12,278
+     4.  Capital Work in Progress               115        199        427        488      1,541      2,407      1,482       374        1,310       1,660       3,170
+     5.  Investment in INTELSAT                 274        355        425        591        613        612        631       948        4,755       5,987       8,055
+         and INMARSAT
+            Subtotal                          1,225      1,265      1,643      2,203      4,059      5,857      7,542     8,554       14,449      18,231      23,503
+     6. Current Assets
+         a. Cash and Deposits                   320        901        343        224        126       280        478      2,407       14,594      25,138      24,510
+         b. Accounts Receivable               2,664      1,346      1,984      2,577      4,616     5,141      9,587     13,440       15,299      16,817      20,107
+         c. Inventories                           8          9          8          6          6         5         13          7           12          10          21
+         d. Other                             1,996      2,740      2,332      3,340      4,544    10,035      4,057      7,508        7,599       6,612      14,114
+            Subtotal                          4,988      4,996      4,667      6,147      9,292    15,461     14,135     23,362       37,504      48,577      58,752
+         Total Assets                         6,213      6,261      6,310      8,350     13,351    21,318     21,677     31,916       51,953      66,808      82,255
+
+B.      Equity and Liabilities
+     1.  Share Capital - Paidup                 600        600        600        800        800        800        800       800          922         950         950
+     2.  Retained Earnings                    1,856      2,245      2,852      3,456      4,366      5,899      8,647    12,377       28,857      40,853      53,256
+            Subtotal                          2,456      2,845      3,452      4,256      5,166      6,699      9,447    13,177       29,779      41,803      54,206
+     3. Long-Term Loans
+         a. Working Capital Loan                  0            0      274            0    1,002      2,276      1,000     1,116        2,502       1,563             25
+         b. ADB Project                           0            0        0            0        0          0          0         0            0           0              0
+         c. Other                               516            0        0            0        0      1,501      1,250         0            0           0              0
+            Subtotal                            516            0      274            0    1,002      3,777      2,250     1,116        2,502       1,563             25
+     4. Current Liabilities
+         a. Accounts Payable                  1,319      1,058        516        636      2,475     3,286      5,636     11,499       13,132      18,131      16,394
+         c. Income Tax Provision              1,682      2,177      1,888      3,218      4,468     7,316      4,334      6,124        6,260       4,931      10,870
+         d. Dividend Provision                  240        180        180        240        240       240        280          0          280         380         760
+            Subtotal                          3,241      3,415      2,584      4,094      7,183    10,842     10,250     17,623       19,672      23,442      28,024
+        Total Equity and Liabilities          6,213      6,260      6,310      8,350     13,351    21,318     21,947     31,916       51,953      66,808      82,255
+
+
+ADB = Asian Development Bank; INMARSAT = International Maritime Satellite Organization; INTELSAT = International Telecommunications Satellite Organization.
+Source: Videsh Sanchar Nigam Limited annual reports.
+                                                Table A11.3: Sources and Applications of Funds
+                                                       (Year ending 31 March, Rs million)
+
+     Item                                    1989     1990     1991     1992     1993     1994      1995      1996      1997      1998     1999
+
+A.      Sources
+     1.  Operating Income                      908    1,020    1,327    2,193    2,336     3,381     5,211     6,620      7,774   11,186   22,043
+     2.  Depreciation                          249      204      241      392      703       119       484       558        576      655      803
+     3.  Nonoperating Income (net)              281      112     198      187       87       176       467       388        747    3,110    4,072
+            Subtotal                         1,438    1,336    1,766    2,772    3,126     3,676     6,162     7,566      9,097   14,951   26,918
+     4. Loan                                     0        0      274      200    1,002     2,783         0       116      1,387        0        0
+              Total Sources                  1,438    1,336    2,040    2,972    4,128     6,459     6,162     7,682     10,484   14,951   26,918
+
+B.      Applications
+     1.  Capital Expenditure                   232      164      695      785    2,537     1,907     2,148     2,472      1,778    2,891    2,589
+     2.  INTELSAT/INMARSAT                      96       81       70      166       22        (1)       19       317      3,807    1,232    2,068
+     3.  Debt Service
+         a. Principal                          811      517        0      274        0        21     1,528     1,250          0      940    1,537
+         b. Interest                            76       55        0       13       22       196       427        67         44       12        1
+     4. Tax                                    470      495      740    1,330    1,250     1,600     2,220     2,850      3,220    4,310    6,382
+     5. Dividend                               120      180      180      240      240       240       280       360        280      380      760
+     6. Increase in Working Capital           (367)    (156)     355      164       56     2,496      (460)      366      1,355    5,186   13,581
+         excluding Cash
+             Total Applications              1,438    1,336    2,040    2,972    4,127     6,459     6,162     7,682     10,484   14,951   26,918
+
+C.        Cash Status
+     1.    Cash Surplus for Year               (16)     581     (558)    (119)     (98)      154      198      1,929     12,187   10,544     (628)
+     2.    Cash at Beginning of Year           336      320      901      343      224       126      280        478      2,407   14,594   25,138
+     3.    Cash at End of Year                 320      901      343      224      126       280      478      2,407     14,594   25,138   24,510
+
+D.        Others
+     1.    Operating Ratio (%)               64.0%    68.0%    65.0%    63.0%    68.0%     60.0%     88.0%     94.0%      85.0%    82.0%    67.0%
+     2.    Rate of Return - Historical (%)   42.0%    43.0%    57.0%    75.0%    60.0%     48.0%     59.0%     60.0%      54.0%    65.0%   127.0%
+     3.    Debt Service Ratio (times)           16       20    1,529      183      109        18        13       105        206       15       18
+     4.    Accounts Receivable (months)       12.0      5.1      6.3      5.2      7.5       7.7       3.4       3.6        3.5      3.3      3.6
+     5.    Debt/-Equity Ratio (%)            21.0%     0.0%     7.9%     0.0%    19.4%     56.4%     23.8%      8.5%       8.4%     3.7%     0.0%
+
+
+INMARSAT - International Martime Satellite Organization; INTELSAT = International Telecommunications Satellite Organization
+Source: Videsh Sanchar Nigam Limited annual reports.
+                                   HINDUSTAN CABLES LIMITED FINANCIAL STATEMENTS
+                                            Table A12.1: Income Statements
+                                            (Year ending 31 March, Rs million)
+
+         Item                           1989       1990    1991    1992     1993    1994    1995    1996     1997       1998
+
+A. Cable Production (ckm million)          6.6       4.8     4.1     2.5      4.0     4.5     6.5     2.7       3.6        1.9
+
+B. Income from Operation
+      Sales                              5,022     4,086   3,351   3,282    5,236   4,864   5,655   2,835     3,315      3,362
+
+C. Cost of Operation
+   1. Raw Materials                      3,069     2,755   2,047   1,993    2,718   2,476   3,163   1,435     1,687       865
+
+     2. Fuel                               47        44      38      42       53      59      99      70        84         90
+
+     3. Salaries and Wages                256       245     262     262      300     317     409     380       382        573
+
+     4. Overheads                        1,006      465     519     699     1,423   1,366   1,124    860      1,372      2,436
+
+         Subtotal                        4,378     3,509   2,866   2,996    4,494   4,218   4,795   2,745     3,525      3,964
+
+     5. Depreciation                      165       171     137     154      160     160     172     127       218        322
+
+         Total Cost of Operation         4,543     3,680   3,003   3,150    4,654   4,378   4,967   2,872     3,743      4,286
+
+D.      Operating Income                  479       406     348     132      582     486     688      (37)    (428)      (924)
+
+E.      Interest Charges                  237       327     325     377      461     473     567     806      1,033      1,603
+
+F.      Profit Before Tax                 242        79      23     (245)    121      13     121     (843)   (1,461)    (2,527)
+
+G.      Tax                                42        13       0        0       0       0       0        0           0          0
+
+H.      Dividend                           41        28       0        0       0       0       0        0           0          0
+
+I.      Retained Profit                   159        38      23     (245)    121      13     121     (843)   (1,461)    (2,527)
+
+
+ckm = conductor kilometers.
+Source: Hindustan Cables Limited annual reports.
+                                                     Table A12.2: Balance Sheets
+                                                   (Year ending 31 March, Rs million)
+
+
+          Item                           1989       1990     1991    1992    1993       1994    1995    1996    1997     1998
+
+
+A.      Assets
+     1.  Gross Fixed Assets              1,847       1,964   2,089   2,414   2,460      2,672   3,190   4,488    4,874    4,907
+     2.  Accumulated Depreciation          755         926     934   1,088   1,248      1,412   1,584   1,712    1,912    2,228
+     3.  Net Fixed Assets                1,092       1,038   1,155   1,326   1,212      1,260   1,606   2,776    2,962    2,679
+     4.  Capital Work in Progress           79         154     337     899   1,475      1,684   1,585     689      501      613
+            Subtotal                     1,171       1,192   1,492   2,225   2,687      2,944   3,191   3,465    3,463    3,292
+     5. Current Assets
+         a. Inventories                    951       1,292   1,383   1,543   1,565      1,389   1,676   1,814    1,232      998
+         b. Accounts Receivable          1,647       1,851   1,430   1,434   2,364      3,009   3,563   2,940    1,964    1,912
+         c. Cash and Bank Balances          78          17      64      20      29         90      50      93       59      123
+         d. Advances                       285         321     341     437     478        525     595     716      588    1,286
+            Subtotal                     2,961       3,481   3,218   3,434   4,436      5,013   5,884   5,563    3,843    4,319
+
+           Total Assets                  4,132       4,673   4,710   5,659   7,123      7,957   9,075   9,028    7,306    7,611
+
+B.      Equity and Liabilities
+     1.  Share Capital - Paid up           458         458     458     458     823        823     994   1,376       50       15
+     2.  Retained Earnings                 712         750     773     528     660        669     794       0        0        0
+            Subtotal                     1,170       1,208   1,231     986   1,483      1,492   1,788   1,376       50       15
+     3. Long-Term Loans                  1,890       2,356   2,548   2,827   4,003      4,611   5,156   5,868    5,634    4,931
+     4. Current Liabilities              1,072       1,109     931   1,846   1,637      1,854   2,131   1,784    1,622    2,665
+
+          Total Equity and Liabilities   4,132       4,673   4,710   5,659   7,123      7,957   9,075   9,028    7,306    7,611
+
+
+
+Source: Hindustan Cables Limited annual reports.
+                                       Table A12.3: Sources and Applications of Funds
+                                              (Year ending 31 March, Rs million)
+
+
+     Item                               1989       1990     1991     1992     1993     1994     1995     1996     1997      1998
+
+A.   Sources
+     1. Operating Income                   479       406      348      132      582      486      688      (37)     (428)     (924)
+     2. Depreciation                       165       171      137      154      160      160      172      127       218       322
+           Subtotal                        644       577      485      286      742      646      860       90      (210)     (602)
+     3. Increase in Share Capital            0         0        0        0      365      608      171      464       151     2,463
+     4. Loans                               50       466      192      279    1,176        0      545      712       431       408
+           Total Sources                   694     1,043      677      565    2,283    1,254    1,576    1,266       372     2,269
+
+B. Applications
+   1. Capital Expenditure                  117       192      181      887      622      421      419      401       198       144
+   2. Debt Service
+       a. Principal                          0         0        0        0        0        0        0        0       956     1,415
+       b. Interest                         237       327      325      377      461      473      567      806     1,033     1,603
+   3. Tax                                   42        13        0        0      (11)       0        0        0         0         0
+   4. Dividend                              41        28        0        0        0        0        0        0         0         0
+   5. Increase in Working Capital          191       544      124     (655)   1,202      299      630       16    (1,781)     (957)
+       excluding Cash
+          Total Applications               628     1,104      630      609    2,274    1,193    1,616    1,223       406     2,205
+
+C. Cash Status
+   1. Cash Surplus for Year                 66       (61)      47      (44)       9       61      (40)      43       (34)       64
+   2. Cash at Beginning of Year             12        78       17       64       20       29       90       50        93        59
+   3. Cash at End of Year                   78        17       64       20       29       90       50       93        59       123
+
+D. Others
+   1. Operating Ratio (%)                  90.0      90.0     90.0     96.0     89.0     90.0     88.0    101.0     113.0     127.0
+   2. Return on Capital Employed (%)       16.0      12.0     10.0      4.5     14.5     11.0     13.0     -1.3     -14.4     -34.5
+   3. Debt/Equity Ratio (%)               161.5     195.0    207.0    286.7    269.9    309.0    288.4    426.5    1126.8    3287.3
+   4. Accounts Receivable (months)          3.9       5.4      5.1      5.2      5.4      7.4      7.5     12.4       7.1       6.8
+
+
+
+Source: Hindustan Cables Limited annual reports.
+                                                                          Appendix 13, page 1
+
+
+           ECONOMIC AND FINANCIAL REEVALUATION OF THE INMARSAT
+         C-TYPE COASTAL EARTH STATION AND ASSOCIATED COMPONENTS
+
+
+A.     Economic Reevaluation
+
+1.     The economic reevaluation of the INMARSAT C-type coastal earth station includes the
+Mumbai international gateway telephone exchange and the Arvi-Mumbai digital microwave link
+components of the Telecommunications Project. The life of the components is assumed to be
+13 years, after which the equipment will be decommissioned. As advised by Videsh Sanchar
+Nigam Limited, these components incur no incremental operating and maintenance costs.
+Economic benefits are based on revenues, and consumer surplus is not considered in the
+analysis. Financial benefits and costs are converted to economic benefits and costs using a
+standard conversion factor of 0.8 up to 1993, and 0.9 thereafter. Taxes and duties are excluded
+from the analysis. The analysis is carried out in 2000 prices.
+
+
+             Table A13.1: Calculation of the Economic Internal Rate of Return
+                            (Rs million in constant 2000 prices)
+
+     Year            Capital Costs    O&M Costs           Revenue        Net Economic
+                                                                           Benefits
+
+     1989                 0.0             0.0                0.0               0.0
+     1990                 0.0             0.0                0.0               0.0
+     1991                71.39            0.0                0.0             (71.39)
+     1992               237.07            0.0                0.0            (237.07)
+     1993                18.40            0.0              188.43            170.03
+     1994                18.38            0.0              383.44            365.06
+     1995                 0.0             0.0              445.28            445.28
+     1996                 0.0             0.0              453.54            453.54
+     1997                 0.0             0.0              492.53            492.53
+     1998                 0.0             0.0              392.90            392.90
+     1999                 0.0             0.0              214.39            214.39
+     2000                 0.0             0.0              166.46            166.46
+     2001                 0.0             0.0              133.17            133.17
+     2002                 0.0             0.0              106.53            106.53
+     2003                 0.0             0.0               85.23             85.23
+     2004                 0.0             0.0               68.18             68.18
+     2005                 0.0             0.0               54.55             54.55
+
+                                                                EIRR =      80.8 %
+
+O&M = operation and maintenance.
+
+B.     Financial Reevaluation
+
+2.    The analysis follows the economic reevaluation, except for the shadow pricing of costs
+and benefits.
+                                                                 Appendix 13, page 2
+
+
+       Table A13.2: Calculation of the Financial Internal Rate of Return
+                         (Rs million in constant 2000 prices)
+
+Year         Capital Costs     O&M Costs         Revenue        Net Financial
+                                                                  Benefits
+
+1989              0.0             0.0                0.0              0.0
+1990              0.0             0.0                0.0              0.0
+1991            134.21            0.0                0.0           (134.21)
+1992            483.99            0.0                0.0           (483.99)
+1993             39.10            0.0              235.54           196.44
+1994             39.08            0.0              426.04           386.96
+1995              0.0             0.0              494.76           494.76
+1996              0.0             0.0              503.93           503.93
+1997              0.0             0.0              547.26           547.26
+1998              0.0             0.0              436.56           436.56
+1999              0.0             0.0              238.21           238.21
+2000              0.0             0.0              184.96           184.96
+2001              0.0             0.0              147.97           147.97
+2002              0.0             0.0              118.37           118.37
+2003              0.0             0.0               94.70            94.70
+2004              0.0             0.0               75.76            75.76
+2005              0.0             0.0               60.61            60.61
+
+                                                       FIRR =      50.2 %
+                                                                                                Appendix 14
+
+
+                  ECONOMIC REEVALUATION OF PIJF CABLE CONVERSION
+                            AND ASSOCIATED COMPONENTS
+
+
+1.      The economic reevaluation of the polyethelene-insulated jelly-filled (PIJF) cable
+conversion component includes the concast copper rod, research and development equipment,
+and raw materials components. These associated components are integral to the production
+process of PIJF cable. The economic life of these components is assumed to be 20 years. The
+economic benefits are based on the international price of PIJF cable (currently about $10.0 per
+conductor kilometer [ckm]) and full capacity utilization. PIJF cable is a traded good. Taxes and
+duties are excluded from the capital and other costs, and costs of nontradables are converted to
+economic values using a standard conversion factor of 0.8 up to 1993 and 0.9 thereafter. The
+analysis is carried out in 2000 prices.
+
+                              Calculation of the Economic Internal Rate of Return
+                                        (Rs million in constant 2000 prices)
+
+ Year     Output       Capital      Labor Cost      Raw          Utilities    Economic         Net
+          (million      Cost                       Material     and Other      Benefits     Economic
+           ckm)                                     Cost          Costs                      Benefits
+
+
+ 1991       0.0         113.8            0.0            0.0        0.0              0.0       (113.8)
+ 1992       0.0         136.9            0.0            0.0        0.0              0.0       (136.9)
+ 1993       0.0         857.4            0.0            0.0        0.0              0.0       (857.4)
+ 1994       0.0         524.9            0.0            0.0        0.0              0.0       (524.9)
+ 1995       1.4          60.0           84.5          549.2       19.0            610.5       (102.2)
+ 1996       0.0          60.9            0.0            0.0        0.0              0.0        (60.9)
+ 1997       0.0           0.0            0.0            0.0        0.0              0.0           0.0
+ 1998       0.0           0.0            0.0            0.0        0.0              0.0           0.0
+ 1999       0.0           0.0            0.0            0.0        0.0              0.0           0.0
+ 2000       3.1           0.0          187.2        1,216.1       42.0          1,351.9        (93.4)
+ 2001       3.1           0.0          187.2        1,216.1       42.0          1,351.9        (93.4)
+ 2002       3.1           0.0          187.2        1,216.1       42.0          1,351.9        (93.4)
+ 2003       3.1           0.0          187.2        1,216.1       42.0          1,351.9        (93.4)
+ 2004       3.1           0.0          187.2        1,216.1       42.0          1,351.9        (93.4)
+ 2005       3.1           0.0          187.2        1,216.1       42.0          1,351.9        (93.4)
+ 2006       3.1           0.0          187.2        1,216.1       42.0          1,351.9        (93.4)
+ 2007       3.1           0.0          187.2        1,216.1       42.0          1,351.9        (93.4)
+ 2008       3.1           0.0          187.2        1,216.1       42.0          1,351.9        (93.4)
+ 2009       3.1           0.0          187.2        1,216.1       42.0          1,351.9        (93.4)
+ 2010       3.1           0.0          187.2        1,216.1       42.0          1,351.9        (93.4)
+
+                                                 Net Present Value (discounted at 12 %) =   (1,616.7)
+
+
+
+ckm = conductor kilometers.
+

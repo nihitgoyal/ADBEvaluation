@@ -1,0 +1,659 @@
+Validation Report
+
+
+
+Reference Number: PVR-401
+Project Number: 36343
+Loan Number: 2281
+July 2015
+
+
+
+
+India: Rural Cooperative Credit Restructuring
+and Development Program
+
+
+
+
+Independent Evaluation Department
+                                        ABBREVIATIONS
+
+         ADB             ­        Asian Development Bank
+         CCS             ­        cooperative credit structure
+         DCCB            ­        district central cooperative bank
+         KfW             ­        German Bank for Reconstruction and Development
+         MOF             ­        Ministry of Finance
+         NABARD          ­        National Bank for Agriculture and Rural Development
+         NIMC            ­        National Implementation and Monitoring Committee
+         NPL             ­        nonperforming loan
+         PACS            ­        primary agriculture credit society
+         PCR             ­        program completion report
+         PPMS            ­        program performance monitoring system
+         RCCRDP          ­        Rural Cooperative Credit Restructuring Development
+                                  Program
+         SCB             ­        state cooperative bank
+         TA              ­        technical assistance
+
+
+
+                                               NOTE
+
+                              In this report, "$" refers to US dollars.
+
+
+
+
+                                           Key Words
+
+adb, asian development bank, ccs, cooperative credit structure, india, national bank for
+agriculture and rural development, profitability, pacs, primary agriculture credit society, rural
+cooperative, rural financing, validation
+
+
+
+
+The guidelines formally adopted by the Independent Evaluation Department (IED) on avoiding
+conflict of interest in its independent evaluations were observed in the preparation of this report.
+To the knowledge of IED management, there were no conflicts of interest of the persons
+preparing, reviewing, or approving this report.
+
+In preparing any evaluation report, or by making any designation of or reference to a particular
+territory or geographic area in this document, IED does not intend to make any judgments as to
+the legal or other status of any territory or area.
+                                         PROGRAM BASIC DATA
+Project Number:          36343               PCR Circulation Date:     30 Sep 2014
+Loan Number:             2281                PCR Validation Date:      Jul 2015
+Project Name:            Rural Cooperative Credit Restructuring and Development Program
+Country:                 India                                          Approved        Actual
+                                                                         ($ million)  ($ million)
+Sector:                  Finance             Total Project Costs:       1,428.00      1,048.76
+
+ADB Financing:           ADF: 0.00               Loan:                          1,000.00             800.00
+($ million)
+                                                 Borrower:                        251.00             126.32
+                         OCR: 1,000.00           Beneficiaries:                     0.00               0.00
+                                                 Others:                             0.00               0.00
+Cofinancier:                                     Total Cofinancing:
+                         DFID TA                 DFID TA                            2.00              0.05
+                         kfW                     KfW                              175.00            122.39
+Approval Date:           8 Dec 2006              Effectiveness Date:           10 Mar 2007       21 Feb 2007
+
+Signing Date:            11 Dec 2006             Closing Date:                  30 Jun 2010      30 Jun 2013
+Project Officers:        A. Sharma               Location:                         From:            To:
+                         V. Rao                  ADB headquarters                Dec 2006         Mar 2009
+                                                 ADB headquarters                Apr 2009         Jun 2013
+Validator:               C. Dingcong,            Peer Reviewer:                L. Hauck, Senior Evaluation
+                            Consultant                                            Specialist, IED2
+Quality Reviewer:        B. Nguyen, Senior       Director:                     B. Finlayson, IED2
+                            Evaluation
+                            Specialist, IED2
+ADB = Asian Development Bank; ADF = Asian Development Fund; DFID = Department for International Development
+of the United Kingdom; IED2 = Independent Evaluation Department, Division 2; KfW = German Bank for
+Reconstruction and Development; OCR = ordinary capital resources; PCR = project completion report; TA = technical
+assistance.
+
+
+
+                                   I.       PROGRAM DESCRIPTION
+
+A.      Rationale
+
+1.       Until 2006, India's economic growth, although robust, had not been broad-based or
+inclusive. Of particular concern was the poor performance of the agriculture sector that had been
+on a long-term declining trend. With about two-thirds of the population deriving their livelihood
+from agriculture and nearly three-quarters of the country's poor, or about 200 million people,
+living in rural areas, the impact of the long-term decline in agricultural performance on the quality
+of life of India's poor had been severe.
+
+2.       The role of finance is a critical input for strengthening the rural economy and agricultural
+production base. However, the response of the formal rural finance system had been
+increasingly inadequate. The rural financial paradigm, for the most part, was driven by credit
+expansion through government-owned or controlled financial institutions, particularly within the
+credit cooperative structure (CCS) comprising of primary agricultural credit societies (PACSs),
+district central cooperative banks (DCCBs), and state cooperative banks (SCBs). In 2006, with
+about 135 million members, India's CCS was one of the largest rural financial systems in the
+world.
+2
+
+
+3.      While the CCS was organized on the principles of self-governance and self-reliance,
+there were fundamental policy, governance, legal, and institutional problems that impaired its
+solvency, sustainability, and efficiency. As a result, the substantial network of CCS had neither
+been able to effectively address the demand and supply gaps in rural finance, nor function as a
+sustainable financial intermediary. Consequently, the objective of enhancing rural financial
+intermediation, especially to the asset-poor and disadvantaged rural households, was not fully
+realized.
+
+4.      Given its role in rural transformation, it was of vital importance to reform the CCS to
+make financial services to the rural poor more efficient and less expensive. Greater access to
+capital would support agricultural growth, which would contribute to increased income and
+employment for the poor. The Asian Development Bank (ADB) approved a $1 billion loan for the
+Rural Cooperative Credit Restructuring and Development Program (RCCRDP) in December
+2006 to help the government carry out its reform agenda to improve rural households' access to
+affordable financial services through an efficient CCS. 1 The program supported the reforms of
+CCS in five participating states--Andhra Pradesh, Bihar, Madhya Pradesh, Maharashtra, and
+Rajasthan--with the design based largely on the work of India's Vaidyanathan Committee,
+which was convened by India's Ministry of Finance (MOF) in December 2004.
+
+B.         Expected Impact
+
+5.      The expected impact of the program was enhanced income and employment growth for
+the rural poor in the participating states through better access to rural finance. The impact
+indicators identified in the program framework were (i) increased rural per capita incomes by at
+least 5% within 7 years, (ii) basic social indicators in the rural areas improved by at least 5%
+within 7 years, and (iii) reduced incidence of rural poverty ($1/day) by at least 5 percentage
+points within 7 years.
+
+C.         Objectives or Expected Outcome
+
+6.      The expected outcome of the RCCRDP was improved access by rural households to
+affordable financial services through a sustainable and efficient CCS in the participating states.
+The six outcome indicators specified in the program framework were (i) increased lending to
+agricultural activities (at least 5% increase per annum during the program period), (ii)
+increased number of small and marginal farmers having access to credit (at least 5%
+improvement during the program period), (iii) reduced non-performing asset levels in the CCS
+(at least 5% decline during the program period), (iv) improved repayment rate in CCS
+(aggregate repayment rate improves yearly during the program period), (v) improved CCS
+profitability (aggregate profitability improves yearly during the program period), and (vi)
+diminished costs of services for the CCS (average costs reduced successively during the
+program period).
+
+D.         Outputs
+
+7.    The program comprised three components: (i) establishing a policy reform and
+implementation framework; (ii) building a facilitating legal, regulatory, and governance
+framework for CCS; and (iii) initiating institutional reforms for the sustainability of the CCS.
+
+
+1
+    ADB. 2006. Report and Recommendation of the President to the Board of Directors: Proposed Loan and Technical
+    Assistance Grant to India for the Rural Cooperative Credit Restructuring and Development Program. Manila.
+                                                                                                                    3
+
+
+8.       Expected outputs of the program consisted of (i) a nationwide policy framework for
+strengthening the CCS, (ii) a conducive legal framework for autonomous CCS operations, (iii)
+orderly development of the CCS and enhanced depositor protection, (iv) democratic character
+of the CCS restored and governance enhanced, (v) international best practices mainstreamed
+in the CCS, (vi) PACSs strengthened to provide stronger foundation for the CCS, (vii) DCCBs
+reformed into sustainable institutions, and (viii) SCBs reformed to effectively perform as apex
+institutions supporting efficiency and sustainability of the CCS (PCR, para.2). The program
+had 45 output performance indicators based on the 89 tranche release conditions.
+
+E.        Provision of Inputs
+
+9.      ADB provided a loan of $1 billion from its ordinary capital resources, to be released in
+four tranches over a period of 3.5 years. The first three tranches were disbursed totaling $800
+million, with the second and third tranches being delayed due to unmet tranche release
+conditions (paras. 14­15). The final tranche of $200 million was canceled because of unmet
+conditions (PCR, para. 25). The German Bank for Reconstruction and Development (KfW)
+provided parallel financing of 140 million to support the CCS reform. 2
+
+10.      Based on the work of the Vaidyanathan Committee, the cost for implementing the
+reform program in the five participating states was estimated at $1.43 billion. The support of
+ADB and KfW was to cover about 80% of the cost. The costs of the program, however, were
+underestimated, particularly for the recapitalization, which were based on the March 2004 data
+that were not subjected to rigorous accounting standards (PCR, para. 15). As a result, the
+central government had to increase its contribution to recapitalization from $2.0 billion to $3.4
+billion.
+
+11.    The program was classified Category C under the ADB environmental categorization.
+An environmental assessment of the policy reforms was conducted and no potential
+environmental impacts were identified.
+
+12.      A technical assistance (TA) grant of $2 million on Capacity Building for Rural
+Cooperative Credit Structure Reform was also approved in conjunction with the program loan. 3
+The TA grant was funded by the Department for International Development (DFID) of the
+United Kingdom. The TA grant was to strengthen implementation and monitoring of CCS
+reform and enhance its social and gender impacts. Following the approval of the loan and TA
+grant, the Grant Thornton Advisory was recruited using quality and cost-based method.
+However, the program completion report (PCR) reported that no work was done under the TA
+grant for reasons that were unclear as the documentation was limited and with little
+institutional memory of the TA grant at ADB, National Bank for Agriculture and Rural
+Development (NABARD), and DFID (PCR, para. 28). 4 After a period of inactivity, NABARD
+requested in June 2007 for an amendment of the TA grant, which at that point was too late for
+consideration because the DFID Trust Fund that funded it was about to be closed. 5 The TA
+grant was canceled and no work was done under the contract. The TA grant was rated by the
+PCR unsuccessful and the performance of consultants was not rated because no work was
+done.
+
+2
+    At the time of the preparation of the program completion report, the parallel financing portion of KfW was not yet
+    closed and had undisbursed portion.
+3
+    See footnote 1.
+4
+    ADB. 2014. Completion Report: Rural Cooperative Credit Restructuring and Development Program in India.
+    Manila.
+5
+    The DFID Trust Fund was closed on 30 June 2008.
+4
+
+
+F.        Implementation Arrangements
+
+13.     The Banking Division of the MOF was the executing agency for the program while
+NABARD, the apex rural finance agency, was the implementing agency. High-level
+coordination was provided by the National Implementation and Monitoring Committee (NIMC),
+which served as the program's steering committee. Each state and district established an
+implementing and monitoring committee to coordinate efforts of the reform program at their
+level. ADB was not a member of any of these committees. The PCR pointed out that there
+were deficiencies in the implementation arrangements. First, only the states of Andhra
+Pradesh and Rajasthan had road maps for ineligible PACSs, which perpetuated unprofitable
+and undercapitalized PACSs in the other states. Second, arrangements for monitoring and
+collection of data were inadequate. The TA grant was to fund the setting up of the program
+performance monitoring system (PPMS), but this was not carried out (para. 12). Third, the
+composition of NIMC did not include ADB. For large facilities such as the RCCRDP, ADB
+should have been given the opportunity to be a member in the implementing committees or at
+least as an observer, to anticipate problems and influence implementation.
+
+14.      Of the 89 tranche release conditions spread across four tranches, 67 were fully
+complied with, 11 were substantially complied with, and 11 were partly complied with. Among
+those fully complied with were the (i) participation of five states in the reform program, (ii)
+amendments to the cooperative societies acts in all participating states, (iii) proposed
+amendments to the Banking Regulation Act finalized by MOF, and (iv) phase out of the cadre
+system. Among those conditions that were substantially complied with included the plans
+issued by NABARD to participating states for the development of accounting standards, a
+management information system, human resource development, and withdrawal of
+government nominees in PACS boards. The conditions partly complied with included the (i)
+development and implementation of plans for ineligible PACSs by all participating states, (ii)
+insufficient support by NABARD for clearing the accumulated losses of eligible CCSs, and (iii)
+partial compliance on the criteria for directors in the DCCB boards.
+
+15.     Although the fourth tranche was canceled, of the 16 policy actions intended to be
+supported by that tranche, seven were fully met and nine were not fully met. Unmet conditions
+included counterpart funding, computerization, corporate governance reforms, and
+implementation of action plans for ineligible PACSs (PCR, para. 25). This validation shares the
+view of the PCR that the cancellation of the final tranche was appropriate because (i) the
+program was already extended by 36 months, (ii) there was a considerable number of unmet
+conditions, and (iii) it was likely that it will take several years to meet the remaining tranche
+release conditions.
+
+                      II.     EVALUATION OF PERFORMANCE AND RATINGS
+
+A.        Relevance of Design and Formulation
+
+16.     The PCR rated the program relevant. At appraisal, the program was consistent with
+India's Tenth Five Year Plan 6 that included agricultural growth as one of the focus areas to
+promote inclusive growth, and to the ADB country partnership strategy 7 that identified
+agriculture and rural development as an important feature to mainstream poverty reduction. At
+
+
+6
+    Planning Commission, Government of India. 2002. Tenth Five Year Plan, 2002­2007. New Delhi.
+7
+    ADB. 2003. Country Strategy and Program: India, 2003­2006. Manila.
+                                                                                                                  5
+
+
+completion, the program remained consistent with India's Twelfth Five Year Plan 8 that
+considered agriculture a critical sector for inclusive growth, and the ADB country partnership
+strategy (2009­2012), 9 where agriculture's systemic weaknesses were identified as a key
+binding constraint.
+
+17.     The program design followed the recommendations of a high-level task force--the
+Vaidyanathan Committee--which was commissioned by MOF to overhaul the CCS. The task
+force recommended fundamental legal, regulatory, and institutional reforms packaged as an
+integrated set of measures to be implemented only in states that agree to carry out reforms in
+its entirety. The ADB program loan essentially funded the implementation of these
+recommendations in the five participating states.
+
+18.     The program's basic premise of corporate governance reforms prior to recapitalization
+was conceptually sound. However, there were weaknesses in the program design and
+implementation. The magnitude of the problems of the PACSs could have been better
+understood and resourced had there been a special audit before the program started. Greater
+and early focus on computerization could have helped improve data collection and could have
+supported program modifications. Not all of the legislative initiatives that required statutory
+changes were necessary as alternative regulatory and executive actions were able to achieve
+the desired outcome. 10 The time frame for implementation was unrealistic given the scope of
+reforms and the number of institutions involved. The risk mitigating measures were insufficient
+for the program's size (PCR, para. 52). As indicated by the PCR, additional risk mitigating
+measures should have been taken, such as initially piloting the program in one or two states
+prior to large-scale expansion, participation of ADB in NIMC, and conduct of a midterm
+program evaluation. The program costs were based on 2004 balance sheet estimates that
+were not subject to rigorous accounting standards (para. 10). In view of this, the loan program
+should have adequately anticipated how to address possible cost overruns, e.g., additional
+counterpart funding, expansion of ADB's facility, other donor support, and others.
+
+19.     At program inception, it was envisaged that participating states would implement action
+plans for PACSs that did not have reasonable prospects for recovery, i.e., those with loan
+recovery rates of less than 30%.The CCS reforms envisaged that these institutions with no
+turnaround prospects should be amalgamated or wound up. In its first meeting, NIMC modified
+the eligibility for recapitalization by allowing PACSs to be eligible for recapitalization if their
+recovery rate improved from below 30% to 50% within 3 years, and if they did not,
+recapitalization would be left to the responsible DCCB. This weakened the criteria for eligibility,
+and with poor baseline data, it was impossible to track how many of the over 100,000 PACSs
+across India benefited from these changes. Further, it sent the impression that reforms could
+be avoided and that there was regulatory tolerance for unviable PACSs.
+
+20.    While the basic premise of good governance prior to recapitalization was sound, the
+weaknesses in the design and change in the eligibility criteria for PACSs reduced the
+program's relevance. In addition, the cancellation of the accompanying TA grant weakened the
+program design. The TA grant could have funded ongoing data collection and performance
+monitoring, which were vital in assessing the progress and effectiveness of the program. The
+
+8
+   Planning Commission, Government of India. 2013. Twelfth Five Year Plan, 2012­2017. New Delhi.
+9
+   ADB. 2009. Country Partnership Strategy: India, 2009­2017. Manila.
+10
+   For example, amendments to the Banking Regulation Act (BRA) of 1949 were required in the program to bring the
+   CCS on par with the rest of the banking system. This required approval by the Parliament. However, the Reserve
+   Bank of India, through executive and regulatory actions, was able to introduce reforms without having to wait for
+   the actual amendment of the Banking Regulation Act.
+6
+
+
+TA grant could have provided external accountability through a team of consultants tasked to
+assess and monitor the CCS reform implementation and helped address the program's data
+deficiencies. On these bases, this validation assesses the program less than relevant.
+
+B.         Effectiveness in Achieving Program Outcome and Outputs
+
+21.    The PCR rated the program less than effective. The envisaged outcome of improved
+access by rural households to affordable financial services through a sustainable and efficient
+CCS in the participating states was not fully realized. Of the 16 conditions for the final or fourth
+tranche release, only seven were met (PCR, Appendix 2). Hence, the fourth tranche was
+canceled.
+
+22.     Of the 45 expected outputs that were based on the program's 89 tranche release
+conditions, 36 or 80% were achieved (PCR, Appendix 3).The notable outputs achieved were
+the (i) enactment of the amended cooperatives societies acts by participating states, (ii)
+establishment of standards for CCS board members and management, (iii) conduct of special
+audits by NABARD, and (iv) discontinuation of the cadre-based secretaries in PACS.
+However, the PCR indicated that some of the outputs achieved were of questionable
+stringency. For instance, the minimum capital requirement set for PACSs was only 4%
+compared to the international norm of 8% by Basel II. The outputs that were not fully met
+included those that were important to the reforms. These were the (i) cleaning of the CCS
+accumulated losses, which was a financial restructuring measure; (ii) implementation of plans
+for ineligible PACSs to ensure viability; and (iii) computerization in CCS to improve record
+keeping and monitoring.
+23.      Despite the shortfalls in outputs and unmet tranche conditions, the program achieved
+four of the six outcome indicators. First, agricultural lending increased by at least 14% and on
+an average of 21% per annum, exceeding the target of 5% per annum during the program
+period. Second, the number of PACS borrowers increased by 35%, exceeding the target of
+5%. The PCR indicated the weaknesses of these two outcome indicators--that banks
+generally do not lack incentives for increasing lending, the challenge, rather, is maintaining
+profitability and sustaining growth. The third outcome indicator was also achieved with
+aggregate CCS nonperforming loans (NPL) as percentage of aggregate loans falling from 22%
+in 2006 to 14% in 2012, exceeding the target of at least 5% decline. However, the PCR doubts
+this achievement; it was unclear as to what extent the target was attained without the debt
+waiver scheme that provided relief for small farmers. 11 The fourth indicator of improved
+repayment rate was likely achieved based on available data from SCBs and DCCBs--that
+recovery of loans to demand ratio increased from 75% to 85% from 2006 to 2012. The fifth
+outcome target of improved CCS profitability was not achieved with aggregate profits lower
+than the preceding year in 5 out of 6 years. Sixth, the outcome target of diminished costs of
+services from CCS was not achieved. Operating costs as percentage of revenues, or
+efficiency ratio, of SCBs and DCCBs increased from 2006 to 2012 indicating increased
+inefficiency in operations.
+
+24.     This validation assesses the program less than effective. While there were notable
+outputs achieved, there were also significant outputs critical to the reforms that were not fully
+realized. The cancellation of the fourth tranche reduced the effectiveness of the program and
+affected the attainment of the program's envisaged outcome.
+
+11
+     In 2008, MOF announced a debt waiver scheme that provided debt relief for small and marginal farmers. While the
+     waiver may have improved the level of nonperforming loans, it encourages defaults and creates a strong
+     disincentive for farmer borrowers to promptly settle their loans.
+                                                                                                                7
+
+
+C.         Efficiency of Resource Use in Achieving Outcome and Outputs
+
+25.     The PCR rated the program less than efficient. The program was extended twice for an
+accumulated delay of 36 months. The delays were due to the unmet tranche release
+conditions broadly associated with the time needed to implement the reforms, the higher-than-
+anticipated costs, and resistance to the closure of ineligible PACSs.
+
+26.      The PCR indicated that the program represented poor value for money in that the
+government spent Rs98.6 billion or $1.6 billion to facilitate legal amendments, governance
+reforms, and institutional development but the financial sustainability of the CCS was not
+fundamentally altered. The SCBs and DCCBs have remained undercapitalized with about 50%
+not meeting the 9% capital adequacy ratio--the standard for commercial banks and which
+they must comply with by March 2017. The Reserve Bank of India estimated that Rs64.9
+billion ($1.1 billion) of additional funding is needed for DCCBs alone to achieve the regulatory
+minimums. 12
+
+27.     This validation shares the view of the PCR that a smaller ADB loan could have
+achieved similar value addition to the CCS. ADB had little role in designing the program and,
+essentially, its contribution was in monitoring implementation. In view of the priorities to
+develop agriculture and the rural sector, the government would have undertaken a similar
+program with or without ADB support. Hence, there was no need to allocate $1 billion. A
+smaller loan with strong support for monitoring would have been more efficient. Further, there
+was no solid statistical evidence showing that ADB's engagement improved the financial
+results. In fact, SCBs and DCCBs in general have not improved their efficiency of operations,
+have remained undercapitalized, and had no substantial improvement in profitability (para. 29).
+
+28.    In view of the substantial delays in implementation and since the amount spent for the
+reforms did not fundamentally change the financial condition of the CCS, this validation
+assesses the program less than efficient.
+
+D.         Preliminary Assessment of Sustainability
+
+29.      The PCR rated the program less than sustainable. Data drawn by the PCR from the
+Reserve Bank of India showed that while NPLs have fallen, they have remained normatively
+high toward the end of the program period. In 2012, the NPL ratio of PACS was highest at
+27%, while that of DCCBs was 10% and SCBs at 7%. The percentage of unprofitable DCCBs
+and SCBs has generally declined but the percentage of unprofitable PACSs remained
+relatively high toward the end of the program period. In 2012, the percentage of unprofitable
+institutions was highest among PACS at 39%, while it was 14% for DCCBs and 10% for SCBs.
+If the CCS is to be sustained without continued infusions of government capital, the NPLs
+have to be reduced and their profitability improved. This validation also assesses the program
+less than sustainable because, overall, the program achievements have not produced a
+financially sustainable CCS system for rural finance.
+
+
+
+
+12
+     Reserve Bank of India. 2013. Report of the Expert Committee to Examine Three-Tier Short-Term Cooperative
+     Credit Structure. Mumbai.
+8
+
+
+E.         Institutional Development
+
+30.      The PCR rated the institutional development of the program significant. The program
+did not achieve sustainability for the CCS but there were significant changes in the
+development of institutions. These included the amendments to the cooperative societies acts,
+introduction of statutory audits, adoption of standards for management and board members,
+and discontinuation of the cadre system. For these reasons, this validation also considers the
+institutional development of the program significant.
+
+F.         Impact
+
+31.     The PCR rated the impact of the program moderate. It indicated that while the impact
+indicators were achieved, they were poorly specified and the link of increased rural incomes,
+improved social indicators, and reduced poverty with the CCS reforms was weak. First, per
+capita consumption expenditures 13 in participating states increased on average by 147%
+during the program period, exceeding the target of at least 7%. Second, the impact indicators
+for improved social indicators were met in terms of infant mortality, access to hospitals, and
+literacy rates increasing by at least 5%. Third, poverty was reduced for the population living
+below $1.25 per day with the percentage falling from 41.6% in 2005 to 32.3% in 2010.
+
+32.     The PCR is of the view that appropriate indicators should have been included
+particularly on CCS financial viability and adequacy of capital. If assessed based on these
+indicators, the PCR rating of the program's impact is moderate. In terms of profitability, on the
+aggregate, the CCS remained unprofitable with 39% of the unprofitable PACS driving the
+system losses. In terms of efficiency, the efficiency ratio of SCBs increased from 10.3% in
+2006 to 12.7% in 2012, while for DCCBs, it increased from 20.0% to 24.3%, indicating
+increasing inefficiency of operations. Third, a significant number of SCBs and DCCBs have
+remained undercapitalized with about 50% of them not meeting the 9% capital adequacy
+requirement that applies to banks, and that will be applied to them by March 2017. This
+validation shares the view of the PCR that these additional impact indicators are appropriate
+and have stronger link with the CCS reforms. Based on these metrics, this validation also
+considers the impact of the program moderate.
+
+                             III.     OTHER PERFORMANCE ASSESSMENTS
+
+A.         Performance of the Borrower and Executing Agency
+
+33.    The PCR rated the performance of MOF less than satisfactory. MOF did some
+important contributions to the CCS reforms. First, MOF developed the program based on the
+Vaidyanathan Committee's basic premise that corporate governance reforms should precede
+recapitalization. Second, it accorded the project high-level support during the initial phase of
+the program. Third, the cooperative societies acts of participating states were amended, and
+management information systems, accounting standards, more qualified boards and chief
+executive officers, and appropriate regulatory norms were introduced in varying degrees.
+Fourth, the program design included an amendment to the Banking Regulation and NABARD
+Acts but when this was stalled due to various domestic factors, including the time and process
+involved in legislation, existing regulatory frameworks were used to achieve the same
+outcomes.
+
+
+13
+     Per capita consumption was used as proxy indicator for per capita rural income.
+                                                                                                     9
+
+
+34.     However, there were countervailing measures that were unfavorable to the program.
+First, 2 years into the program, the government announced a debt waiver scheme that
+provided debt relief for farmers. This undermined the reforms, particularly the sustainability of
+CCS, in that it created an atmosphere that encourages default and created strong
+disincentives for borrowers to promptly repay their loans. Second, the shortfall in counterpart
+funding made it difficult to meet the tranche release conditions particularly on cleaning
+accumulated losses. Hence, the program was not completed. This left the CCS
+undercapitalized and the governance reforms losing momentum. In view of the
+counterproductive debt waiver scheme and the unmet tranche release conditions, this
+validation views the performance of MOF as less than satisfactory.
+
+B.         Performance of the Asian Development Bank
+
+35.      The PCR rated the performance of ADB less than satisfactory. Five reasons were
+indicated for this rating. First, the PCR is of the view that the government could have
+undertaken the initiatives of the program in a similar manner with or without ADB support;
+there was no statistical evidence to show that the ADB assistance improved financial results of
+CCS (PCR, Table 3). Second, there were weaknesses in the program design that included (i)
+a special audit of PACS that should have been conducted before the program started; (ii) lack
+of earlier focus on computerization; and (iii) overreliance on legislative initiatives, not all of
+which were necessary. Third, the program should have been tested with a smaller funding
+facility and expanded if successful. In addition, the large funding facility for the program
+restricted available funding for other initiatives in India and elsewhere. Fourth, there was lack
+of institutional checks and balance and potential conflict of interest on the part of ADB--the
+program's driver from origination to approval was disproportionately the director of the
+originating division instead of the mission leaders. 14 Fifth, records of the program were not
+centrally maintained, which made consolidation difficult especially for a multiyear program
+where staff turnover is inevitable. In view of all these factors, this validation also views the
+performance of ADB as less than satisfactory.
+
+              IV.     OVERALL ASSESSMENT, LESSONS AND RECOMMENDATIONS
+
+A.         Overall Assessment and Ratings
+
+36.       The PCR rated the program less than successful. The envisaged outcome of improved
+access by rural households to affordable financial services through a sustainable and efficient
+CCS was not fully realized. There were weaknesses in the design and the change in the
+eligibility criteria for PACSs affected the attainment of a sustainable and efficient CCS in the
+participating states. The cancellation of the fourth tranche reduced the effectiveness of the
+program and some significant outputs critical to the reforms were not fully realized. There were
+substantial delays in implementation and despite the amount spent for reforms, the financial
+condition of the CCS was not fundamentally changed. This validation rates the overall
+performance of the program less than successful.
+
+
+
+
+14
+     The director was a former employee of NABARD and was involved in the design of the program.
+10
+
+
+                                              Overall Ratings
+  Criteria                          PCR             IED Review          Reason for Disagreement
+                                                                            and/or Comments
+ Relevance                     Relevant           Less than       There were weaknesses in the design
+                                                  relevant        and the change in the eligibility criteria
+                                                                  for PACSs reduced the relevance of
+                                                                  the program (paras. 17­20).
+ Effectiveness in achieving    Less than          Less than
+ outcome and outputs           effective          effective
+ Efficiency in achieving       Less than          Less than
+ outcome and outputs           efficient          efficient
+ Preliminary assessment        Less than          Less than
+ of sustainability             sustainable        sustainable
+ Institutional development     Significant        Significant
+ Impact                        Moderate           Moderate
+ Overall assessment            Less than          Less than
+                               successful         successful
+ Borrower and executing        Less than          Less than
+ agency                        satisfactory       satisfactory
+ Performance of ADB            Less than          Less than
+                               satisfactory       satisfactory
+ Quality of PCR                                   Satisfactory    Refer to para. 41.
+ADB = Asian Development Bank, IED = Independent Evaluation Department, PACSs = primary agriculture credit
+societies, PCR = program completion report.
+Source: ADB Independent Evaluation Department.
+
+B.      Lessons
+
+37.     The PCR presented valuable and important lessons from the implementation of the
+program. The results of the program highlight the need for ADB to conduct adequate due
+diligence even though the policy framework was largely based on the recommendations of the
+high-level Vaidyanathan Committee. Greater focus on data collection should have been made in
+the program design in view of the limited data available for DCCBs and PACS. The program
+concept should have been piloted first in one or two states, and expanded to other states once
+proven successful. Ambitious reform programs should have realistic time frames to allow
+sufficient time to comply with tranche release conditions. While the ADB assessment anticipated
+much of the possible program problems, additional risk mitigation measures should been made
+to include piloting of the program prior to large-scale expansion, active participation of ADB in
+NIMC, and the conduct of a midterm program evaluation. Lastly, tranche release conditions that
+require statutory changes should be avoided as the legislative process takes time particularly in
+getting the approval of the Parliament. The lessons are appropriate and this validation has no
+additional lesson to offer.
+
+C.      Recommendations
+
+38.     The program-related recommendations of the PCR are suitable. For banking sector
+reforms, ADB should review past policy actions that contradict the purposes of the loan and
+highlight these risks at appraisal. In view of the less than successful rating and the
+complexities of the CCS that operates over a large geographical area, no further assistance
+should be provided by ADB for the rural CCS and focus instead on other initiatives within rural
+and inclusive finance.
+                                                                                                 11
+
+
+39.     The general recommendations of the PCR are appropriate. These included (i)
+anticipating shortfalls when there is reasonable probability that actual costs will exceed original
+estimates; (ii) larger tranches to come toward the end of the program to provide incentives for
+program completion; (iii) include systems in the design that can collect ongoing data on
+performance and provide adequate monitoring; (iv) provide external accountability and
+consider smaller facilities to maximize the efficiency of development resource; (v) maintain
+centralized record keeping within ADB departments; (vi) in situations where national
+governments convene task forces to assess public policy problem, ADB may better support
+the implementation of the task force's recommendation rather than duplicating its work; (vii)
+when support is needed for ambitious reforms, ADB may consider piloting smaller facilities
+before moving into larger programs; (viii) allow adequate time for implementing ambitious and
+complicated reforms; and (ix) for large facilities, ADB should require membership in
+implementing committees, or at least as observer if membership is not politically possible.
+
+                    V.      OTHER CONSIDERATIONS AND FOLLOW-UP
+
+A.     Monitoring and Evaluation Design, Implementation and Utilization
+
+40.      A PPMS operated by NABARD was established to track reform progress. The PPMS
+tracked the implementation of the policy matrix and the progress in achieving the indicators
+identified in the program framework. This validation notes that the impact indicators should have
+been linked more closely with the CCS reforms to include indicators for portfolio quality, capital
+adequacy, and financial sustainability.
+
+B.     Comments on Project Completion Report Quality
+
+41.     This validation rates the PCR satisfactory. It is generally well written and provided
+various evidences to substantiate the ratings. The lessons were drawn from the findings and
+the recommendations were sound. Table 4 aptly summarized the program outcomes and their
+status. The presentation of the status of compliance with tranche policy conditions in Appendix
+2 was informative. The status of the outputs was clearly presented in Appendix 3 and was
+helpful in understanding the extent of achievement of the targets.
+
+C.     Data Sources for Validation
+
+42.    Sources used for this validation were the PCR, report and recommendation of the
+President, loan review mission reports, aide-memoire of review missions, and progress reports
+on tranche releases.
+
+D.     Recommendation for Independent Evaluation Department Follow-Up
+
+43.    No recommendation is presented.
+

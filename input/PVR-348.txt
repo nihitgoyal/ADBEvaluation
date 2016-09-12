@@ -1,0 +1,625 @@
+Validation Report
+
+
+
+Reference Number: PVR-348
+Project Number: 40655
+Loan Numbers: 2404 and 2509
+November 2014
+
+
+
+
+India: India Infrastructure Project Financing Facility
+
+
+
+
+Independent Evaluation Department
+                                         ABBREVIATIONS
+
+      ADB                  ­       Asian Development Bank
+      DFI                  ­       development finance institution
+      DMF                  ­       design and monitoring framework
+      ESSF                 ­       environmental and social safeguard framework
+      IIFCL                ­       India Infrastructure Finance Company Ltd.
+      IIPFF                ­       India Infrastructure Project Financing Facility
+      MFF                  ­       multitranche financing facility
+      MOF                  ­       Ministry of Finance
+      PCR                  ­       project completion report
+      PPP                  ­       public­private partnership
+      RRP                  ­       report and recommendation of the President
+      TA                   ­       technical assistance
+
+
+                                                NOTE
+
+                               In this report, "$" refers to US dollars.
+
+
+
+
+                                            Key Words
+
+asian development bank, adb, country assistance program evaluation, development finance
+institution, india, india infrastructure finance company ltd, india infrastructure project financing
+facility, project completion report, private sector participation, public­private partnership, report
+and recommendation of the president, technical assistance
+
+
+
+
+The guidelines formally adopted by the Independent Evaluation Department (IED) on avoiding
+conflict of interest in its independent evaluations were observed in the preparation of this report.
+To the knowledge of IED management, there were no conflicts of interest of the persons
+preparing, reviewing, or approving this report.
+
+In preparing any evaluation report, or by making any designation of or reference to a particular
+territory or geographic area in this document, IED does not intend to make any judgments as to
+the legal or other status of any territory or area.
+                                            PROJECT BASIC DATA
+Project Number:          40655                    PCR Circulation Date:           Nov 2012
+Loan Numbers:            2404 and 2509            PCR Validation Date:            Nov 2014
+Project Name:            India Infrastructure Project Financing Facility
+Country:                 India                                                      Approved            Actual
+                                                                                    ($ million)       ($ million)
+Sector:                  Multisector                Total Project Costs:              500.00             500.00
+ADB Financing:           ADF:      0.00             Loan:                              500.00             500.00
+($ million)
+                                                    Borrower:                             0.00              0.00
+                         OCR: 500.00                Beneficiaries:                        0.00              0.00
+                                                    Others:                               0.00              0.00
+Cofinancier:                                        Total Cofinancing:                    0.00              0.00
+Approval Date:                                      Effectiveness Date:
+      IIPFF                      14 Dec 2007                 2404                 3 Mar 2008        14 Apr 2008
+      2404                       20 Dec 2007                 2509                 26 Feb 2009       20 Mar 2009
+      2509                       24 Feb 2009
+Signing Date:                                       Closing Date:
+      2404                        3 Mar 2008                 2404                 30 Oct 2009      15 Jan 2010
+      2509                       26 Feb 2009                 2509                 30 Nov 2011 26 Aug 2011
+Project Officer:                                    Location:                         From:             To:
+                         C. Kim                     ADB headquarters              Feb 2009         Nov 2011
+Validators:              R. Limjoco, Consultant     Peer Reviewer:                L. Hauck, Senior Evaluation
+                         F. D. De Guzman,                                            Specialist, IED2
+                            Senior
+                            Evaluation Officer,
+                            IED2
+Quality                  B. Nguyen, Senior          Director:                     B. Finlayson, IED2
+Reviewer:                   Evaluation
+                            Specialist, IED2
+ADB = Asian Development Bank; ADF = Asian Development Fund; IED2 = Independent Evaluation Department,
+Division 2; IIPFF = India Infrastructure Project Financing Facility; OCR = ordinary capital resources; PCR = project
+completion report.
+
+                                       I.      PROJECT DESCRIPTION
+
+A.        Rationale
+
+1.      The India Infrastructure Project Financing Facility (IIPFF) was designed to directly
+support the government's infrastructure development agenda that was anchored on increasing
+private sector participation in infrastructure via public­private partnerships (PPPs).1 This was
+to be undertaken by the provision of much-needed long-term funds for infrastructure financing
+through the India Infrastructure Finance Company Ltd. (IIFCL). Insufficient and poor quality of
+infrastructure had constricted India's growth potential in the recent past. Hence, the
+Government of India decided to address this shortcoming under the country's 11th five-year
+plan. The country had an underdeveloped, long-term debt market and long-term sources of
+finance were considered to be critical in pursuing its infrastructure agenda. Consequently, the
+
+1
+    ADB. 2007. Report and Recommendation of the President to the Board of Directors: Proposed Multitranche
+    Financing Facility to India Infrastructure Finance Company Limited for the India Infrastructure Project Financing
+    Facility. Manila.
+2
+
+
+IIFCL was set up to promote PPP projects and help raise long-term finance for infrastructure
+through an ADB-supported multitranche financing facility (MFF).
+
+B.         Expected Impact
+
+2.       The expected impact of the IIPFF was catalyzing an investment of $2.5 billion­$3.5
+billion from the private sector to finance PPP projects. If successfully implemented, this facility
+was to result in a convergence of investors and yield additional investments, including those
+from the World Bank, Japan Bank for International Cooperation (JBIC), and KfW as indicated in
+the report and recommendation of the President (RRP). The impact indicators were expected to
+be accomplished during the Eleventh Five Year Plan, 2007­2012. These indicators were (i)
+reduction in peak and average energy deficit, (ii) achievement of target seaport capacity of 1,300
+million tons per annum, (iii) widening of national highways in line with the National Highways
+Development Project, (iv) achievement of national urban transport policy goals, and (v)
+increased private sector investment in infrastructure by 30% of overall infrastructure investment.
+
+C.         Objectives or Expected Outcomes
+
+3.      The project's expected outcomes were (i) increased private sector participation in
+infrastructure development through PPPs, (ii) contained and reduced fiscal deficit through
+private sector participation in infrastructure, (iii) improved lending terms of IIFCL for
+infrastructure subprojects, (iv) improved IIFCL capacity through relevant technical assistance
+(TA) support to ensure that ADB funds were used for subprojects that conformed to
+environmental and social safeguard framework (ESSF), and (v) improved resource
+management and project risk assessment capabilities in IIFCL.
+
+4.       Targeted outcome indicators for the respective expected outcomes were (i) contribution
+in achieving the targeted 9% gross domestic product growth during 11th five-year plan;
+(ii) contribution in achieving the fiscal deficit target of 3% gross domestic product in line with
+the Fiscal Responsibility and Budget Management (FRBM) Act of 2003 by 31 March 2009;
+(iii) reduction in average borrowing costs for IIFCL and improvement in availability of finance
+for infrastructure, including increased duration of financing provided by IIFCL for subprojects
+during the 11th five-year plan; (iv) IIFCL staff are able to understand the ESSF and are using it
+to assess proposed subprojects during FY2009­FY2010, including year-to-year improvement
+in the number of assessed subprojects complying with ESSF between FY2008 and FY2011,
+and development of risk management system; and (v) reduction in duration gap between asset
+and liability portfolio of IIFCL between FY2008 and FY2011, including enhanced processes,
+systems, and staff capacity for subproject risk assessment and improvements in asset profile,
+liquidity indicators, and value at risk indicators between FY2008 and FY2011. The
+development of risk management system for IIFCL was included in the design and monitoring
+framework (DMF) of the project completion report (PCR).2
+
+D.         Outputs
+
+5.      The following outputs were envisaged in the DMF of the RRP: (i) high-quality
+infrastructure assets created in various subsectors across the country; (ii) availability of long-
+term funding to IIFCL and improved ability of IIFCL to provide long-term financing to
+subprojects; (iii) international credit rating attained by IIFCL and periodically updated;
+
+
+2
+    ADB. 2012. Completion Report: India Infrastructure Project Financing Facility. Manila.
+                                                                                                  3
+
+
+(iv) improved financial policies, staff capacity, and risk management systems of IIFCL; and (v)
+development and implementation of ESSF.
+
+E.     Provision of Inputs
+
+6.       Supported by a guarantee from the Government of India, an MFF of $500 million was
+approved, along with a $500,000 TA support on grant basis. ADB review missions and periodic
+tripartite meetings in the country--comprising the central government, executing or
+implementing agency, and ADB--were to coordinate the project implementation. The MFF was
+to be released in two tranches. The first tranche for $300 million was fully committed and
+disbursed and the loan was closed in January 2010, about 2 months later than the planned date
+of October 2009. The second tranche of $200 million was fully committed and disbursed in
+August 2010, about 3 months earlier than the November 2010 expected date. One PCR was
+prepared for both tranches (footnote 2), which is the subject of this validation. The PCR argued
+that MFFs dealing with financial intermediaries are better handled through an overall risk
+assessment and suggested the revision of relevant operational manual guidelines. However, as
+the PCR discussed the facility as a whole, one does not get any insight into the progress and
+dynamics of implementation under each tranche separately.
+
+7.    It needs to be noted that the contribution of other ongoing ADB TA projects in India in
+providing support for the mainstreaming of PPP projects has been catalytic. These TA projects
+have helped establish PPP cells in selected states and central line ministries and provided
+capacity-building support for PPP project preparation and appraisal skills, building a PPP
+database, and refining the PPP policy and regulatory framework.
+
+8.     ADB provided national consultants for 24 person-months in support of capacity building.
+Special provision was made to implement environmental and social safeguards for all projects
+under the project. A common, harmonized ESSF was developed in consultation with
+development partners and IIFCL. Toward this end, an environmental and social safeguards
+management unit was established in February 2010. The PCR noted that both ADB and IIFCL
+staff visited all subproject sites to ensure compliance with the ADB safeguard requirements.
+
+F.     Implementation Arrangements
+
+9.     IIFCL was the borrower and executing agency for the IIPFF. Its board of directors was
+to be responsible for laying down policies and providing strategic direction. A project
+management unit was established within IIFCL to identify, screen, and select subprojects in
+consultation with the consortium of lenders. The project management unit was to ensure
+compliance with national and state policies and the ESSF, and monitor the day-to-day
+implementation of the IIPFF.
+
+10.      The PCR noted that the implementation arrangements for IIPFF were conducted in
+such a manner that they fulfilled the requirements. The subprojects and subborrowers had
+been selected in accordance with the scheme and agreed criteria of ADB, and followed the
+ADB Procurement Guidelines as amended from time to time. The subprojects had undergone
+comprehensive environmental and social safeguard due diligence. The necessary ESSF was
+prepared and activities were compliant with all applicable ADB environmental and social
+safeguard policies and requirements. Finally, the subprojects had complied with financial
+management eligibility criteria, including the need to ensure that legal agreements include
+appropriate provisions for subprojects accounting, statutory audit, and submission of certified
+utilization certificates before each disbursement and report. So far, IIFCL had relied on the
+4
+
+
+control exercised by the lead bank, however, internal controls and audits at the subproject
+level were being factored into IIFCL's monitoring and review mechanisms. Similarly, an
+integrated risk management system was being developed for IIFCL.
+
+11. There were no adverse environmental and resettlement, safeguards, governance, or
+fiduciary concerns that were identified. In fact, IIPFF helped to expand the coverage of ESSF to
+PPPs and private sector infrastructure in India.
+
+                      II.      EVALUATION OF PERFORMANCE AND RATINGS
+
+A.        Relevance of Design and Formulation
+
+12.     The PCR rated the project highly relevant mainly on the strength of the consistency in
+the strategy and programs of ADB and the Government of India for infrastructure. It argued
+that the project was consistent with the country strategies and programs of ADB and the
+government. Infrastructure is a core area of operation under the ADB Strategy 2020. India's
+11th five-year plan also identified infrastructure development in both urban and rural areas as
+a key priority. The emphasis on infrastructure development and greater use of PPPs was a
+recurring theme during stakeholders' consultations for developing the India Country
+Partnership Strategy (2007­2012).3 The PCR noted that despite reforms by the government,
+the long-term debt market in India had remained relatively underdeveloped. Hence, demand
+for long-term loans for infrastructure was expected to continue until such time that the
+domestic market would be able to provide these resources. In this context, IIPFF served to
+continue promoting reforms through TA projects and policy dialogue with the government.
+These initiatives were expected to help promote innovative solutions for long-term local
+currency markets through sustainable financial intermediary products. The PCR, however, did
+not elaborate on the design and formulation of the MFF. What were envisaged to be achieved
+under each of the tranches remains to be seen. In its absence, one does not know for sure if
+the IIFCL has emerged in the best manner under the circumstances.
+
+13.       For example, an important concern in designing the IIPFF could have been the value
+addition when providing loans using local financial institutions as conduits. Otherwise, its
+impact could be limited to the simple provision of funds. While IIFCL could be instrumental in
+filling the financing gap in the short term, it could be more fruitful if it can be used to leverage
+reforms in the infrastructure and capital market sectors. Similarly, IIFCL could securitize its
+infrastructure investment portfolio and develop a secondary market in these securities by
+acting as primary dealer in these securities. The lack of a secondary market in long-term debt
+securities was identified in the RRP as a major constraint to the development of long-term debt
+market. Could IIFCL have leveraged more funds and investments into infrastructure through
+this facility? Some of these issues, which were at the heart of design, could have been dealt
+with more explicitly in the PCR.
+
+14.      The RRP mentioned the reforms being undertaken in the infrastructure sector to
+promote PPPs. However, there was not much analysis in the PCR about the overall
+constraints for developing an enabling environment for private sector participation in India and
+how the government had been addressing these,4 especially those related to the inherent risks
+in infrastructure investments through PPPs.
+
+
+3
+    See http://www.adb.org/sites/default/files/projdocs/2007/37748-REG-DPTA.pdf
+4
+    The last Private Sector Assessment in India made by ADB was in 2003.
+                                                                                                    5
+
+
+15.     On the IIFCL as the vehicle of choice, it must be observed that the failure of
+development finance institutions (DFIs) in the past had been due to a number of factors, such
+as directed credits, subsidized or below market interest rates, and political or external
+interference. Despite historical experience, these risk factors and their prevention, especially
+the latter, did not appear to have been covered in the IIPFF design. Although self-regulated,
+IIFCL continues to be run and directed by the government, its principal owner, through the
+Ministry of Finance (MOF). There have been moves to place it under the Reserve Bank of
+India's--the central bank--supervision as a financial intermediary. It is not clear how this
+aspect was dealt with upon approval or during the transition to tranche 2, and in subsequent
+operations related to IIFCL.
+
+16.     In the absence of adequate details, it seems that ADB principally relied on the
+government's guarantee when it provided the loan facility to IIFCL. It is apparent from the
+RRP, PCR, and related technical assistance completion report, that in the beginning, IIFCL
+lacked the requisite capacity to undertake project and credit risk assessment and packaged
+loans, and largely depended on the lead bank or consortium leader's own assessment and
+financial packaging. IIFCL also lacked the capacity to implement safeguards, which was not
+addressed in the original project design even when this was known to the project team as
+noted in the technical assistance completion report. No background information on the
+expertise and know-how of IIFCL management and officers was provided during the
+preparation of IIPFF.
+
+17.      The organizational chart of IIFCL (RRP, Appendix 5, Figure A5) indicated that the
+organization was not geared for long-term project management and development, which is
+critical for managing infrastructure projects in the long run. It only had a legal and recovery
+department but no unit for project supervision. This critical aspect of long-term project
+financing also appears to have been relegated to the lead bank, despite the fact that IIFCL
+would be holding the long end of the maturity structure.
+
+18.     Despite the cited limitations and missing details in the project design and formulation,
+this validation, nonetheless, rates the project relevant in the context of India and ADB country
+strategy.
+
+B.     Effectiveness in Achieving Project Outcomes and Outputs
+
+19.     The PCR assessed the MFF highly effective. The five outcomes envisioned for the
+IIPFF were achieved. These are (i) increased private sector participation in infrastructure
+development through PPPs, (ii) containing and reducing fiscal deficit through private sector
+participation in infrastructure, (iii) improved lending terms of IIFCL for infrastructure
+subprojects, (iv) improved capacity in IIFCL to ensure that ADB funds are used for subprojects
+that conform to ESSF through relevant TA support, and (v) improved resource management
+and project risk assessment capabilities in IIFCL. The PCR cited that IIFCL is now able to
+undertake an independent credit risk assessment of subprojects with the development of an
+internal credit rating and migration model. However, a number of the measures for defining the
+project outcome were broad macroeconomic indicators (PCR, Appendix 1). Considering the
+size of the IIPFF relative to the overall economic activity in India (about $2 trillion economy),
+the contribution of the facility, however, was to be miniscule. Likewise, no progress was
+documented in regard to improved lending terms, although funds have been made available.
+
+20.    Nonetheless, there were some significant achievements. For example, the availability
+of long-term financing to IIFCL and improved ability of IIFCL to provide long-term financing;
+6
+
+
+obtaining an international credit rating for IIFCL; improved financial policies, staff capacity, and
+risk management systems; and the implementation of ESSF were all in line with achieving the
+intended outcomes that have direct linkage with the IIPFF. Aided by a TA project support that
+focused on addressing the weaknesses and deficiencies in the operation of IIFCL, the
+achievement of the desired outcomes may be considered as delivering the targeted
+outcomes.5
+
+21.     While the IIPFF had been quite successful in disbursing the tranche loans, and the
+project was able to leverage $5.5 billion through 30 projects, it is still premature to determine
+the actual performance of supported subprojects, being too early in the life of these projects.
+The IIPFF has been used mainly to finance roads and airports, perhaps due to the long
+gestation period of these subprojects that more suitably matched the ADB loan maturity. The
+PCR rated the project highly effective mainly due to the IIPFF achievements. However, a
+number of macroeconomic indicators are difficult to measure against the intended outcomes of
+IIPFF and the success of the subprojects is too early to ascertain. Thus, this validation rates
+the project effective.
+
+C.        Efficiency of Resource Use in Achieving Outcome and Outputs
+
+22.     The PCR rated this factor highly efficient. The IIPFF was disbursed in full ahead of
+schedule with one extension of loan closing date for Loan 2404. On the downside, IIFCL was
+clearly not prepared to undertake infrastructure financing at the outset, and extensive support
+and resources had to be spent to address these deficiencies. As pointed out in the PCR,
+during initial implementation of the IIPFF, there were delays in the approvals and
+disbursement of the subprojects due to lack of capacity within IIFCL on safeguard
+assessments. TA 7030 had to be extended (from the original closing of June 2009 to a later
+date of September 2011) to accommodate capacity building for safeguard compliance and to
+mobilize an information technology procurement needed for the risk management system.
+ADB had to conduct workshops and seminars on safeguards, the ESSF, and procurement. In
+addition, the government and IIFCL raised some concern about the length of the ADB
+approval process.
+
+23.      The policies and operating conditions of IIFCL were to be governed by the Scheme for
+Financing Viable Infrastructure Projects through a special purpose vehicle as approved by the
+government and administered by the MOF. The scheme defined eligibility criteria for
+subproject selection, appraisal and monitoring by the lead bank, mode of funding, and
+specified PPPs that were to be selected based on transparent and open competitive biddings.
+The targeted outputs were generally implemented. However, the extent to which the outcomes
+would be attained can only be measured after the subprojects started yielding benefits. IIFCL
+is profitable and has obtained a BBB-/stable international credit rating and an AAA domestic
+rating. This validation rates the project efficient.
+
+D.        Preliminary Assessment of Sustainability
+
+24.    The PCR rated the project likely sustainable. Given the scarcity of long-term financing
+and the continuing need for infrastructure in India due to a burgeoning population, the role of
+IIFCL is likely to remain critical. With continuing government support, IIFCL has by now
+secured a niche in the domestic financial markets. Nonetheless, there are underlying risks that
+could derail its operation. These include the (i) risk of external or political interference, (ii) weak
+5
+    An overseas subsidiary has been established to support international transactions for IIFCL; likewise, a domestic
+    subsidiary has been instituted to handle project management within the country.
+                                                                                                       7
+
+
+regulation, (iii) lack of autonomy, (iv) poor project supervision that could lead to project
+failures, (v) apparent lack of capacity on the part of IIFCL to rehabilitate infrastructure projects
+that may get into difficulties, (vi) and market risks. Finally, the success of this intervention
+actually hinges on the development of the domestic, long-term debt market with the eventual
+takeover of the role and functions of IIFCL by the private sector. While that seems to be a long
+way off, what is presently clear is that this MFF was followed by a second MFF and
+preparations are now afoot for the third MFF. Although somewhat in a narrow sense, this
+points out to the successful performance of IIFCL and to the country's progress in utilizing
+PPPs for financing infrastructure. Based on these observations, this validation concurs with
+the PCR rating of likely sustainable.
+
+E.     Impact
+
+25.     The PCR did not rate impact. The impact would mainly be in terms of the 30 funded
+subprojects of roads and airports financed under the IIPFF, and their contribution to the
+economy of India. Since 28 of these projects were in the road sector, and the remaining two
+were the principal airports of Mumbai and Delhi, the impact performance indicators on energy,
+seaport, and private investment in infrastructure under the DMF were not considered relevant
+in the PCR.
+
+26.     A noteworthy aspect is the catalytic effect of IIPFF, not so much in terms of the
+subprojects that were financed but more on the support of ADB to the government's initiative
+to promote IIFCL and the PPPs in India. This institutional development is a positive feature
+and is capable of (i) raising more funds from other international and national financiers, (ii)
+attracting private sector to invest in infrastructure, (iii) promoting transparency and overall good
+governance in the infrastructure sector, and (iv) helping to set the strategic direction in the
+country. Thus, a more concrete impact of ADB assistance lies in a strengthened IIFCL, which
+can carry out its tasks in infrastructure financing, particularly in promoting the PPP modality
+and institutionalizing ESSF. ADB has helped to establish a vehicle through which future
+assistance for the infrastructure sector of India can be channeled. IIFCL has emerged as a
+useful vehicle for continuing dialogue with the government on the development of
+infrastructure and on the mechanisms for financing infrastructure.
+
+27.     This validation considers the impact of the IIPFF significant as substantial assistance is
+indeed being channeled through IIFCL, proving its worth by developing innovative products for
+infrastructure financing, hedging risks in PPPs and private infrastructure, and promoting
+reforms in the domestic capital market. To some extent, IIFCL has already introduced new
+lending schemes. It has increased its infrastructure portfolio with 229 subprojects sanctioned
+as of 31 March 2012, comprising roads, power, and airports scattered throughout the 24 states
+of India.
+
+                       III.    OTHER PERFORMANCE ASSESSMENTS
+
+A.     Performance of the Borrower and Executing Agency
+
+28.     IIFCL has made substantial strides in developing its internal capacity and funding PPPs
+in India. It has increased its staff from 12 in 2007 to 56 at the time of the PCR preparation. It
+can now undertake independent credit risk assessments, it has developed the ESSF and set
+up an environmental and social safeguard management unit, and is now conducting due
+diligence on financed subprojects. IIFCL has generally complied with ADB reporting
+requirements and has conducted an audit of the safeguard plans of all ADB-funded
+8
+
+
+subprojects that were reviewed and endorsed by ADB. This was the first time ADB conducted
+a safeguard audit of a financial sector-based project. The PCR did not rate borrower
+performance. This validation rates the borrower and executing agency's performance
+satisfactory.
+
+B.     Performance of the Asian Development Bank
+
+29.     Despite some limitation in the initial project design and formulation, ADB was able to
+take corrective action to ensure full disbursement of the IIPFF. However, the MOF and
+executing agency raised concerns on the 4-month ADB approval process for subprojects. A
+number of missions were undertaken for loan review, midterm review, and PCR preparation,
+including a safeguard review mission. It should be noted that all subprojects were subject to
+prior review and approval by ADB, especially on safeguards compliance, which kept ADB staff
+engaged in the implementation of the IIPFF. Although the PCR described the performance of
+ADB in some detail, it did not provide an overall rating. This validation assesses the
+performance of ADB satisfactory.
+
+          IV.     OVERALL ASSESSMENT, LESSONS, AND RECOMMENDATIONS
+
+A.     Overall Assessment and Ratings
+
+30.      The project was rated by the PCR highly successful based on the full disbursement of
+the credit facility and its supposed catalytic effect. IIFCL was set up by the government to fill in a
+critical gap in long-term funding mechanism for infrastructure. IIFCL has done well but still has to
+prove itself as a viable infrastructure financing institution. Its role in originating and generating
+infrastructure projects is unclear as the lead banks were at the forefront of developing or
+originating the projects and bringing them to financial closure. The ADB TA support helped in
+mainstreaming PPPs especially at the state level, although it would have been more convincing
+if the PCR had elaborated on the progress of the PPPs in India. The risks inherent in
+government-owned and controlled institutions need to be addressed early. This validation
+considers the intervention successful, having exceeded its immediate and limited objective of
+leveraging larger private sector resources than the IIPFF target.
+
+31.     The PCR assessed the project to be consistent with the government's and ADB
+country strategies and programs. The PCR rated the project highly relevant, highly effective,
+highly efficient, and likely sustainable. However, there were some shortcomings in the design
+and formulation of the project. Being a wholly government-owned and controlled institution,
+IIFCL risks following the historical experience of DFI-type operations, hence, this issue needs
+to be addressed. In addition, broad-based reforms that deepen infrastructure financing need to
+be pursued. This will sustain the enabling environment for private sector participation. The
+lending terms of IIFCL, as the PCR pointed out, remains dependent upon the lead bank of the
+consortium, which does its own risk assessment and pricing. This validation rates the project
+relevant, effective, efficient, and likely sustainable, with an overall performance rating of
+successful.
+                                                                                                              9
+
+
+                                                 Overall Ratings
+  Criteria                          PCR              IED Review             Reason for Disagreement
+                                                                                and/or Comments
+ Relevance                    Highly relevant      Relevant         While consistent with the government
+                                                                    and ADB strategy and program, there
+                                                                    were deficiencies in the design and
+                                                                    formulation of IIFCL, and gaps in
+                                                                    identifying risks and constraints of PPPs,
+                                                                    PSP, and in the capacity of IIFCL
+                                                                    (paras. 12­18)
+ Effectiveness in             Highly effective     Effective        A number of macroeconomic indicators
+ achieving project                                                  are difficult to measure relative to
+ outcome and outputs                                                IIPFF's intended outcomes and the
+                                                                    relative success of the subprojects
+                                                                    financed is too early to ascertain (paras.
+                                                                    19­21).
+ Efficiency in achieving      Highly efficient     Efficient        While the IIPFF was disbursed in full,
+ outcome and outputs                                                the lack of preparedness of IIFCL meant
+                                                                    delays and added costs. There were
+                                                                    also concerns about the ADB approval
+                                                                    process (paras. 22­23).
+ Preliminary assessment       Likely               Likely
+ of sustainability            sustainable          sustainable
+ Overall assessment           Highly               Successful
+                              successful
+ Borrower and executing       Not rated            Satisfactory     Refer to para. 28.
+ agency
+ Performance of ADB           Not rated            Satisfactory     Refer to para. 29.
+ Impact                       Not rated            Significant      Refer to para. 27.
+ Quality of PCR                                    Less than        The PCR is less than satisfactory. Two
+                                                   satisfactory     PCRs should have been prepared for
+                                                                    the two tranches. Also, the PCR did not
+                                                                    rate the performance of the borrower
+                                                                    and ADB. Although it provided a clear
+                                                                    picture of IIFCL and provided useful
+                                                                    lessons and recommendations, it dwelt
+                                                                    less on the policy environment and
+                                                                    progress of reforms, and on PPPs and
+                                                                    PSP (para. 37).
+ADB = Asian Development Bank, CAPE = country assistance program evaluation, IED = Independent Evaluation
+Department, IIFCL = India Infrastructure Finance Company Ltd., PCR = project completion report, PPP = public­
+private partnership, PSP = private sector participation.
+Note: From May 2012, IED views the PCR rating terminology of "partly" or "less" as equivalent to "less than" and
+uses this terminology for its own rating categories to improve clarity.
+Source: ADB Independent Evaluation Department.
+
+B.      Lessons
+
+32.     The PCR cited a number of lessons on future ADB intervention. These include (i)
+reducing the ADB approval process for subprojects from the current 4 months by improving
+internal coordination and streamlining internal procedures; (ii) strengthening innovative product
+development to tailor fit these to the needs of the Indian market; (iii) continuing emphasis and
+dialogue on environmental and social safeguards to improve appreciation of these factors when
+implementing infrastructure projects; and (iv) ensuring that impacts are realistic and are clearly
+10
+
+
+linked with the effects of the ADB intervention, and that performance indicators are aligned and
+clearly reflective of the targeted impact following the ADB Guidelines for Preparing a DMF
+(2007). More attention should be given to this aspect during the review and processing of the
+loan prior to the ADB Board's consideration.
+
+33.       Finally, when lending to financial institutions similar to DFIs, especially government-
+owned institutions, special attention should be placed on the risks inherent in this type of set up
+so that the government concerned is alerted to the risks. The Government of India had been
+particularly receptive to this. Also for start-up institutions, a vision statement, strategy, and policy
+paper would be useful to establish a road map for defining its role, and a diagnostic assessment
+for its institutional development to better understand its needs moving forward. It would also be
+useful at the beginning of the process to explore what value additions could be incorporated in
+the design and formulation of the intervention, particularly those that can advance reforms.
+
+C.        Recommendations for Follow-Up
+
+34.     ADB should continue to monitor the development and maturation of IIFCL as a
+financial intermediary engaged in infrastructure, particularly if it intends to use IIFCL in future
+interventions, and to ensure the health and success of subprojects it will finance. ADB should
+continue dialogue with the government on the governance structure of IIFCL and its inherent
+risks. Management should be made as independent as possible, free from external
+interference in its decision making. Special considerations accorded to IIFCL at this time
+should be removed as quickly as permissible. IIFCL should be placed under the Reserve Bank
+of India's regulation and supervision, like any other financial intermediary in India, and follow
+clear prudential regulations suitable for its type of operations. Government guarantees
+extended to IIFCL should be charged at market rates or such guarantees should be made
+available as well to other financial market institutions in India. Special treatments that create
+moral hazard for IIFCL should be avoided.
+
+35.    ADB should continue to monitor reforms that address constraints in PPP development
+and private sector participation while continuing to be engaged in the various infrastructure
+sectors that include those at the state level; and reforms in capital market concerning
+contractual savings institutions; insurance, pension, and provident funds; and other long-term
+sources of investments such as mutual funds. ADB could assist in developing financing (e. g.,
+through securitization) and hedging products and mechanisms for infrastructure finance.
+
+                          V.       OTHER CONSIDERATIONS AND FOLLOW-UP
+
+A.         Monitoring and Evaluation Design, Implementation, and Utilization
+
+36.    Many performance benchmarks did not apply. A progress report on the status and
+development of the various infrastructure sectors was not available.
+
+B.         Comments on Project Completion Report Quality
+
+37.     The PCR quality is less than satisfactory. There should have been two separate PCRs
+for the two tranches.6 The combined PCR ended up blurring the progression, and precluded
+the proper evaluation of developments as these unfolded during implementation. The PCR
+pointed out that financial intermediation MFFs should not have tranche-based PCRs but
+consolidated overall into a single PCR due to the holistic nature of the risks addressed under a
+6
+    ADB. 2014. Multitranche Financing Facility. Operations Manual D14/BP. Manila. para. 38.
+                                                                                              11
+
+
+facility (PCR, para. 62). Without discussing the merits of the argument, this validation wonders
+whether presenting this as a fait accompli, as was done under this single PCR, was the right
+procedure to draw the attention of the management against an approved operations manual.
+This point should have been cleared with the management immediately after the first tranche
+was completed. In addition, the PCR did not rate the borrower and ADB performance.
+Otherwise, the PCR presented a clear picture of IIFCL operations for the facility as a whole. It
+dwelt less on the overall infrastructure sectors of India and their progress, and on PPPs that
+were discussed more extensively in the RRP. It was able to cull useful lessons and
+recommendations even if it appeared overzealous in its ratings.
+
+C.     Data Sources for Validation
+
+38.   This validation relied mainly on the PCR, RRP, PCR review, Country Assistance
+Program Evaluation (2007), India's Eleventh Five Year Plan (2007­2012), and ADB Strategy
+2020.
+
+D.     Recommendation for Independent Evaluation Department Follow-Up
+
+39.    In India, a number of MFFs are being implemented and some are in the ADB pipeline.
+A project performance evaluation report of this completed MFF facility--one of the first such
+types--should be undertaken at the earliest time to draw appropriate lessons for MFFs as a
+modality. It is expected that useful lessons for India can be drawn and be utilized as well in
+other countries where the MFF modality is being used.
+

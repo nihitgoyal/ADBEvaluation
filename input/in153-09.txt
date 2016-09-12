@@ -1,0 +1,435 @@
+Validation Report
+
+
+
+
+Reference Number: PCV: IND 2008-69
+Project Number: 31588-02
+Loan Number: 1720-IND
+May 2009
+
+
+
+
+India: Urban and Environmental Infrastructure
+Facility Project
+
+
+
+
+ Independent Evaluation Department
+                                       ABBREVIATIONS
+
+            ADB              ­      Asian Development Bank
+            FIL              ­      financial intermediary loans
+            HUDCO            ­      Housing and Urban Development Corporation
+            ICICI            ­      Industrial Credit and Investment Corporation of India
+            IED              ­      Independent Evaluation Department
+            PCR              ­      project completion report
+            RRP              ­      Report and Recommendation of the President
+            TA               ­      technical assistance
+            ULB              ­      urban local body
+            WSS              ­      water supply and sanitation
+
+
+
+                                           Key Words
+adb, asian development bank, environmental, ied, independent evaluation department, india,
+industrial waste, municipality, oed, project completion validation, sanitation, state, urban, water
+supply
+
+
+
+
+Director               R. B. Adhikari, Independent Evaluation Division 1, Independent
+                       Evaluation Department (IED)
+
+Team leader            W. Kolkma, Senior Evaluation Specialist, Independent Evaluation
+                       Division 1, IED (until 5 January 2009)
+Team members           A. Anabo, Senior Evaluation Officer, Independent Evaluation Division 1,
+                       IED
+                       V. Melo, Operations Evaluation Assistant, Independent Evaluation
+                       Division 1, IED
+
+
+
+
+In preparing any country program or strategy, financing any project, or by making any
+designation of or reference to a particular territory or geographic area in this document, the
+Asian Development Bank does not intend to make any judgments as to the legal or other status
+of any territory or area.
+                         PROJECT COMPLETION REPORT1 VALIDATION FORM
+
+ A. Basic Project Data                                      PCR Validation Date:              May 2009
+  Project and Loan             31588-02
+  Number:                      1720-IND                                                          Approved          Actual
+  Project Name:                Urban and                     Total Project Costs ($M):              NA              119.5
+                               Environmental
+                               Infrastructure Facility
+                               Project
+  Country:                     India                         Loan/Grant ($M):                       80.0              27.4
+                                                             (SDR equivalent)
+  Sector:                      Multisector                   Total Cofinancing ($M):               0.0           0.0
+  ADB Financing ($M):          ADF: 0.0                        Borrower ($M):                      0.0           0.0
+                               OCR: 80.0                       Beneficiaries ($M):                 0.0           0.0
+  Cofinanciers:                        0.0                     Others ($M):                        0.0           0.0
+  Approval Date:               17 Dec 1999                   Effectiveness Date:               17 Aug 2000 22 Sep 2000
+  Signing Date:                19 May 2000                   Closing Date:                     22 Sep 2006 29 May 2006
+  Project Officers:            Name:                          Location (HQ or RM):                From          To
+                               Xiaoyan Ye                                HQ                       1999         2000
+                               Alex Jorgensen                            RM                       2001         2002
+                               Davendra Mittal                           RM                       2003         2004
+                               Cheolsu Kim                               RM                       2005         2006
+  Validator:                   R. Merrill
+                               Consultant
+                                                              Director:                        R. B. Adhikari, IED1
+  Quality Control              W. Kolkma
+  Reviewer/Peer                Senior Evaluation
+  Reviewer:                    Specialist, IED1
+ADB = Asian Development Bank, ADF = Asian Development Fund, HQ = headquarter, IED = Independent Evaluation
+Department, IND = India, M = million, NA = not available, OCR = ordinary capital resources, PCR = project completion report,
+RM = resident mission, SDR = special drawing right.
+
+B. Project Description (summarized from the Report and Recommendation of the President [RRP])
+
+    (i) Rationale. Inadequate urban infrastructure and a deteriorating urban environment have been deterring
+        India's social and economic development and adversely affecting quality of life. Although the
+        Government has been trying to increase financial flows to the urban sector through fiscal concessions,
+        the sector's development is constrained by the lack of long-term funds to match the gestation and pay-
+        back periods of urban infrastructure projects; and by legal, institutional, and financial impediments to
+        develop demand-driven projects. The Urban and Environmental Infrastructure Facility Project
+        (the Project) was designed to have a demonstration impact on the sector by selectively financing viable
+        urban and environmental projects in states and municipalities where essential reforms were creating an
+        environment conducive to sector development. To ensure that the benefits of these projects will reach
+        the poor, the Project would also integrate microfinance with urban and environmental infrastructure
+        development.
+
+    (ii) Impact. The Project aimed to assist the Government in improving urban and environmental
+         infrastructure, and to encourage cost recovery and other municipal financial reforms. Ultimately, India's
+         urban residents would benefit from an improved quality of life. High-priority subprojects included those
+         that addressed basic human needs such as water supply and sanitation (WSS) and slum upgrading.
+
+
+
+
+    1
+        ADB. 2008. Project Completion Report on the Urban Environmental Infrastructure Facility Project in India. Manila.
+   2
+
+
+
+         The urban poor, who constituted 32% of the urban population in 1999, would gain health benefits and
+         employment opportunities.
+
+  (iii) Objectives or expected outcomes. The Project had three major objectives: (a) commercialization of
+        urban and environmental infrastructure development, financing, operation and maintenance;
+        (b) decentralization and implementation of the Constitution (Seventy-Fourth Amendment) Act, 1992; and
+        (c) enhanced access of the urban poor to improved urban environments and services.
+
+  (iv) Components and/or outputs. The Project consisted of three bank loans: (a) $90 million to the Housing
+       and Urban Development Corporation, Limited (HUDCO); (b) $80 million to the Industrial Credit and
+       Investment Corporation of India Limited (ICICI); and (c) $30 million to the Industrial Development
+       Finance Corporation Ltd. In addition, a technical assistance (TA) grant had three goals: (a) integrating
+       microfinance institutions with urban infrastructure development projects, (b) building capacities of
+       selected microfinance institutions for financing urban infrastructure projects, and (c) various pilot
+       projects.
+
+C. Evaluation of Design and Implementation (PCR assessment and Validation)
+
+  (i) Relevance of design and formulation. The PCR had strong reservations regarding project
+      formulation, judging it essentially inadequate. The PCR noted that key constraints identified during the
+      early stages of the project preparatory TA and Fact-Finding Mission were not sufficiently addressed
+      during the subsequent stages of project formulation. These constraints included the lack of urban local
+      bodies' (ULBs) capacity to prepare commercially viable projects and, in turn, to mobilize financial
+      resources. Moreover, besides lines of credit, project components proposed by the project preparatory
+      TA included a risk-sharing facility and TA to launch a project development company, both of which
+      would have enhanced ULBs' capacity. However, these components were dropped during pre-appraisal,
+      which were then upgraded to appraisal. Given the extremely limited outputs of the Project and the fact
+      that only two ULBs ultimately borrowed, the Independent Evaluation Department (IED)2 agrees with the
+      PCR that the formulation process was inadequate.
+
+  (ii) Project outputs. The RRP3 listed a long pipeline of likely subprojects in the priority subsectors of WSS
+       and slum upgrading. However, since the vast majority of identified subprojects did not materialize
+       (see para. C [iii]), the PCR questioned the viability of this subproject pipeline. The PCR noted that the
+       main reasons for the differences between intended and actual distribution of subprojects were (a) the
+       slow pace of enabling institutional and policy reforms; (b) more attractive funding opportunities in other
+       sectors, such as retail lending, as opposed to more risky urban infrastructure projects for ICICI; and
+       (c) the downward trend of domestic interest rates, which made the interest rates offered under the
+       Project less attractive. The PCR also noted that only two subprojects (utilizing 3% of the original loan
+       amount) contributed to outcomes. Thus, IED agrees with the PCR that the project outputs were only
+       partially achieved.
+  (iii) Project cost, disbursements, borrower contribution, and conformance to schedule (as relevant to
+        project performance). As noted in the PCR, two major changes in project implementation altered the
+        Project's nature and impact. The first was the decisions by HUDCO and Industrial Development Finance
+        Corporation that the Project's terms and conditions were no longer attractive, given the downward trend
+        in domestic interest rates. These two borrowers subsequently cancelled their participation in July 2001
+        and September 2002, respectively, with remaining borrower, ICICI, for $27.4 million, or about 34% of
+        the original $80.0 million loan. The second was the vastly reduced amount of the loan utilized by the
+        allocation. Further, ICICI applied for and received permission to use the majority of the funds for
+
+
+
+
+   2
+       IED was named the Operations Evaluation Department, or OED, until December 2008.
+   3
+       ADB. 1999. Report and Recommendation of the President to the Board of Directors on the Proposed Loans to
+       India for the Housing and Urban Development Corp. Ltd, ICICI, Ltd; and the Urban Infrastructure Development
+       Corp. Ltd. for the Urban Environmental Infrastructure Facility Project and Technical Assistance Grant. Manila.
+                                                                                                           3
+
+
+
+    industrial waste management subprojects (five subloans or 93%) while only two subloans were utilized
+    for the original purposes--water, sanitation, and solid waste management (7%). Finally, ICICI could not
+    come up with a sufficient number of eligible subprojects before the final commitment date of
+    22 September 2004. The Government, therefore, withdrew its guarantee for the then-uncommitted
+    balance of $37.8 million. Subsequently, following cancellation of one committed subloan and
+    prepayment by another, the remaining $14.8 million was also cancelled, leading to early closure of the
+    loan.
+
+(iv) Implementation arrangements, conditions and covenants, related technical assistance, and
+     procurement and consultant performance. Although ICICI was generally in compliance with the
+     covenants, the PCR observed: (a) a revolving fund mechanism to use surpluses from prepayments of
+     subloans for project purposes as per the Loan Agreement (Section 2.08) was not established; and
+     (b) ICICI delayed demonstrating compliance with safeguard covenants and adopting an environmental
+     and social management system. Regarding the TA grant, in spite of cancellation of the loan by HUDCO,
+     TA was implemented, although it had little, if any, link to ICICI operations under the Project. The PCR
+     rated the TA grant and the respective consultant performance as successful, because the consultants
+     successfully achieved the TA grant's stated objectives within the time frame and allotted budget.
+     However, IED rates the TA grant as unsuccessful, because it had no links to ICICI operations, which
+     was its original purpose.
+
+(v) Performance of the Borrower and Executing Agency. While the PCR rated the performance of ICICI
+    as satisfactory, this is based on a detailed section describing ICICI's growth and outstanding financial
+    performance, especially with respect to financial ratios. However, given the vastly reduced loan amount,
+    project lending accounted for only a small percentage of total ICICI operations. In addition, ICICI loans
+    for industrial waste management subprojects did not contribute to project outcomes in the priority
+    sectors of WSS and slum upgrading. Moreover, although ICICI had a long track record in project
+    finance, the PCR pointed out that the shift in ICICI's lending policies toward commercial opportunities in
+    the retail markets and away from development banking hindered the Project's successful
+    implementation. However, since the PCR did not specifically rate ICICI's performance, IED has also not
+    rated the performance of the Borrower.
+
+(vi) Performance of the Asian Development Bank. The PCR rated the performance of the Asian
+     Development Bank (ADB) during implementation as satisfactory. ADB could not, at the time of design,
+     have foreseen the drop in the commercial lending interest rate and the radical shift in ICICI's lending
+     from development to commercial markets. Although ADB acknowledged the lack of bankable
+     subprojects and responded by approving an increase in the share of private industrial waste
+     management subprojects, these were not in the priority sectors of water, sanitation, and solid waste
+     management. The PCR justified this change in scope by stating that industrial waste subprojects also
+     improve the urban environment, which was one of the expected project impacts. However, even with
+     this scope change, only 32% of loan proceeds could be utilized for private industrial waste management
+     subprojects within the time available. ADB undertook timely follow-up actions through review missions
+     and tripartite and bipartite review meetings to maximize loan utilization. In addition, there were regular
+     tripartite review meetings among ADB, the Department of Economic Affairs, and ICICI to review the
+     performance of commitments and disbursements and to suggest steps for improved utilization. IED
+     notes that ICICI considered ADB's responses to be proactive and timely, and that ADB conducted
+     adequate due diligence on covenant compliance, particularly during the latter phase of project
+     implementation. Therefore, IED concurs with the PCR's rating of ADB's performance during
+     implementation as satisfactory.
+   4
+
+
+D. Evaluation of Performance (PCR assessment and Validation)
+
+   (i) Relevance. The PCR rated the Project as partly relevant. The Project's expected outcomes were
+       consistent with the Government's development priorities and ADB's country strategy. The PCR,
+       however, noted that the appraisal had the following inadequacies: (a) insufficient links among outputs,
+       outcome, and impact and insufficient consideration of lessons learned from ongoing urban sector
+       projects in the country; (b) an ambitious and unrealistic subproject pipeline; and (c) inadequate
+       assessment of the urban sector reform process. IED agrees with the rating, especially since most ULBs
+       were not prepared for either commercial borrowing or decentralized project execution. Domestic
+       interest rates decreased during project implementation, making project subloans more expensive than
+       comparable domestic loans.
+
+   (ii) Effectiveness in achieving outcomes. The PCR rated the Project as ineffective, as two of the three
+        loans were cancelled, and of the remaining loan, the utilization was only 34%, with only 3% of that loan
+        being used for the original purpose. Although the solid waste subproject demonstrated the success of
+        commercialization and the water supply project implemented some reform actions, there were no other
+        public urban infrastructure projects in ICICI's portfolio. Thus, these subprojects had little demonstration
+        effect, and ICICI's PCR indicated that the Project did not influence its credit allocation. IED concurs with
+        the rating of ineffective.
+
+   (iii) Efficiency in achieving outcomes and outputs. Due largely to the marginal share of the water supply
+         and solid waste subprojects in the loan in the context of the economy; the PCR rated the Project as
+         less efficient. Timely repayment of most obligations indicated good subproject repayment performance.
+         The water and solid waste subprojects led to improved service quality, while the industrial subprojects
+         led to reduced operational costs. However, there was neither any demonstration effect nor any effect
+         on the overall economy. IED adds that the preparation and approval of three loans is labor-intensive for
+         all parties concerned, and not very efficient if two loans have to be cancelled fairly soon afterwards.
+         Therefore, IED agrees with the PCR's assessment.
+
+   (iv) Preliminary assessment of sustainability. The PCR rated the Project as less likely to be sustainable
+        (para. 55). Based on the two criteria of sustainability (para. 51.iv), the PCR stated that the subprojects
+        are financially viable, given their physical and financial performance. However, it noted that ICICI did
+        not recycle the loan funds through a revolving fund because of the lack of eligible subprojects. Thus,
+        the PCR believed that the Project's sustainability "remains highly questionable." Regarding the two
+        criteria, the first subcriteria, i.e., "appropriateness of the policy and institutional environment to maintain
+        the achievement of the Project's outcomes," as stated in the PCR (paras. 42, 58, and 59), the policy
+        and institutional environment to maintain achievement of project outcomes was not in place either
+        during project design or implementation. Moreover, given the low utilization of loan proceeds, the
+        second subcriteria, "conditions and utilization ratio of the facilities funded under the Project, and the
+        financial viability of the subborrowers," seems to be too narrow to judge overall project sustainability.
+        Thus, while the first subcriteria would be appropriate for future PCRs and project performance
+        evaluation reports of financial intermediary loans (FILs), possible additional subcriteria for the
+        sustainability of such projects would be (a) generation of a substantial revolving fund for additional
+        subprojects; (b) the increased use of government and/or private funds to finance subprojects; and
+        (c) the accurate targeting of viable (e.g., WSS and slum upgrading) subprojects in accordance with
+        project design. Hence, based principally on the first subcriteria, IED believes the Project is not
+        sustainable.
+
+   (v) Impact (both intended and unintended). The PCR found that all subprojects had positive impacts--
+       mainly in the form of improved urban environment or augmented public services. All subprojects were
+       designed to improve the environment through waste recovery, waste management, reduction in
+       pollutant emissions, or, in one case, increased water supply. The PCR concluded that the subprojects
+       contributed to an improved environment, especially since they were implemented per design and on
+       schedule. Thus, in the narrow sense of subproject impact versus overall project impact on the sector
+       and the economy, IED agrees with this conclusion.
+                                                                                                               5
+
+
+E. Overall Assessment, Lessons, and Recommendations (PCR assessment and Validation)
+   (i) Overall assessment. The PCR rated the Project as unsuccessful, giving it a rating of 0.7 on scale from
+       0 to 3.0. Based on the evaluation of performance in the foregoing section, IED concurs with the rating
+       with the exception of sustainability, rating it a 0 instead of a 1.0, resulting in an overall rating of 0.5.
+       This lower rating does not affect the summary rating, which remains unsuccessful.
+   (ii) Lessons. The lessons set out in the PCR were well detailed, and based on the discussion in the text,
+        are fully supported by IED. However, since project implementation, approaches to similar projects have
+        evolved in both ADB and India. In ADB, the sector program approach with accompanying TA has
+        become the general modality; while in India, financing of urban infrastructure through bond issues and
+        general tax revenue has become more widespread. Hence, ADB should consider the lessons learned
+        from the Project not only for future projects in India, but also in other developing member countries
+        where urban institutions are less developed. For example, financing of large infrastructure projects such
+        as roads, bridges, and dams lend themselves to commercialization; while financing of smaller urban
+        service projects such as WSS depend largely on local government capacity, tariff policy, and effective
+        project design. These, in turn, require strengthening local government institutional and financial
+        capacities to structure and implement sustainable projects. IED notes that upfront TA projects, such as
+        those proposed in the project preparatory TA, will result in a greater degree of achievement of project
+        outcomes.
+   (iii) Recommendations. In the opinion of the PCR, a sector development program loan containing prior
+         feasibility studies might have been a better project design than the FIL model (para. 43). Given the
+         Project's long-term nature, as well as the detailed qualification procedures of the subprojects, IED
+         agrees that the sector program modality could have been more successful for projects of this nature,
+         particularly where local governments are the predominant subborrowers. This modality has been utilized
+         by borrowing governments for several urban integrated development projects, comprising multiple cities
+         and multiple subprojects, in India and other developing member countries.
+
+F. Monitoring and Evaluation Design, Implementation, and Utilization (PCR assessment and validation)
+
+   The RRP (footnote 2) called for preparation of baseline monitoring and evaluation information for each
+   subproject to be submitted with application for finance. ICICI did provide a benefit monitoring report toward
+   the end of the project in May 2006. However, it did not compel the subborrowers to establish monitoring and
+   evaluation systems, as required. Therefore, ICICI could not provide accurate responses to specific financial
+   and operational information on the subprojects for the PCR.
+
+G. Other (e.g., safeguards, including governance and anticorruption; fiduciary aspects; government
+   assessment of the Project, as applicable) (PCR assessment and validation)
+
+   Except delays regarding ICICI demonstrating compliance with safeguard covenants and adoption of an
+   environmental and social management system, there were no safeguard violations or unintended impacts.
+
+                                                        Independent
+                                         Project         Evaluation
+                                       Completion        Department
+H. Ratings                               Report            Review         Reason for Disagreement/Comments
+  Relevance:                          Partly           Partly relevant
+                                      relevant
+   Effectiveness in Achieving         Ineffective      Ineffective
+   Outcome:
+   Efficiency in Achieving            Less efficient   Less efficient
+   Outcome and Outputs:
+   Preliminary Assessment of          Questionable     Not                 Small number of subprojects, no
+   Sustainability:                    sustainability   sustainable         revolving fund, no demonstration or
+                                                                           spillover effects
+  6
+
+
+
+
+  Borrower and Executing        Not rated         Not rated          Industrial waste management
+  Agency:                                                            subprojects did not contribute to
+                                                                     outcomes originally defined.
+  Performance of the            Satisfactory      Satisfactory       With the exception of ADB's
+  Asian Development                                                  performance during Appraisal, which
+  Bank:                                                              was not satisfactory
+  Impact:                       Positive          Positive           Of subprojects only
+  Overall Assessment:           Unsuccessful      Unsuccessful       0.7 vs. 0.5 on scale of 0 to 3, both in the
+                                                                     range of unsuccessful
+  Quality of PCR:                                 Highly
+                                                  satisfactory
+
+I. Comments on PCR Quality
+
+  IED finds the PCR to be very thorough and detailed, with adequate documentation and data to support its
+  findings and conclusions. IED did not find information in other documentation that changed the PCR
+  findings.
+
+J. Recommendation for IED Follow-Up
+
+  In view of the PCR quality and findings, IED does not feel it is necessary to conduct a project performance
+  evaluation in the future.
+
+K. Data Sources for Validation
+
+  The primary data sources were the PCR, RRP, Borrower's PCR, final benefit monitoring and evaluation
+  report, periodic progress reports, mission memorandum of understanding, aide-mémoires, and back-to-
+  office reports.
+     REGIONAL DEPARTMENT'S RESPONSE TO THE PROJECT COMPLETION REPORT
+                            VALIDATION REPORT
+
+        On 20 October 2008, the Independent Evaluation Department 1 circulated the draft
+Project Completion Validation Report for interdepartmental comments. Comments were
+received from the India Resident Mission on 31 October 2008, which were incorporated in the
+final report. One comment, referring to the report's downgrading of the sustainability rating from
+less likely to be sustainable to unlikely to be sustainable, was not accepted.
+
+         The resident mission pointed out that the project completion report (PCR) (para. 51) had
+identified subcriteria with reference to the (i) definition of "sustainability" provided in the
+Guidelines for Project Performance Evaluation Report (PPER) for Public Sector Operations,2 or
+the Evaluation Guidelines (p. 9); (ii) determinants of sustainability indicated also in the
+Evaluation Guidelines (pp. 15­16); and (iii) sustainability subcriteria used in PPERs on FILs,
+e.g., the Rural Enterprise Development Project3 and the Private Sector Infrastructure Facility.4
+The PCR had given a rating of less likely, instead of unlikely, considering that (i) conditions and
+utilization ratio of the facilities funded under the Project were satisfactory; (ii) the "subprojects
+themselves were financially viable" (PCR, para. 55); and (iii) "all of the subprojects had positive
+impact" (PCR, para. 56), if not the outcomes.
+
+        This response to the PCR, however, argues that the first subcriterion, although valid,
+seems to be misinterpreted, while the second criterion is too narrowly based. Regarding the first
+subcriterion, i.e., "appropriateness of the policy and institutional environment to maintain the
+achievement of the Urban and Environmental Infrastructure Facility's (UEIF) outcomes" (PCR,
+paras. 42, 58, and 59), the main point is that the policy and institutional environment to maintain
+the achievement of the facility's outcomes was not in place either during the design of the
+Project or during its implementation.
+
+        With respect to the second subcriterion, given that the loan "utilization was poor at 34%,
+of which only two subprojects contributed significantly to outcomes (3% of total loan funds or 7%
+of net utilized loan amount" (para. 53), the "conditions and utilization ratio of the facilities funded
+under the UEIF and the financial viability of the subborrowers," are insufficient grounds to judge
+the overall sustainability of the Project. This is especially the case, given that "following
+cancellation of one committed subloan by one subborrower and prepayment by another, the
+remaining $14.8 million was also cancelled, leading to early closure of the loan." In addition, the
+limited generation of a revolving fund for additional subprojects indicates a lack of overall
+Project sustainability.
+
+        While the first subcriterion would be appropriate to future PCRs and PPERs of FILs,
+possible additional subcriteria for the sustainability of these projects are (i) the generation of a
+substantial revolving fund for additional subprojects; (ii) the increased use of government and/or
+private funds to finance subprojects; and (iii) the accurate targeting of viable (e.g., WSS and
+slum upgrading) subprojects in accordance with project design. This conclusion has been
+reflected in the PCR validation report.
+
+1
+    The Independent Evaluation Department was named the Operations Evaluation Department, or OED, until
+    December 2008.
+2
+    Asian Development Bank (ADB). 2006. Guidelines for Preparing Performance Evaluation Reports for Public Sector
+    Operations. Manila.
+3
+    ADB. 2006. Project Performance Evaluation Report on the Rural Enterprise Development Project in Uzbekistan
+    (Loan 1504-UZB). Manila.
+4
+    ADB. 2006. Project Performance Evaluation Report on the Private Sector Infrastructure Facility in India
+    (Loans 1480-IND and 1481-IND). Manila.
+

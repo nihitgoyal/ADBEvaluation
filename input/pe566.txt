@@ -1,0 +1,1953 @@
+ASIAN DEVELOPMENT BANK                     PPA: IND 25363
+
+
+
+
+        PROGRAM PERFORMANCE AUDIT REPORT
+
+
+                     ON THE
+
+
+        HYDROCARBON SECTOR PROGRAM LOAN
+                 (Loan 1148-IND)
+
+
+                       IN
+
+
+                     INDIA
+
+
+
+
+                   January 2001
+                             CURRENCY EQUIVALENTS
+                            Currency Unit ­ Rupee/s (Re/Rs)
+
+       At Appraisal             At Project Completion         At Operations Evaluation
+     (November 1991)               (September 1997)               (September 2000)
+
+Rs1.00   =   $0.0386              =     $0.0276                   =      $0.0219
+$1.00    =   Rs25.90              =     Rs36.18                   =      Rs45.67
+
+
+
+
+                                  ABBREVIATIONS
+
+                  ADB      ­     Asian Development Bank
+                  APM      ­     administered price mechanism
+                  BOP      ­     balance of payments
+                  DGH      ­     Directorate General of Hydrocarbons
+                  HSP      ­     Hydrocarbon Sector Program
+                  IMF      ­     International Monetary Fund
+                  IOC      ­     Indian Oil Company
+                  LPG      ­     liquefied petroleum gas
+                  MMT      ­     million metric tons
+                  MOF      ­     Ministry of Finance
+                  MOPNG    ­     Ministry of Petroleum and Natural Gas
+                  NELP     ­     New Exploration Licensing Policy
+                  OECF     ­     Overseas Economic Cooperation Fund
+                  OIL      ­     Oil India Limited
+                  ONGC     ­     Oil and Natural Gas Corporation
+                  PSE      ­     public sector enterprise
+                  TA       ­     technical assistance
+
+                                       NOTES
+
+                  (i)     The fiscal year (FY) of the Government ends on 31 March.
+                  (ii)    In this Report, "$" refers to US dollars.
+
+
+
+
+                         Operations Evaluation Office, PE-566
+                                       CONTENTS
+
+                                                                   Page
+
+BASIC DATA                                                             i
+EXECUTIVE SUMMARY                                                     ii
+
+I.     BACKGROUND                                                    1
+       A.   Rationale                                                1
+       B.   Formulation                                              1
+       C.   Objectives and Scope at Appraisal                        2
+       D.   Financing Arrangements                                   2
+       E.   Donor Coordination                                       3
+       F.   Program Completion Report                                4
+       G.   Evaluation                                               4
+
+II.    IMPLEMENTATION EXPERIENCE AND RESULTS                          4
+
+       A.    Effectiveness of Design                                  4
+       B.    Implementation of Policy and Institutional Measures      5
+       C.    Management of the Program                               12
+       D.    Assessment of Program Results                           13
+
+III.   PROGRAM IMPACT                                                15
+
+       A.    Macroeconomic Impact                                    16
+       B.    Social Impact                                           17
+       C.    Institutional Impact                                    17
+       D.    Environmental Impact                                    17
+       E.    Sustainability                                          18
+
+IV.    KEY ISSUES FOR THE FUTURE                                     18
+
+       A.    Issues Related to Sectoral Improvement                  19
+       B.    Issues Related to Program Loan Formulation              19
+
+V.     CONCLUSION                                                    21
+
+       A.    Overall Performance                                     21
+       B.    Lessons Learned                                         22
+
+APPENDIXES                                                           23
+                                         BASIC DATA
+                        Hydrocarbon Sector Program Loan (Loan 1148-IND)
+
+Program Preparation/Institution Building
+                                                                    Person-                        Approval
+TA No.                   TA Project Name                     Type   Months        Amount             Date
+
+1645-IND      Examination of Public Sector Oil                A&O        7        $200,000      2 Jan 1992
+              Refining, Distribution and Marketing
+              Activities
+1646-IND      Promotion of Private Sector                     A&O        13       $400,000      2 Jan 1992
+              Investment in Downstream Activities
+
+Key Program Data ($ million)
+                                                           As Per ADB
+                                                         Loan Documents                       Actual
+
+Total Program Cost                                               500.0                        375.0
+ADB Loan Amount/Utilization                                      250.0                        125.0
+ADB Loan Amount/Cancellation                                                                  125.0
+
+
+Key Dates
+                                                             Expected                        Actual
+
+Appraisal                                              3-10 October 1991                  31 Oct-9 Nov 1991
+Loan Negotiations                                         16-17 Nov 1991                     17-19 Nov 1991
+Board Approval                                               12 Dec 1991                        17 Dec 1991
+Loan Agreement                                               13 Dec 1991                        18 Dec 1991
+Loan Effectiveness                                           16 Dec 1991                        20 Dec 1991
+Loan Closing                                                 30 Jun 1995                        18 Sep 1997
+Months (effectiveness to completion)                          42.5                             60.5
+
+
+Borrower                           Government of India
+
+Executing Agencies                 Ministry of Finance
+                                   Ministry of Petroleum and Natural Gas
+
+Mission Data
+Type of Mission                            No. of Missions                    No. of Person-Days
+
+Fact-Finding                                       1                                 80
+Appraisal                                          1                                 60
+Program Administration
+  Disbursement                                     1                                  3
+  Aid Coordination                                 1                                  2
+  Consultation                                     1                                  4
+  Special Contact                                  1                                 15
+  Review                                           3                                 29
+  Program Completion                               1                                 20
+Operations Evaluation                              1                                 51
+
+A&O = advisory and operational, TA = technical assistance.
+                                    EXECUTIVE SUMMARY
+
+
+        The operational strategy for India of the Asian Development Bank (ADB) in much of the
+1990s was to assist the Government achieve increased economic efficiency through support for
+structural reforms, promotion of competition, and private sector participation. The Hydrocarbon
+Sector Program (HSP) loan was consistent with this strategy. It was also part of international
+donor efforts to support India to diffuse its balance-of-payment crisis caused by the drying-up of
+short-term credits and the surge of oil import costs due to the sharp oil price increases caused
+by the Gulf crisis.
+
+        On 17 December 1991, the Board approved the program loan for $250 million to be
+disbursed in two tranches. In addition, cofinancing of $250 million from the Overseas Economic
+Cooperation Fund of Japan was solicited and obtained, and two technical assistance (TA)
+grants were provided to support the design and implementation of the Program. The first TA, for
+$200,000, examined the performance of the public sector in oil refining, distribution, and
+marketing activities, and the second TA, for $400,000, aimed to identify ways of promoting
+private sector investment in downstream activities.
+
+       The main objective of the Program was to promote accelerated exploration and
+development of domestic hydrocarbon resources through increased participation of the private
+sector and enhanced operational efficiency of public sector enterprises (PSEs). Specifically, the
+Program aimed to contain the share of oil imports in total oil consumption at the 1991 level (45
+percent). The Government considered the objective of long-term oil import substitution as
+important from the viewpoint of reducing pressure on the foreign currency reserve as well as the
+country's strategic self-reliance. The scope of HSP was to cover major areas including sectoral
+policy and institutional reforms, attracting private sector investments, improving public sector
+operational and financial efficiency, and promoting energy conservation and efficiency.
+
+        The first tranche of $125 million was disbursed in two installments in December 1991
+and February 1992. The Government proceeded to implement most of the reform measures
+prescribed by the Program. The process, however, stalled with what was considered a key
+covenant, namely the divestment of 20 percent of the Government's equity in the country's
+leading oil company, the Oil and Natural Gas Corporation (ONGC). The scheduled loan closing
+date was 30 June 1995, but it was extended three times to allow more time for compliance.
+Finally, the Government indicated that it was unable to meet the requirement and requested the
+cancellation of the second tranche ($125 million). The loan was actually closed on 18
+September 1997.
+
+       The Operations Evaluation Mission (OEM), which visited the country during the period
+6-22 September 2000, confirmed that among the 26 loan covenants, three were still pending or
+not complied with, two were partially complied with, and all the others had been implemented.
+The covenants implemented included, among others, corporatization of ONGC, creation of a
+Directorate General of Hydrocarbons to provide a level playing field for private sector,
+introduction of a New Exploration Licensing Policy, phased dismantling of the administered price
+mechanism, and establishment of the common carrier company Petronet. As a result, the
+general regulatory and business environment has undoubtedly grown much more market
+oriented.
+                                                iii
+
+
+         However, the Program suffered from a number of failed assumptions, which were
+partially responsible for the fact that a key covenant was not achieved. First, the time-bound
+target of divesting 20 percent Government equity in ONGC failed to take into account the scale
+and complexities of the divestment and necessary regulatory and market conditions for the
+divestiture. Second, the Program's heavy emphasis on divestment, as a means to raise
+additional capital and enhance management efficiency, was very uncertain as sales of
+government shares at heavy discounts would have caused substantial financial losses for the
+Government without really achieving much since the majority of the stake would have remained
+with the Government even if the sales succeeded. Other alternatives such as forming joint
+ventures, devising attractive policies to encourage foreign direct investment, and allowing more
+management autonomy for the PSEs could have been more effective. Third, the Program's time
+frame was too tight and no explicit consideration was given to proper sequencing of the reform
+measures prescribed.
+
+       In addition, other factors such as the Government's slow movement to market reforms
+and reluctance to open up the market also played a role in the cancellation of the second
+tranche. In this regard, the Government must accelerate the reform process and pursue private
+and foreign direct investment with greater vigor and speed if it wants the Indian economy to
+succeed in a region where competition is fierce for limited investment resources.
+
+         In the area of exploration and development, the anticipated competition from the private
+sector is yet to be realized with the PSEs, notably ONGC and Oil India Limited, still dominating
+activity. Major foreign oil companies have been reluctant to make large investments in this
+inherently risky business due to the administered prices and the difficulties in obtaining
+marketing rights. Some believe that the multinational oil companies may hold the key for
+acceleration of successful exploration due to their better resources and technology in certain
+key areas, such as deep water exploration. The proportion of crude oil production from private
+or joint ventures under production-sharing contracts remains insignificant, e.g., 4 million out of
+37 million metric tons in FY1999/2000. Total private sector investment in exploration is also far
+from the program target of $5.2 billion. The production of domestic crude oil remained largely
+stagnant over the program period. Consumption/demand, on the other hand, was continually on
+an upward trend with the oil self-sufficiency rate reduced to 37 percent in FY1998/99, much
+lower than the targeted 45 percent. Recent high crude oil prices have once again brought
+urgency to the sector's reforms as oil imports continue to drain the country's foreign currency
+reserve and the deficit on the oil pool accounts (a cross-subsidy mechanism) deficit has
+reached a very high level.
+
+        The situation in the refining sector is somewhat better. Since the beginning of the
+Program, a total of 12 refineries have been approved, five for operation by the private sector, six
+by joint ventures, and one by the public sector. However, all the prospective foreign companies
+including Exxon, Shell, KPC, etc. withdrew from the initial agreement due to concerns over
+marketing rights, administered prices, and anticipated refining overcapacity in the country. Only
+two domestic private companies, Reliance Petroleum, Ltd. and Mangalore Refinery and
+Petrochemicals, Ltd. are already in production.
+
+        The operational efficiency of the PSEs in the sector significantly improved during the
+program period. Exploration and production per capita productivity increased by 23 percent, and
+that for refining by 45 percent during the period between FY1991/92 and FY1997/98. However,
+between FY1993/94 and FY1998/99, the Indian economy's energy intensity, measured by
+hydrocarbon (oil and gas) consumption per unit of gross domestic product, increased marginally
+by 1.8 percent, signaling that the economy might not have become more energy efficient, even
+                                              iv
+
+
+after allowing for some natural fluctuation of data. Waste in energy consumption, particularly
+that associated with illegal or overuse of subsidized fuels such as kerosene, diesel, and
+liquefied petroleum gas, is still evident.
+
+       In view of the foregoing, the OEM rated the Program as less than successful.
+                                             I.       BACKGROUND
+
+
+
+A.        Rationale
+
+
+1.       The operational strategy for India of the Asian Development Bank's (ADB) in much of the
+1990s was to assist the Government, in its strive for industrialization, achieve increased
+economic efficiency through support for structural reforms, promotion of competition, and private
+sector participation. The Hydrocarbon Sector Program (HSP) Loan was consistent with this
+strategy. It was also part of international donor efforts to support India to diffuse its balance of
+payments (BOP) crisis caused by the drying-up of short-term credits and the surge of oil import
+costs due to the sharp oil price increases caused by the Gulf crisis. The Government that took
+office in June 1991 acted swiftly to avert the crisis and prevent default in payments. A program
+of macroeconomic stabilization was set in place consisting of structural reforms to trade, and
+market-oriented industrial and trade policy frameworks. The Government negotiated a standby
+arrangement with the International Monetary Fund (IMF) in October 1991 for $2.3 billion and a
+Structural Adjustment Loan with the World Bank for $500 million.
+
+2.     HSP targeted market-oriented reforms in the hydrocarbon sector because petroleum and
+petroleum products accounted for a significant share of imports (22 percent in FY1990/91). The
+reforms aimed to contain the country's dependence on oil imports by increasing domestic
+production and promoting energy conservation through, among others, attracting private sector
+investments as well as enhancing financial, technical, and managerial efficiencies.
+
+
+B.        Formulation
+
+
+3.      On 8 November 1990 a small-scale technical assistance (TA) grant was approved to
+review the hydrocarbon sector operations in India.1 In January 1991, a policy dialogue between
+the Government and ADB on hydrocarbon sector policy was held in the context of a Special
+Assistance Project.2 A broad framework of HSP emerged during the consultation mission held
+on 15-19 April 1991. The policy framework included sector reorganization, private sector
+involvement in exploration and development, market-oriented hydrocarbon pricing, energy
+conservation, and resource mobilization. Following a government request for a program loan to
+support the reforms for the sector, a fact-finding mission was fielded in September 1991 to
+assess the Government's proposal and to further discuss government policy actions and
+strategies in the sector. Policy dialogues continued during the appraisal mission in November
+1991 during which the content and timing of the policy reforms, and the implementation
+arrangements of the proposed loan, were discussed. The Board approved the Program on
+17 December 1991.
+
+
+
+1
+    TA 1416-IND: Undertaking a Review of the Hydrocarbon Sector Operations, for $100,000, approved on 8 November
+    1990.
+2
+    Loan 1081-IND: Special Assistance Project, for $150 million, approved on 4 April 1991. The primary objective of
+    the project was to provide foreign currency financing for importing diesel fuel with no conditionalities attached.
+                                                        2
+
+
+4.       The six-week period from loan appraisal to approval was a near record speed for a
+program loan addressing such complex reform issues, notwithstanding the emergency-
+assistance nature of the loan. Not surprisingly, many of the design problems revealed later are
+partially attributable to the hastened program preparation process. The Government, which was
+strongly motivated to push through market-oriented reforms as well as in urgent need of a cash
+injection, also appeared to have underestimated the complexities of implementing the program
+measures.
+
+
+C.        Objectives and Scope at Appraisal
+
+
+5.     HSP aimed to maintain the share of oil imports in total oil consumption at the 1991 level,
+as well as to support the Government's overall economic policies of macro-stabilization and
+increased use of market-based instruments in allocating resources. HSP covered five major
+areas that together aimed at complementing the Government's drive to improve the sector's
+production potential and efficiency:
+
+         (i)     undertaking sectoral adjustment through a program comprising appropriate policy
+                 and instrument reforms and increased investment over the medium-term;
+         (ii)    encouraging private sector participation in the oil and gas sectors through joint
+                 ventures, leasing, contracting, build-operate-transfer, and other schemes;
+         (iii)   mobilizing resources for financing medium-term investment in the sector involving
+                 greater external cofinancing and raising additional private sector resources;
+         (iv)    improving the operational and financial efficiency of public sector organizations
+                 engaged in oil and gas exploration and development, through greater managerial
+                 autonomy, decentralization, and divestment; and
+         (v)     promoting increased energy efficiency and conservation through promotion of
+                 appropriate pricing and related policies.
+
+6.      The policy matrix under HSP covered 26 policy measures. Of these, 20 were to be
+implemented prior to the release of the second tranche and six before the end of the program
+period.
+
+
+D.        Financing Arrangements
+
+
+7.     The loan in an amount of $250 million was from ADB's ordinary capital resources, to be
+disbursed in two equal installments of $125 million. The release of the tranches was conditional
+on the implementation of agreed measures. The loan proceeds were to be utilized by the
+Government to finance the foreign exchange costs of eligible imports. HSP was also cofinanced
+by the Overseas Economic Cooperation Fund of Japan (OECF) with a loan of $250 million
+equivalent. To support the Program, two TA grants totaling $600,000 were provided.3
+
+
+
+
+3
+    TA 1645-IND: Examination of Public Sector Oil Refining, Distribution and Marketing Activities, for $200,000,
+    approved on 2 January 1992; and TA 1646-IND: Promotion of Private Sector Investment in Downstream Activities,
+    for $400,000, approved on 2 January 1992.
+                                             3
+
+
+E.     Donor Coordination
+
+
+8.      ADB actively coordinated with the other donors, IMF, and the World Bank, who agreed
+that efficiency in the sector needed to be improved; they supported ADB's proposed program.
+While ADB cancelled the second tranche of the loan as the Government could not fulfill a loan
+covenant regarding divesting the Oil and Natural Gas Corporation (ONGC), OECF released its
+second tranche, after obtaining a "no objection" from ADB, on the basis that the Government
+was committed to divestment but the actual completion of the divestiture was contingent upon
+market conditions. Similarly, IMF had also stipulated several conditions while granting
+emergency assistance to India, and considered that India had met all the major conditions
+satisfactorily and waived, what it considered to be, minor deviations.
+                                               4
+
+
+
+F.     Program Completion Report
+
+
+9.      The loan was closed on 18 September 1997. The program completion report (PCR) was
+circulated on 30 September 1998. The PCR concluded that, although the second tranche of
+$125 million was cancelled despite three extensions to the loan closing date, the Program could
+take credit for a number of policy reforms, improvement in the regulatory environment, and the
+foundation for market-oriented reforms. The PCR classified the Program as partially successful.
+It further concluded that, had ADB not insisted on the full compliance of the divestment
+covenant relating to ONGC and released the second tranche of $125 million, the Program would
+have been considered successful. The PCR also concluded that the two accompanying TAs
+achieved their objectives within budget.
+
+
+G.     Evaluation
+
+
+10.    This program performance audit report (PPAR) focuses on overall impact and design
+aspects of the Program and presents the findings of the Operations Evaluation Mission (OEM)
+which visited the country during the period 6-22 September 2000. The PPAR also presents an
+assessment of the Program's effectiveness in achieving its objectives and in generating a
+sustainable development impact.
+
+11.    The PPAR is based on a review of the PCR, Report and Recommendation of the
+President (RRP), and material in ADB files; and on discussions with staff at ADB, the Executing
+Agencies, and other government agencies, and with representatives of aid agencies, research
+organizations, and the private sector.
+
+
+                  II.    IMPLEMENTATION EXPERIENCE AND RESULTS
+
+
+
+A.     Effectiveness of Design
+
+
+12.     While the majority of the 26 measures stipulated as loan covenants (Appendix 1) were
+appropriate and served effectively to advance market-oriented reforms in the sector, others, as
+will be argued below, were less appropriate and effective.
+
+
+       1.     Divestment Target
+
+
+13.    A loan covenant regarded as key by ADB was the divestiture by the Government of 20
+percent of its equity in ONGC. This was considered essential to pave the way for privatization,
+enhancing efficiency of the sector, and raising additional resources for the Government.
+However, the target proved to be unrealistic relative to the size of the domestic capital market
+and limited interest in the stock from prospective investors. At the time of formulation, no
+                                                          5
+
+
+analysis of market realities was made to judge whether this condition was practical, in spite of
+the fact that the transactions were potentially worth billions of dollars.
+
+14.     ONGC's authorized share capital, after it was converted into a company from a statutory
+body under the Indian Companies Act as required by the Program, was Rs150 billion (about
+$3.3 billion) comprising 15 billion shares with a face value of Rs10 each. Under the Program,
+the Government attempted to divest its share in installments. The first was the sale of 2 percent
+to domestic financial institutions in October 1994, at a Rs1,533 per share. With the earnings per
+share for FY1994/95 standing at Rs58.1, the price/earnings ratio was 26.4:1 or the return was
+only 3.7 percent for investors.4 This was followed by the sale of another 2 percent to ONGC
+employees at Rs270 per share (after dilution of the original shares in the ratio of 3.08:1).5
+Subsequently, according to the Government, when it tried to auction 35.6 million shares, the
+response was insignificant (bids for only 192,310 shares were received). The Government
+therefore consulted industry experts and was advised that such divestment should only be
+attempted after full deregulation of the sector, including the dismantling the administered price
+mechanism (APM), a proposition the Government accepted.
+
+15.     The Government was, and is still, of the view that had it tried to sell 16 percent of its
+equity to satisfy the remaining condition for the release of the second tranche of $125 million, it
+would have suffered huge losses several times greater than the second tranche. The Ministry of
+Petroleum and Natural Gas (MOPNG) still harbors strong negative sentiments about ADB's
+decision to cancel the second tranche to such an extent that, initially, it refused to meet with the
+OEM. The Government argued that such a sale would not have assisted in redressing the
+Government's budget deficit situation as envisaged under the Program.
+
+
+          2.       Reform Time Frame and Sequencing
+
+
+16.     The Program envisaged the reform measures to be carried out within three years, which
+proved to be over optimistic. The Program period was extended three times to six years. In
+addition, the sequencing of related reform measures was not carefully thought through. With
+hindsight, price liberalization for major petroleum products should have been made as a
+prerequisite for divestment of ONGC as private investors demonstrated little interest in acquiring
+ONGC shares as long as the prices of major petroleum products, i.e., gasoline, diesel,
+kerosene, and liquefied petroleum gas (LPG) were administered by the Government.
+
+
+B.        Implementation of Policy and Institutional Measures
+
+
+17.     The measures envisaged under the Program covered a wide range of areas, namely,
+regulation, exploration and production, refining, transportation, distribution and marketing,
+pricing, divestment, efficiency improvements, and indirectly, environmental impact in the
+hydrocarbon sector. The policy matrix providing the summary of planned actions, the timetable
+
+4
+    The share price appeared to be too high relative to the returns, and though no evidence indicates that the
+    Government was imposing these shares on the financial institutions, many of them are wholly or partially owned by
+    the Government.
+5
+    In comparison, according to the Annual Report of the Oil and Natural Gas Corporation for FY1999/2000, the share
+    prices traded on the national stock exchange have averaged Rs200 per share and the earnings per share for
+    FY1999/2000 was Rs25.45.
+                                                          6
+
+
+as envisaged during appraisal, and the implementation status at the time of the PCR and OEM,
+is attached as Appendix 1. Appendix 2 provides background information on the major players in
+the sector.
+
+
+          1.       Regulation
+
+
+18.     Under the Program, a Directorate General of Hydrocarbons (DGH) was established
+under MOPNG in April 1993 to administer the regulatory functions hitherto carried out by
+ONGC. DGH oversees exploration and production activities; develops data packages for areas
+offered for exploration; provides technical advice to the Government on related issues,
+particularly development, conservation, and reservoir management; and advises MOPNG on
+maintaining oil-field safety and environmental standards.
+
+19.     The establishment of DGH represented the first step to create a level playing field for the
+public and private sectors. The public sector enterprises (PSEs)--ONGC and Oil India Ltd.
+(OIL)--are required to compete on equal terms with the PSEs (para. 22). In addition, data on
+exploration acreage on offer are now available to the private sector on the same basis as to the
+public sector. 6
+
+20.      Based on the recommendations under a subsequent ADB-financed TA7 for regulatory
+framework for the gas industry, the Government had earlier initiated steps for creating an
+autonomous gas regulatory body, which would operate in a transparent manner. However, the
+initiative experienced some bureaucratic and procedural delays and now the Government is
+considering the establishment of a single regulatory body for the entire hydrocarbon sector
+because of the close linkages between oil and gas.
+
+
+          2.       Exploration and Production
+
+
+21.     Prior to the Program, the entire responsibility for oil and natural gas exploration and
+development was vested with two PSEs, i.e., ONGC and OIL. However, government statistics
+indicate that the private sector is becoming increasingly active in the development of new oil
+and gas fields. Contracts have been signed with private firms under the Program for the
+development of six medium-sized and 24 small fields. Under the New Exploration Licensing
+Policy (NELP),8 which, according to the Government, is one of the most favorable in the world,
+the Government in January 1999 invited bids for 48 blocks (10 onshore blocks, 26 shallow water
+blocks, and 12 deep water blocks). By the bid closing date of 18 August 1999, 45 bids for 27
+blocks were received, of which 25 blocks were awarded. Of the 25 blocks, three were awarded
+to Enron and eight to a consortium of major domestic private sector corporations i.e., Tata and
+Reliance.
+
+
+
+6
+    TA 2775-IND: Hydrocarbon Exploration and Production Database and Archive System, for $600,000, approved on
+    3 April 1997, assisted the Directorate General of Hydrocarbons in designing a national archive of exploration and
+    production database.
+7
+    TA 2008-IND: Regulatory Framework for the Gas Industry, for $600,000, approved on 7 December 1993.
+8
+    Under this policy, the Oil and Natural Gas Corporation and the Oil India Limited are offered the same fiscal and
+    contract terms as private companies.
+                                                7
+
+
+22.     However, subsequent interviews with the World Bank and private sector representatives
+revealed a somewhat less optimistic scenario. They stated that the interest of foreign
+companies in exploration activities is greatly inhibited by two factors: (i) a perception that the
+blocks open to bidding are generally those with higher risks, and (ii) a government requirement
+of Rs20 billion or $435 million minimum investment in the sector before a company is granted
+the right to market oil products in India.
+
+23.     The production statistics also support the less optimistic view. Crude oil production from
+existing wells decreased from 30.35 million metric tons (MMT) in FY1991/92 to 27.17 MMT in
+FY1993/94. With the additional production by ONGC and production from the private sector and
+joint ventures (about 4 MMT in FY1999/2000), the domestic production of crude oil in
+FY1999/2000 increased to about 36.55 MMT. In comparison, the Program envisaged that crude
+oil production would reach 45 MMT per annum by the end of the program period (1997) in order
+to contain the import share at the 1991 level of 45 percent.
+                                                        8
+
+
+
+          3.      Refining
+
+
+24.     Under the Program, domestic and foreign private firms were allowed to enter the oil-
+refining sector in 1991. The Government has approved 12 new refineries­five for operation by
+the private sector, six by joint ventures, and one by the public sector. Of these, two--Reliance
+Petroleum, Ltd. and the Mangalore Refinery and Petrochemicals, Ltd.--are already in operation
+while three private firms have already withdrawn, and commissioning of the others has been
+delayed. The current status of the private and joint venture refineries is given in Appendix 3.
+Two principal causes for the withdrawal and delays in the implementation of the others were
+the possibly overbuilt refining capacity in the country as anticipated by some industry analysts
+and the preconditions for obtaining marketing rights.
+
+25.    In a separate move not related to the Program to prepare the PSEs for greater
+competition from the private sector, the Government recently announced a restructuring of the
+oil sector whereby all standalone refineries in the public sector are to be converted into
+subsidiaries of marketing PSEs. Bharat Petroleum Company (BPC) will buy out the entire
+government stake in Cochin Refineries and it will take over Indo Burma Petroleum's stake in
+Numaligarh Refinery in Assam. Meanwhile, market leader Indian Oil Corporation (IOC) will buy
+out the entire stake in both Bongaigon Refinery and Chennai Refinery. The detailed timetable
+was not available at the time of the OEM.
+
+
+          4.      Pipeline Transportation
+
+
+26.     One of the major recommendations of a TA9 under the Program was related to the
+establishment of an independent common carrier company which would own and operate all the
+transport and storage facilities in the hydrocarbon sector to which all the stakeholders in the
+sector would have open access. In line with this recommendation, Petronet India Ltd. was
+established in 1998 as a financial holding company with the specific objective of rapidly
+developing a national network of pipelines for transporting petroleum products to which all
+producers in both the private and public sectors could have open access. Fifty percent of the
+equity in Petronet is held by five PSEs, i.e., IOC, BPC, Hindustan Petroleum Corporation (HPC),
+the Gas Authority of India, Ltd., and ONGC (each with 10 percent). The remaining 50 percent is
+held by financial institutions and private companies, with no individual entity holding more than
+10 percent of the total.
+
+
+          5.      Marketing and Distribution
+
+
+27.     The Program stipulated that new refineries under private or joint venture ownership
+would be allowed to market oil products. This covenant was only partially complied with since
+the refineries have been permitted to market only minor products such as lubricants. The right to
+market the top five petroleum products--gasoline, diesel, kerosene, LPG, and aviation turbine
+fuel--is still held by four PSEs i.e., IOC, BPC, HPC, and Indo Burma Petroleum. Recently, the
+
+9
+    TA 1645-IND: Examination of Public Sector Oil Refining, Distribution and Marketing Activities, for $200,000,
+    approved on 2 January 1992.
+                                                            9
+
+
+Government agreed to let private companies engage in retailing provided that they invested at
+least Rs20 billion in the upstream sector. Only the Reliance Petroleum Refinery Ltd., a private
+Indian company, has fulfilled this condition. The Government is expected to approve its request
+to market its refinery products. The PSEs have developed extensive retail outlets, which new
+entrants may have difficulty matching. Foreign companies have tried to get a slice of this market
+through joint venture arrangements with PSEs, but have not been successful. As stated earlier,
+this has been an effective barrier to entry for private investors in the upstream sector that view
+the retail sector as a cushion against the inherently risky exploration and production activities.
+
+28.     In the case of LPG, the Government introduced a parallel marketing system in February
+1993 enabling private sector participation in bottling and retailing of LPG to industrial and
+commercial consumers. Virtually all the major multinational oil and gas companies present in
+India are confined to this market. However, the commercial and industrial segment of the LPG
+market is relatively insignificant at approximately 0.5 MMT, compared with the household
+segment of 5.5 MMT, which is still controlled by the top PSEs under APM (para. 30). Further,
+with commercial and industrial consumers illegally tapping subsidized LPG from household
+consumers, even this limited market available to private companies has been adversely
+affected.
+
+
+           6.       Pricing
+
+
+29.     Prior to HSP, the pricing system was fully under government control, and was known as
+the APM. At the heart of APM are the oil pool accounts, created to insulate domestic crude oil
+producers from volatile international crude oil prices and to provide for a mechanism for cross-
+subsidizing certain petroleum products, such as kerosene and LPG for the household sector,
+without government budgetary support.10 Under the Program, the Government started to align
+petroleum prices with market prices, subject to maximum and minimum price constraints, from
+the previous cost-plus formula, namely, cost of production plus a fixed profit margin. However, a
+formal plan to phase out APM by 2002 was not announced until November 1997, two months
+after the loan officially closed. Meanwhile, total subsidies have decreased from Rs186 billion in
+1997 to Rs83.6 billion in 1999 (Table 1).
+
+                             Table 1: Subsidies on Major Petroleum Products
+                                                (Rs billion)
+
+Item                                       1993      1994       1995      1996      1997       1998      1999
+
+Kerosene--Domestic Use                    33.04     37.73       37.40    41.90      65.40     58.20     57.90
+Diesel                                     1.20      5.75        4.30    21.80      80.90         0         0
+LPG--Domestic Use                         11.76     12.61       14.10    16.30      22.20     16.60     25.70
+Naptha for Fertilizer                      8.15      7.72        8.50    12.00      15.20         0         0
+Bitumen--Packed                            1.52      1.26        1.10     1.20       2.00         0         0
+Paraffin Wax                               1.19      0.89        0.20     0.40       0.30         0         0
+
+           Total                          56.86     65.96       65.60    93.60    186.00      74.80     83.60
+10
+     Through the oil pool accounts, inflows from surcharges on the sales of petroleum products (mix of domestically
+     produced and imported) and outflows for meeting the claims by domestic oil producers and refineries, are adjusted.
+     When the world oil price is low, the surcharges will be high enough to meet the claims while still contributing a
+     surplus to the fund, which will then be used to pay for the claims when the world crude price is high. Over an
+     extended period of time, the pool accounts are supposed to balance.
+                                                        10
+
+
+
+Source: Ministry of Petroleum and Natural Gas.
+
+30.    It should be noted that government revenues from customs and excise duties from oil
+products far exceed subsidies. For instance, in FY1999/2000 (the latest year for which data are
+available) the Government earned Rs222.3 billion from customs and excise duties whereas the
+subsidies were only about Rs83.6 billion, i.e., about 38 percent of the revenues. In addition, the
+state governments collect a substantial portion of their revenues from the hydrocarbon sector
+through a sales tax.11 However, the prices of petroleum products in India are still some of the
+lowest in the region, with the exception of oil- and gas-rich countries, as may be seen from
+Table 2 below.12
+
+       Table 2: Consumer Retail Prices of Selected Petroleum Products in the Region
+                                   (as of 1 January 1998)
+
+                                                                 Aviation
+                                  LPG             Gasoline         Fuel           Kerosene       Diesel
+No.    Country                                               (US cents per liter)
+
+1      Singapore                  26.95             78.57           --            30.11          39.36
+2      Thailand                   13.00             22.61           --            23.42          20.83
+3      Malaysia                   13.84             24.20           --            11.11          14.32
+4      Philippines                26.19             35.72         38.38           20.49          23.12
+5      Korea, Rep. of             24.58             77.37           --             9.92          47.17
+6      Taipei, China              17.89             61.36         36.20           50.23          47.00
+7      Indonesia                    --               8.10          4.05            2.70           3.66
+8      India                      17.10             57.99         33.20           10.39          26.38
+
+-- = data not available, LPG = liquefied natural gas.
+
+
+         7.       Restructuring and Divestment
+
+
+31.    As agreed under the Program, ONGC was changed from a statutory body to a
+corporation under the Indian Companies Act in September 1993. However, most board directors
+of the PSEs in the oil sector are government appointees, and some are appointed as board
+members for multiple PSEs at the same time. As a result, although some progress has been
+made compared to the situation prior to the Program, the PSEs are far from being granted full
+autonomy.
+
+32.     As stated earlier (para. 13), divestment of PSEs in the sector was given paramount
+importance in the reform package prescribed by the Program. However, the Government was
+only able to divest about 4 percent of ONGC to financial institutions and employees under the
+Program. In 1999, after the loan closed, an additional 12 percent of government equity was sold
+to other PSEs under a cross-shareholding scheme. Cross-shareholding, a common practice in
+India, effectively consolidates the horizontal alliance of PSEs in the same sector and has drawn
+
+
+11
+   For example, in Maharashtra the sales tax as of 1 April 1999 was 13 percent on natural gas, 27 percent on
+   gasoline, and 30 percent on diesel.
+12
+   The Government has raised the prices for major petroleum products shortly after the Operations Evaluation
+   Mission.
+                                                        11
+
+
+much criticism as no real divestment has taken place and the stakes still remain with the
+Government.
+
+33.     Despite the difficulties with ONGC, the Government was more successful in divesting
+equity in other PSEs and has in fact exceeded the targets set under the Program (Table 3).13
+
+
+
+
+13
+     Sale of 20 percent of government equity in one of the integrated or two nonintegrated refining and marketing
+     companies.
+                                               12
+
+
+                       Table 3: Divestment in the Hydrocarbon Sector
+
+                                Share Capital                             Government
+                                  (Rs Crore)              Divestment        Holding
+        Company          Authorized         Paid-Up           (%)             (%)
+
+        ONGC                15,000         1,425.92           15.89            84.11
+        OIL                    250           142.67            2.00            98.00
+        IOC                  2,500           389.31            8.86            91.14
+        HPC                    250           225.58           48.94            51.06
+        BPC                    200           150.00           33.80            66.20
+        CRL                     75            68.94           44.96            55.04
+        MRL                    200            47.10           48.20            51.80
+        BRPL                   200            99.82           25.53            74.47
+        GAIL                 1,000           845.65            3.37            96.63
+
+       Crore = 10 million.
+       ONGC = Oil and Natural Gas Corporation, OIL = Oil India Limited, IOC = Indian Oil
+       Corporation, HPC = Hindustan Petroleum Corporation, BPC = Bharat Petroleum Company,
+       CRL = Cochin Refineries Limited, MRL = Madras Refineries Ltd., BRPL = Bongaigaon
+       Refinery and Petrochemicals Limited, GAIL = Gas Authority of India Limited.
+
+34.     More recently, the move to divestment and privatization of PSEs appears to have gained
+some momentum. A minister has been appointed in charge of divestment and a Department of
+Divestment has been created. The Government presently owns 240 central PSEs, with a total
+investment of Rs2,301 billion, over half of these incurring losses. Progress, though, has been
+relatively slow in the hydrocarbon sector. Unlike nonprofitable PSEs, the companies in the
+hydrocarbon sector have traditionally been regarded as "Navaratna" (Nine Gems) as they
+contribute a significant share of government revenue. The total revenue from major oil PSEs in
+FY1999/2000 was Rs289 billion, of which only little over Rs2.1 billion (or 0.7 percent) was in the
+form of dividends and the rest as excise tax and duty. The implication is that the Government's
+revenue will not be significantly reduced after divestment since only the dividend portion would
+be relinquished. Aside from economics, there are security and strategic concerns as the oil
+sector is viewed as the lifeline of the economy. All these factors have contributed to the very
+slow motion of divestment.
+
+
+C.     Management of the Program
+
+
+35.    The EA for loan withdrawals was the Ministry of Finance while the EA for implementing
+the Program and the TA was MOPNG. The dual EA structure has, to a certain extent, created
+an incentive problem as MOPNG had no direct financial incentive to implement all the reform
+measures on time and many measures such as the privatization of PSEs may even have been
+viewed as harming its own short-term interests.
+
+36.     Despite the incentive problem, monitoring of compliance with loan covenants was
+successfully carried out by MOPNG. Dialogue during the program period, in the form of reports,
+memos, and through other channels, between ADB and the Government was intense, resulting
+in three extensions of the Program and ultimately the cancellation of the second tranche. During
+the OEM, MOPNG pointed out the need for continuing such a policy dialogue, which would help
+improve the understanding of each other's objectives and constraints, as well as development in
+the sector.
+                                                            13
+
+
+
+37.     The Program included two TA grants (Footnote 3). The PCR reported that MOPNG did
+not encounter any difficulties in recruiting two consulting firms under ADB's guidelines, and
+rated the performance of the consultants as satisfactory. The OEM also confirmed that some of
+the TA recommendations had been implemented, such as the establishment of a common
+carrier company (Petronet) and market-oriented reforms.
+
+
+D.         Assessment of Program Results
+
+
+
+           1.       Choice of Indicators and Limitations
+
+
+38.      In order to measure the Program's results, a set of indicators is identified against the
+objectives that the Program set out to achieve. A caveat is in order that these indicators at best
+may be used to measure the before and after program scenarios, which may not be conclusive
+of the cause-effect relationship, or lack thereof, between the Program and the observed
+differences. Multiple factors have contributed to the implementation of the policy and institutional
+reforms in the hydrocarbon sector. What the OEM observed is the combined effects of various
+initiatives taken by the Government14 and supported by the World Bank, IMF, and ADB.
+
+
+           2.       Achievement of Objectives
+
+
+39.     Containment of Share of Oil Imports to the 1991 Level. Table 5 shows that the crude
+oil production increase envisaged by the Program did not materialize due to lack of exploratory
+breakthroughs and the fact that the existing oil fields are running dry. Several factors have
+contributed to this outcome, e.g., low investment, technological constraints of the PSEs, or
+simply lack of prospective oil reserves. While the production level remained largely stagnant
+over the program period, consumption and demand were continually on the increase and the
+economy became more reliant on imported oil with the self-sufficiency rate reduced to 37 percent
+in FY1998/99.
+
+                              Table 5: Crude Oil Production and Consumption
+
+                          Domestic              Private and Joint          Consumption/               Percentage
+                         Production              Venture Fields              Demand                      Self-
+Year                       (MMT)                     (MMT)                    (MMT)                   Sufficiency
+
+1990/91                      33.02                                               55.04                    55.6
+1991/92                      30.35                                               56.97                    49.3
+1992/93                      26.95                                               58.90                    42.4
+1993/94                      27.17                                               61.50                    40.9
+1994/95                      32.24                                               67.40                    44.3
+1995/96                      35.20                      0.65                     74.67                    47.1
+
+14
+     In fact, during the OEM, several government officials repeatedly stressed that the reforms were implemented
+     because of the Government's strong commitment, not because of the Hydrocarbon Sector Program
+     conditionalities. They also pointed out that the sector reforms are being pursued vigorously despite the cancellation
+     of the second tranche and closure of the loan.
+                                                      14
+
+
+1996/97                  32.90                    1.35                  79.17          41.6
+1997/98                  33.86                    2.51                  84.29          40.2
+1998/99                  32.72                    3.04                  89.36          36.6
+         a
+1999/2000                36.55                    4.00                  95.00          38.4
+
+MMT = million metric tons.
+a
+  Estimated by the OEM based on published information and interviews.
+
+40.     Undertaking Sectoral Adjustment through Policy and Instrumental Reforms. Most
+of the loan covenants have been implemented or partially implemented, namely, conversion of
+ONGC into a corporate entity (para. 14), creation of DGH aimed to provide a level playing field
+for the private sector (para. 18), introduction of NELP (para. 21), phased dismantling of APM
+(para. 29), and establishment of a common carrier company, Petronet (para. 26). As a result,
+the general regulatory and business environment has undoubtedly grown much more market-
+oriented.
+
+41.       Encouraging Private Sector Participation. While the reforms have made the
+hydrocarbon sector more conducive to private sector participation, the anticipated competition
+from the private sector is yet to be realized. In the area of exploration and development, ONGC
+and OIL do not face any major competition. Major foreign oil companies have been reluctant to
+make large investments in this inherently risky venture due to the administered prices and the
+difficulties in obtaining marketing rights. As a result, the proportion of crude oil production from
+private or joint ventures under production-sharing contracts, as an indicator for measuring
+private sector participation, remains insignificant, e.g., four out of 37 MMT in FY1999/2000
+(Table 5).
+
+42.     In the refining sector, the situation is somewhat better. Appendix 3 shows that private
+and joint ventures dominated the 12 newly approved refineries. However, all the prospective
+foreign companies including Exxon, Shell, KPC, etc. withdrew from the initial agreement due to
+concerns over marketing rights, administered prices, and anticipated refining overcapacity in the
+country. Only two domestic private companies, Reliance Petroleum, Ltd. and Mangalore
+Refinery and Petrochemicals, Ltd., are already in production. Despite its new ultra-modern
+refinery, Reliance alone will not be big enough to influence the market dominated by the PSEs.
+
+43.     Mobilizing Resources for Medium-Term Investments. The RRP estimated that a total
+of $10 billion would be needed in exploration and production to boost the production level, of
+which $4.8 billion would come from PSEs and $5.2 billion from private sectors. Existing
+government statistics on the amount of investment in the sector include only those by PSEs,
+and no information is available on total private and joint venture investments. However, private
+sector participation in exploration and production appears to be very limited and far from the
+target level due to concerns over high risks and marketing rights. Compared with exploration,
+refining received more substantial private investment, principally for one multibillion-dollar
+project--Reliance's 27 MMT per annum ultra-modern refinery in Jamnagar.
+
+44.     Improving Operational and Financial Efficiency of PSEs. Government statistics
+indicate that the total numbers of employees in India in exploration and production, and in
+refining have declined from 58,627 and 29,856 in FY1991/92 to 52,909 and 25,294 in
+FY1998/99, respectively. Over this period, the domestic crude oil production increased slightly
+from 30.35 MMT per annum to 33.86 MMT per annum, and the country's refinery throughput
+increased from 54.254 MMT per annum to 66.672 MMT per annum. This resulted in a net per
+capita productivity gain, as a measure of the sector's efficiency, of 23 percent for exploration
+and production, and 45 percent for refining.
+                                               15
+
+
+
+45.     ONGC has been converted into a limited liability company and the PSEs have been
+granted considerable autonomy in their operations, including forming joint ventures with
+domestic and foreign private enterprises. Before 1997, there were 892 government "guidelines"
+which controlled the operations of the PSEs. Of these, 696 guidelines were removed in 1997.
+Also, in anticipation of the full dismantling of APM and industry deregulation (both scheduled to
+be completed by 2002), the hydrocarbon sector PSEs are striving to restructure, modernize, and
+streamline their technical, financial, and managerial operations and form strategic alliances with
+suitable domestic and foreign partners. IOC, for example, is moving upstream by entering the
+exploration and production of crude oil with the award of one onshore block under NELP. The
+sector has taken several steps to keep abreast of international technical standards in refining,
+e.g., Euro IV standards, and in storage and transportation.
+
+46.     The gains in efficiency, albeit moderate, can hardly be attributed to divestment as thus
+far divestment has not taken place in a substantial way. The reluctance to "sell the family
+jewels", though unjustified, is very much evident (para. 35). Instead, the improvement is likely
+the result of the Government's initiative to streamline its PSEs to prepare them for the greater
+competition expected from the private sector. This was also evidenced by the recent
+government announcement regarding upward integration of marketing PSEs through acquisition
+of the standalone refineries in the public sector (para. 25).
+
+47.     Promotion of Energy Conservation and Efficiency. Between FY1993/94 and
+FY1998/99, India's real gross domestic product (GDP) grew from Rs7,813.13 billion to
+Rs10,818.34 billion, while hydrocarbon (petroleum and natural gas) consumption increased
+from 78.35 MMT oil equivalent to 110.41 MMT oil equivalent. This represents a marginal
+increase in the economy's energy intensity of 1.8 percent, measured by hydrocarbon
+consumption per unit of GDP. Even after allowing for data fluctuation, it is clear that the
+economy did not become more energy efficient over the six-year period. Wasteful use of energy
+is evident, particularly in areas associated with illegal or overconsumption of subsidized fuels
+such as kerosene, diesel, and LPG. It is widely known that nonhousehold consumers use
+subsidized kerosene and LPG intended for household users. The disproportionately large
+number of diesel-powered and inefficient taxis is also partially the result of previous subsidies
+on diesel (Table 1). Early dismantling of APM would obviously be desirable from the viewpoint
+of energy conservation and efficiency.
+
+48.     In sum, the degree to which the objectives have been achieved is characterized as a
+mixture of both progress and inadequacy. Real but marginal progress has been made in
+allowing competition, introducing of better technology, and making available resources to the
+sector. However, more needs to be done in the areas of productivity and efficiency.
+
+
+                                  III.    PROGRAM IMPACT
+
+
+49.    A similar caveat as used earlier should also be applied in this section: it is virtually
+impossible to pinpoint the exact impacts of this particular Program loan due to the multifaced
+nature of the reform processes. Even in terms of donor support programs, ADB's contribution
+was relatively modest.
+                                                 16
+
+
+A.       Macroeconomic Impact
+
+
+50.       An immediate benefit expected from HSP was to assist the country in overcoming BOP
+difficulties. The financial assistance provided by IMF, World Bank, ADB, and OECF helped the
+Government meet India's import obligations and stabilize the economic situation. More
+importantly, the cash injection also helped improve confidence of foreign investors, which led to
+larger than expected inflows of foreign private capital in subsequent years. As a result, India
+achieved macroeconomic stability and sustained economic growth. Real GDP growth increased
+from 0.4 percent in FY1991/92 to 6.4 percent in FY1999/2000 (Table 6).
+
+51.     However, while the BOP support clearly succeeded, private sector participation in the
+hydrocarbon sector did not materialize enough to accelerate exploration and development. For
+much of the 1990s, the increasing dependence on imported crude oil did not put undue
+pressure on India's BOP position. The surge in exports and the weak crude oil price were more
+than sufficient to cover the import bill such that the foreign exchange reserve reached a high of
+$38 billion (equivalent to 7.6 months of imports) at the end of FY1999/2000 (March 2000). The
+current account deficit was at its lowest in the period under discussion at 0.5 percent of GDP in
+FY1993/94 (Table 6).
+
+52.      The recovery may have led the Government to become complacent about the urgency to
+reduce the oil import dependency. As such, recent crude oil price increases have caught the
+Government by surprise. If the crude oil prices average $30 per barrel during the rest of the
+financial year, the total oil import bill for FY2000/2001 will double from FY1999/2000 level to $20
+billion. This will threaten to drain the country's foreign currency reserve, which had already
+declined to $32.7 billion by August 2000. The surging oil imports have also widened the year-
+on-year trade deficit by $300 million so far and put more pressure on the rupee, which has
+dropped by 3.5 percent against the dollar since April 2000 as of November 2000.
+
+53.     Another key indicator in this regard is the oil pool accounts deficit. Table 6 indicates that
+it reached Rs150 billion in FY1999/2000 and is likely to reach Rs236 billion ($5.1 billion) in
+FY2000/2001. The Government has also recently announced that it will raise the price of
+gasoline, kerosene, LPG, diesel, and aviation fuel to reduce the widening oil pool deficit.
+
+                                Table 6: Key Economic Indicators
+
+Item                               1990/91    1991/92     1993/94    1995/96    1997/98     1999/00
+
+Real GDP Growth (%)                     5.7        0.4        6.0         7.3        5.0        6.4
+Oil Import ($ million)               6,028      5,364      5,650       7,526      8,164     10,482
+ % of total imports                   21.6       25.5       21.1        17.2       15.9       18.9
+Current Account/Balance/GDP            -3.8       -0.7       -0.5        -1.7       -1.3       -0.9
+(%)
+Average Price of Crude Oil            23.0      16.34       15.6        17.2       19.1       18.1
+($/barrel)
+Foreign Exchange Reserves            2,338      5,721     15,176     17,044      25,975     38,036
+($ million)
+Months Worth of Total Imports          1.0        3.3         6.8        4.7        6.1        7.6
+                                                                                                 a
+Oil Pool Account Deficit                --         --          --        57       182.7       150
+(Rs billion)
+
+-- = data not available.
+                                                        17
+
+a
+    The OEM's estimate based on published information and interviews. The figure for FY2000/2001 is likely to reach
+    Rs236 billion.
+
+
+
+B.        Social Impact
+
+
+54.     The Program did not aim for any specific social impact. However, it supported
+macroeconomic stability and sustained economic development that would potentially benefit all
+sectors of society. The positive impacts of macroeconomic stability may have been particularly
+well received by the poor as they would be most vulnerable to high inflation. On the other hand,
+the removal of subsidies on petroleum products like kerosene and LPG for household use, an
+important component of the market-oriented reforms, would, in the near term at least, adversely
+affect the poor. However, on several occasions, the OEM learned that the subsidized fuels often
+do not reach poor households for which they are intended due to problems with the distribution
+chain, and it is often comparatively wealthy people who benefit more from the subsidy.
+
+
+C.        Institutional Impact
+
+
+55.     The policy and institutional reforms had a positive impact on the institutions in the
+hydrocarbon sector. The creation of DGH was instrumental in attracting foreign and domestic
+private investment in the upstream sector. PSEs now enjoy considerable autonomy in their
+operations as a result of the policy reforms. Also, because their shares are traded on the
+national stock exchange, there is now more transparency in their financial reporting
+requirements compared with when they were wholly under government ownership and control.
+
+
+D.        Environmental Impact
+
+
+56.     The hydrocarbon sector's operations have strong environmental implications through
+both the production and consumption of its products. The environment was not directly
+considered by HSP at its design stage. However, energy conservation and improvement of
+efficiency of the sector, two explicit goals of HSP, would have had indirect positive impacts on
+the environment, even though these objectives were not fully achieved. In addition, one of the
+key loan covenants of HSP was to dismantle APM and remove subsidies on petroleum
+products. From the environmental point of view, subsidized diesel was probably responsible for
+the disproportionately large number of diesel cars in major cities like Delhi and Mumbai. Diesel
+engines without emission controls tend to emit much higher amounts of air pollutant, e.g.,
+particulate, than gasoline-powered engines. To that extent, the removal of subsidies on diesel
+since 1998 (Table 1) is beneficial for the environment, although many of the diesel-powered
+taxis will remain in the fleet for a few more years to come. On the other hand, subsidies for
+cooking gas and kerosene are perceived to be environmentally beneficial as these fuels have
+led to widespread displacement of coal and wood for domestic cooking and heating. Therefore,
+measures should be taken in the future to ensure that the complete removal of subsidies on
+cooking gas and kerosene do not force households to switch back to coal or fuelwood.
+                                                          18
+
+
+E.         Sustainability
+
+
+57.     It appears that the economy-wide privatization, pricing, and institutional reforms which
+began in 1991 in India following the Gulf crisis have gained considerable momentum and
+become increasingly irreversible. The Government has announced the details of a phased
+dismantling of APM by 2002,15 it will face a major loss of credibility if it reverses this course.
+Further, due to the deterioration of the public infrastructure like telecommunications, power, and
+water, a public consensus is emerging that the private sector would do a better job than the
+PSEs. This is evidenced by the fact that despite several changes in the political parties in power
+at the center, the direction of reform has been maintained, albeit at different speeds.
+
+
+                                   IV.      KEY ISSUES FOR THE FUTURE
+
+
+58.    The OEM has identified a set of issues related to the sector's performance and
+formulation of program loans, which require ADB's attention in its future operations.
+
+
+
+
+15
+     As this report was being reviewed, the Government, sensing greater urgency for reform, just announced its intent
+     to move up this date to 2001.
+                                                19
+
+
+
+A.     Issues Related to Sectoral Improvement
+
+
+59.     HSP aimed to support the Government's market-oriented reforms in the hydrocarbon
+sector with a clear objective containing the total share of oil imports in total oil consumption at
+the 1991 level. Almost 10 years have elapsed and the gap between domestic production and
+consumption is as wide as ever. Given the importance of the hydrocarbon sector to India's
+economy and the highly volatile nature of the international oil market, it is imperative that the
+country continues with deregulation and pricing reforms. India must pursue private sector
+participation, particularly from foreign investments, with greater vigor and speed if it wants to
+succeed in a region where there is much competition for limited investment resources.
+
+
+B.     Issues Related to Program Loan Formulation
+
+
+60.    Quick-Disbursing Loans vs. Long-Term and Complex Reforms. Like many other
+program loans, HSP was designed for dual purposes: BOP support (to stabilize the economy)
+and support for sectoral reforms. BOP support called for the quick disbursing of the loan,
+whereas the reforms it stipulated needed a much longer time to accomplish. Future policy-
+based lending may consider severing the link between short-term crisis management and
+support for long-term market reforms.
+
+61.      ADB-Imposed Reforms vs. ADB-Government Joint Initiatives. The Government had
+initiated the market-oriented reforms before HSP began. One can argue that, even without the
+Program, the Government would still have carried out the reforms and, therefore, that the real
+value added of the Program was limited. However, the issue can be viewed from a different
+angle: if the reforms were purely ADB's initiative, the chances of their success would have been
+even smaller. A growing body of evidence, accumulated both within ADB and the international
+development community at large points to the fact that the political commitment of governments
+to reform is the fundamental reason for the success (or otherwise) of policy-based lending. To
+that extent, future policy-based lending should continue seeking a partnership with governments
+on their reform initiatives as this will increase the likelihood of their success or broaden the
+scope of existing reforms, even though it poses technical difficulties for evaluating the value
+added of the program, as evidenced in this case. This does not mean that ADB can play only a
+passive role by financing the costs of the reforms, which is very important, but can assist the
+Government in a variety of ways--including providing TA, preparing reform packages, offering
+policy dialogues, and financing follow-up investment needs.
+
+62.     Use of Loans vs. Implementation of Reforms. The EA for loan withdrawal was the
+Ministry of Finance (MOF) while the EA for implementing the reform measures was MOPNG.
+There was no direct financial incentive for MOPNG to implement all the prescribed measures on
+schedule, as many reform measures could have hurt its own short-term interests. This should
+have been a cause for concern. Future policy-based lending should explicitly take into account
+proper incentives for all stakeholders through, for example, follow-up investments or other
+measures.
+
+63.   Market-Oriented Reforms vs. Poverty Reduction Goals. Market-oriented reforms are
+a common feature of all program loans aimed at improving the economic efficiency of a sector
+or an economy. While such efficiency improvement will eventually benefit all segments of
+                                              20
+
+
+society, some reform measures, such as the removal of fuel subsidies in this case, may hurt the
+poor in the short term. Consequently, particular attention should be paid to assessing the
+impacts of economic reforms on the poor when formulating future program loans and, whenever
+                                                 21
+
+
+necessary, measures should be taken to protect the poor from drastic negative impacts, e.g., by
+allocation of a minimum amount of subsidized fuel oil to the poorest households when
+necessary.
+
+64.     Compliance with Loan Covenants vs. Achieving Program Goals. The decision to
+cancel the second tranche was based on noncompliance with a loan covenant stipulating the
+divestment of 20 percent of ONGC. However, even with the full compliance of this covenant at a
+discounted price, it would have not led to better achievement of the program goals, e.g., raising
+additional capital and improving accountability (paras. 15-16). Conversely, nominal divestment
+was carried out through, for example, cross-shareholding among different PSEs, but it did little
+to raise additional capital and increase private sector participation. Thus, in administering as
+well as evaluating future program loans, more attention should be paid to assessing to what
+extent the program objectives are achieved rather than on simply monitoring the compliance
+status of covenants.
+
+
+                                      V.      CONCLUSION
+
+
+
+A.     Overall Performance
+
+
+65.     Program Relevance, Appropriateness, and Sustainability. The market-oriented
+policy and institutional reforms envisaged under HSP were highly relevant, timely, and most of
+them were appropriate. However, the reforms aimed at improving the sector's efficiency do not
+necessarily validate import substitution as the primary motivation of the Program. The issue of
+the relative economic competitiveness of domestic crude oil production against imports was not
+extensively addressed during the Program's formulation. Instead, a reduction in spending from a
+limited amount of foreign currency available on oil imports and, more implicitly, long-term oil
+supply security, were regarded as the primary rationale for the Program. Although currently high
+world crude oil prices appear to reinforce the rationale, the long-term economic viability of
+domestic oil production competing against imports remains to be seen. The OEM also observed
+that many of the reform measures, including establishment of DGH, phased dismantling of
+APM, and devising favorable policies and incentives to attract foreign investment in the sector,
+have been or are being implemented. Many of the reform measures implemented, and indeed
+the general (but slow) trend of greater economic liberalization are increasingly irreversible.
+
+66.     Program Efficacy and Rating. Despite the positive observations, the OEM rates the
+Program less than successful. Several factors have contributed to this assessment. First, as
+stated earlier, it is inappropriate to attribute the new developments wholly to HSP. In fact, the
+Government continued to press ahead with the reforms despite the cancellation of the second
+tranche by ADB. Second, arguably the most important goal of the Program, i.e., to contain the
+share of oil imports at the 1991 level of 45 percent, was not realized, as the present level of self-
+sufficiency is only 37 percent. Third, the loan covenant of divesting 20 percent of Government
+equity in ONGC was found to be not only unrealistic but also ineffective from the viewpoint of
+achieving the Program's objectives. Lastly, a "less than successful" instead of an "unsuccessful"
+rating reflects the substantial progress that has been made in market oriented-reforms with the
+anticipation that greater progress will be made in the near future.
+                                                22
+
+
+67.     Borrower and ADB Performance. Both MOF and MOPNG registered satisfactory
+performance in terms of administering the Program and monitoring progress. MOPNG, despite
+several changes of government and the Program's lack of explicit consideration for its financial
+incentive, demonstrated commitment to implementing the reform measures stipulated by the
+Program. However, ADB's performance was deemed less than satisfactory on several fronts.
+The Program was not well conceived, despite the fact that the broad framework was consistent
+with ADB's country operating strategy, and the loan preparation was rushed. As a result, the
+chances of a successful Program were compromised by the various design deficiencies. The
+problems were further aggravated by the inflexible manner in which implementation was
+handled.
+
+
+B.     Lessons Learned
+
+
+68.     Realistic Goals Based on In-Depth Sector Analysis. Success of program loans
+depends on the formulation of realistic policy and institutional reforms. For HSP, the target of 20
+percent divestment of the Government's equity in ONGC was unrealistic. No analysis was
+conducted regarding what regulatory and market preconditions for such a large and complex
+divestment should take place without jeopardizing shareholder value. The RRP's analysis on
+program risks did not even mention that potentially poor market response could adversely affect
+compliance. In addition, the target for additional domestic crude oil production was unrealistic as
+it ignored the fact that the investments alone were no guarantee of finding and producing oil.
+
+69.     Flexibility in Loan Conditions. ADB sent mixed signals to the Government when it
+allowed OECF to release the second tranche while canceling its own second tranche. In the
+implementation of program loans, ADB should adopt a flexible approach. Flexibility and
+willingness to adapt will be a crucial factor for the success of ADB's future operations in India.
+                                       23
+
+
+
+                                  APPENDIXES
+
+
+                                                         Cited on
+Number                    Title                 Page   (page, para.)
+
+1        Compliance Status of Policy Matrix      19        3,12
+
+2        Hydrocarbon Sector in India             24        4,17
+
+3        Status of Approved Refinery Projects    31        6,24
+                                                                COMPLIANCE STATUS OF POLICY MATRIX
+
+Condition                                                                           PCR Status                                       OEM Status and Remarks
+
+A.   Prior to Second Tranche Release
+
+1.   Restructuring and Divestment of State Enterprises
+
+·    Submission of report by the Committee appointed by the     ·   Complied with. The Kaul Committee was set up on       ·   Same as PCR.
+     Government (April 1992) to examine all aspects of              24 January 1992, and the Committee's Report
+     ONGC's existing organization and activities.                   was submitted to the Government in December
+                                                                    1992.
+·    Incorporation of new companies based on the                ·   Delayed Compliance. By an Act of Parliament,          ·   Same as PCR. ONGC is now a full commercial
+     recommendation of the Committee (July 1992).                   ONGC was converted from a statutory body to a             entity.
+                                                                    public limited company under the Companies Act
+                                                                    in September 1993. This provided for the transfer
+                                                                    and vesting of the undertaking of the Commission
+                                                                    into a corporation.
+
+·    Divestiture of ONGC's selected activities to new           ·   Complied with. There are no further acquisitions      ·   Same as PCR.
+     companies to the extent that such divestiture is               by ONGC of oil rigs or of supply and support
+     recommended by the Committee (January 1993).                   vessels including crews for seismic surveys from
+
+
+
+
+                                                                                                                                                                                   20
+                                                                    FY1993. Well drilling, workovers, and other
+                                                                    services related to oil and gas production have
+                                                                    been outsourced from private sector companies.
+
+·    20 percent of government equity in ONGC or its             ·   Partially complied with. Close to 4 percent has       ·   Additional 12 percent was divested in 1999
+     equivalent in the new corporate structure (including the       been divested to employees and domestic                   through a cross-shareholding scheme by different
+     new structure for oil field equipment and services)            financial institutions.                                   oil and gas PSEs, but the Government remains
+     recommended by committee.                                                                                                the majority shareholder for these PSEs.
+
+·    Implementation of measures identified to increase the      ·   Complied with. Major measures include:                ·   Same as PCR. It was noted during the OEM that
+     managerial and financial autonomy and accountability of        (i) an increase in the approval authority of the          some governmental officials and industry
+     public sector enterprises in the hydrocarbon sector                  board of directors for capital expenditure of       executives are board members for different PSEs
+     (January 1993).                                                      approved projects;                                  within the sector at the same time. This structure
+                                                                    (ii) simplified appraisal procedures where capital        could potentially compromise their capability of
+                                                                          investments require the Government's                taking independent views to best represent the
+                                                                          approval; and                                       interests of any single PSE.
+                                                                    (iii) access to capital markets.
+                                                                ·   The conversion of ONGC from a statutory body to
+
+
+
+
+                                                                                                                                                                                   Appendix 1, page 1
+                                                                    a corporation under the Companies Act provides it
+                                                                    with much greater flexibility and managerial
+                                                                    autonomy to five public sector enterprises in the
+                                                                    hydrocarbon sector.
+
+·    Commencement of policy dialogue between the                ·   Delayed compliance. After completion of TA 1645       ·   MOPNG expressed the desire to continue policy
+     Government and ADB to implement the study (January             in January 1994, discussions were held between            dialogue between ADB and the Ministry of
+     1993).                                                         the Government and ADB on the findings of the             Finance on new development in the sector.
+Condition                                                                               PCR Status                                         OEM Status and Remarks
+
+                                                                       study.
+
+2.   Encourage Increased Private Sector Participation
+
+·    Confirmation of Government's decision to divest shares in     ·   Complied with. An announcement was made by              ·   Same as PCR.
+     selected public sector enterprises engaged in oil refining        the Government in February 1992.
+     and marketing (February 1992).
+
+·    Sale of 20 percent of Government's equity in one              ·   Complied with. The Government has divested its          ·   Same as PCR.
+     integrated or two nonintegrated public sector oil                 holdings as follows since 1992: IOC, 8.74 percent;
+     refining/marketing companies to mutual funds, financial           BPC, 33.80 percent; HPC, 48.84 percent, and
+     institutions, general public, and workers (June 1993).            IBP, 40.40 percent.
+
+·    Government to allow new refineries in the private sector      ·   Complied with. The Government has approved the          ·   Partially complied with. But out of the 11 newly
+     or as joint ventures and to allow them to market petroleum        establishment of 11 new refineries (five by private         approved refineries, only two have been
+     products (July 1992).                                             and six by public-private joint ventures).                  commissioned, schemes for three have been
+                                                                                                                                   shelved and the others have been delayed. All
+                                                                                                                                   the original foreign partners have withdrawn.
+                                                                                                                                   Marketing of the top five petroleum products is still
+                                                                                                                                   done by PSEs and only the lubricants and part of
+                                                                                                                                   the LPG market is open to private companies.
+·    Government to allow private sector franchising, joint         ·   Complied with. As a result of implementation of         ·   Same as PCR. The market segment open to
+
+
+
+
+                                                                                                                                                                                           21
+     ventures, etc. for LPG bottling (June 1993).                      parallel marketing system introduced in February            private sectors, i.e., industrial and commercial
+                                                                       1993, LPG bottling and marketing is open to                 customers, is relatively insignificant, 0.5 MMT in
+                                                                       private sector companies.                                   the entire market of 6 MMT.
+
+·    Commencement of policy dialogue between the                   ·   Delayed compliance. After completion of TA 1646-        ·   Same as PCR.
+     Government and ADB to discuss the study (July 1992).              IND in October 1993, policy dialogue was held
+                                                                       between the Government and ADB on the findings
+                                                                       of the study.
+
+·    Finalization of initial agreements for development of a few   ·   Complied with. Contracts were signed for five           ·   Same as PCR.
+     medium-sized oil and gas fields (June 1993).                      medium-sized fields as a result of the first offering
+                                                                       in August 1992 and one medium-sized field was
+                                                                       awarded during the second offering in September
+                                                                       1993.
+
+
+
+
+                                                                                                                                                                                           Appendix 1, page 2
+·    Finalization of initial agreements for development of some    ·   Complied with. Contracts for 13 small fields were       ·   Same as PCR.
+     small oil and gas fields (June 1993).                             signed as a result of the first offering in August
+                                                                       1992 and 11 small fields were awarded during the
+                                                                       second offering in September 1993.
+
+·    Finalization of agreements with local/foreign companies       ·   Complied with. Twenty-two contracts have been           ·   Same as PCR. Some private and joint ventures
+     for exploration on production sharing basis under the             signed out of 35 exploration blocks awarded to              have formed productive capacity. In FY1999/2000,
+     Fourth Round offering made in August 1991 (January                private companies since Fourth Round bidding in             the total crude output from these ventures was
+     1993).                                                            1991.                                                       approximately 4 MMT.
+Condition                                                                                  PCR Status                                        OEM Status and Remarks
+
+
+
+
+3. Institutional and Regulatory Framework Agreement
+
+·   Establishment of a DGH within MOPNG for regulatory                 ·   Complied with. DGH was established in April            ·   Same as PCR. The DGH now plays a vital role in
+    oversight of exploration and production activities (June               1993.                                                      providing a fair and open mechanism for all
+    1993).                                                                                                                            companies interested in entering the exploration
+                                                                                                                                      and production sector.
+·   Creation of a cell within MOPNG to actively seek local and         ·   Delayed compliance. A team was formed to               ·   Not complied with.
+    foreign private investment in hydrocarbon operations (July             handle local and foreign private investment in
+    1992).                                                                 1992. A contract cell for hydrocarbon development
+                                                                           was created in 1995. After staffing, this will be
+                                                                           changed to an investment cell.
+
+4. Pricing and Marketing Allocation
+
+·   Finalization of review of the pricing structure for oil refining   ·   Complied with. Review completed. Consumer              ·   Same as PCR.
+    and distribution companies with the objective of                       price increased by 5-22 percent and producer
+    enhancing operational efficiency (June 1992).                          price increased by 55 percent in September 1992.
+                                                                           Deregulation of APM reviewed since January
+                                                                           1995.
+
+
+
+
+                                                                                                                                                                                         22
+·   Implementation of revised pricing structure for oil refining       ·   Complied with. The import of naphtha, kerosene,        ·   Same as PCR.
+    and distribution companies (June 1993).                                LPG, and lubricants has been deregulated and
+                                                                           parallel marketing allowed in 1993. The pricing
+                                                                           structure was revised in 1994.
+
+·   Formulation of a gas policy (including a policy for                ·   Complied with. A gas policy encompassing               ·   Same as PCR. However, the current two-tiered
+    allocation) and allowing gas marketing by the utility                  market-based allocation of gas supplies has been           market characterized by a dual pricing
+    companies in accordance with the policy (January 1993).                in place since January 1993. Within this                   mechanism, i.e., households marketed by PSEs
+                                                                           framework, the marketing of gas may be                     under APM and industrial and commercial
+                                                                           undertaken by public and private sector                    customers marketed by private and joint ventures
+                                                                           companies. Public, private, and joint public-private       at market prices, prevents private and joint
+                                                                           utilities are active in gas distribution. Gas              ventures from gaining market share.
+                                                                           produced by the private sector is free of any
+                                                                           marketing or price controls.
+
+·   Domestic hydrocarbon exploration and production                    ·   Complied with. Domestic private sector companies       ·   More blocks have been awarded to private
+
+
+
+
+                                                                                                                                                                                         Appendix 1, page 3
+    companies in the private/public sectors be allowed to                  are at par with international oil companies. With          companies including major multinational oil and
+    operate on the same basis as foreign companies,                        the change in the basis of calculating domestic            gas companies.
+    including terms of pricing, profit sharing, relinquishment of          crude oil prices, the net return to the national oil
+    concession areas, and work programs (June 1993).                       companies and the terms agreed upon with the
+                                                                           private companies are comparable. Some of the
+                                                                           concession areas have been relinquished by the
+                                                                           national oil companies and are included under the
+                                                                           areas offered to the private sector.
+Condition                                                                               PCR Status                                        OEM Status and Remarks
+
+
+
+
+B. Before the End of the Program Period
+
+1.   Restructuring and Divestment of State Enterprises
+·    Further divestment of Government equity in public sector      ·   Pending. First stage divestment only partially          ·   No further divestment can be expected until 2002
+     oil refining and marketing companies.                             complied with.                                              when APM is scheduled to be fully dismantled.
+
+
+2. Encourage Increased Private Sector Participation
+
+·    Further divestment of Government equity in public sector      ·   Complied with. The Government has already               ·   No further divestment can be expected until 2002
+     oil refining and marketing companies.                             divested from two integrated oil companies                  when APM is scheduled to be fully dismantled.
+                                                                       beyond the stipulated 20 percent and has
+                                                                       undertaken action for further divestments in the
+                                                                       sector for the target of 51 percent of the
+                                                                       Government's shareholdings in the hydrocarbon
+                                                                       sector of public companies.
+
+3. Institutional and Regulatory Framework Enhancement
+
+·    Adoption of the regulatory framework, as required, to         ·   Partially complied with. The Government has             ·   Pending. The Government is now considering a
+     reflect the increased role of the private sector as well as       approved in principle the legislative framework for         single regulatory agency for the entire
+
+
+
+
+                                                                                                                                                                                      23
+     the increased utilization of market forces in allocating          creation of a regulatory authority in the upstream          hydrocarbon sector, i.e., oil and gas.
+     resources within and between the hydrocarbon sector and           sector. The Parliamentary Committee on
+     the economy as a whole.                                           Subordinate Legislation has taken up for
+                                                                       consideration the exact scope of work of the
+                                                                       authority to be created for regulation.
+
+4. Pricing and Marketing Allocation
+
+·    Further deregulation of administrative pricing of petroleum   ·   Complied with. The Government began                     ·   Same as PCR.
+     products in line with the development of more competitive         dismantling APM in a phased manner from 1 April
+     market structure.                                                 1998. Five petroleum products are now
+                                                                       administered by the Government. Subsidies for
+                                                                       liquid fuels, except kerosene and LPG, were
+                                                                       removed on 1 April 1998 and subsidies are
+                                                                       expected to be phased out by 2002. From 2002,
+
+
+
+
+                                                                                                                                                                                      Appendix 1, page 4
+                                                                       all prices will be fully deregulated.
+
+·    Review of consumer pricing policies for hydrocarbon           ·   Complied with. The price of natural gas is linked to    ·   The current price parity for most petroleum
+     products to determine how efficiency of the pricing               the international price of a basket of fuel oils, the       products is above 80 percent of international
+     structure can be improved.                                        linkage increased from 5 percent in FY1998/99 to            prices, subject to floor and ceiling prices.
+                                                                       65 percent in FY1999/2000 and 75 percent in
+                                                                       FY2000/01. The pricing structure will be reviewed
+ Condition                                                                                 PCR Status                                          OEM Status and Remarks
+
+                                                                          in March 2000 to move toward 100 percent parity
+                                                                          with the international price of fuel oil.
+
+
+
+ V. Energy Conservation
+
+ ·    Programs to promote energy conservation in energy-intensive     ·   An Energy Management Center set up by the               ·    The Government has recently banned leaded
+      industries, including a program of energy audits, to be             Government carried out energy audits and helped              gasoline and has reduced the permissible sulfur
+      actively pursued.                                                   conserve energy. In the corporate reporting                  content in high speed diesel to 0.25 percent. The
+                                                                          system in India, companies must report on energy             Indian economy's energy intensity exhibited a
+                                                                          conservation measures undertaken. There are                  marginal increase (i.e., became less efficient)
+                                                                          also many active NGOs engaged in energy                      during the program period. Waste associated with
+                                                                          conservation. An Energy Conservation Week is                 use of subsidized fuels are still evident.
+                                                                          observed every year with the help of state
+                                                                          governments to spread awareness of
+                                                                          conservation of energy. In addition, various
+                                                                          measures have been undertaken including
+                                                                          introduction of new technologies by the refineries
+                                                                          to conserve energy.
+
+ADB = Asian Development Bank, APM = administered price mechanism, BPC = Bharat Petroleum Company, DGH = Directorate General of Hydrocarbons, HPC = Hindustan Petroleum Corporation,
+IBP = Indo Burma Petroleum, IOC = Indian Oil Company, LPG = liquefied petroleum gas, MMT = million metric tons, OEM = Operations Evaluation Mission, MOPNG = Ministry of Petroleum and Natural
+Gas, ONGC = Oil and Natural Gas Corporation, NGO = nongovernment organization, PCR = project completion report, PSE = Public Sector Enterprise.
+
+
+
+
+                                                                                                                                                                                                 24
+                                                                                                                                                                                                 Appendix 1, page 5
+                                              25                              Appendix 2, page 1
+
+
+                             HYDROCARBON SECTOR IN INDIA
+
+1.     The hydrocarbon sector in India is presently undergoing profound changes that may
+have far-reaching impacts on the sector's long-term performance. The following is a snapshot
+overview of the sector covering major players, and the regulatory and economic environment in
+which they operate, as of the Operations Evaluation Mission (OEM) period 5 to 23 September
+2000. As the Government's efforts in market-oriented reforms deepen, the roles of various
+players in the sector may vary.
+
+A.     Government Agencies with Responsibility for the Sector
+
+2.      The Ministry of Petroleum and Natural Gas (MOPNG) annual report defines its mandate
+as "The Ministry is concerned with exploration and production of oil and natural gas, and
+refining, distribution and marketing, import, export and conservation of petroleum product." At
+present, MOPNG plays a central role in all key aspects of the sectors policy and strategic
+decision making, as well as in some operational issues. As market reforms deepen, it is
+expected that MOPNG may gradually withdraw from its day-to-day involvement in business
+decision making and focus more on its supervisory and regulatory responsibilities
+
+       1.      Oil Industry Development Board
+
+3.      The Oil Industry Development Board (OIDB) was created in 1975 under Oil Industry
+(Development) Act, 1974. As a financing arm of MOPNG, its primary objective is to render
+financial and other assistance for promotion of all such measures that are conducive to the
+development of the oil industry. The main functions of OIDB are to provide concessional loans
+for high-risk exploration and grant assistance for research and development (R&D) in the
+hydrocarbon sector. This includes:
+
+       (i)     advancing loans to oil industrial companies;
+       (ii)    disbursing loans and grants for the implementation of research and development
+               programs conducive to the development of the oil industry;
+       (iii)   refinancing oil industrial loans granted by the oil companies to industrial units;
+               and
+       (iv)    funding expenditure of various study groups, consultancy cells, scientific advisory
+               committees, task forces, project monitoring cells, etc.
+
+4.    OIDB has received Rs90.2 billion from the cess levied and collected by the Government
+on domestic crude oil. The targeted recipients of OIDB funding have been predominantly oil and
+gas public sector enterprises (PSEs). The significance of OIDB is somewhat uncertain amid the
+ongoing sectoral reforms, anticipated greater private sector participation, and greater
+competition from commercial financial institutions.
+
+       2.      Directorate General of Hydrocarbons
+
+5.      The Directorate General of Hydrocarbons (DGH) was established in April 1993 as an
+advisory body to MOPNG in matters relating to oil exploration and development, and to
+assemble and integrate all data pertinent to the concessional areas leased for oil-and-gas
+related activities. It advises the Government on the offering of areas for exploration as well as
+on matters relating to relinquishing of areas, reviews the adequacy of exploration and
+development programs, and advises the Government on oilfield safety and environmental
+issues. The establishment of DGH was stipulated as one of the key loan covenants of the
+                                                26                              Appendix 2, page 2
+
+
+hydrocarbon sector program on institutional and regulatory framework reform which will set the
+stage for creating a level playing field for all players in exploration and production, public or
+private, foreign, or domestic.
+
+6.      The establishment of DGH has created this more level playing field as far as the public
+and private sectors are concerned. Under the new exploration-licensing scheme, the Oil and
+Natural Gas Corporation (ONGC) and Oil India Limited (OIL) are required to compete on equal
+terms with private parties. In addition, data on exploration acreage on offer are now available to
+the private sector on the same basis as to the public sector. At the time of the OEM, five blocks
+had been opened for bidding under the New Exploration Licensing Policy (NELP). They consist
+of a cross-section of high-risk and low-risk fields.
+
+       3.       Oil Coordination Committee and Oil Pricing
+
+7.     The Oil Coordination Committee (OCC) was set up on 14 July 1975 through a
+Government of India Resolution on the recommendation of the Interim Report of the Oil Prices
+Committee (OPC). The secretary, MOPNG, is the Chairman of OCC, and the committee
+comprises an additional secretary, joint secretaries, and a financial adviser of MOPNG, chief
+executives of oil companies, and the executive director of the Oil Industry Safety Directorate.
+The day-to-day functions are handled by the OCC secretariat under the executive director of
+OCC.
+
+8.     The main functions of OCC are as follows:
+
+       (i)      monitoring the performance of the oil industry to achieve optimality;
+       (ii)     preparing estimates for supply/demand and import plans;
+       (iii)    assisting MOPNG in the preparation of Oil Economy Budget (OEB);
+       (iv)     coordinating supply of crude oil to the refineries;
+       (v)      operating and maintaining pool accounts;
+       (vi)     coordinating major marketing activities of the oil industry;
+       (vii)    coordinating with various government departments/agencies to facilitate
+                coordination with the railways on optimizing tank wagon movements and the
+                movements of petroleum products, etc.; and
+       (viii)   assisting MOPNG in the management of crisis and special situations such as
+                strikes, floods, elections, etc., for uninterrupted supplies of petroleum products.
+
+9.      The pricing, subsidy, and tariff levels are administered by OCC through a mechanism
+called the oil industry pool accounts. Under such a mechanism, inflows from collection of
+surcharges on the sale of petroleum products and outflows for meeting the claims for variation
+in the elements included in the price build-up are adjusted. The difference between inflows and
+outflows represents the surplus or deficit position of the pool accounts. The main objectives of
+the pool accounts are to:
+
+       (i)      maintain stable and uniform prices throughout the country in recognition of the
+                need to import crude oil for refineries and for finished products to meet the deficit
+                in domestic production; and
+       (ii)     provide subsidies or cross-subsidies on some petroleum products.
+
+10.   Oil pool accounts are supposed to balance over a period of time and there is no need for
+government budgetary support. The pool accounts were generating a surplus up to FY1988/89.
+                                              27                                 Appendix 2, page 3
+
+
+However, due to high crude oil prices, the accounts deficit by the end of FY2000/01 is expected
+to reach Rs150 billion.
+
+11.     The Government took steps to align the petroleum prices with open market prices and
+gradually phase out administered price mechanism (APM). In November 1997, it announced the
+details of a phased dismantling program of APM and of the duty structure from April 1998 until
+2002 as follows:
+
+       (i)     cost-plus formula for indigenous crude oil producers has been withdrawn and
+               gradual import parity established, currently standing at 82 percent of imported
+               crude oil prices subject to ceiling and floor constraints;
+       (ii)    retention pricing for all refineries has been abolished (except refinery gate prices
+               of controlled products--gasoline, diesel oil, kerosene, liquefied petroleum gas
+               (LPG), and aviation fuel--which are fixed in accordance with the principles of
+               adjusted import parity price for the existing refineries during the transition period);
+       (iii)   consumer prices of gasoline, diesel oil, kerosene, aviation fuel and LPG (for
+               domestic use) will continue to be administered; and
+       (iv)    prices of other petroleum products like naphtha, fuel oil, bitumen, and paraffin
+               wax have been decontrolled since 1 April 1998.
+
+B.     Exploration and Production
+
+12.    Presently, two major PSEs in exploration and production are ONGC and OIL, which
+together provided little less than 33 million metric tons (MMT) of crude oil in FY1999/FY2000,
+with ONGC's share estimated at over 29 MMT. Additionally, private and joint venture companies
+produced approximately 4 MMT, bringing the total to 36.55 MMT for the year.
+
+13.      The net production of natural gas was 27.428 billion cubic meters (m3), including 2.87
+billion m3 from private and joint venture companies, in FY1999/2000, a marked increase from
+18 billion m3 in FY1991/1992 at the start of HSP.
+
+       1.      Oil and Natural Gas Corporation
+
+14.      ONGC was formed by an Act of Parliament to take over the activities of the Oil and
+Natural Gas Directorate set up by the Government in 1956. It was a statutory body until it was
+corporatized under HSP in September 1993. As the country's dominant upstream oil company,
+it carries out geological and geophysical surveys, exploratory drilling, development drilling, and
+exploitation of hydrocarbon resources. Until recently, ONGC had the virtual monopoly of all
+offshore and most onshore exploration and production activities.
+
+15.     Presently ONGC has about 40,000 employees, down from 47,000 at the beginning of
+HSP in 1991. It is envisaged that the total workforce will be further reduced to 35,000 in five
+years through voluntary retirement. The company is in a relatively healthy financial situation. In
+FY1998/99, the company produced 27.55 MMT crude oil and 23.97 billion m3 natural gas for a
+net profit (after tax) of Rs27.545 billion.
+
+16.      Despite the relatively healthy financial picture, the future of ONGC's production
+capacities allows for no optimism. Its existing oil fields are running dry, and its exploration
+activities have made no major findings of oil and gas fields. As such, ONGC, and the entire
+upstream exploration and production system, has been targeted by MOPNG as a priority area
+for attracting foreign direct investment and technological collaboration, particularly in the areas
+                                              28                               Appendix 2, page 4
+
+
+of deep-sea exploration and technology related to prolonging the productive lives of existing
+wells.
+
+17.     Under the NELP (which the Government claims is one of the most favorable in the
+world), a total of 48 blocks have been offered. By the bid closing date of 18 August 1999, a total
+of 45 bids were received from both foreign and Indian companies including public sector
+undertakings, of which 25 blocks were awarded, including three to Enron and eight to a
+consortium formed by major domestic private corporations, i.e., Tata and Reliance. In addition,
+ONGC is actively seeking foreign partners for the exploration of the six blocks that it has been
+awarded. A total of 17 foreign firms expressed interest including Total of France and BG
+International of the United Kingdom. In addition to collaborating with foreign companies in
+domestic exploration and production, ONGC is also looking to provide drilling services to secure
+production contracts overseas including Bangladesh and Oman. ONGC has established ONGC
+Videsh Limited (OVL), a wholly subsidiary, to enter into joint ventures for exploration and
+production in other countries. OVL, in partnership with BP-Amoco and Statoil, has already
+discovered offshore gas in Viet Nam.
+
+18.     The latest international crude oil price increases have generally weighed in favor of the
+upstream companies like ONGC. This is because prices of the domestically produced crude
+have been pegged to international prices on an increasing-proportion basis since 1998 (when
+the old cost-plus pricing formula was abolished). The proportion started at 75 percent and has
+been increasing gradually to the present 82.5 percent of the international crude oil price, subject
+to a ceiling of $25 per barrel. The ceiling crude oil price is imposed to curtail excessive costs to
+the downstream companies and consumers during severe international crude oil price
+increases, and to compensate for the floor prices when there is a sharp decrease in prices.
+
+       2.      Oil India Limited
+
+19.      OIL's origins date back to the time when oil was first discovered in Assam in 1889. The
+Government of India, which was a joint venture partner with Burmah Oil Company, took over the
+latter's shareholding in full in 1981. As with ONGC, although on a much smaller scale, OIL's
+primary activities are exploration, production, and transportation of hydrocarbons, with a rough
+breakdown of sales as follows: crude oil (90 percent), natural gas (5 percent), transportation
+charges (3 percent), and LPG (2 percent). OIL's operations are very much confined to northern
+India including Assam, Arunachal Pradesh, Orissa, Rajasthan, the Mahanadi basin, and several
+offshore areas.
+
+C.     Private and Joint Venture Companies
+
+20.    At present, private and joint venture companies contribute approximately 4 MMT to total
+domestic production of crude oil (about the same as OIL's production). Most of these private
+companies, including ESSAR, HOEC, Okland, and Shell are operating under production sharing
+contracts (PSCs) with ONGC operating on existing known oil fields. The proportion of crude oil
+production from private companies and joint ventures is expected to rise in the coming years as
+more and more private (domestic and foreign) companies are awarded blocks for exploration
+under the Government's NELP.
+
+D.     Refining
+
+21.      The refining subsector has been delicensed since 1998. The Government has opened
+oil refining to the domestic and foreign private sector. During the Program, the Government
+                                                                              Appendix 2, page 5
+                                             29
+approved 12 new refineries. Of these, two--Reliance Petroleum Refinery Ltd. and the
+Mangalore Refinery and Petrochemicals, Ltd.--are already in production while three private
+firms have already withdrawn.
+
+22.    With the commissioning of several large modern refineries, Indian's refining capacities
+have increased from 69.14 MMT per annum as of 4 January of 1999 to 109.04 MMT per annum
+as of 1 January 2000, making the country almost self-sufficient in the refining sector. Total
+capacity is expected to further increase to 126 MMT per annum by the end of the Ninth Plan
+(1997-2002). There are currently 17 refineries in the country, of which seven are owned by the
+Indian Oil Corporation, Ltd.
+
+       1.      Indian Oil Corporation Limited
+
+23.     The Indian Oil Corporation Limited (IOCL) was established on 1 September 1964 with
+the merger of Indian Refineries Ltd. and the Indian Oil Company Limited with the main objective
+of coordinating and controlling the refining and distribution activities of these two oil companies
+effectively.
+
+24.     With a total workforce of 32,000, IOCL is the largest commercial undertaking and only
+Fortune 500 company in India. IOCL is both a refining and marketing company. With seven
+refineries and 35.6 MMT per annum combined capacity, its refining capacity accounts for
+roughly one third of India's total. It also owns and operates a 6,543 km network of pipelines with
+an installed capacity of 43.45 MMT per annum.
+
+25.     The refineries of IOCL achieved a crude throughput of 30.36 MMT during FY1998/99.
+Against the contracted target of 31.80 MMT for FY1999/2000, the throughput achieved up to
+December 1999 was 23.86 MMT. In FY1998/99, IOCL achieved a turnover of Rs6,943 billion for
+an after-tax profit of Rs221 billion.
+
+       2.      Hindustan Petroleum Corporation Limited
+
+26.     The Hindustan Petroleum Corporation Limited (HPCL) is a PSE (with the Government
+holding 51.06 percent) and the second largest integrated oil company in India. It has two
+refineries producing a variety of petroleum products--fuels, lubricants and specialty products,
+one in Mumbai (on the west coast) having a capacity of 5.5 MMT per annum and the other in
+Visakhapatnam (on the east coast) with a capacity of 4.5 MMT per annum (being expanded to
+7.5 MMT per annum). HPCL also operates the only joint venture refinery in the country in
+association with the Aditya Birla Group of Companies (an Indian private conglomerate).
+
+27.    During FY1998/99, the two refineries of HPCL achieved a combined crude oil throughput
+of 9.07 MMT, or a little less than one third of IOCL's level. The sales turnover increased to
+Rs2,599.46 billion in FY1998/99 for a net profit of Rs90 billion.
+
+       3.      Bharat Petroleum Corporation Limited
+
+28.     The Bharat Petroleum Corporation Limited (BPCL) is an integrated oil company in the
+downstream sector engaged in refining crude oil and marketing petroleum products. It has also
+diversified into the manufacture and marketing of petrochemical feedstocks. The Government's
+holding in BPCL is 66.2 percent.
+                                                 30                               Appendix 2, page 6
+
+
+29.      During FY1998/99, BPCL oil refinery achieved a throughput of 8.94 MMT. The sales
+turnover in FY1998/99 was Rs2,565 billion, compared with Rs2,070 billion the year before, for a
+profit after tax of Rs70 billion.
+
+E.      Standalone Refineries
+
+30.    Major standalone refineries in India include Cochin Refineries, Chennai Refineries,
+Mangalore Refineries, and Reliance Petroleum. The crude oil throughput for these companies
+for FY1999/2000 were 7.8 MMT, 7.0 MMT, 5.2 MMT, and 9.9 MMT, respectively.
+
+31.     In a move to pave the way for the PSEs to meet anticipated competition, the
+Government has recently announced consolidation of the oil sector whereby all the standalone
+refineries in the public sector will be converted into subsidiaries of larger PSEs. While BPCL will
+buy out the entire government stake in Cochin Refineries, it will take over Indo Burma
+Petroleum's (IBP) stake in Numaligarh Refinery in Assam. Market leader IOCL will buy out the
+entire stake in both Bongaigaon Refinery and Chennai Refinery. IOCL and BPCL are expected
+to spend nearly Rs20 billion to acquire stakes in these oil refineries.
+
+32.     The rise of Reliance Petroleum represents major progress in private sector participation
+in the sector. Through vertical integration, Reliance has gradually moved upstream from textile
+to petrochemical, to refineries and to oil exploration and production. With its recently
+commissioned ultra modern refining facility with an installed capacity of 27 MMT per annum,
+Reliance will be a major force in the refining sector.
+
+F.      Marketing
+
+33.      Unlike the refining sector, the retail sector is virtually controlled by four PSEs, i.e., IOCL,
+BPCL, HPCL, and IBP, which have, over the years, developed an extensive network of storage,
+transportation, and retail outlets nationwide. IOCL currently controls over 54 percent of the
+market with BPCL and HPCL controlling approximately 20 percent each. Any company, foreign
+or domestic, that wishes to engage in marketing activities has to invest a minimum of Rs20
+billion in oil and gas infrastructure. The first domestic private company that met this criterion was
+Reliance Petroleum Refinery Ltd., which is currently applying for, and is expected to obtain,
+rights to market petroleum products.
+
+34.      The existing natural monopoly, as well as the requirement of investment in upstream
+activities, has served to deter some potential investors in the hydrocarbon sector as a whole.
+Very few risk-averse foreign oil and gas companies are willing to invest millions of dollars in
+exploration and refineries without first being guaranteed marketing rights.
+
+G.     Gas Distribution and Marketing
+
+35.    The total net production and consumption of natural gas was 25.71 billion m3 for
+FY1998/99. Prior to 1984, ONGC and OIL handled the production, transmission, and distribution
+of natural gas. Since 1984, distribution and marketing have been largely taken over by Gas
+Authority of India Limited (GAIL).
+
+36.    Gas Authority of India Limited. The Gas Authority of India Limited (GAIL), set up in
+1984, is the largest natural gas transmission company in India. The company owns and
+operates a network of over 4,000 km of pipelines. GAIL primarily targets large industrial and
+commercial customers including those PSEs in the power and fertilizer industries for its natural
+                                              31                              Appendix 2, page 7
+
+
+gas. Total gas sales for FY1998/999 were 21 billion m3. GAIL also operates six natural gas
+processing plants with an installed capacity to produce 961,000 tons of LPG per year.
+
+H.     Private Sector Involvement in LPG
+
+37.     At present, the total market size for LPG is about 6 MMT, of which approximately 5.5
+MMT is sold to domestic households by four major PSEs, i.e., IOCL, GAIL, BPCL and HPCL, at
+a subsidized price under APM. The remaining 0.5 MMT is sold to industrial and commercial
+customers at market prices. As part of industry deregulation the Government has, since 1993,
+allowed private sector participation in importing and retailing LPG to cater to this small segment
+of the market. This has led to the establishment of a number of private sector units for importing
+and marketing LPG and kerosene in the private sector. Most major multinational oil and gas
+companies currently operating in India, including Shell, Caltex, ELF Gas, Mobil, and SHV, are
+now limited to this small segment of the market.
+
+I.     Oil Pipeline Transmission
+
+
+38.     Petronet India Limited. Petronet India Ltd. was established in 1998 as a financial
+holding company with the specific objective of rapidly developing a national network of pipelines
+for transporting petroleum products to which all producers in the private and public sectors will
+have open access. Half of the equity in the company is held by five PSEs including IOCL,
+BPCL, and HPCL. The remaining 50 percent is held by financial institutions and private
+companies, with no individual entity holding more than 10 percent of the total. The creation of
+Petronet was in line with a key recommendation by TA 1645-IND for the creation of a new
+independent common carrier company to manage all pipelines and associated terminals and
+ensure open access by all oil companies.
+
+39.    Individual pipeline projects are undertaken as joint ventures wherein Petronet holds
+26 percent of the equity, oil companies and private companies up to 26 percent, while the
+balance is held by financing institutions and other investors.
+
+40.    Petronet has identified eight pipeline projects for implementation. Joint ventures for four
+have been incorporated, of which, one (Vadinar-Kandla) has been completed and three are
+under construction. Detailed feasibility studies for the other four projects are scheduled to be
+completed in 2001.
+                                                       32                                         Appendix 3
+
+
+                         STATUS OF APPROVED REFINERY PROJECTS
+                                                             Expected
+                                               Capacity     Completion
+Name                               Type        (MMTPA)      Fiscal Year              Status at OEM
+
+Reliance Petroleum Refinery     Private           27        1999/2000     Commissioned in late 1999.
+Ltd.                                                                      Currently operating at 27 to 30
+                                                                          MMTPA.
+
+Essar Refinery                  Private           9          2001/02
+
+Central India Refinery          Joint             6          2001/02      All government clearances have
+                                                                          been obtained but physical work has
+                                                                          not started. It will take another 48
+                                                                          months. This is a joint venture with
+                                                                          Oman Oil Company at an estimated
+                                                                          cost of Rs5,277 million crores.
+
+MRPL Expansion                  Joint             6         1999/2000     Commissioned.
+
+West Coast Refinery             Joint             6          Uncertain    The project has been deferred
+                                                                          because of too much capacity on the
+                                                                          west coast. This is an HPC project.
+
+East Coast Refinery             Joint             9          2002/03      This is an IOC venture with KPC.
+                                                                          KPC withdrew in December 1999.
+                                                                          Expected capacity is 4 to 7.5
+                                                                          MMTPA.
+
+UP Refinery-Sultanpur           Joint             7          Uncertain    This was originally a joint venture
+                                                                          between BPC and Shell. Shell has
+                                                                          withdrawn from the project. It is
+                                                                          unlikely that anything will happen
+                                                                          before 2005.
+
+Punjab Refinery                 Joint             9          2003/04      This was originally a joint venture
+                                                                          between HPC and Exxon. Exxon
+                                                                          withdrew from the project and HPC
+                                                                          is in the process of selecting another
+                                                                          partner.
+
+Soros Refinery                  Private           6          Uncertain    Withdrawn.
+
+N. Denro                        Private           9          Uncertain    Withdrawn.
+
+Ashok Leyland                   Private           2          Uncertain    Withdrawn.
+
+BPC = Bharat Petroleum Company; HPC = Hindustan Petroleum Corporation; IOC = Indian Oil Company; KPC = Kuwait
+Petroleum Corporation; MMTPA = million metric tons per annum; MRPL = Mangalore Refinery and Petrochemicals
+Ltd.; OEM = Operations Evaluation Mission; UP = Uttar Pradesh.
+

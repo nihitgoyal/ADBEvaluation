@@ -1,0 +1,680 @@
+INDIA:
+
+CASE STUDIES ON
+Private Sector Development and
+Operations
+
+A Case Study from the 2007 Special Evaluation Study
+on Private Sector Development and Operations:
+Harnessing Synergies with the Public Sector
+
+
+
+June 2007
+
+
+Bob Finlayson
+
+
+Operations Evaluation Department
+Abbreviations
+
+ADB           Asian Development Bank
+CFS           complementary finance scheme
+CSP           country strategy and program
+FDI           foreign direct investment
+GDP           gross domestic product
+NBFI          nonbank financial institution
+NPL           nonperforming loan
+PPP           public private partnership
+PRC           People's Republic of China
+PSD           private sector development
+PSDS          Private Sector Development Strategy
+PSIF          private sector infrastructure facility
+PSOD          Private Sector Operations Department
+PSO           private sector operation
+SAPE          sector assistance program evaluation
+SIDBI         Small Industries Development Bank of India
+SME           small and medium enterprises
+TA            technical assistance
+VCF           venture capital fund
+WTO           World Trade Organization
+
+
+              WEIGHTS AND MEASURES
+
+
+km            kilometer
+MW            megawatts
+
+
+
+Note
+In this report, "$" refers to US dollars.
+Contents
+
+                                                        Page
+
+I.     Investment Climate                                1
+II.    ADB's Country Strategy and Development Program    5
+III.   PSD Issues in India                              10
+   I. Investment Climate
+       1.     Background
+1.     India's economic liberalization reform process started approximately 15 years
+ago. At the time, because of a socialist philosophy, Government regulation and
+administrative processes at the national, state, and local levels were extensive. Public
+sector investment dominated the economy. The economy was inward oriented, based
+predominantly on agriculture with a large public sector and an import substitution policy.
+High tariffs protected domestic indusStry. Following a balance of payments crisis in the
+early 1990s, the Government decided to review the import substitution policy and began
+to introduce a program of market liberalization. This program has been largely
+successful, and it has laid the foundation for India's impressive economic performance
+over the past decade.
+
+       2.     Macroeconomic Stability
+2.      India avoided the worst effects of the Asian financial crisis due to the rigid foreign
+exchange controls that were in place. Similar to the Philippines, the fiscal deficit is the
+primary risk to macroeconomic instability, and political constraints have made it difficult
+to implement reforms that are needed in taxation, public expenditure reduction, and
+privatization of commercial state enterprises. Nevertheless, the Government has started
+to make progress on fiscal reforms, although monetary policy continues to be subject to
+high levels of political influence.
+
+       3.     Competition and Trade
+3.      The Government has started to liberalize the economy
+under its obligations to the World Trade Organization (WTO),
+which India joined in 1995. Despite these measures, increased
+agricultural tariffs and the imposition of anti-dumping duties have
+offset reductions in the overall rates. The Government also has
+moved to modernize domestic competition, and introduced the
+new Competition Act (2002). The Government has removed bureaucratic restrictions on
+business licensing. Nevertheless, the regulatory environment is still very constrained
+compared to other countries in the region, and price controls and state monopolies
+continue to be prevalent. Obsolete labor laws further constrain the development of a
+competitive manufacturing sector in India.
+
+       4.     Privatization
+4.     Privatization has not been a feature of private sector development (PSD)
+programs in India. A Cabinet Committee on Disinvestment, headed by the Prime
+Minister, was set up in 2000 to supervise a divestment program. The policy was
+unsuccessful. By 2005, the Government had divested its controlling shares in only 17
+industrial companies and 19 hotels. The Government continued to own 222 public
+2      India: Case Studies on Private Sector Development and Operations
+
+
+sector units, of which 130 were incurring losses. With the change of Government in
+2004, the divestment policy was put on hold.
+
+       5.     Public Private Partnerships
+5.      Public-private partnerships (PPP) have played a limited role in India, and almost
+50% of the PPP investment has occurred in Gujarat. Given the fiscal constraints, PPPs
+are being given a larger role to play in financing infrastructure. The Government has
+established a PPP Appraisal Committee at the national level that will evaluate central
+Government projects. This committee will help address a key constraint on PPPs, as
+traditionally no single agency has been responsible for public sector infrastructure
+procurement. Line agencies at the central and state levels have been responsible for
+their own projects, creating problems with project formulation and implementation.
+
+6.      In 2005, the Government initiated a new framework designed to strengthen the
+legal and regulatory environment. The Government intends to provide "viability gap"
+funding in the form of grants to private sponsors to cover up to 40% of project costs.
+The Government also established the India Infrastructure Finance Company Limited,
+which has authority to provide loans covering up to 20% of project cost and refinance
+loans on a tenor of at least 5 years. The Government's $40 billion road development
+program is the main area envisaged for PPPs, although it is also inviting private
+investors and contractors to build airports and ports, water systems, and electricity
+distribution networks.
+
+       6.     Foreign Direct Investment
+7.        The Government has sought to encourage foreign direct investment (FDI) and
+foreign portfolio investment in non-strategic sectors, including parts of the
+manufacturing sector, telecommunications, finance, and insurance. Portfolio investment
+                           has risen dramatically, attracted by high growth rates coupled
+  Foreign direct
+  investment could play
+                           with the liberalization of foreign ownership laws and the
+  a critical role in       opening of Indian stock exchanges to foreign capital. FDI has
+  financing India's        been rising, although the amount represented less than 1% of
+  infrastructure deficit,  gross domestic product (GDP) in 2005. To help streamline FDI
+  although reforms in      approval processes, the Government formed the Foreign
+  this area have been      Investment Implementation Authority in 1999. An export-import
+  only moderately          policy was introduced in 2000 that launched a series of special
+  successful to date.
+                           economic zones based on the Chinese model, consisting of
+                           geographic duty free enclaves. Most FDI has been directed
+towards information communication technology and outsourcing. FDI could play a
+critical role in financing India's infrastructure deficit, although reforms in this area have
+been only moderately successful to date. India's largest FDI project was a power plant
+at Dahbol, where the funding facility was withdrawn due to problems with the tariff,
+leading to a withdrawal of most foreign companies from power generation projects
+sponsored by the Government.
+                           India: Case Study on Private Sector Development and Operations   3
+
+
+
+       7.     Infrastructure
+8.      The quality of infrastructure in India is considered particularly poor, and it is one
+of the main constraints on growth. The Committee on Infrastructure has estimated the
+investment needed for ports, national highways, and airports are equivalent to 8% of
+GDP per year over the next 5­7 years. Traditionally, the Government has financed
+about 80% of infrastructure, although it is seeking to increase the level of private sector
+participation through PPPs.
+
+9.     Telecommunications. Although the industry continues to lag other countries,
+such as the People's Republic of China (PRC), telecommunications infrastructure has
+seen the most progress on reform and development. While some disputes over issues
+such as interconnection and availability of spectrum rights have arisen, the overall
+regulatory framework in the communications sector appears to be working reasonably
+well and the sector is expanding rapidly.
+
+10.     Power Generation. This is the most resource-intensive infrastructure sector, and
+private sector participation has been very limited to date. Problems with supply include
+(i) inefficient production, (ii) theft and technical losses of about 25%, (iii) tariffs set at
+levels substantially below cost, (iv) cross-subsidization policies that distort demand, (v)
+substantial underinvestment, and (vi) failure to enforce billing. While central and state
+governments are involved in the power sector, the 21 state electricity boards and 14
+electricity departments traditionally have had monopoly rights for generation,
+transmission, and distribution. In 2003, the Government enacted the Electricity Act,
+which led to 13 states initiating reform programs by the end of 2005 to unbundle
+vertically integrated state boards and establish independent regulators to initiate tariff
+reforms. The Government is seeking additional capacity of 100,000 megawatts (MW)
+over the next 10 years, and much of this capacity will need to be financed by the private
+sector.
+
+11.     Transport. The Government still dominates almost all
+aspects of infrastructure provision in this sector, although
+PPP schemes are being pursued, especially at the national
+level. The National Highways Authority of India is responsible
+for developing the national road network. The National
+Highways Development Project seeks to expand the 14,000-
+kilometer (km) network by 10,000 km under private sector
+concession, and increase the width to between four and six lanes. The private sector is
+financing many of these roads under PPP arrangements, using a combination of toll
+revenue-based concessions and annuities financed by the Government from the Central
+Road Fund. The Government recently announced a PPP program in the road sector
+with a total value of $40 billion, which is probably the largest such program in the world.
+The Government has decided to liberalize airlines and move forward on privately
+financing airports in major centers, such as Mumbai, and more that 30 non-metropolitan
+airports across the country. The development of seaports has progressed in states such
+as Gujarat. The Government continues to own and operate the rail system, although it
+4     India: Case Studies on Private Sector Development and Operations
+
+
+recently permitted private sector participation in non-core functions such as container
+services.
+
+12.    Water. In this sector, private sector participation is constrained by the absence of
+a national water regulatory body and cost-based tariff system administered by
+independent regulators. Private sector participation in the water, sewerage, and
+sanitation systems is almost nonexistent, as tariffs in most cities are set at levels
+substantially below cost, and revisions are politically difficult. Overstaffing and poor
+revenue collection practices accentuate problems with low levels of cost recovery.
+Unaccounted for technical water losses generally range from 40% to 50%. In the past,
+the predominant sources of finance were state and central government loans and
+grants, although they have been declining in importance due to fiscal constraints.
+Governments in states such as Tamil Nadu are experimenting with commercial sources
+of water.
+
+      8.     Small and Medium-Sized Enterprises
+13.    The main means of supporting small and medium-sized enterprises (SME) has
+been directed credit through the Small Industries Development Bank of India (SIDBI).
+SIDBI uses the concept of industry clusters and small enterprise financial centers to
+service SMEs, often in conjunction with commercial banks. In 2005, the Government
+announced a comprehensive policy package requiring public sector banks to double the
+amount of funding directed to SMEs. The Government also reserves some labor-
+intensive industries, such as textile manufacturing, for small enterprises. These
+provisions are enforced through the licensing system.
+
+      9.     Financial and Capital Markets
+14. The Government owns 27 of the 96 commercial banks, and they hold about 75% of
+all bank assets. These state-owned banks typically were established as development
+finance institutions, which gradually have been commercialized. Despite these changes,
+all state-owned banks must lend 40% of advances to sectors such as agriculture and
+small businesses, and an additional 12% to exporting firms. The Government recently
+allowed private competition to emerge by issuing a limited number of licenses to new
+private banks, while starting to relax restrictions on foreign banks. As a result, deposits
+and bank credit have been growing over the past decade at more than 15% per year.
+However, the benefits of improved access to finance have been offset by an associated
+rapid increase in nonperforming loans (NPL), leading to undercapitalization of banks.
+NPLs, which peaked in 1994 at 25% of bank assets, have been declining slowly,
+reaching about 13% in 2001 and 5% in 2005. Bankruptcy procedures are ineffective,
+and the state banks have been recapitalizing and issuing shares through initial public
+offers to access additional equity.
+
+15. The Government has extensive ownership interests in nonbank financial
+institutions (NBFI) operating in areas such as housing development and microfinance.
+Municipal and state governments are experimenting with local infrastructure funds that
+pool finance from different sources and issue rated bonds. The Government is a major
+shareholder in venture capital funds (VCF) through its ownership of banks. VCFs
+                                     India: Case Study on Private Sector Development and Operations             5
+
+
+focused on the information communication technology data have expanded rapidly,
+especially in the past 6 years. The state is a dominant owner in financial institutions,
+such as Life Insurance Corporation, General Insurance Corporation, and Unit Trust of
+India. These institutions are an important source of long-term investment funding.
+Similar to banking, foreign ownership restrictions in the insurance sector have been
+relaxed in recent years.
+
+16.     Capital markets are going through a rapid transformation. A group of large
+institutional investors established the National Stock Exchange in 1994 using a
+corporate ownership structure. This operation is based on an electronic trading platform
+that was used successfully to break the oligopoly of the 22 state stock exchanges
+operating across the country. Apart from the Bombay Stock Exchange, the state stock
+exchanges are now defunct, although they continue to exist on paper. The size of the
+Indian stock market has increased significantly in recent years, fueled in part by foreign
+portfolio investors, and corporate bonds have become an increasingly important source
+of funding.
+
+II. ADB's Country Strategy and
+Development Program
+          1.          Overview
+17.    India began to borrow from Asian Development Bank (ADB) in 1986. In India,
+ADB has traditionally funded public sector infrastructure projects (power, gas, and
+roads) and finance reforms (NBFIs and capital markets) identified in country strategies.
+Public and private sector financing levels have been volatile (Figure 1).
+
+     Figure 1: Asian Development Bank Financing, Annual Approvals in India
+                                  ($ million)
+
+  1,600
+  1,400
+  1,200
+  1,000
+                                                                                                      Public
+    800
+                                                                                                      Private
+    600
+    400
+    200
+      0
+               1995    1996   1997      1998   1999   2000   2001    2002   2003   2004   2005
+
+
+
+
+Source: Asian Development Bank records.
+6         India: Case Studies on Private Sector Development and Operations
+
+
+18.    Public sector lending fell because of the nuclear testing sanctions in 1998.
+Demand for public sector funds to finance national road projects was high during 2000­
+2004. In 2005, no lending occurred outside the natural resource sector. Private sector
+operations (PSO) have been minor relative to public sector lending, although it has
+become more significant since 2002. During the period reviewed, only one project
+involved a complementary finance scheme (CFS) for $5 million.1
+
+          2.        Country Strategies
+19.      From the mid-1990s through early 2000, ADB changed its strategy in India. It
+began decentralizing some assistance from the national to the state level, targeting
+Gujarat, Kerala, and Madhya Pradesh. PSD was a major theme of the country strategy
+and program (CSP), which identified the following possibilities: (i) providing credit
+enhancements to mobilize private resources using ADB's guarantee operations, (ii)
+providing Government-guaranteed public sector loans to support private investments in
+infrastructure, and (iii) pooling ADB funds with private investors in funds or credit
+facilities to finance infrastructure. These instruments were to be used to help pursue
+sector strategies. In the power sector, the focus was on creating new generation and
+transmission capacity, and privatizing existing power stations. The CSP also envisioned
+establishing telecommunications facilities, and developing highways and ports, in part
+by mobilizing the private sector.
+
+20.      As envisaged, ADB would support industrial liberalization programs that
+increased competition and corporate restructuring programs, and establish financial
+facilities to support SMEs in agro-based industries. ADB also would help identify ways
+of developing the long-term debt markets. Financial markets would be strengthened by
+supporting interest rate liberalization, developing new private sector banks, restructuring
+state banks, and strengthening the regulatory framework. In the capital markets, the
+focus would be on developing an integrated national market; developing depositories;
+reforming stock exchanges; facilitating FDI in financial institutions; freeing up long-term
+sources of capital from insurance companies and pension funds; developing credit
+enhancement and loan securitization instruments; and strengthening capital market
+regulation.
+
+21.    In 2001­2002, ADB prepared a new CSP for 2003­2006 to reflect the new
+overarching goal of poverty reduction, and presented a program that was consistent
+with the Government's Tenth Five Year Plan (2002­2007). The primary focus of the
+revised ADB strategy was on growth, supported by social development and
+environmental protection programs. The main sector and thematic priorities of the CSP
+included fiscal consolidation, infrastructure development, PSD, agriculture and rural
+development, state-level operations, regional cooperation, social development,
+
+1
+    While this study only examines private sector operations (PSO) during 1995­2005, six additional PSO projects in
+    India, with a total value of $347.6 million, were approved in 2006, bringing the cumulative total approvals to $975.6
+    million by September 2006. These recent approvals include three projects in energy and power, two in financial
+    institutions focusing on infrastructure financing, and one in a capital markets institution. In addition to these direct
+    ADB facilities, Private Sector Operations Department mobilized two loans from third party commercial banks with a
+    total value of $225 million under complementary finance scheme.
+                                    India: Case Study on Private Sector Development and Operations           7
+
+
+environmental protection, and good governance. In 2003, ADB commissioned a Private
+Sector Assessment2 to help sharpen the PSD emphasis in its economic sector work, as
+well as in the overall CSP process. This document did not form part of the CSP process,
+and was used primarily as a discussion document. In 2004, ADB issued a local currency
+bond that raised Rs5 billion (equivalent at the time to $110 million) to help alleviate
+problems with local currency risks for large infrastructure projects. International finance
+institutions, such as ADB, increasingly have sought local currency since the Asian
+financial crisis, when many foreign sponsors ran into difficulties servicing financial
+structures denominated in foreign currency while project receipts were denominated in
+local currency. With dramatic depreciations in currency, project sponsors needed to
+increase project output prices to maintain their return on investment.
+
+            3. ADB Assistance
+22.     As illustrated by the breakdown in public sector lending relevant to PSO in Table
+1, infrastructure, especially in transport and power sectors, has been the primary focus
+of the regional departments.
+
+               Table 1: Sector Allocation of Public Sector Lending (1995-2005)
+                                          ($ million)
+    Year             Public             Power and                          Urban
+                  Administration         Energy         Transport       Development    Finance       Total
+    1995                                   275                               105          250          630
+    1996                250                100                                            250          600
+    1997                                   150               113                          300          563
+    1998                                                                        250                    250
+    1999                250                                                     375                    625
+    2000                                     600             180                         120           900
+    2001                                     350             450                500      200         1,500
+    2002                200                  150             814                                     1,164
+    2003                                     250             980                200                  1,430
+    2004                150                  400             650                                     1,200
+    2005                                                                                                 0
+    Total               850                2,275          3,187                1,430   1,120         8,862
+Source: Asian Development Bank records.
+
+23.     ADB has pursued institutional reforms to strengthen PPP procurement capacity
+in the infrastructure by providing technical assistance (TA) to help create PPP units at
+the state level, as well as in National Highway Authority of India. Contrary to proposals
+in some of the earlier country strategies and the PSA, ADB exited the
+telecommunications and ports sectors in the mid-1990s, and has focused on power,
+roads, water, and urban infrastructure since then. The public sector side of ADB has
+been engaged consistently in the power sector. Successful ADB-supported reforms are
+starting to create conditions for private sector investment, and possible increased
+Private Sector Operations Department (PSOD) deals in the power sector. Public sector
+operations in the gas sector contributed to strengthening the framework for the private
+sector to enter the industry. Assistance from the public sector side of ADB in the
+2
+    Prepared by Credit Rating Information Services of India Limited.(CRISIL)
+8          India: Case Studies on Private Sector Development and Operations
+
+
+transport sector has been oriented mostly to roads and, to lesser extent, railways. Some
+TA was provided in 2000 and 2001 to support private sector participation for road
+maintenance. After pursuing a substantial public sector lending program up to 2004,
+PSO-related lending ceased in 2005. PSOD has not been involved in the transport
+sector, even in ports3 where it would seem feasible to support private projects.
+
+24.    The finance sector has been the other strategic focus with a PSO orientation.
+ADB assistance has been designed to help channel funds to infrastructure in sectors
+such as power, roads, and urban facilities. TA in the finance sector was unrelated to the
+lending program and appeared to lack focus. TA was targeted at the stock exchange,
+dispute resolution, housing finance, pension and insurance reform, and use of
+mortgage-backed securities in the capital markets. The public sector loans provided to
+the Government were essentially infrastructure and housing credit lines. Two large
+sovereign guaranteed private sector infrastructure facility loans ran into difficulties due
+to the high cost of funds and denomination in foreign currency, which reduced demand,
+and there were problems finding attractive projects.
+
+25.    ADB approved its first PSO investments in India in 1987. Initial PSO investments
+in the 1980s were targeted at the manufacturing industries. Throughout the 1990s, the
+finance sector was emphasized with many relatively small capital market equity
+investments. After the approval of the Private Sector Development Strategy (PSDS) in
+2000, the emphasis on infrastructure increased, particularly in energy and power, with
+one power plant approved in 2003. By the end of 2005, 394 projects had been approved
+for $478 million, making India the largest recipient of ADB's PSO. The average
+investment size was $13.7 million. During the period of analysis, only one CFS facility
+was issued for $5 million. At the end of 2005, outstanding PSO commitments were
+$289.3 million, with most of these funding facilities directed to the finance sector.5
+
+26.    Finance sector interventions have been the main                                      In recent years, Private
+source of assistance provided by PSOD, initially by taking                                  Sector Operations
+equity interests in banks, then moving to equity funds and                                  Department has had
+providing banks with Tier 2 capital funds (secondary bank                                   difficulty obtaining central
+capital such as subordinated dent). In recent years, PSOD                                   bank approval for bank-
+has had difficulty obtaining central bank approval for bank-                                related transactions due to
+related transactions due to concerns about ADB crowding out                                 concerns about ADB
+                                                                                            crowding out commercial
+commercial operations because of its potential to provide                                   operations because of its
+funds at below-market rates. Central bank concerns about                                    potential to provide funds
+ADB's involvement in the Indian finance sector also have                                    at below-market rates.
+affected infrastructure operations. PSOD has experienced
+
+
+
+3
+    While the Petronet liquefied natural gas facility had a port that formed part of the overall plant, it could be used only
+    for conveying liquefied natural gas to the shore. As such, it falls under the classification of an energy rather than
+    transport facility.
+4
+    Including one line of equity of $5 million, from which 15 small equity sub-investments were made by 1994.
+5
+    While the study covers 1995­2005, six more projects with a total value of $347.6 million were approved 2006,
+    bringing cumulative approvals to $975.6 million by September 2006.
+                               India: Case Study on Private Sector Development and Operations          9
+
+
+ problems obtaining access to competitively priced local currency through mechanisms
+ such as the swap market due to perceived risks that ADB's involvement might distort
+ that market.
+
+             4.      PSO Transactions in India
+
+ 27.     During 1995­2005, 22 PSO transactions were approved for India, totaling
+ $459.85 million (Table 2). The dominant focus was on finance sector and capital market
+ projects. Possibly due to inadequate due diligence or premature processing, ten of the
+ 21 approved projects subsequently were canceled for reasons such as regulatory
+ restrictions, lack of demand, or uncompetitive pricing. Taking into account these
+ cancellations, the portfolio shrunk by $353.2 million, or 58%, to $258.4 million. The
+ resulting portfolio had a disproportionately large amount of equity, totaling $126.4 million
+ (49%), compared to $132.0 (51%) in senior debt. This is a high-risk portfolio structure.
+ Dividing the non-canceled approvals according to sectors, $136.9 million (53%) was
+ invested in financial and capital markets interventions, $71.5 million (8%) in two
+ infrastructure projects, and $50 million (19%) indirectly target infrastructure through
+ local financial institutions.
+                  Table 2: PSO Investment Approvals in India (1995­2006)
+
+                                                      ADB Financing ($ million)
+Name                               Sector      Loan    CFS    Equity PCG          Total   Date    Status
+Equity Management                 Finance       ­        ­         0.1 ­            0.1   1995      ­
+Sectoral Equity Fund              Finance       ­        ­       15.0    ­         15.0   1995      ­
+Securities                        Finance       ­        ­         4.3 ­            4.3   1995   Canceled
+Capital Markets                   Finance       ­        ­       21.2    ­         21.2   1995      ­
+Finance Company                   Finance       ­        ­         4.5 ­            4.5   1995      ­
+Power Company                     Power        25.0    100.0     15.0    ­        140.0   1996   Canceled
+Infrastructure Finance            Finance       ­        ­       15.5    ­         15.5   1997      ­
+Mortgage Guarantee                Finance       ­        ­       10.0    ­         10.0   2002   Canceled
+Healthcare Institute              Services      20       ­          ­    ­         20.0   2002   Canceled
+Infrastructure Fund               Finance       ­        ­       15.0    ­         15.0   2002      ­
+Transmission                      Power        62.3      ­          ­    ­         62.3   2003      ­
+Bank (supplementary)              Finance       ­        ­         0.7 ­            0.7   2003    Exited
+Housing Finance                   Finance      20.0      ­          ­    ­         20.0   2003      ­
+Home Finance                      Finance      20.0      ­          ­    ­         20.0   2003   Canceled
+LNG                               Energy        ­      65.3         ­    ­         65.3   2004   Canceled
+Power Generation                  Power        54.4      ­       20.6    ­         75.0   2004   Canceled
+Private Equity                    Finance       ­        ­       20.0    ­         20.0   2004      ­
+Asset Reconstruction              Finance       ­        ­         5.6 ­            5.6   2005   Canceled
+Infrastructure Finance            Finance      50.0      ­          ­    ­         50.0   2005   Canceled
+Bank                              Finance      23.0      ­          ­    ­         23.0   2005   Canceled
+Private Equity                    Finance       ­        ­       15.0    ­         15.0   2005      ­
+ ­ = not applicable, ADB = Asian Development Bank; CFS = complementary financing scheme; LNG = liquefied
+ natural gas; PCG = partial risk guarantee; PSO = private sector operations.
+ Source: Operations Evaluation Department staff compilation.
+10      India: Case Studies on Private Sector Development and Operations
+
+
+28.   An OED evaluation of the PSO projects in India, based on a mixture of desk-
+based reviews and company visits, derived the indicative project performance results
+shown in Table 3.
+
+      Table 3: Summary of Evaluated Project Performance in India (1995­2005)
+
+                                                                     Investment
+Project                                            PSD              Performance         Comments/Issues
+ Equity Management                              Satisfactory         Satisfactory                ­
+ Sectoral Equity Fund                            Excellent           Satisfactory                ­
+ Securities                                      Canceled                 ­              Lack of demand
+ Capital Markets                                Satisfactory         Satisfactory                ­
+ Finance Company                                Satisfactory         Satisfactory                ­
+ Power Company                                   Canceled                 ­                      ­
+ Infrastructure Finance                          Excellent             Excellent                 ­
+ Mortgage Guarantee                             Satisfactory         Satisfactory        Regulatory issue
+ Bank(supplementary)                           Unsatisfactory       Unsatisfactory       Almost bankrupt
+ Healthcare Institute                            Canceled                 ­                      ­
+ Infrastructure Fund                            Satisfactory         Satisfactory                ­
+ Transmission Limited                           Satisfactory         Satisfactory                ­
+ Housing Finance                                Satisfactory         Satisfactory                ­
+ Home Finance                                    Canceled                 ­            Price not competitive
+ LNG                                            Satisfactory           Excellent
+ LNG                                             Canceled                 ­            Price not competitive
+ Power Generation                                Canceled                 ­            Price not competitive
+ Private Equity                                 Satisfactory         Satisfactory                ­
+ Asset Reconstruction                            Canceled                 ­              Regulatory issue
+ Infrastructure Finance                          Canceled                 ­            Price not competitive
+ Bank                                            Canceled                 ­              Regulatory issue
+ Private Equity                                  Excellent           Satisfactory                ­
+  ­ = not applicable, LNG = liquefied natural gas, PSD = Private Sector Development.
+  Source: Operations Evaluation Department staff compilation.
+
+
+
+III. PSD Issues in India
+29.     India has grown more than 8% per year over the past 3 years, primarily due to
+three factors: (i) a robust global economy, (ii) the delayed impact of liberalization
+measures initiated in response to economic crisis in 1991, and (iii) a substantial boom in
+consumer lending. While interest rates are starting to rise, growth appears to be
+sustainable in sectors such as manufacturing, where macroeconomic stability coupled
+with increasing competition is improving quality and cost-effectiveness. Nevertheless,
+overall progress and balanced growth will depend upon reforms to modernize
+infrastructure for power, ports, and roads. The benefits of reforms in the infrastructure
+are starting to become apparent only now, and most private sector participation
+continues to be limited to PPPs in the road sector and some captive ports and power
+generation projects. While the finance sector is liquid and consumer credit growth is
+booming, long-term corporate debt and access to foreign credit and FDI continues to be
+limited.
+                                  India: Case Study on Private Sector Development and Operations   11
+
+
+30.      Traditionally, India has not had a policy of pursuing PSD. It has been focused on
+developing its industrial sector through regulatory protection and directed lending
+programs. The economy for the most part has been closed, which helped insulate it
+from the effects of the Asian financial crisis. Recently, the Government has started to
+liberalize the economy, and it is pursuing investment in infrastructure, particularly in the
+power and transport sectors. The Government continues to maintain a highly
+centralized approach to economic reform, especially in the infrastructure and finance
+sector development where development programs are articulated in five-year plans.
+Liberalization is modest, with high trade barriers and regulatory constraints by
+international standards, though much improved relative to historical conditions. In critical
+infrastructure sectors, such as power and water, tariffs continue to be set at levels
+substantially below cost. The Government's lack of control over state governments in
+the power sector has meant reform has been extremely slow, although moving in the
+right direction. While progress is more apparent in the road and ports sectors, funding
+needs are substantial. Infrastructure still needs to be developed to improve access to
+water and support more inclusive growth in semi-urban manufacturing and service
+initiatives. A key constraint has been the lack of access to long-term finance. The
+Government appears to have made good progress in this area, although credit
+availability at affordable rates continues to be quite low despite high levels of savings.
+
+                            31.     The Prime Minister recently estimated that $155
+    The substantial gap
+                            billion6 is required over the next 5 years to support
+    between demand for
+    resources and the low
+                            infrastructure development, and this figure could rise as
+    levels of foreign directhigh as $250 billion if infrastructure investment reaches 9­
+    investment and modest   10% of GDP. Assuming the public sector provides about
+    growth in local sources of
+                            80% of this funding, the private sector would have to
+    corporate finance indicates
+                            provide up to $50 billion over the next 5 years. In practice,
+    the Government also     the total financing figure seems optimistic, and only a
+    needs to pursue reforms in
+                            fraction of this amount is likely to be raised without
+    the finance sectors to help
+    mobilize the necessary
+                            substantive reforms. In the power and water sectors, cost-
+    funding.                based tariffs administered by independent regulators are
+                            the key issue. For roads and infrastructure, acquisition of
+land is the primary constraint. The substantial gap between demand for resources and
+the low levels of FDI and modest growth in local sources of corporate finance indicates
+the Government also needs to pursue reforms in the finance sectors to help mobilize
+the necessary funding. Critical areas of reforms involve strengthening the municipal and
+corporate bond markets, removing investment restrictions on local savings vehicles, and
+freeing up of the capital account to improve access to long-term foreign sources of
+finance.
+
+32.     ADB's CSP issued in 1996 signaled a shift in focus from the national to state
+level. Private sector development was a core priority of the country strategy, and ADB
+intended to focus on power infrastructure, and government guaranteed private
+infrastructure credit lines. In 2003, the CSP shifted emphasis toward poverty reduction
+and social and agriculture projects. A draft PSA was issued in 2003 that highlighted the
+
+6
+    18 August 2006. Editorial. Financial Times.
+12     India: Case Studies on Private Sector Development and Operations
+
+
+importance of issues such as privatization and resolving NPL problems, although it did
+not form part of the country strategy. In line with ADB's country strategic programs,
+public sector support for power sector reforms has been reasonably constant
+throughout the period of analysis, occurring initially in Gujarat, followed by Madhya
+Pradesh, and then Assam. In 1998, PSO-related public sector lending almost stopped
+due to India's nuclear testing, and then grew rapidly to peak in 2001 due to substantial
+incremental demand to help finance national road projects. Lending for urban
+development has been reasonably constant over the review period, with emphasis on
+housing and urban water. Financial assistance has occurred primarily in the form of four
+private sector infrastructure facilities and seven housing loans.
+
+33.     Despite being the single largest country exposure in PSOD's portfolio, India's
+level of PSO over the period of analysis has been surprisingly limited given the size of
+the country. The size of the PSO portfolio at $289.3 million, or 17% of the portfolio as of
+31 December 2005, is small given the number of transactions and effort expended over
+a 10-year period. The private sector development strategy approved in March 2000
+does not seem to have had a material impact on the scale and focus of PSOD's
+activities. While the public sector provided assistance to help strengthen the enabling
+environment in selected states in power infrastructure, reforms have been slow to
+materialize. As such, the Board has approved only three significant transactions. This
+lack of progress reflected in part the serious constraints present in the energy sector in
+the form of insolvent state electricity boards and noncommercial tariffs. PSOD also has
+made surprisingly little progress is the transport sector, especially in subsectors such as
+ports that can finance operations without having to hedge currency risks. ADB's public
+sector operations provided assistance to the National Highway Authority of India as
+early as 2000 to help facilitate PPPs in the road sector. However, it was directed mainly
+at maintenance contracts, and only a few privately financed concessions have been put
+in place successfully.
+
+34.     The weak enabling environment has been reflected in the poor performance of
+the Government-guaranteed PSIF provided by ADB's public sector operations. The
+PSIF loans were not particularly successful as suitable projects were hard to find. The
+Government, which appears to accept the need for fundamental reform to support
+private investment, has indicated that it does not consider the infrastructure credit lines
+consistent with its policy on PPP. The Government's shift toward viability gap funding,
+and general progress on unbundling the power sectors and putting in place independent
+regulators, suggests that circumstances are starting to improve for PSO in India. This
+change has been reflected in the scale of PSOD's operations, as approvals have
+started to accelerate since 2003. Four approvals were recorded in 2005, followed by
+five approvals midway through 2006. These transactions are occurring increasingly
+frequently in the infrastructure sector in line with the private sector development strategy
+priorities.
+                        India: Case Study on Private Sector Development and Operations   13
+
+
+                            35.   Despite these encouraging trends, obtaining central
+                            bank approval to access local currency finance in the swap
+                            market has been a serious problem. In most cases, sponsors
+                            and borrowers praised ADB's commercial processing
+                            procedures. However, several complaints were heard about
+                            unnecessarily complex legal documentation requirements
+that were slow to process compared to those of competing development institutions,
+such as International Finance Corporation. Social safeguard project processing
+requirements might be another issue, especially in the road sector, although this is
+difficult to confirm given the lack of PSOD involvement in this sector. The National
+Highway Authority has been negotiating with ADB's public sector operations over
+whether squatters should receive compensation, and whether this should be paid at
+market rates. The Government has expressed concerns about PSOD's low level of
+engagement in infrastructure reforms. The resident mission in Delhi has only one PSOD
+staff member who does not have any support staff. This scale of operation appears
+seriously inadequate given the scale of opportunities within the country, the complexity
+of the environment, and the need to be on the ground establishing relationships with the
+Government and the private sector.
+

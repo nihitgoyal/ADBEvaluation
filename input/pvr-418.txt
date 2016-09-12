@@ -1,0 +1,566 @@
+Validation Report
+
+
+
+Reference Number: PVR-418
+Project Number: 32298
+Loan Number: 2346
+September 2015
+
+
+
+
+India: Madhya Pradesh Power Sector
+Investment Program (Tranche 3)
+
+
+
+
+Independent Evaluation Department
+                                        ABBREVIATIONS
+
+              ADB                 ­   Asian Development Bank
+              DISCOM              ­   distribution company
+              DMF                 ­   design and monitoring framework
+              EIRR                ­   economic internal rate of return
+              FIRR                ­   financial internal rate of return
+              kV                  ­   kilovolt
+              MFF                 ­   multitranche financing facility
+              MPSEB               ­   Madhya Pradesh State Electricity Board
+              MVA                 ­   megavolt-ampere
+              MW                  ­   megawatt
+              PCR                 ­   project completion report
+              PFR3                ­   Periodic Financing Request No. 3
+              RRP                 ­   report and recommendation of the President
+              TRANSCO             ­   Madhya Pradesh Power Transmission
+                                      Company Limited
+
+
+
+
+                                               NOTE
+
+                              In this report, "$" refers to US dollars.
+
+
+
+
+                                           Key Words
+
+adb, asian development bank, distribution system, energy efficiency, energy sector, india,
+madhya pradesh, power, project completion report, transmission, validation
+
+
+
+
+The guidelines formally adopted by the Independent Evaluation Department (IED) on avoiding
+conflict of interest in its independent evaluations were observed in the preparation of this report.
+To the knowledge of IED management, there were no conflicts of interest of the persons
+preparing, reviewing, or approving this report.
+
+In preparing any evaluation report, or by making any designation of or reference to a particular
+territory or geographic area in this document, IED does not intend to make any judgments as to
+the legal or other status of any territory or area.
+                                         PROJECT BASIC DATA
+    Project Number:      32298             PCR Circulation Date:    Sept 2014
+    Loan Number:         2346              PCR Validation Date:     Sept 2015
+    Project Name:        Madhya Pradesh Power Sector Investment Program (Tranche 3)
+    Country:             India                                       Approved         Actual
+                                                                     ($ million)    ($ million)
+    Sector:              Energy            Total Project Costs:       197.8           176.1
+    ADB Financing:       ADF: 0.0               Loan:                        144.0              141.9
+    ($ million)
+                                                Borrower:                      18.9              24.2
+                         OCR: 144.0             Beneficiaries:                  0.0               0.0
+                                                Others:                        34.9              10.0
+    Cofinancier:                                Total Cofinancing:              0.0               0.0
+
+    Approval Date:       21 Aug 2007            Effectiveness Date:        21 Nov 2007    24 Dec 2007
+
+    Signing Date:        23 Aug 2007            Closing Date:              31 Dec 2011     16 Sep 2013
+    Project Officers:                           Location:                      From:             To:
+                         H. Kobayashi           ADB headquarters             Aug 2007         Dec 2009
+                         V. Karbar              India Resident Mission       Jan 2009         Feb 2012
+                         J. Banerjee            India Resident Mission       Feb 2012         Sep 2013
+    Initial Reviewers:   P. Choynowski,         Peer Reviewer:             K. Thukral, Principal
+                            Consultant                                        Evaluation Specialist, IED2
+                         F. D. De Guzman
+                            Senior Evaluation
+                            Officer, IED2
+    Quality Reviewer:    B. Nguyen, Senior      Director:                  B. Finlayson, IED2
+                            Evaluation
+                            Specialist, IED2
+ADB = Asian Development Bank; ADF = Asian Development Fund; IED2 = Independent Evaluation Department,
+Division 2; OCR = ordinary capital resources; PCR = project completion report.
+
+
+
+                                    I.     PROJECT DESCRIPTION
+
+A.        Rationale
+
+1.      Madhya Pradesh faced formidable difficulties in providing energy supplies that were
+needed to spur poverty reduction and the economic development of the state. According to the
+report and recommendation of the President (RRP),1 transmission capacity in Madhya Pradesh
+was inadequate as investment in the transmission network did not match increasing demand.
+Supply security for portions of the transmission network was significantly less than the condition
+where electricity supply could still be maintained in the event of an outage of major equipment.2
+As such, the failure of a major network component could lead to severe load shedding. There
+was also a bottleneck in electricity delivery in Madhya Pradesh. The distribution system was
+characterized by high ratios of low-to-medium voltage circuit length and overloaded power
+transformers. It suffered from a severe capacity shortage and was incapable of providing
+adequate quality and reliable supply to customers. Safety was compromised in the distribution
+
+1
+    ADB. 2007. Report and Recommendation of the President to the Board of Directors: Proposed Multitranche
+    Financing Facility to India for the Madhya Pradesh Power Sector Investment Program. Manila.
+2
+    In technical terms, this is called (n-1) security level.
+2
+
+
+networks due to shoddy installation of equipment and inadequate maintenance practices.
+Distribution network losses in many areas were 40%­45%.
+
+2.       The financial position of Madhya Pradesh State Electricity Board (MPSEB) was critical
+due to inadequate tariffs, non-remunerative investments in rural electrification schemes, delays
+in tariff subsidies from the government of Madhya Pradesh, and high commercial and technical
+losses in the transmission and distribution networks (RRP, para. 17). To meet cash flow
+requirements, MPSEB defaulted on payment obligations to its suppliers and lenders, reduced
+capital investments, and pursued less than optimal repair and maintenance practices. Following
+the unbundling of MPSEB in 2002, the Government of Madhya Pradesh undertook financial
+restructuring of the sector, which included injecting equity and taking over loan arrears and rural
+electrification loans. However, shortfalls in sector revenues were expected to continue for the
+medium term as a result of high distribution losses. Therefore, targeted loss-reduction
+investments were critical to bring the cost of supply in line with average retail tariffs and to
+achieve sector profitability and eventual financial sustainability.
+
+3.      The Asian Development Bank (ADB) country strategy and program for India in 2003­
+2006 focused on clean energy development in the energy sector, including run-of-the-river
+hydropower projects, other forms of renewable energy, rural electrification, and energy efficiency
+improvements.3 Subsequent updates to the 2003­2006 country strategy and program outlined
+six priorities in the ADB power sector assistance. These are (i) reforming the power sector, (ii)
+promoting higher efficiency and low-carbon power sources, (iii) expanding and optimizing
+transmission and distribution systems, (iv) strengthening institutions to implement reforms
+required by the 2003 Electricity Act, (v) promoting private sector participation, and (vi)
+encouraging energy conservation and ensuring environmental and social sustainability.4
+
+B.        Expected Impact
+
+4.      The design and monitoring frameworks (DMFs) of the RRP, the project completion report
+(PCR),5 and the Periodic Financing Request No. 3 (PFR3) indicated that the expected impacts of
+the investment program in Madhya Pradesh were contributions in (i) sustaining economic growth
+and social development, and in (ii) meeting energy demand growth. Performance indicators to
+measure achievement of these expected impacts were (i) growth in gross state product of at
+least 6% annually during 2007­2012, and (ii) reduction in the energy deficit from 13% in 2007 to
+0% in 2012.
+
+C.        Objectives or Expected Outcome
+
+5.        The DMF of the RRP indicated six expected outcomes of the investment program. These
+are (i) sustainable and commercially operated power sector companies; (ii) transmission
+expansion (improvement in operational efficiency, voltage profile, and power delivery capacity);
+(iii) distribution enhancement (reduction in system losses and improved supply quality and
+reliability); (iv) strengthened capacity of sector institutions; (v) improved energy efficiency; and
+(vi) increased private sector participation. Outcome performance indicators were (i) reduced
+dependence of the sector on direct state support from approximately 30% of total investment
+funding to 0% by 2012, (ii) elimination of financial losses in the sector by 2011 (from Rs2.70
+billion in 2005), (iii) increased transmission capacity from 5,563 megawatts (MW) during 2005­
+3
+    ADB. 2003. Country Strategy and Program: India, 2003­2006. Manila.
+4
+    ADB. 2004. Country Strategy and Program Update (2004­2006): India. Manila; ADB. 2005. Country Strategy and
+    Program Update (2005­2007): India. Manila.
+5
+    ADB. 2014. Completion Report: Madhya Pradesh Power Sector Investment Program (Tranche 3) in India. Manila.
+                                                                                                 3
+
+
+2006 to 8,170 MW during 2008­2009, (iv) enhanced system availability from 95% during 2005­
+2006 to 97.5% during 2008­2009, and (v) reduced technical losses in the transmission system
+from 5.2% during 2005­2006 to 4.9% during 2008­2009. Other outcome indicators were (i)
+reduced distribution losses from 40%­45% during 2005­2006 to 19% in 2012, (ii) improved
+system reliability and substantial reduction in fault restoration time, (iii) reduced customer
+complaints about quality of electricity supply, and (iv) enhanced ability of Madhya Pradesh
+Energy Department to implement further reforms. Also listed as performance targets were (i)
+improved capacity of Madhya Pradesh Electricity Regulatory Commission, (ii) improved human
+resources and financial management and accounting in all sector companies, (iii) development of
+capacity for interstate power trading, (iv) establishment of energy conservation funds to support
+small-scale projects promoting energy efficiency, and (v) sustainable increases in private sector
+investment in the power sector.
+
+6.     Of the investment program's expected outcomes, only two were associated with PFR3 to
+be financed by Tranche 3. These are (i) improvement in operational efficiency, voltage profile,
+and power delivery capacity of Madhya Pradesh; and (ii) improvement in the financial position of
+Madhya Pradesh Power Transmission Company Limited (TRANSCO). For the first outcome,
+transmission capacity was to increase from 5,563 MW in 2005­2006 to 8,170 MW during 2008­
+2009, and system availability was to be improved from 95.0% during 2005­2006 to 97.5% during
+2008­2009. For the second outcome, TRANSCO's debt service coverage ratio was to be
+maintained at 1.2 from 2007 onward, and a self-financing ratio of 20% was to be maintained from
+2010 onward.
+
+D.     Outputs
+
+7.       According to PFR3, Tranche 3 of the multitranche financing facility (MFF), which is the
+focus of this validation, was to finance the construction of transmission lines to connect 220
+kilovolt (kV) and 132 kV substations to the 33 kV distribution substations. This was to comprise a
+set of subprojects with the following components: (i) 1,451.5 circuit kilometers (cct-km) of 132 kV
+transmission line; (ii) 10 new 132/33 kV substations, each having 40 megavolt-ampere (MVA)
+transformer capacity at Badgaon, Bagdi, Berchha, Betma, Bhanegaon, Chhanera, Ghosla,
+Kasrawad, Chichli, and Vijaypur; (iii) 10 additional 132/33 kV transformers of 20 MVA each and
+three of 40 MVA each at existing substations; (iv) augmentation of six 132/33 kV transformers
+from 20 to 40 MVA, and 14 transformers from 40 to 63 MVA at existing substations; and (v)
+testing of instruments and maintenance equipment. The outputs on physical infrastructure were
+expected to be completed by 2011.
+
+8.      Two other "soft" outputs were envisaged under the project. The first was improvement in
+corporate governance that included recruitment of an independent board of directors,
+strengthening of audit functions and guidelines, and appointment of internal controllers. The
+second output was geared toward strengthening of human resources and was to comprise
+appointment of key staff at directorial levels, chartered accountants, and information technology
+specialists; and setting-up of management training programs in finance, operations, and
+commercial functions. The first "soft" output was expected to be completed by December 2007
+and the second on December 2008.
+
+9.     Minor changes in the original project scope involving two additional schemes were results
+of cost savings that were generated (para. 12). Scheme 1 was designed to improve the
+transmission system's operational efficiency, voltage profile, and delivery capacity to reduce
+overloading of the existing 132 kV and 33 kV systems. This scheme was fully commissioned by
+4
+
+
+August 2012. 6 Scheme 2 was aimed at improving the operational reliability of the state's
+transmission system in order to be consistent with international benchmarks for system efficiency
+while reducing operational risk.7 This was fully completed in March 2013.
+
+E.       Provision of Inputs
+
+10.    The PFR for Tranche 3 was received on 23 July 2007 and was approved by ADB on 21
+August 2007. It became effective on 24 December 2007, a slight delay of about a month
+compared to the expected effectiveness date of 21 November 2007.The implementation was
+expected to be about 4 years and completed by 31 December 2011. The project's major civil
+works were completed as planned. However, the loan closing date was extended twice: (i) from
+31 December 2011 to 30 June 2012, and (ii) from 30 June 2012 to 31 March 2013--to use loan
+savings for two additional schemes (para. 9). The PFR for Tranche 3 was closed on 16
+September 2013.
+
+11.     The total cost of the power sector investment program for 2007­2012 was estimated at
+$5.34 billion. ADB approved a loan of $620 million from its ordinary capital resources to finance
+part of the power sector investment program covering transmission, distribution, capacity
+building, and energy efficiency. The financing was to be provided under the MFF modality in
+accordance with ADB policy.
+
+12.    The total cost of Tranche 3 projects at appraisal was expected to be $197.8 million. ADB
+was to finance $144.0 million. The project was completed at total cost of $176.1 million, with
+ADB financing of around $141.9 million. Additional equipment was procured from cost savings.
+Savings were primarily attributed to (i) lower than estimated costs due to competitive bidding; (ii)
+depreciation of the Indian rupee against the dollar; and (iii) efficient project monitoring and
+administration, which reduced interest during construction.
+
+13.    The project was classified as Category B under the ADB environmental categorization
+requirements. An initial environmental examination indicated that the proposed works were not
+expected to pass through or near any environmentally or ecologically sensitive areas,
+archeologically important sites, or protected historical monuments. The works generally
+traversed barren land with minimal vegetative cover and agricultural areas (PCR, para. 36).
+However, during implementation, a review of the environmental management and monitoring
+plan indicated varying levels of compliance with agreed provisions, and in some cases, this was
+assessed to be less than adequate. A time-bound corrective action plan was put in place.
+Management of environmental safeguards generally improved later, after an external monitoring
+agency was engaged (PCR, paras. 37-38).
+
+14.     The project was classified as Category B for involuntary resettlement and Category C for
+indigenous peoples impacts. ADB approved short resettlement plans that detailed the
+resettlement policy and framework applicable for resettlement planning documentation,
+
+6
+  The scope comprised of (i) four additional 220/132 kV, 160 MVA power transformers; (ii) 220 kV current transformers
+   (90 units) and potential transformers (18 units) at existing substations; (iii) 132 kV and 33 kV current transformers
+   (150 units of 132 kV and 180 units of 33 kV), and potential transformers (60 units of 132 kV and 60 units of 33 kV) at
+   existing substations; (iv) 220 kV SF6 circuit breakers (20 units) at existing substations; (v) 132 kV SF6 circuit
+   breakers (40 units) at existing substations; and (vi) 33 kV vacuum circuit breakers (300 units) at existing substations.
+7
+  The scope consisted of (i) 10 additional 132/33 kV, 63 MVA power transformers at 132 kV substations and 220 kV
+   substation; (ii) 132 kV current transformers (150 units) and potential transformers (45 units) at existing substations;
+   (iii) 132 kV SF6 circuit breakers (90 units) at existing substations; and (iv) 33 kV vacuum circuit breakers (180 units)
+   at existing substations.
+                                                                                                               5
+
+
+implementation, monitoring, and reporting. The short resettlement plans reported insignificant
+impact on affected persons from the construction of one substation on private land and stringing
+of the related transmission lines, which involved no involuntary resettlement.8
+
+15.      The PCR indicated that at appraisal, TRANSCO was assessed to have the requisite
+institutional capability to implement the project. Thus, consultant services were not provided.
+Accordingly, ADB did not engage a consultant for this project. However, TRANSCO appointed
+separate consultants to prepare the environmental and social safeguard reports and formulate a
+resettlement plan.
+
+F.        Implementation Arrangements
+
+16.     TRANSCO, the state system's operator, was to be the executing agency for the
+transmission component. Three distribution companies (DISCOM-E, DISCOM-C, and DISCOM-
+W) were to be the executing agencies for the distribution components in their respective areas. A
+coordinating committee comprising the chairman and managing director of the executing
+agencies, led by the chairman and managing director of TRANSCO, was to be established to
+monitor and coordinate the overall implementation of the investment program. The coordinating
+committee was to report to the Energy Department of the Government of Madhya Pradesh. At
+the state level, the Energy Department was to monitor the implementation of reform policy and
+overall power sector investment. At the central level, the Ministry of Power was to monitor state
+sector policy and investment program implementation. All executing agencies were to have
+established project management units, headed by a full-time project manager. TRANSCO was to
+implement the capacity building component, while the executing agency for energy efficiency
+was to be determined once the design was finalized.
+
+17.     Implementation arrangements were as envisaged at appraisal. Overall responsibility for
+project implementation was with a project management unit established within TRANSCO.
+TRANSCO had the institutional capability to implement the project, hence, no consultant services
+were provided. Good project management and resolution of technically complex issues led to the
+project's expeditious completion. TRANSCO requested two extensions to the loan closing date.
+The first covered the period 31 December 2011 to 30 June 2012 to complete the utilization of
+savings for the first additional scheme. The second extension--30 June 2012 to 31 March
+2013--was to facilitate the utilization of savings to complete another savings scheme.
+TRANSCO appointed consultants to prepare the environmental and social safeguard reports and
+to formulate a resettlement plan (para. 14).
+
+18.    All 31 covenants were complied with, except for two with delayed compliance.
+Compliance to the self-financing ratio was not met because the revenue was decided by the
+state electricity regulator. The PCR indicated that this did not impact project execution as
+TRANSCO could provide a balance of 15% from its own funds (PCR, para. 20 and Appendix 9).
+The covenant on pension funds was not complied with although the PCR noted that an
+arrangement is in process for compliance in the future (PCR, Appendix 9). No covenants were
+modified, suspended, or waived during implementation although there was delayed compliance
+in several cases.
+
+
+8
+    Owners of the land that was acquired were adequately compensated. This land was generally barren and
+    nonproductive. The stringing of transmission lines and erecting of towers did not include land acquisition.
+    Compensation for crop damage during works was based on the market value of crops. The cost of trees was based
+    on a prescribed government rate.
+6
+
+
+                  II.     EVALUATION OF PERFORMANCE AND RATINGS
+
+A.     Relevance of Design and Formulation
+
+19.     The PCR rated the project relevant to the objectives of the governments of Madhya
+Pradesh and India for the power sector. At appraisal and completion, the ADB sector and country
+strategies for the power sector were also focused on removing transmission bottlenecks through
+better utilization of existing and planned generating stations. The project was to improve the
+efficiency of the transmission system and, thus, enhance system availability and reduce technical
+losses. The project's proposed outcome was consistent with the country's development priorities
+and to the ADB country and sector strategies. Project design was generally sound. Additional
+outputs were implemented with minor changes in scope (para. 9).On these bases, this validation
+assesses the project relevant.
+
+B.     Effectiveness in Achieving Project Outcome and Outputs
+
+20.      The PCR rated the project effective because the outcome was achieved as defined in the
+DMF. Project outcomes and outputs were modified in PFR3 from those in the RRP. In the DMF
+of PFR3, it was indicated that project outcomes were (i) an improvement in operational
+efficiency, voltage profile, and power capacity of Madhya Pradesh; and (ii) an improvement in
+TRANSCO's financial position. The PCR retained the performance indicators pertaining to
+transmission aspects, such as increased transmission capacity, enhanced system availability,
+and reduced technical losses. However, PFR3 added the following indicators for TRANSCO's
+financial position: debt service coverage ratio of 1.2 to be maintained from 2007 onward, and a
+self-financing ratio of 20% (3 years moving average capital expenditure) to be maintained from
+2010 onward.
+
+21.     The PCR indicated that transmission capacity increased to 10,200 MW, which resulted in
+meeting the peak demand of 9,484 MW during 2012­2013. It also indicated that system
+availability rose to 99.44% in 2013 from 97.5% during 2008­2009 while technical losses
+decreased to 3.3% in 2013 from 5.2% during 2005­2006. All physical outputs in terms of
+transmission lines, substations, and transformers; and the institutional and human resource
+outputs that were in PFR3 were also achieved. The PCR noted that the debt service coverage
+ratio was achieved although efforts are being exerted to comply with the self-financing ratio in the
+future (PCR, Appendix 2). Nonetheless, cost savings were realized, which were subsequently
+used to finance other subprojects (para. 12). On the whole, this validation assesses the project
+effective.
+
+C.     Efficiency of Resource Use in Achieving Outcome and Outputs
+
+22.     The PCR rated the project efficient. It indicated that all components were operating
+continuously at their rated capacities since the date of commissioning. The economic internal
+rate of return (EIRR) was reestimated at 19.28%, higher than the 14.9% calculated at appraisal.
+The PCR noted that benefits exceeded levels expected at appraisal because of reductions in
+transmission losses to 3.3% in 2013 from 5.23% in 2006 (PCR, para. 31). The project was
+completed without significant delays and without cost overruns.
+
+23.    The PCR did not provide an appendix where details of the EIRR calculation in terms of
+methodology and assumptions were discussed. However, the South Asia Regional Department
+provided spreadsheets where the EIRR was calculated, but the methodology used did not
+comply with the ADB methodology for calculating EIRRs. For example, project benefits were
+                                                                                                   7
+
+
+measured in terms of the electricity tariff. The correct approach would have been to value these
+in terms of the variable cost of generation. Capital, operating and maintenance, and benefits
+were not shadow priced. Also, it was not clear whether interest during construction and
+environmental and social costs were accounted for.
+
+24.      Nonetheless, the project's original envisaged scheme was completed without any scale of
+delays, except for two lines, which were intended at improving the transmission system's
+operational efficiency and easing up the overloading of existing systems (PCR, paras. 16 and
+32). Also, the project was completed below the estimated project cost (para. 10). On the whole,
+this validation assesses the project efficient.
+
+D.     Preliminary Assessment of Sustainability
+
+25.     The PCR rated the project likely sustainable both technically and financially over the long
+term. It indicated that the design of all subprojects and the technology adopted were robust and
+appropriate, given the complexities of the power sector. Likewise, the technical specifications of
+equipment procured and commissioned meant that the technology was unlikely to become
+obsolete over its expected life span. The PCR noted that TRANSCO had in-house capacity to
+operate and maintain the subprojects effectively. It also noted that human, institutional, and
+financial resources were sufficient to maintain the outcome over the economic lifetime of the
+project, and risks were manageable.
+
+26.     The PCR noted that the financial internal rate of return (FIRR) was reevaluated at
+15.75%, above TRANSCO's 3.35% weighted average cost of capital, although it did not provide
+details of the FIRR calculation, methodology, and assumptions. During the validation process,
+the South Asia Regional Department provided spreadsheets where the FIRR was calculated, but
+the methodology used did not comply with the ADB methodology for calculating FIRRs. For
+example, revenue was estimated as the sum of depreciation, interest payments, and return on
+equity. However, an assessment of the financial performance of TRANSCO provided by the
+South Asia Regional Department indicated that the self-financing ratio was well above the
+covenanted 20%. Given these factors, this validation assesses the project likely sustainable.
+
+E.     Impact
+
+27.       The PCR rated the project's impact significant. It indicated that the project increased the
+energy transmission capacity of Madhya Pradesh, which contributed in sustaining its economic
+growth, social development, and in meeting its energy demand growth. The PCR noted that the
+state-compounded annual growth rate was 8.5% for 2007-2012. This was above the target of
+6% gross state product for the same period, although solely attributing this to the project may be
+difficult.
+
+28.    The PCR also noted that the energy deficit was reduced since the peak demand of 9,484
+MW was met successfully during 2012-2013. Likewise, it indicated that investment in
+transmission capacity contributed to reduced leakages of sulfur hexafluoride from transformers.
+As such, the project contributed to the general improvement in environmental conditions.
+However, it was not possible to quantify these environmental benefits in the absence of data
+from TRANSCO (PCR, para. 39). Based on these observations, this validation assesses the
+impact significant.
+8
+
+
+                           III.    OTHER PERFORMANCE ASSESSMENTS
+
+A.        Performance of the Borrower and Executing Agency
+
+29.     The PCR rated the overall performance of the borrower and executing agency
+satisfactory. All project components were constructed and commissioned successfully and,
+generally, within budget and on time. TRANSCO demonstrated its capacity and capability to
+formulate and appraise; arrange counterpart finance; and carry out engineering, procurement,
+and construction of a variety of technically complex projects while conforming to approved
+specifications and standards to the satisfaction of ADB. This validation concurs with the
+satisfactory rating.
+
+B.        Performance of the Asian Development Bank
+
+30.     The PCR rated the overall performance of ADB satisfactory. ADB regularly monitored the
+project's progress through reviews and quarterly progress reports. It provided useful advice in
+several areas, including procurement and project management. ADB provided timely approvals
+that enabled project milestones to be achieved and this contributed to smooth project execution.
+ADB, TRANSCO, and officials from the Ministry of Power and Department of Economic Affairs
+conducted tripartite meetings, which also facilitated project implementation. This validation
+concurs with the satisfactory rating.
+
+                IV.   OVERALL ASSESSMENT, LESSONS, AND RECOMMENDATIONS
+
+A.        Overall Assessment and Ratings
+
+31.     The PCR rated the project successful. The validation has the same rating. No deviation
+was seen between the ratings of the PCR and this validation on the evaluation criteria. This
+validation finds the PCR ratings consistent with the performance of the project. The project was
+implemented as conceived and completed on time. It was completed below the estimated project
+cost. Additional works were made possible from project savings. Envisaged outcomes were
+generally achieved while all outputs were completed. TRANSCO was also assessed to have the
+capacity to operate and maintain the project in the future. At the same time, this validation notes
+that the bulk of planned energy generation expansion in Madhya Pradesh will be coal-fired
+thermal plants (RRP, para. 9). In the future, ADB may need to take a more cautious approach in
+supporting energy projects to contribute to decarbonizing efforts by not--directly or indirectly--
+funding coal-power generation, as called for by the Special Adviser to the United Nations
+Secretary-General.9
+
+                                               Overall Ratings
+     Criteria                                 PCR            IED Review        Reason for Disagreement
+                                                                                  and/or Comments
+    Relevance                          Relevant           Relevant
+    Effectiveness in achieving         Effective          Effective
+    outcome and outputs
+    Efficiency in achieving outcome    Efficient          Efficient
+    and outputs
+    Preliminary assessment of          Likely             Likely sustainable
+    sustainability                     sustainable
+    Overall assessment                 Successful         Successful
+9
+    http://lnadbg1.adb.org/oer0012p.nsf/0/7D00250AE1F8FC1D48257E990001358B/$file/6Aug-business-mirror-rev.pdf
+                                                                                                          9
+
+
+     Criteria                               PCR              IED Review        Reason for Disagreement
+                                                                                  and/or Comments
+  Impact                             Significant         Significant
+  Borrower and executing agency      Satisfactory        Satisfactory
+  Performance of ADB                 Satisfactory        Satisfactory
+  Quality of PCR                                         Less than            Refer to para. 35.
+                                                         satisfactory
+ADB = Asian Development Bank, IED = Independent Evaluation Department, PCR = project completion report.
+Source: ADB Independent Evaluation Department.
+
+B.        Lessons
+
+32.     The PCR suggested a number of lessons. Four lessons related to environmental
+safeguards, seven were on social safeguards, and several others related to project management
+practices. In this validation's view, these lessons did not seem to be lessons but were more of
+recommendations. Moreover, the basis for these lessons and/or recommendations was not clear
+as the PCR did not highlight the related issues. One of the PCR lessons also stated that the
+advanced procurement action helped in the timely project execution and should be adopted for
+future projects. Since advanced procurement action is a common feature of ADB-financed
+projects, this does not seem to be a lesson. The PCR also stated that TRANSCO was of the
+view that MFFs were appropriate for managing a large infrastructure projects and helped
+TRANSCO to be in a state of project readiness, and contributed to savings on commitment fees
+and interest cost. This also does not seem to be a lesson.
+
+C.        Recommendations for Follow-Up
+
+33.     The PCR recommended that the project be monitored because the project resulted in
+positive socioeconomic impacts in the project area. The PCR had no other recommendations.
+This validation has no recommendations to offer based on the content of the PCR.
+
+                       V.      OTHER CONSIDERATIONS AND FOLLOW-UP
+
+A.        Monitoring and Evaluation Design, Implementation, and Utilization
+
+34.     A project performance management system was covenanted under the loan agreement
+to be established within 3 months from the date of effectivity. Indicators and targets in the project
+performance management system were to be the ones stipulated in the DMF. The PCR stated
+that the covenant for the project performance management system was complied with but it did
+not discuss the design, implementation, and utilization of the project performance management
+system in the report.
+
+B.        Comments on Project Completion Report Quality
+
+35.     The major shortcoming of the PCR was the lack of background information on the
+methodology and assumptions of the EIRR and FIRR calculations. In addition, it did not make an
+assessment of the financial performance of TRANSCO. There was also no assessment of the
+project performance management system. Likewise, the lessons identified were not supported by
+the text of the PCR, and lessons seemed to be recommendations.On these bases, this validation
+rates the PCR less than satisfactory.
+10
+
+
+C.     Data Sources for Validation
+36.    Data sources included the RRP, PCR, and loan review mission reports.
+
+D.     Recommendation for Independent Evaluation Department Follow-Up
+
+37.     The PCR did not recommend that a project performance evaluation be undertaken.
+However, it recommended that a benefit monitoring and evaluation study be undertaken after all
+benefits and impacts were achieved by all tranches of the MFF after mid-2016 so that
+socioeconomic benefits and the lessons learned could be assessed. This validation suggests
+that a project performance evaluation be undertaken in 2017 when the MFF is completed.
+

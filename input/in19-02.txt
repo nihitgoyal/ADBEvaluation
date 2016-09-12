@@ -1,0 +1,2375 @@
+ASIAN DEVELOPMENT BANK                  PPA: IND 22211
+
+
+
+
+         PROJECT PERFORMANCE AUDIT REPORT
+
+
+                      ON THE
+
+
+              SECOND PORTS PROJECT
+                  (Loan 1016-IND)
+
+
+                         IN
+
+
+                       INDIA
+
+
+
+
+                    December 2001
+                                     CURRENCY EQUIVALENTS
+
+                               Currency Unit ­ Indian Rupee/s (Re/Rs)
+
+             At Appraisal                 At Project Completion      At Operations Evaluation
+           (February 1990)                   (September 1997)            (September 2001)
+
+       Rs1.00 =     $0.0587                     $0.0275                      $0.0208
+       $1.00 =      Rs17.03                     Rs36.41                      Rs48.01
+
+
+
+
+                                           ABBREVIATIONS
+
+                         ADB         ­    Asian Development Bank
+                         DOT-AP      ­    Department of Transport, Roads and Buildings,
+                                              Andhra Pradesh
+                         EIRR        ­    economic internal rate of return
+                         FIRR        ­    financial internal rate of return
+                         JNPT        ­    Jawaharlal Nehru Port Trust
+                         MbPT        ­    Mumbai Port Trust
+                         MIS         ­    management information system
+                         MOST        ­    Ministry of Surface Transport
+                         OEM         ­    Operations Evaluation Mission
+                         PCR         ­    project completion report
+                         PIC         ­    project implementation cell
+                         PPAR        ­    project performance audit report
+                         TA          ­    technical assistance
+                         VTMS        ­    Vessel Traffic Management System
+
+
+
+
+                                                 NOTES
+
+(i)      The fiscal year (FY) of the Government and the executing agencies ends on 31 March.
+         FY before a calendar year denotes the year in which the fiscal year ends.
+
+(ii)     In this report, "$" refers to US dollars.
+
+
+
+
+                            Operations Evaluation Department, PE-584
+                                      CONTENTS
+                                                                      Page
+
+BASIC DATA                                                              4
+EXECUTIVE SUMMARY                                                       6
+MAPS
+
+I.     BACKGROUND                                                        9
+
+       A.    Rationale                                                   9
+       B.    Formulation                                                 9
+       C.    Purpose and Outputs                                         9
+       D.    Cost, Financing, and Executing Arrangements                11
+       E.    Completion and Self Evaluation                             11
+       F.    Operations Evaluation                                      11
+
+II.    PLANNING AND IMPLEMENTATION PERFORMANCE                          12
+       A.   Formulation and Design                                      12
+       B.   Achievement of Outputs                                      13
+       C.   Cost and Scheduling                                         14
+       D.   Procurement and Construction                                14
+       E.   Organization and Management                                 15
+
+III.   ACHIEVEMENT OF PROJECT PURPOSE                                   17
+       A.   Operational Performance                                     17
+       B.   Performance of the Operating Entity                         19
+       C.   Financial and Economic Reevaluation                         20
+       D.   Sustainability                                              22
+
+IV.    ACHIEVEMENT OF OTHER DEVELOPMENT IMPACTS                         23
+       A.   Socioeconomic Impact                                        23
+       B.   Environmental Impacts                                       23
+       C.   Impacts on Institutions and Policy                          24
+
+V.     OVERALL ASSESSMENT                                               25
+       A.   Relevance                                                   25
+       B.   Efficacy                                                    25
+       C.   Efficiency                                                  25
+       D.   Sustainability                                              25
+       E.   Institutional Development and Other Impacts                 26
+       F.   Overall Rating                                              26
+       G.   Assessment of ADB's and Executing Agencies' Performance     26
+
+VI.    ISSUES, LESSONS, AND FOLLOW-UP ACTIONS                           27
+       A.   Key Issues for the Future                                   27
+       B.   Lessons Identified                                          28
+       C.   Follow-Up Actions                                           29
+
+APPENDIXES                                                              30
+                                           BASIC DATA
+                                Second Ports Project (Loan 1016-IND)
+
+PROJECT PREPARATION/INSTITUTION BUILDING
+
+TA No.                 Name                        Type     Person-        Amount           Approval
+                                                            Months          ($)               Date
+1283       Operational and Financial              ADTA        38           600,000        29 March 1990
+           Assistance for Bombay Ports
+1284       Development of Ship Repair             ADTA         32              400,000    29 March 1990
+           Facilities
+
+KEY PROJECT DATA ($ million)
+
+                                                            As per ADB Loan                        Actual
+                                                            Documents
+
+Total Project Cost                                                       181.0                      153.8
+Foreign Exchange Cost                                                    115.5                       97.9
+ADB Loan Amount/Utilization                                              129.0                      109.3
+ADB Loan Amount/Cancellation                                                                         19.7
+
+KEY DATES                                            Expected                             Actual
+
+Fact-Finding                                                July 1988               5-23 October 1988
+Appraisal                                     24 April - 12 May 1989                    2-12 May 1989
+Loan Negotiations                                   24-28 July 1989              15-17 November 1989
+Board Approval                                    5 September 1989                      29 March 1990
+Loan Agreement                                                                         10 August 1990
+Loan Effectiveness                                 8 November 1990                         5 April 1991
+First Disbursement                                                                         1 June 1992
+Project Completion                                   31 March 1995                 30 September 1997
+Loan Closing                                     30 September 1995                     6 October 1997
+Months (effectiveness to completion)                    53                                 78
+
+ECONOMIC AND FINANCIAL                                              Appraisal            PCR       PPAR
+INTERNAL RATES OF RETURN (%)
+Economic Internal Rate of Return
+    Replacement of MbPT's Outer Lock Gate at Indira Dock                47.0             15.9      110.9
+    Modernization of MbPT's Ship Repair Facilities                      22.8             14.0       11.2
+    Replacement of MbPT's Pir Pau Oil Pier                              27.1             15.7       18.3
+    Development of Kakinada Deepwater Port                              25.8             15.3        9.7
+Financial Internal Rate of Return
+    Replacement of MbPT's Outer Lock Gate at Indira Dock                 7.3              6.7       62.7
+    Modernization of MbPT's Ship Repair Facilities                       7.2              4.2        4.4
+    Replacement of MbPT's Pir Pau Oil Pier                              15.2              7.6        9.5
+    Development of Kakinada Deepwater Port                              10.0             20.0        0.8
+
+BORROWER                      India, acting by its President
+EXECUTING AGENCIES            Mumbai Port Trust
+                              Ministry of Surface Transport
+                              Department of Transport, Roads and Buildings of the State of Andhra Pradesh
+
+
+
+ADTA = advisory technical assistance, MbPT = Mumbai Port Trust, TA = technical assistance.
+MISSION DATA                                                 No. of Missions         Person-Days
+
+Fact-Finding                                                           1                   54
+Appraisal                                                              1                   52
+Project Administration
+    Inception                                                          1                  18
+    Review                                                            11                 197
+    Disbursement Follow-up                                             1                   4
+    Special Project Administration                                     1                   5
+    Project Completion                                                 1                  51
+Operations Evaluation1                                                 1                  54
+
+
+
+
+1
+    The Operations Evaluation Mission comprised C.C. Yu (Evaluation Specialist/Mission Leader), A. Ibrahim
+    (Evaluation Specialist), and E. Laing (Consultant). The Mission visited India from 4 to 21 September 2001.
+                                    EXECUTIVE SUMMARY
+
+
+       The Asian Development Bank's (ADB) operational strategy in India in the late 1980s
+focused on rapid industrialization and improvement of infrastructure to support industrial
+development and make more efficient use of productive capacity.
+
+        The main objective of the Project was to improve the efficiency and productivity of the
+ports and shipping sector and to provide additional cargo handling and ship-repairing capacity in
+order to reduce constraints on industrial and energy development. The scope of the Project was
+broad and its physical components were to be located in Mumbai on the west coast and
+Kakinada, a regional economic center on the east coast. The Project was to help modernize the
+port and ship-repair facilities of Mumbai Port Trust (MbPT), develop Kakinada Port, and
+strengthen project implementation and monitoring activities of the then Ministry of Surface
+Transport (MOST). Two advisory technical assistance (TA) grants were provided in conjunction
+with the Project: one for formulating an action plan for MbPT to develop a computer-based
+management information system in order to improve its operational efficiency, and the other to
+prepare for MOST an investment program and a study of the ship-repair subsector's
+organization, institutional framework, and management and operations. The Project was
+consistent with ADB's operational strategy for India at the time of appraisal.
+
+        On 29 March 1990, the Board approved a loan of $129.0 million for the Project. The total
+project cost was estimated at $181.0 million equivalent, including $115.5 million foreign
+exchange cost and $65.5 million equivalent of local currency cost. ADB was to finance the entire
+foreign exchange cost plus $13.5 million equivalent of the local currency cost.
+
+        The Operations Evaluation Mission visited India in September 2001, and confirmed that
+most project components were implemented as originally envisaged with the following
+exceptions. A major component, improvement of MbPT's container-handling facilities (under the
+modernization of MbPT's port facilities), was cancelled. The design of Kakinada Port underwent
+a major change that involved relocating the proposed breakwater and berths. Part C of the
+Project--strengthening the project implementation and monitoring activities of MOST--was not
+implemented. The total project cost amounted to $153.8 million equivalent (15 percent below
+the appraisal estimate). ADB financing amounted to $109.3 million, or 71 percent of the actual
+cost. The balance of $19.7 million of the ADB loan was cancelled. The loan saving was due to
+the cancellation of two project components and efficient construction. The Project was
+completed in September 1997, or 2.5 years behind schedule. The delay was mainly attributable
+to front-end delays in loan effectiveness and procurement, difficult geological conditions and
+strikes at Mumbai Port, and the major design change for Kakinada Port.
+
+        Despite the cancellation of the component for upgrading container-handling facilities, the
+Mumbai portion has achieved most of its objectives by helping improve the efficiency and
+productivity of the port through building, rehabilitating, and improving infrastructure, although
+much remains to be done in terms of management and staffing. First, the replacement of the
+outer lock gate at Indira Dock proved to be highly beneficial. It has contributed to a significant
+increase of the total tonnage of cargoes handled at Indira Dock and the declining vessel waiting
+and turnaround times at the port. Without the replacement, Indira Dock would have become
+permanently tidal, preventing larger ships from entering it during low tide and, thus, incurring
+economic loss. Second, the construction of the new Pir Pau Oil Pier allows MbPT to meet the
+increasing demand for handling liquid cargo, i.e., petroleum products and special chemicals. Its
+occupancy had reached 67 percent by FY2001, and the pier has benefited people by helping to
+stabilize the costs of oil and chemical imports and make the products more widely available. As
+a result of the new Pir Pau Oil Pier, MbPT's handling of specialized chemicals has increased
+dramatically. Third, the Vessel Traffic Management System, developed under one of the
+attached TAs and installed using ADB loan proceeds, serves both MbPT and the nearby
+Jawaharlal Nehru Port Trust by locating and directing all the vessels that enter the ports area.
+The system helps improve the operational efficiency and safety of the two ports. Finally, with
+respect to modernization of ship-repair facilities, the equipment rehabilitated and installed is in
+good working condition. However, the total number of vessels repaired at MbPT has not
+increased as envisaged at appraisal. There is a general dissatisfaction among ship owners with
+MbPT's ship-repair services. Most of the ship owners interviewed continue to send their ships to
+foreign shipyards for repairing, citing reasons such as lower costs and more on-time delivery.
+
+        For Kakinada, the construction of a deepwater port and provision of necessary
+equipment was completed in a satisfactory manner. The major design change related to the
+locations of the breakwater and berths was appropriate as it would allow future expansion.
+However, most of the original rationale for building the deepwater port, i.e., the provision of port
+services required for the development of gas-based industries and power generation, has not
+been fulfilled. The objective of stimulating regional economic growth in Kakinada through the
+availability of the port has not yet been fully achieved. However, the port has achieved a
+substantial level of traffic, which has been growing at 50 percent per annum. The current
+occupancy is 51 percent.
+
+          The Project has been environmentally neutral. In terms of socioeconomic impacts, the
+Project aimed to improve the operational efficiency of the respective ports, which has resulted in
+redundant labor. In Kakinada, in order to mitigate the adverse social impacts from
+unemployment, the Government of Andhra Pradesh has adopted a policy to reserve the
+handling of some bulk cargoes, e.g., fertilizer, for the old harbor, where they are barged to/from
+anchorages by 7,000 to 10,000 barge owners. The Project has generated positive
+socioeconomic impacts in terms of contributing to local economic development and welfare. The
+Mumbai port, for example, has helped ensure uninterrupted power supply in the Mumbai area
+through reliable supply of imported fuel oil for power generation. Despite the attempts, through
+the other attached TA, to encourage reforms to improve operational efficiency, labor policies,
+and organizational and institutional arrangements in the ship-repair subsector, there has been
+little progress in these areas.
+
+        The Project was relevant in terms of conforming to the Government's goals and policy,
+as well as to ADB's operational strategy at the time of appraisal. Although its relevance has
+been reduced somewhat as ADB's current operational strategy places greater emphasis on
+commercialization and privatization of existing port facilities, in general, the Project has been
+relevant. The Mumbai portion has been efficacious as it has achieved most of its objectives. In
+comparison, the Kakinada portion has been less efficacious since most of the original objectives
+for building the deepwater port have not been met yet. Overall, the Project has been less
+efficacious. With a combined economic internal rate of return of 45.4 percent, the Project has
+generated significant economic returns to the country. The combined financial internal rate of
+return (FIRR) is 13.7 percent. The Mumbai portion is generating significant financial returns with
+an FIRR of 28.8 percent. However, with a low FIRR of 0.8 percent, the financial viability of
+Kakinada Port is uncertain, although its traffic is increasing rapidly. The Mumbai portion was
+executed in an efficient manner despite some delays. Because of the major design change, the
+Kakinada portion was delayed by three years. In general, however, the Project has been
+efficient. Both MbPT and the private operator of the Kakinada Port are experienced in managing
+and maintaining the port facilities and equipment and, thus, the Project is likely to be
+sustainable. The Project's impacts on society, environment, institutions and policies have been
+minor. Overall, the Project is rated successful.
+          Several key issues affect the performance of the Project and the sector in general. The
+first is sector-wide and relates to operational efficiency, labor unions, and privatization. Despite
+some recent improvements, MbPT's overall operational efficiency is still much behind equivalent
+ports elsewhere in the world. A major commitment is required on the part of the Government to
+carry out necessary sector reforms to improve the efficiency of ports in India. Second, the port
+tariffs are heavily regulated. The main pricing mechanism, i.e., a "cost plus" formula, does not
+encourage efficiency or competition. It not only deters foreign investments in the sector, but also
+adversely affects the profitability and financial sustainability of port projects. The third issue is
+the need for ADB to continue being involved in port infrastructure. Worldwide experience
+indicates that certain components, such as breakwaters and dredging, are capital intensive, and
+few private companies would invest in such projects even for some of the world's top ports
+including Hong Kong, China; Singapore; and Rotterdam. ADB's investments in such
+infrastructure will help attract additional private sector investments.
+
+        The key lessons derived from the Project include the need for realistic traffic forecasts,
+homogenous project scope and coherent project theme, and adequate quality control during
+project design in case there is no project preparatory TA.
+                                           I.       BACKGROUND
+
+
+A.        Rationale
+
+
+1.      With a vast land mass of 3.3 million square kilometers and a population of 797 million in
+1988, India experienced a period of relatively rapid industrialization with annual growth rates in
+the industrial sector between 7 and 9 percent during the Seventh Five-Year Plan (FY1986-
+FY1990); the growth rates were anticipated to be even higher in the Eighth Five-Year Plan
+period. The rapid industrialization strained India's energy supply and transportation
+infrastructure. In the transport sector, inadequate capacity and substandard infrastructure led to
+excessive transit delays, fuel wastage, and high operating costs. Total traffic handled by the
+major ports, which accounted for 98 percent of foreign trade, grew at an average of 8 percent
+during the 1980s, reaching 146 million tons in 1989, and was forecast to more than double in
+the next two decades. Seaborne transport was facing several constraints, as modernization of
+port and shipping facilities, including ship-repair facilities, lagged behind changes in shipping
+technology and cargo-handling methods. The Government's objective in the ports and shipping
+sector was to modernize and expand existing facilities in line with new technological
+developments such as containerization and mechanized handling of bulk cargo. The Asian
+Development Bank's (ADB) operational strategy in India in the late 1980s focused on rapid
+industrialization and improvement of infrastructure to support industrial development and to
+make more efficient use of productive capacity.
+
+
+B.        Formulation
+
+
+2.      The Project2 was formulated as the second ports project in India to be financed by ADB,
+following the first one approved less than three years earlier.3 During the visit of the Country
+Programming Mission to India in February 1988, the Government requested ADB assistance for
+the modernization and expansion of selected ports in the context of the Government's sector
+investment program under the Seventh Five-Year Plan. In March 1988, a Reconnaissance
+Mission fielded by ADB recommended ADB financing for the modernization of the port and ship-
+repair facilities at Mumbai and the development of deepwater facilities at Kakinada. To help
+prepare the Project, the Mumbai Port Trust (MbPT) and the State Government of Andhra
+Pradesh were requested to update the feasibility studies already available. A Fact-Finding
+Mission visited India in October 1988 and the Appraisal Mission was fielded in May 1989. The
+Board approved a loan of $129.0 million for the Project on 29 March 1990. The loan became
+effective on 5 April 1991.
+
+
+C.        Purpose and Outputs
+
+
+3.     The Project aimed to improve the efficiency and productivity of the ports and shipping
+sector and provide additional port handling and ship-repairing capacity in order to reduce
+constraints on industrial and energy development. The scope of the Project was broad and the
+physical components of the Project were to be located in two different cities, Mumbai on the
+
+
+2
+    Loan 1016-IND: Second Ports Project, for $129 million, approved on 29 March 1990.
+3
+    Loan 842-IND: Ports Development Project, for $130 million, approved on 24 September 1987.
+west coast, and Kakinada, a regional economic center on the east coast (Map 1). The main
+components of the Project as proposed were as follows:
+
+          (i)     Part A: Modernization of MbPT's Port Facilities, which included
+
+                  (a)      improvement of container-handling facilities;
+                  (b)      replacement of Pir Pau Oil Pier;
+                  (c)      replacement of the outer lock gate for Indira Dock and ancillary works;
+                  (d)      replacement of a fire-fighting vessel; and
+                  (e)      provision of a computer-based management information system (MIS).
+
+          (ii)    Part B: Modernization of MbPT's Ship-Repair Facilities, which included
+
+                  (a)      replacement of one caisson gate each of Hughes and Mereweather dry
+                           docks;
+                  (b)      supply, installation, and testing of needed equipment; and
+                  (c)      provision of equipment, facilities, and civil works at various docks and
+                           berths, and repair of existing facilities at these locations.
+
+          (iii)   Part C: Strengthening of the Project Implementation and Monitoring
+                  Activities of the Ministry of Surface Transport, for which a project
+                  implementation cell (PIC) within the Ministry of Surface Transport (MOST)
+                  was to be set up under the direct control of the development advisor.
+
+          (iv)    Part D: Development of the Port of Kakinada, which included
+
+                  (a)      construction of three deepwater berths, extension of the breakwater, and
+                           dredging works; and
+                  (b)      provision of ancillary facilities and services including an access road and
+                           approach bridges, transit shed and administration building, fire fighting
+                           equipment, water and electrical supply, navigational aids, two tugboats,
+                           pilot launch, mobile cranes, and other cargo-handling and
+                           communications equipment.
+
+4.      In addition to the physical components, two advisory technical assistance (TA) grants
+were provided. The first TA4 aimed to formulate an action plan to develop a Vessel Traffic
+Management System (VTMS) and a computer-based MIS to enable MbPT to effectively monitor
+the financial and operational performance of its assets. The second TA5 involved preparation of
+an investment program for the Eighth Five-Year Plan (FY1993-FY1997)6 and a study of India's
+ship-repair subsector's organization, institutional framework, and management and operations,
+with a view to achieving more effective and efficient utilization of available resources and
+encouraging greater participation by the private sector.
+
+
+
+
+4
+    TA 1283-IND: Operational and Financial Assistance for Mumbai Ports, for $600,000, approved on 29 March 1990.
+5
+    TA 1284-IND: Development of Ship Repair Facilities, for $400,000, approved on 29 March 1990.
+6
+    There was a two-year lapse between the Seventh and Eighth Five-Year Plan periods due to change of the
+    Government, during which an interim plan was followed while a new approach to planning was being deliberated.
+D.     Cost, Financing, and Executing Arrangements
+
+5.      Appendix 1 breaks down costs by project component. At appraisal, the project cost was
+estimated at $181.0 million equivalent, including $115.5 million foreign exchange cost and $65.5
+million local cost. There was no cofinancing for the Project; ADB was to finance the entire
+foreign exchange cost plus $13.5 million equivalent local cost.
+
+6.     Three executing agencies were engaged to implement the Project. MOST was to serve
+as the overall coordinating and monitoring agency of the Project's implementation, whereas
+MbPT and the Department of Transport, Roads and Buildings, Andhra Pradesh (DOT-AP), were
+to be responsible for implementing the respective components of the Project. A PIC within
+MOST was to be set up in order to effectively manage the Project (Part C).
+
+
+E.     Completion and Self Evaluation
+
+
+7.       The project completion report (PCR), which was circulated on 11 December 1997,
+reported that there were substantial delays (2.5 years) in implementation. One main project
+component, i.e., improvement of MbPT's container-handling facilities under Part A, was
+cancelled. Part C of the Project (strengthening MOST's project implementation monitoring
+activities, through the PIC establishment) did not materialize. For none of the project
+components did the traffic reach the level forecast as fast as projected by the appraisal report.
+For the Kakinada portion (Part D), there was a major change in scope due to the modification in
+the layout and design of the new deepwater port. Despite these shortcomings, the PCR rated
+the Project as generally successful on the basis that (i) the recalculated economic internal rate
+of return (EIRR) was above 10 percent for all quantifiable components, (ii) the Project as
+implemented represented the least-cost alternative, and (iii) no major part of the Project had
+failed. On the whole, the PCR was thorough in terms of evaluating the physical components of
+the Project, and identified several key lessons to be learned in future port projects. However, the
+PCR made no mention of the adequacy and efficacy of the two advisory TAs.
+
+
+F.     Operations Evaluation
+
+
+8.      This project performance audit report (PPAR) focuses on the Project's effectiveness and
+efficiency in meeting its objectives. To accomplish this, the PPAR assesses various aspects of
+project formulation, design, implementation, and sustainability, as well as its socioeconomic,
+environmental, and institutional impacts. The assessment is based on a review of ADB
+documents, discussion with ADB staff, and findings of the Operations Evaluation Mission
+(OEM), which visited India in September 2001. During the visit, the OEM held discussions with
+the Ministry of Shipping (formerly part of MOST), MbPT, DOT-AP, industry representatives, and
+shipping companies as the ports' customers. Copies of the draft PPAR were sent to the
+Government, MbPT, DOT-AP, and the concerned ADB departments for review; all comments
+received have been considered in finalizing the report.
+                    II.      PLANNING AND IMPLEMENTATION PERFORMANCE
+
+
+A.        Formulation and Design
+
+
+9.      The relatively fast pace of India's industrial expansion and foreign trade during the late
+1980s, averaging about 8 percent per annum, strained the outdated port-handling and ship-
+repairing facilities. Improving the country's small, inefficient, and labor-driven ports was
+considered consistent with ADB's operational strategy in the late 1980s, which had a clear focus
+on improvement of infrastructure in support of industrial development. The subsequent
+economic liberalization commencing in 1991 further reinforced the need to upgrade the
+country's port facilities in order to meet increasing demand from foreign trade.
+
+10.      ADB's country operational strategy also stressed greater private sector participation in
+the sector. At the time of project formulation, the issues of efficiency, productivity, and the role of
+the private sector were key concerns for ADB's management and Board. It was argued that the
+need for the Project itself indicated the inefficiency of the ports, which were relying on outdated
+equipment. Additionally, questions arose as to why India was operating such poor equipment
+even if the financial situation of the port was as good as in Mumbai, which was regarded as
+relatively "cash rich". The private sector was proposed as an alternative either to operate the
+ports as a whole or to undertake specific activities within a port, in the belief that the private
+sector could do so in a much more efficient manner. Underinvestment and outdated equipment
+was not the ports' only problem. Inefficiency in Indian ports resulted as much from overstaffing
+and management problems as from the outdated equipment. There had been several studies
+conducted on the issue, including an ADB TA, which was ongoing at the time of loan approval.7
+Most of the recommendations from these studies had not been implemented by the Government
+at the time of appraisal. The main argument in favor of government investment in ports was that
+the private sector was reluctant to invest a large amount at the front end in expensive port
+infrastructure. Government investment in the infrastructure would act as a catalyst in attracting
+private sector participation in port services.
+
+11.      To address the issues raised regarding efficiency and private sector participation,
+preparation of an action plan was included as a loan covenant. MbPT would submit to ADB a
+plan that would take into account the findings of past and ongoing TAs (e.g., footnote 6), and
+take up the TA recommendations to address the inefficiencies identified. The plan would specify
+a prioritized list of problem areas and appropriate time-bound actions for addressing them. The
+areas included (i) the elaboration of measures that MbPT should adopt to improve the
+operational efficiency of its assets, (ii) the description of parameters or productivity standards
+that would be used to monitor improvements in financial and operational performance, and (iii)
+the specification of the timeframe within which such improvements would be achieved. The two
+attached advisory TAs were also designed to address the efficiency at MbPT and India's ship-
+repairing industry (para. 4). On the other hand, the design of the physical components was done
+by domestic consultants and was based on the Government's feasibility studies. As discussed
+in paras. 13, 14, and 22, several design changes were made during implementation. Although
+India's technical knowhow in the ports sector is among the best of all the developing member
+countries, the participation of international consultants at the design stage could have helped
+preclude the need for later design changes and costly delays. Additional design problems
+identified included overly optimistic traffic forecasts and incoherent project themes (paras. 52
+and 53).
+
+
+
+7
+    TA 1004-IND: Ports and Shipping Sector Study, for $500,000, approved on 8 July 1988.
+B.             Achievement of Outputs
+
+
+12.     Interviews and surveys conducted with the Ministry of Shipping and MbPT, along with
+observations obtained during site visits, confirmed that the following five major components
+from the original scope (para. 3) had been completed under the Mumbai portion: (i) Part A(b):
+construction of the new Pir Pau Oil Pier, (ii) Part A(c): replacement of the outer lock gate in
+Indira Dock and ancillary works, (iii) Part A(d): replacement of one fire-fighting vessel, (iv) Part
+A(e): installation of VTMS, and (v) Part B: modernization of ship-repair facilities (Maps 2 and 3
+show project locations and Appendix 2 contains project photos). Generally, the project facilities
+are well maintained and adequately serve their intended purpose. An exception is the fire-
+fighting vessel, which is in a poor, rusty condition and appeared to be no longer functional.
+According to the MbPT officials interviewed, the reasons included lack of skilled labor to operate
+the vessel and the fact that two larger fire-fighting vessels with tugging capability had been
+procured and are more fully utilized. The OEM believes that availability of two larger and more
+capable vessels was the dominant reason.
+
+13.     The design of the physical components of the Project in Mumbai underwent several
+changes during implementation. First, according to the PCR, the lock gate of Mereweather Dry
+Dock constructed in Mumbai under the Project was not watertight because of a measurement
+error. The measurements from the original gate, which were used in the design of the new gate
+(without actual on-site measurements), were wrong. The problem could only be partly remedied
+during construction. The OEM tried unsuccessfully to verify this with site officials interviewed,
+but observed that the lock gate was in good working condition. Second, one major component--
+modernization of MbPT's container-handling facilities--was cancelled. The OEM determined
+that the cancellation was largely due to the Government's plan to limit MbPT's handling of
+container traffic within 100,000 twenty-foot equivalent units. The rest of the container traffic was
+assumed to have been diverted to the nearby newly built modern container terminal, Jawaharlal
+Nehru Port Trust (JNPT), funded by the World Bank at a cost of $660 million (Map 2).8 With
+hindsight, the OEM believes that the cancellation of the container component was appropriate.
+Given its low operational efficiency, MbPT was unlikely to be able to compete with JNPT for
+container traffic even if the container handling facilities had been upgraded as proposed.
+
+14.     For Kakinada, construction of a deepwater port and provision of necessary equipment
+under Part D was completed in a satisfactory manner, despite a major design change. The
+OEM's site visit confirmed that the equipment procured under the Project was well maintained
+and in excellent working condition. The original design had to be changed significantly, which
+involved relocating the breakwater to an offshore site instead of extending an existing fishing
+jetty, and building the berths closer to the shoreline (Map 4). According to the consulting
+engineering firm appointed by the Government of Andra Pradesh for project design and
+supervision, the design change was proposed by the consultants after the completion of a
+questionnaire by customers of the port in 1990, which indicated a substantial increase in
+expected throughput compared with that forecast in the original design in 1988. The main
+advantage of the revised design is that it allows for future expansion if the need arises by virtue
+of building the berths close to the shore, which ensures access to reclaimed areas for docking
+and storage. The revised design also avoids potential congestion of land traffic on the approach
+road. This is because, under the original design, the only link between the berths and land
+transport would have been a 3.5-kilometer approach road built on top of the breakwater. The
+revised design, however, involved more dredging work. Additional design changes included
+
+8
+    After a slow start, JNPT, together with its private concession holder P&O (Ports), has achieved a high growth rate
+    in container traffic. At the same time, MbPT has seen its container traffic decreasing steadily. The reasons
+    appeared to be multifold: in addition to MbPT's poor handling facilities, which were supposed to be upgraded under
+    the Project, its low efficiency and service quality also contributed to the deteriorating traffic.
+increasing the dredging depth of the turning basin and berthing areas from 10.2 to 10.5 meters,
+and the dredged draft to 11.7 meters at the channel entrance.9 Finally, the planned two
+tugboats became three, and all were equipped with fire-fighting facilities.
+
+15.     The OEM regards the Government's decision to adopt the design change for Kakinada
+Port as appropriate notwithstanding the fact that it resulted in delays in completion (para. 17).
+The potential for adding more berths, which is possible with the current design, may be the key
+to the Port being able to retrieve its investment, even though the need for additional berths may
+not materialize in the short term.
+
+
+C.             Cost and Scheduling
+
+
+16.     As shown in Appendix 1, the actual cost as of 6 October 1997 (actual loan closing date)
+was $153.8 million equivalent (or 85 percent of the estimated cost), consisting of $97.9 million in
+foreign exchange and $55.9 million equivalent in local currency ($11.4 million equivalent
+financed by ADB). The actual total ADB financing (including all the actual foreign exchange cost
+and the portion of local cost actually financed by ADB) amounted to $109.3 million, or 71 percent
+of the total actual cost. The balance of $19.7 million of the ADB loan was cancelled. The loan
+saving was due to two factors: (i) the cancellation of the container-handling component for
+MbPT, which accounted for about $9 million; and (ii) efficient construction, which accounted for
+more than $10 million. For the development of Kakinada Port, the actual cost, including the
+$12 million paid for interest during construction, was $94.9 million, or 3 percent below the
+appraisal estimate of $97.4 million. Although the revised design and the associated delays
+resulted in higher dredging costs and interest during construction, savings realized by
+construction of a much shorter breakwater under the new design were enough to offset this.
+
+17.     Appendix 3 provides information on the project schedule as appraised and as
+implemented.10 The completion of the Project as a whole was delayed by approximately 2.5 years,
+although the delay for some components reached more than three years. After two extensions,
+the loan was closed on 6 October 1997, two years after the scheduled closing date. Project
+implementation was adversely affected by the long period between loan approval in March 1990
+and loan effectiveness in April 1991. The delay was caused by the long time taken to resolve
+certain outstanding issues. Construction for both Mumbai and Kakinada portions of the Project
+also experienced delays, for a variety of reasons. For example, the construction of MbPT's Pir
+Pau Oil Pier was delayed due to excessively hard rock encountered and labor strikes. For the
+replacement of MbPT's fire-fighting vessel, ADB's bidding procedures were quoted as the
+primary reason for the delay. For Kakinada, the main reason was the change in the original
+design.
+
+
+D.             Procurement and Construction
+
+
+18.     The civil works, goods, and equipment financed by ADB were procured in accordance
+with ADB's Guidelines for Procurement. Most major equipment and civil works were procured
+on the basis of international competitive bidding. These items included replacement of Pir Pau
+Oil Pier, Indira Dock's outer gate, the fire-fighting vessel, computer equipment for the
+computerized MIS, equipment and supplies for MbPT's ship-repair facilities, construction and
+dredging, and some major equipment (three tugboats and two mobile cranes) for Kakinada Port.
+
+9
+     According to the site officials interviewed, this draft is still inadequate for some larger ships.
+10
+     For some components, work started before approval of the Project due to retroactive financing sanctioned by ADB.
+Procurement of minor equipment and civil works was on the basis of local competitive bidding,
+and included civil works relating to the construction of MbPT's ship-repair facilities as well as the
+internal roads, port building, and a pilot launch for Kakinada Port. Limited quantities of
+equipment, including 12 forklift trucks and other cargo-handling equipment for Kakinada Port,
+were procured in accordance with international shopping procedures.
+
+19.     Interviews and questionnaire results indicate that the executing agencies are generally
+satisfied with the performance of the suppliers and the contractors, with a few exceptions. For
+example, MbPT reported that the performance of the contractor for the fire-fighting system for
+Pir Pau Oil Pier was unsatisfactory in terms of both delayed completion (by 15 months) and
+reluctance to meet the bid specifications once the order had been secured. For Kakinada, the
+executing agencies was mostly satisfied with the performance of the contractor and supplier.11
+On the whole, despite the delays and minor disagreements between the executing agencies
+and the contractors/suppliers, the OEM regards the quality of procurement and construction as
+satisfactory.
+
+
+E.           Organization and Management
+
+
+20.    MOST, which was recently divided into the Ministry of Road Transport and the Ministry
+of Shipping, was the overall Executing Agency for the Project. Under Part C, a PIC was
+supposed to be established within three months after the loan became effective, but it did not
+materialize.12 Interviews with officials at the Ministry of Shipping indicated that the Government
+was "still learning" at that time. It has since recognized the importance of a project
+implementation body for effective project management and subsequently established one for
+other projects. Surveys conducted with MbPT and DOT-AP indicated that the two executing
+agencies were satisfied with MOST's monitoring and supervision. MbPT and DOT-AP complied
+with the respective loan covenants applicable up to project completion. In particular, MbPT
+submitted to ADB the requisite action plan for improvement of port efficiency (para. 11). The
+compliance of ADB's financial covenants by the executing agencies will be assessed in later
+sections (paras. 31 and 32). Both MbPT and DOT-AP were technically experienced and
+competent in implementing port projects.
+
+21.     The consulting services required for the implementation of various project components
+were engaged and financed directly by the executing agencies concerned. In the case of
+Mumbai Port, the required services included preparation of detailed designs and bidding
+documents, assistance in prequalification of contractors, as well as bidding and the evaluation
+of bids for some major components. Supervision of construction was mostly done by MbPT
+staff, except in the case of replacement of the outer lock gate for Indira Dock and the
+replacement of one caisson gate each of the Hughes and Mereweather dry docks, for which
+domestic consultants were engaged by MbPT to provide detailed design, assistance in the
+bidding process, and construction supervision. ADB reviewed and approved the terms of
+reference for all consulting services and was consulted on the shortlists of consultants. For
+Kakinada Port, DOT-AP recruited domestic consultants for engineering design, bidding, and
+construction supervision.
+
+
+
+
+11
+   However, both the contracted local and international dredging companies indicated that they have yet to receive
+   the full payment from the Government of Andhra Pradesh for the work they have completed. The case is currently
+   going through arbitration.
+12
+   The loan proceeds of $250,000 allocated for the PIC for procuring additional official equipment and supplies were
+   not utilized.
+22.     For all the engineering design and supervision consulting services required, it was felt
+that sufficiently experienced domestic consultants were available; therefore, no international
+consultants participated in the engineering design and supervision work. In hindsight, a project
+preparatory TA would have been beneficial. At the very least, ADB should have hired an
+independent international consultant to review all project designs, which may have avoided the
+design flaws described in paras. 13-14. For the two advisory TAs, ADB recruited consultants
+according to its Guidelines on the Use of Consultants. MbPT indicated that it was highly
+satisfied with the consultants for TA 1283-IND (footnote 3), who worked with MbPT throughout
+the process of installing the MIS; moreover, there was significant knowledge transfer between
+the consultants and MbPT.
+                             III.     ACHIEVEMENT OF PROJECT PURPOSE
+
+
+
+A.            Operational Performance
+
+
+
+         1.       Mumbai Port
+
+
+23.     The primary objective of the Project with respect to MbPT was to improve its operational
+efficiency. Appendix 4 provides two important indicators for port efficiency: Figures A4.1 and
+A4.2 indicate that both average vessel waiting and turnaround times have fluctuated but have
+been generally decreasing since FY1997 for all cargo types. However, the improvements
+cannot be attributed solely to the Project; other factors, particularly changing traffic, also affect
+the waiting and turnaround times.13 The following paragraphs provide an assessment of each
+individual component's contribution to MbPT's improvement in efficiency.
+
+24.      The replacement of the outer lock gate at Indira Dock proved to be justified and
+successful. Indira Dock is the largest dock in the port of Mumbai. It contains about 21 berths
+within the locked area and 2 berths outside. The whole dock currently handles about 12 million
+tons of cargo per year. The lock gates (inner and outer) are used to maintain a water depth of
+9.5 meters inside the lock. Without the locks, the water depth would be 6.5 meters at low water.
+This is far below the depth necessary to accommodate most international cargo ships. The old
+outer lock gate, which was built in 1922, was unreliable and required constant repairs.
+According to the chief engineer at MbPT, it was no longer reparable. Without the replacement,
+Indira Dock would have become permanently tidal, preventing larger ships from entering the
+dock during low tide.14 The new lock gate is more reliable and has certainly contributed to the
+improved vessel waiting and turnaround times. Since the lock gate's completion at the end of
+1993, the total tonnage of general cargoes handled at Indira Dock increased by 44 percent from
+8.8 million tons in FY1993 to 12.7 million tons in FY1997, and has remained fairly constant at 11
+to 12 million tons since then. Although not all the increase is attributable to the replaced lock
+gate, it has undoubtedly contributed to the improvement.
+
+25.      The construction of the new Pir Pau Oil Pier was also one of the most needed
+components. Its occupancy reached 67 percent by FY2001. The old Pir Pau Oil Pier, which was
+built in 1922, could no longer meet the surging demand from specialized chemical plants, two oil
+refineries, and a power plant near the oil pier for handling liquid cargo, including petroleum
+products and lubricants. The new oil pier has attracted various industrial users, both private and
+public, to build their own pipelines on the pier to transport petroleum products and lubricants
+and specialized chemicals.15 MbPT obtains its revenue from users' annual dues plus a
+
+13
+   Decreasing traffic since FY1997 may be the most important factor for the declining vessel waiting and turnaround
+   times. Total traffic at MbPT increased from 26.8 million tons in FY1992 to 33.7 million tons in FY1997, and then
+   decreased to 27.1 million tons in FY2001. This roughly corresponds to the pattern of average waiting and
+   turnaround times exhibited by Appendix 4. In particular, the improvement for containers cannot be attributed to the
+   Project because the container component was cancelled. The declining waiting and turnaround times were most
+   likely due to the loss of traffic to JNPT.
+14
+   Such adverse impact is best illustrated by a recent incident that left the lock gates out of service for six weeks. As a
+   result, the draft of 9.5 meters at the dock could not be maintained. Many ships had to carry less cargo (in order to
+   reduce the draft to that required to enter the dock), or offload part of the cargo at outer docks. This, however, would
+   not be possible for larger volumes of cargo since there are only two berths outside the lock.
+15
+   Pir Pau Oil Pier provides 20 pipelines slots of 300 millimeter diameter equivalent. According to MbPT, there have
+   been many requests for permission for laying pipelines from users, but not all of them could be accommodated.
+surcharge based on the actual tonnage of liquid cargo transported. According to a shipping
+company executive interviewed, the new Pir Pau Oil Pier "benefits average people on the street"
+by stabilizing the costs of oil and chemical imports and making the products more widely
+available. After the construction of the Pir Pau Oil Pier in early 1996, the total tonnage of
+specialized chemicals handled by MbPT increased from 0.5 million tons in FY1996 to
+approximately 2.5 million tons in FY2000, even though the total liquid cargoes remained
+constant at 49 million tons during the same period. Most, but not all, of the chemicals were
+handled by the new Pir Pau Oil Pier.
+
+26.     Under the Project, an action plan was formulated for MbPT to develop a computer-based
+MIS to enable it to effectively monitor the financial and operational performance of its assets
+(para. 4). Five subsystems were recommended, including (i) Executive Information System,
+(ii) VTMS, (iii) Cargo Management and Information System, (iv) Container Traffic Control
+System, and (v) Accounting System. ADB financed the installation of VTMS under Part A. The
+OEM confirmed that the VTMS, which consists of three radar detectors, telecommunication
+equipment, and computers, is well maintained and serves both MbPT and the nearby JNPT by
+locating and directing all the vessels that enter the ports area. According to site officials
+interviewed, compared to the previous manual-driven procedures for directing ships, VTMS
+improves both the efficiency and safety of port operations. Installation of the other subsystems
+of the MIS was to be financed by MbPT. According to MbPT officials interviewed, they were
+installed but not integrated.16
+
+27.     With respect to the modernization of ship-repair facilities, the old caisson gates at the
+Mereweather Dry Dock and Hughes Dry Dock were replaced. In addition, a 5-ton electric
+crane and other ancillary equipment, including electrical substations, illumination equipment,
+and air compressors, were installed. The OEM confirmed that the equipment is in good working
+condition. At appraisal, it was envisaged that this project component would reduce service times
+by over 50 percent and would attract over 70 additional vessels per annum. However, the target
+has not been achieved as the actual total number of vessels serviced currently is about 70.
+Interviews with various ship owners using the ship-repairing facilities showed a general
+dissatisfaction with MbPT's ship-repair services.17 Most of the ship owners interviewed continue
+to send their ships to foreign shipyards for repairing, citing reasons such as foreign shipyards'
+lower costs, on-time delivery, and the fact that the two dry docks at MbPT are always full.18
+
+28.      MbPT is well versed with operation and maintenance; as a result, most equipment and
+facilities procured under the Project are in good working condition. An exception was noted with
+the fire-fighting vessel procured by MbPT under the Project, which was in a rusty condition and
+appeared to be no longer functional (para. 12).
+
+
+        2.       Kakinada Port
+
+
+29.     In an effort by DOT-AP to improve operational efficiency and raise additional investment,
+the operation of the Kakinada Port was privatized through a concession in March of 1999.19
+Information gathered from DOT-AP and the private operator of the port facilities revealed that
+the berths constructed were needed and are being used. The current occupancy is 51 percent
+and is increasing at the rate of 50 percent per annum.20 The port is already handling 1.8 million
+
+16
+   The OEM could not confirm this independently.
+17
+   Such services are often provided by private contractors using MbPT's facilities.
+18
+   This reflects the fact that the dry docks receive a large number of government contracts for repairing navy ships
+   and that a relatively long time is required to service a ship due to low efficiency.
+19
+   The privatization was the Government's own initiative, not a loan covenant.
+20
+   The OEM estimates that the port will reach its full capacity by FY2004.
+tons of cargo, mostly bulk liquid. One new product, edible oil, is handled in large volumes.
+However, the original aims of the Project as stated in the appraisal report have not been
+achieved. Gas-based industries have not been attracted to Kakinada as envisaged. In fact, the
+gas reserves have remained largely unexploited after 10 years. It was also envisaged at
+appraisal that fertilizer plants, iron and steel plants, and petroleum depots would be developed
+in the area. However, many of the industries have moved to neighboring Visakhapatnam
+instead, where the water is much deeper. The petroleum tanks have been built, but are not
+being used, as the power plants for which they were designed have not materialized yet and are
+likely to use gas instead of petroleum products once they are constructed. Despite the
+discrepancy between the original aims of building the deepwater port and the port's current
+achievement, the long-term goal of making Kakinada a regional growth center through the
+availability of the port is very much achievable as the general macroeconomic and policy
+environment improves.
+
+30.      The OEM observed that all equipment at Kakinada Port was well maintained. In contrast
+to MbPT's fire-fighting vessel, the fire-fighting facility is in an excellent condition and, according
+to site officials, the staff conduct drills on a regular basis.
+
+
+B.       Performance of the Operating Entity
+
+
+
+         1.       Mumbai Port Trust
+
+
+31.       Appendix 5 provides some key financial performance indicators for MbPT. Despite
+some information gaps,21 it is possible to assess MbPT's overall financial performance using
+available information. Table A5.1 indicates deteriorating operating returns. The operating ratio
+(operating expenses as a percentage of operating revenue) increased from 57.6 percent in
+FY1994 to 79.4 percent in FY2000, although it is still below the ADB-covenanted level of
+80 percent.22 The returns on net fixed asset also declined, from 76.4 percent in FY1994 to
+16.6 percent in FY2000. The decrease is attributable to two factors. First, the net income
+decreased steadily over the period, due to declining operating revenue caused mostly by
+falling cargo revenue (e.g., container traffic lost to JNPT), but also rapidly increasing operating
+expenses, e.g., staff remuneration. Second, as shown in Table A5.3, MbPT's net fixed assets
+in operation increased almost threefold over the six-year period through accelerated
+investments. Table A5.2 indicates that MbPT is highly liquid, with a cash balance of Rs3.85 billion
+at the end of FY2000. The self-financing ratio in FY1994 and FY1995 was above 150 percent.23
+Finally, Table A5.3 indicates that the current ratio (current assets as a percentage of current
+liabilities) was close to 300 percent. Overall, MbPT is in a healthy position in terms of cash
+flow. However, its operating returns have been deteriorating due to unchecked operating
+expenses and slow traffic (revenue) increases. Furthermore, MbPT appears to increasingly
+rely on nonoperating revenue, which was nearly the same as operating revenue in FY2000
+(Table A5.1). Although the nonoperating revenue--including railway earnings, estate rental,
+and finance income--contributes to the seemingly healthy cash flow, it casts some doubt on
+MbPT's long-term sustainability in port services.
+
+
+21
+   The OEM tried unsuccessfully to obtain additional information from MbPT.
+22
+   Compliance with ADB's other financial loan covenant, internal cash generation of not less than 1.2 times the debt-
+   service requirements, cannot be assessed due to lack of information.
+23
+   It was argued during project formulation that self-financing ratio was not an appropriate indicator for a relatively
+   cash-rich enterprise like MbPT, and the return on fixed assets would be more appropriate. It is the OEM's view that
+   the two indicators capture different aspects of the financial performance and should be used as such.
+        2.       Kakinada Port
+
+
+32.     Under the concession agreement between the Government of Andhra Pradesh and
+the concessionaire, the Government receives from the private operator a minimum
+guaranteed amount each year plus an additional share of profit based on a pre-agreed
+formula while DOT-AP continues to be responsible for paying back ADB loans and other
+debts.24 The private operating company is in its third year of operation. In FY2000, it made an
+operating profit of Rs42.8 million. However, after a payment of the minimum guaranteed
+amount of Rs110 million to the Government, it incurred a net loss of Rs67.2 million. The main
+reason for the poor financial performance is the port's low occupancy, currently at 51 percent,
+and the fact that most cargoes handled at the port are liquid, for which handling fees are low.
+The financial performance of the private operator is expected to improve in coming years, as
+the traffic has been growing at 50 percent per annum (para. 29) and there is likely to be more
+dry cargoes coming due to the operator's targeted marketing efforts. Detailed financial
+statements for the private operator were unavailable.
+
+
+C.           Financial and Economic Reevaluation
+
+
+33.     Appendix 6 provides the recalculated financial internal rates of return (FIRRs) and
+EIRRs for four quantifiable components of the Project using updated information, i.e., the outer
+lock of Indira Dock, Pir Pau Oil Pier, ship-repair facilities, and Kakinada Port. For both the
+financial and economic reevaluation, all costs and benefits are denominated in US dollars at
+2001 constant prices.25 As summarized in the following table, the recalculated FIRRs are 0.8
+percent for Kakinada, 4.4 percent for ship repair, 9.5 percent for Pir Pau Oil Pier, and 62.7
+percent for Indira Dock. Despite the low return for ship repair, the FIRR for the three Mumbai
+components combined is 28.8 percent, much higher than the weighted average cost of capital
+for the Mumbai portion, i.e., 4.6 percent in real terms. In comparison, the FIRR of 0.8 percent for
+Kakinada is lower than the weighted average cost of capital at 4.4 percent in real terms,
+indicating a potentially low financial sustainability and efficiency of Kakinada Port (paras. 35 and
+45). As discussed in Appendix 6, many project benefits identified in the appraisal and project
+completion reports either did not materialize or were incorrectly estimated. As a result, the types
+of financial benefit or revenue used in the PPAR in many cases are considerably different from
+those used in the appraisal and project completion reports. For example, for replacement of the
+outer lock gate of Indira Dock, the PCR assumed that the old lock gate could be maintained
+indefinitely. Therefore, the main financial benefit of replacing the old lock gate with a new one
+was the avoidance of operation and maintenance cost associated with the old gate. However,
+MbPT confirmed that the old gate was in too dilapidated a condition to be continuously repaired,
+and would not have been reliable enough even after a major overhaul. Furthermore, the cost
+avoidance was greatly overestimated by both the appraisal and project completion reports since
+the operational cost with the new lock gate is approximately the same as the old one, and the
+maintenance cost saved with the new lock gate is only a fraction of the total cost. In the PPAR,
+
+24
+   The financial loan covenants for Kakinada Port Trust were the same as those for MbPT, i.e., operating ratio lower
+   than 80 percent after FY1995, and internal cash generation not less than 1.2 times the debt-service requirements.
+   Compliance is not assessed as Kakinada Port Trust no longer exists as a commercial entity after the privatization
+   of its operations.
+25
+   The US dollar is used because 71 percent of the Project was financed in foreign exchange through the ADB loan,
+   and there is often a considerable amount of foreign exchange transactions and price quoting in the port sector.
+the financial benefit of replacing the lock gate was estimated as the portion of the port revenues
+retained (net of expenditure), which would have been lost if the port became tidal.
+
+                       Summary of Financial and Economic Reevaluation (%)
+
+                   Indira          Pir Pau                             Mumbai                             All
+ Item               Dock           Oil Pier       Ship Repair         Combined        Kakinada         Combined
+
+ FIRR               62.7         9.5               4.4                    28.8             0.8            13.7
+ EIRR              110.9               18.3           11.2                65.2             9.7            45.4
+
+EIRR = economic internal rate of return, FIRR = financial internal rate of return.
+
+34.     While the FIRRs indicate costs and returns to the executing agencies, the EIRRs
+measure the costs and benefits from the country's point of view. The types of benefits brought
+to the society by Indira Dock, Pir Pau Oil Pier, and Kakinada are mostly from cost savings
+compared to using other more expensive transport modes (Appendix 6). In other words, if the
+project components were not built, barge or road transport would have to be used to transport
+the same types and amounts of cargoes. An exception is Mumbai ship-repair facilities, for which
+the alternative is to send ships to foreign shipyards for repair. In this case, any amount of money
+spent in foreign shipyards is a net loss to the Indian economy. Therefore, the economic benefit
+of modernization of the ship-repair facilities is the total avoidance of the costs of using foreign
+ship yards,26 which was estimated at 10 percent less than the relatively expensive MbPT dry
+docks based on interviews with ship owners. In estimating the economic costs, duties and taxes
+are deducted and nontradable local currency costs are converted to border prices using a
+0.9 standard conversion factor. In addition, for Mumbai ship repair, a conversion factor of 0.6 is
+used to derive the shadow price of labor. Shadow pricing the labor cost for ship repair is
+deemed appropriate because, compared to the other three components (activities), ship
+repairing is relatively labor intensive. The recalculated EIRRs range from 9.7 percent for
+Kakinada to 110.9 percent for Indira Dock, indicating varying but generally high economic
+returns to the country. Despite the errors identified in both appraisal and PCR estimates of
+FIRRs and EIRRs27 (Appendix 6), the recalculated FIRRs and EIRRs, except those for Indira
+Dock for which different estimation methodologies were used, are all lower than the appraisal
+estimates, partly reflecting the less-than-expected traffic and other project benefits. Finally, the
+above table shows the combined FIRR and EIRR estimates for all four components, i.e.,
+13.7 percent and 45.4 percent, respectively. In particular, the high aggregated EIRR indicates
+major economic returns of the Project to the country.
+
+
+
+
+26
+   The main economic benefit, as stated in the appraisal report, was to be the avoided "steaming cost" associated
+   with extra fuels and time consumption when sending ships to foreign shipyards, typically in the People's Republic
+   of China, Singapore, and the Middle East. However, the OEM learned that most ship owners arrange their ships for
+   repairing when the ships are in those regions, thus incurring little additional cost. The savings from lower prices
+   and timely delivery of foreign shipyards are often more than enough to offset any additional steaming costs.
+27
+   For example, in estimating the EIRR, the capital cost for Indira Dock was included three times in the appraisal
+   report for unknown reasons. In PCR, the Indira Dock was assumed to have a residual value of 10 times the original
+   cost after 20 years operation. There are other similar unexplainable anomalies in the appraisal and project
+   completion calculations, which in combination have cast great doubt on the overall validity of the estimates.
+D.     Sustainability
+
+35.    The Project's financial sustainability depends on continued demand for cargo-handling
+services in Mumbai and Kakinada. In Mumbai, MbPT is facing increasing competition from
+JNPT. However, since the container-handling component of the Project was cancelled, the
+competition does not affect the sustainability of the Project as implemented. Moreover, MbPT
+has a large hinterland and is well positioned and equipped to handle general cargo. For
+Kakinada, with the low FIRR at 0.8 percent, questions arise as to whether there will be enough
+funds available for continued operation, maintenance, and growth requirements. The OEM
+observed that the private operator invested in operation and maintenance, and the port's traffic
+was growing rapidly. The Government of Andhra Pradesh is determined to make Kakinada a
+regional economic center and a deepwater port is essential in its long-term plan, known as
+Vision 2020.
+
+36.      The Project's sustainability also depends on the capability of MbPT and the private
+operator of Kakinada Port to operate and maintain the facilities. Site visits to both ports
+confirmed that the facilities are generally well maintained. An exception was noted with the rusty
+fire-fighting vessel (para. 12). In sum, the Project is likely to be sustainable.
+                      IV.      ACHIEVEMENT OF OTHER DEVELOPMENT IMPACTS
+
+
+A.         Socioeconomic Impact
+
+
+37.      Socioeconomic impacts, or lack thereof, of the Project may be assessed in light of local
+unemployment vis-à-vis redundant work force. Both the Mumbai and Kakinada portions of the
+Project aimed to improve the operational efficiency of the respective ports. Improvements in
+efficiency, however, often result in redundant labor. For Kakinada Port, in order to mitigate the
+adverse social impacts from potentially increasing unemployment, DOT-AP has adopted an
+explicit policy to reserve the handling of some bulk cargoes, e.g., fertilizer, for the old harbor,
+where they are barged to/from anchorages. Although these outdated operations impede
+improvement of Kakinada Port's overall operational efficiency and reduce the financial viability
+of the new deepwater port built under the Project, they employ about 7,000 to 10,000 people.
+Excess labor is also clearly evident at MbPT. Under the Project, MbPT has been covenanted to
+take measures to gradually improve port efficiency (para. 11). It reduced its total number of
+employees from 31,000 in 1989 to 24,000 in 2000 (still much higher than equivalent ports
+elsewhere in the world), mostly through early retirement schemes. In both cases, the Project
+helped reduce the need for labor, but social considerations prompted the Government to adopt
+a protective policy, which may be suboptimal from a long-term point of view but is deemed
+necessary in the short term.
+
+38.    The Project has generated some positive socioeconomic impacts, as well. The Kakinada
+Port was built to stimulate economic development that would benefit the entire region, even
+though this objective has not been fully realized based on interviews with local industrial
+representatives and on the OEM's own observations (para. 29). The Government of Andhra
+Pradesh is renewing efforts through its long-term plan (para. 35). The Mumbai Port has also
+benefited "average people on the street" by stabilizing the costs of imports, and making the
+imported products more widely available, and by ensuring uninterrupted power in the Mumbai
+area through the reliable supply of imported fuel oil for power generation.28
+
+B.         Environmental Impacts
+
+
+39.     The Project has been environmentally neutral in that the operations of the facilities built
+under it did not involve significant environmental impacts. During implementation, minor impacts
+on the local marine environment may have been caused, such as those associated with
+dredging. Compared to the old Pir Pau Oil Pier, the liquid handling facilities at the new Pir Pau
+Oil Pier are much safer to operate which minimize the chances for potential oil and chemical
+spills--so far no such incidents have been reported. The MbPT officials interviewed, however,
+reported that the Pir Pau area is heavily polluted, mostly caused by the power plant, refineries,
+and chemical plants in the surrounding area, not directly by Pir Pau Oil Pier itself.
+
+
+
+
+28
+     Several interviewees pointed out that Mumbai served by the power plant near Pir Pau Oil Pier, which depends on
+     the new pier for its supply of low sulfur high stock fuel oil, enjoys reliable power supply in contrast to the frequent
+     outages in the rest of the country.
+C.         Impacts on Institutions and Policy
+
+40.     The Project aimed to achieve positive impacts on institutional development and policy
+through advisory TAs, loan covenants, and a project component targeting the implementation
+capacity of MOST. Under TA 1284-IND (footnote 4), the consultants developed an investment
+program and a strategy for institutional and organizational reforms in the ship-repair subsector
+with a particular view to achieving more effective and efficient use of available resources and
+encouraging greater private sector participation. The Ministry of Shipping officials interviewed
+claimed no knowledge of the TA. However, according to the consultants who carried out the TA,
+the final report was well received by the then MOST, which actively participated in formulating
+the investment program and strategy. Two tripartite meetings were held. The Government
+required the rewriting of part of the final report to reflect new legislation and investment
+proposals made by the Government. Nevertheless, implementation of the TA recommendations
+and the investment program was slow and unsuccessful.29 In general, the ship-repair sector in
+India remains uncompetitive compared with that of other countries in the region. In 1991, the
+total ship-repair turnover was about $25 million equivalent, and another $50 million was spent
+on repairing Indian-flagged ships in foreign shipyards. According to the officials interviewed, the
+current amount spent in foreign shipyards is likely much higher as even more Indian ships
+choose to go abroad for lower costs and quicker delivery.
+
+41.     The Project aimed to improve MOST's project implementation and monitoring capacities
+by allocating loan proceeds for establishing a PIC, which had not materialized by the time of
+project completion but was established subsequently for other projects (para. 20). For MbPT,
+TA 1283-IND (footnote 3) provided assistance in formulating an action plan for implementing a
+computerized MIS to improve its operational and financial efficiency. The MIS, particularly
+VTMS, has been installed and has achieved its design purpose (para. 26). Finally, in
+compliance with a loan covenant, MbPT submitted a draft action plan to ADB outlining key
+actions to be taken to improve port efficiency (para. 11). The draft plan could not be located at
+either ADB or MbPT. As discussed in para. 37, the operational efficiency of MbPT, measured
+by productivity per employee, has improved, but still remains low compared with that of similar
+ports elsewhere in the world. Policymaking regarding staff levels remains with the Government
+rather than with any individual port trusts.
+
+
+
+
+29
+     For example, the TA recommended privatization of several major shipyards and the addition of more ship-repair
+     capacity. Most recommendations were not followed. For two shipyards, the privatization took place but later on
+     proved unsuccessful for reasons such as the slow increase of the Indian fleet and financial disputes between the
+     concessionaire and the Government.
+                               V.     OVERALL ASSESSMENT
+
+A.     Relevance
+
+
+42.     The Project was relevant in terms of its conformity to the Government's goals and policy,
+as well as to ADB's country operational strategy at the time of appraisal, which focused on rapid
+industrialization and improvement of infrastructure in support of industrial development and a
+more efficient use of productive capacity. The current ADB operational strategy for India's port
+sector places greater emphasis on commercialization and privatization of existing port facilities
+and on supporting reforms to enhance private sector involvement in rehabilitating, modernizing,
+and upgrading such facilities to improve their productivity and utilization, as well as in
+developing new ports. This has somewhat reduced the relevance of the Project in today's policy
+context. However, overall the Project has been relevant.
+
+
+B.     Efficacy
+
+
+43.     The Mumbai portion has achieved most of its objectives by improving the efficiency and
+productivity of the port through building, rehabilitating, and improving infrastructure, although
+much remains to be done in terms of management and staffing. In general, the Mumbai portion
+has been efficacious. The Kakinada Port has been less efficacious as most of the original
+objectives for building the deepwater port were not met and the goal of stimulating regional
+economic growth in Kakinada through the availability of the port has not yet been fully achieved.
+Although the port's occupancy has reached 51 percent and is growing rapidly, overall, the
+Project is judged to have been less efficacious.
+
+
+C.     Efficiency
+
+
+44.     With a combined EIRR for all four components of 45.4 percent, the Project has
+generated significant economic returns to the country. The combined FIRR is 13.7 percent. The
+Mumbai portion is generating significant financial returns with an FIRR of 28.8 percent.
+However, with an FIRR of 0.8 percent below its weighted average cost of capital of 4.4 percent,
+the financial viability of Kakinada Port is uncertain, although the port's traffic is increasing
+rapidly. The Mumbai portion was executed in an efficient manner with no major cost overrun,
+despite some delays and cancellation of a major component. The Kakinada portion underwent a
+major design change and was delayed by three years. In general, however, the Project has
+been efficient.
+
+
+D.     Sustainability
+
+
+45.      There is likely to be continued demand for cargo-handling services by MbPT by virtue of
+its superb location. MbPT is financially strong and has adequate operation and maintenance
+capability. Although the current cash flow situation for Kakinada Port is not as strong as for
+MbPT, the private operator is committed to and has a proven record in operation and
+maintenance. The long-term financial performance of the port is expected to improve as traffic
+increases. The Government of Andhra Pradesh's long-term plan to turn Kakinada into a regional
+economic center should also improve the prospect for Kakinada Port. Overall, the Project is
+likely to be sustainable.
+E.     Institutional Development and Other Impacts
+
+
+46.      The PIC to be established within MOST to supervise the implementation of the Project
+did not materialize, but such a cell was subsequently established for other projects. As
+covenanted, MbPT submitted a draft action plan to ADB outlining key actions to be taken to
+improve port efficiency, but the plan could not be located at ADB or MbPT. However, it is
+evident that although some progress has been made in operational efficiency improvement,
+much remains to be done. The advisory TA provided for developing a computerized MIS
+achieved its purpose of improving MbPT's operational and financial efficiency. In contrast, the
+advisory TA for the development of India's ship-repair capacities was less successful as the
+implementation of its recommendations proved to be slow and inconsequential. The country's
+ship-repair subsector remains uncompetitive. The Project is environmentally neutral and its
+socioeconomic impacts have been moderate. In sum, the Project has had little impact on
+institutions, the environment, or the society.
+
+F.     Overall Rating
+
+
+47.    In view of the varied but generally positive achievements of different components of the
+Project as assessed against the five rating criteria, the Project is judged overall to be
+successful.
+
+
+G.     Assessment of ADB and Executing Agencies' Performance
+
+
+48.     A total of 11 loan review and 3 other missions were fielded by ADB during project
+implementation; the executing agencies are generally satisfied with the support provided by
+ADB. In particular, MbPT is highly appreciative of ADB's assistance in resolving various issues
+pertaining to ADB guidelines and procedures, and reviewing and approving design changes. In
+hindsight, however, ADB's performance could have been better. Formulation of the Project was
+based on forecasts of traffic that proved to be overoptimistic (para. 52). The Project appeared to
+have been formulated by putting together a series of unrelated subprojects without a central
+theme (para. 53). ADB could have avoided some of the problems by hiring an independent
+instructional consultant to review the design before proceeding with implementation (para. 22).
+Most policy reforms and institutional development components of the Project were not
+implemented, for which ADB and the Government jointly bear responsibility. The performance of
+the executing agencies was generally satisfactory in terms of implementing the Project's
+physical components.
+                   VI.     ISSUES, LESSONS, AND FOLLOW-UP ACTIONS
+
+
+A.     Key Issues for the Future
+
+
+
+       1.      Operational Efficiency, Staff Level, and Private Sector Participation
+
+
+49.     The issue of operational efficiency and staff levels is sector-wide, beyond any single port
+trust or company, and is more political than economic. For MbPT, despite the significant
+reduction in the work force, the total number of employees is still too high relative to its total
+throughput, resulting in high operating expenses. To a certain extent, this was to be expected
+as India is a labor-surplus economy, and labor-intensive production techniques should be
+encouraged. Progress in privatization has been limited. Tenders have been issued to privatize
+MbPT's container-handling facilities, but so far there has been very little interest generated.
+Ship-repairing facilities, though leased out to private contractors, have had low profitability and
+service quality. One of the main reasons for MbPT's relatively slow pace in privatization and
+efficiency improvement is its large cash balance (para. 31), which obviates a potential key
+incentive to privatize, i.e., the need to raise capital for investment. In contrast, the operation of
+the Kakinada Port was successfully privatized in March 1998 by DOT-AP in order to improve
+efficiency and attract additional investment from the private operator. Although the additional
+investment has not yet materialized, the port is well maintained and managed. There is a strong
+need for political commitment on the part of the Government to carry out necessary sector
+reforms to improve its efficiency.
+           2.       Port Tariff Structure and Financial Sustainability of Ports
+
+
+50.      The tariffs for 13 major ports in India, including Mumbai Port, are regulated by the Tariff
+Authority for Major Ports, which was set up in 1997 through an amendment of the Major Port
+Trusts Act of 1963. Tariffs for "other ports", including Kakinada Port, although not regulated,
+often need to be aligned with those of the major ports in order to be competitive. The tariff
+authority determines the prices using a "cost plus" formula, which allows the ports to recover
+their investment plus a "reasonable" return. The disadvantage of such a pricing mechanism is
+that it does not encourage competition and efficiency since it guarantees a return on capital
+investment regardless of its efficiency.30 The tariff authority official interviewed indicated that
+they will gradually move from the current cost-based pricing model to a performance-based
+model. However, it is imperative for the Government to deregulate tariffs if India intends to move
+to increasingly market-based and commercialized port operation. Overly regulated prices not
+only deter foreign investment in the sector, but also adversely affect the financial sustainability
+of port trusts and companies. Kakinada Port's financial sustainability is affected partly by its low
+tariffs. For MbPT, although the overall financial performance is sound, the share of port
+operations in its total revenue has been steadily declining (para. 31). Deregulated port tariffs are
+essential to encourage competition and improve ports' profitability.
+
+
+           3.       ADB Involvement in the Ports Sector
+
+
+51.     The need for ADB to be involved in port infrastructure has been questioned, in India and
+elsewhere. It is argued that the private sector can take over responsibility for construction. In
+practice, the private sector has not invested much in India so far. Costs of port construction in
+India are high by international standards, while tariffs are low. There is therefore a problem with
+the financial sustainability of new ports. The main deterrents are the high costs of dredging,
+breakwaters, and other basic infrastructure. In fact, few of the world's top ports get private
+investment in these areas. Most of the world's top ports (e.g., Hong Kong, China; Singapore;
+Rotterdam; Hamburg; and Antwerp) still use public rather than private funds for dredging. Many
+also build berths with public funds, although a rising proportion is being built by shipping lines or
+international terminal operators. In light of these considerations, ADB's continued investments in
+ports infrastructure, in addition to continued involvement in sector reforms (para. 55), are
+warranted, and would help attract private investment.
+
+
+B.         Lessons Identified
+
+
+
+           1.       Overoptimistic Traffic Forecasting
+
+
+52.     The traffic forecasts at appraisal proved overly optimistic. For Mumbai, large increases in
+petroleum traffic were predicted, while in practice such traffic has fallen; and the Kakinada
+forecasts were also too high, mainly because the assumed development of natural gas-based
+industries never materialized. Economic forecasting is admittedly very difficult, and it is hard to
+30
+     In fact, a case recently reported in the local press shows that the current tariff structure may even encourage
+     inefficiency. According to the press article, published on 13 September 2001, Kolkata Port Trust refused to adopt a
+     tariff authority ruling that required the port not to cut a vessel-related charge set in 1996.
+pinpoint specific lessons. One central point, however, is that Indian project plans are often
+unreliable. Typically, several locations compete for one potential investment. Many projects are
+cancelled; most of those that eventually go ahead are delayed by bureaucracy; and in the end
+they go to only one of the competing locations. The tendency of overoptimism in traffic
+forecasting should be factored in when formulating future projects in India.
+
+
+       2.      Need for Coherent Project Themes
+
+
+53.    The Project consisted of a mix of unrelated subprojects and did not have a homogenous
+scope or a coherent theme. The Project was put together at a time when ADB was just about to
+complete a detailed port sector study (footnote 6). The study correctly forecast that traffic
+generally was rising very fast and identified the need for new capacity in detail at all major and
+minor ports. There was also a general acceptance of the need for radical reform in the Indian
+ports sector at that time. Efficiency in India's ports, measured in total throughput handled per
+employee, was well below international standards for reasons that were familiar elsewhere in
+the world: the ports were overstaffed, controlled by State monopolies, and in need of
+competition and private operators. This knowledge should have provided a useful guide for
+devising a comprehensive project based on, first, the facilities that would need to be built during
+the 1990s and, second, reforms to significantly increase productivity of the existing facilities.
+The nature of the required reforms was very clear from experience in other countries.
+
+
+       3.      Project Design and Quality Control
+
+
+54.     No project preparatory TA was provided. The project formulation and design relied on
+the executing agencies' own feasibility studies. While India's technical knowhow in the design
+and implementation of port projects is undoubtedly among the strongest of ADB's developing
+member countries, foreign expertise would have been beneficial for a sector that was, and still
+is, experiencing fast technological changes. At the very least, ADB should have better ensured
+the quality of project design by hiring an independent international consultant to review all
+project designs (paras. 22 and 48); this might have helped avoid the long delays for Kakinada
+Port.
+
+
+C.     Follow-Up Actions
+
+
+55.    No particular follow-up actions are needed for the Project. However, in view of the widely
+perceived urgency for fundamental reforms in the ports sector, it is imperative for ADB to
+continue to engage the Government in policy dialogue regarding private sector participation,
+operational efficiency, and labor and tariff issues.
+                              APPENDIXES
+
+
+
+
+                                                        Cited on
+Number                    Title                Page   (page, para.)
+
+1        Appraisal Cost Estimates and Actual   20         2,5
+         Project Costs
+
+2        Project Photos                        21         4,12
+
+3        Implementation Schedule               24         6,17
+
+4        Mumbai Vessel Waiting and             25         8,23
+         Turnaround Times
+
+5        Financial Statements                  26        10,31
+
+6        Reevaluation of Financial and         29        11,33
+         Economic Internal Rates of Return
+                                           APPRAISAL COST ESTIMATES AND ACTUAL PROJECT COSTS
+                                                                ($ million)
+
+                                                                                             Appraisal Estimate                   Actual Cost             Deviation
+Component                                                                                   FX        LC        Total     FX            LC       Total      (%)
+
+Part A: Modernization of MbPT's Port Facilities                                           33.850      22.850    56.700   21.974       19.398     41.372      (27.0)
+(i) Improving container-handling facilities                                                5.250       3.700     8.950    0.000        0.000      0.000     (100.0)
+(ii) Replacement of Pir Pau oil pier                                                      17.600       9.400    27.000   14.898       11.803     26.701       (1.1)
+(iii) Replacement of outer lock gate for Indira Dock and ancillary works                   3.200       4.550     7.750    1.904        4.418      6.322      (18.4)
+(iv) Replacement of fire-fighting vessel                                                   2.300       0.000     2.300    1.193        0.575      1.768      (23.1)
+(v) Installation of computerized management information system                             5.500       5.200    10.700    3.979        2.602      6.581      (38.5)
+Part B: Modernization of MbPT's Ship Repair Facilities                                     9.750       4.650    14.400    4.524        4.686      9.210      (36.0)
+(i) Replacement of caisson gates: Hughes and Mereweather dry docks                         2.348       1.511     3.859    1.221        2.343      3.564       (7.6)
+(ii) Supply, installation, and testing of equipment for Hughes and                         5.641       1.395     7.036    2.106        0.000      2.106      (70.1)
+       Mereweather dry docks etc.
+(iii) Civil works relating to the construction, reconstuction, and repair of
+       ship repair facilities at Hughes and Mereweather dry docks, etc.                    1.761       1.744     3.505    1.197        2.343      3.540         1.0
+            Subtotal - MbPT (Part A + Part B)                                             43.600      27.500    71.100   26.498       24.084     50.582      (28.9)
+Part C: Strengthening of MOST's Project Implementation
+            Monitoring Activities - Office Equipment and Stationery                        0.030       0.300     0.330    0.000        0.000      0.000     (100.0)
+Part D: Development of Kakinada Port                                                      57.300      30.800    88.100   56.847       25.683     82.530       (6.3)
+(i) Construction of three deepwater berths, etc.                                          17.686      10.115    27.801   17.239       10.313     27.552       (0.9)
+(ii) Construction of the breakwater and associated dredging and filling works             25.570      14.125    39.695   25.318        9.371     34.689      (12.6)
+(iii) Dredging of the access channel, the turning basin, and berthing areas                4.392       2.070     6.462    5.473        2.880      8.353        29.3
+(iv) Construction of the internal roads and port buildings and the provision of
+        fire-fighting, water supply, communication, and electrical facilities              3.992       3.705     7.697    1.378        2.494      3.872      (49.7)
+(v) Procurement of two tugboats (actual costs include 1 pilot launch)                      4.999       0.000     4.999    6.791        0.443      7.234       44.7
+(vi) Procurement of a pilot launch                                                         0.005       0.000     0.005    0.000        0.000      0.000     (100.0)
+(vii) Procurement of two mobile cranes, 15 and 35 tons capacity                            0.606       0.785     1.391    0.433        0.082      0.515      (63.0)
+(viii) Procurement of two forklift trucks and other cargo-handling equipment               0.050       0.000     0.050    0.215        0.100      0.315       530.0
+Interest During Construction-MbPT                                                          7.100       5.020    12.120    6.558        1.711      8.269      (31.8)
+Interest During Construction-MOST                                                          0.070       0.000     0.070    0.009        0.000      0.009      (87.1)
+Interest During Construction-Kakinada Port                                                 7.400       1.900     9.300    8.003        4.401     12.404        33.4
+
+
+
+
+                                                                                                                                                                      Appendix 1
+             Total                                                                      115.500       65.520   181.020   97.915       55.879    153.794      (15.0)
+
+FX = foreign exchange, LC = local currency, MbPT = Mumbai Port Trust, MOST = Ministry of Surface Transport.
+                                                         PROJECT PHOTOS
+
+
+
+
+Photo 1: Outer Lock Gate of Indira Dock (Mumbai)                   Photo 2 : Caisson Gate at Hughes Dry Dock (Mumbai)
+
+
+
+
+Photo 3: Caisson Gate at Mereweather Dry Dock (Mumbai)             Photo 4: Crane at Hughes Dry Dock (Mumbai)
+Photo 5: Fire-fighting vessel procured - in rusty condition (Mumbai)    Photo 6: Pir Pau Oil Pier (Mumbai)
+
+
+
+
+    Photo 7: Pipelines on Pir Pau built by industrial users (Mumbai)   Photo 8: VTMS control room (Mumbai)
+Photo 9: Tugging boats and pilot launcher procured (Kakinada)      Photo 10: Cranes and forklifter procured (Kakinada)
+
+
+
+
+Photo 11: General cargo berths (Kakinada)                       Photo 12: Well-maintained fire-fighting facilities (Kakinada)
+                                                                                                      Appendix 3
+
+
+                                                          IMPLEMENTATION SCHEDULE
+
+Task Name                                                 1989   1990   1991   1992   1993   1994   1995   1996    1997
+
+A. Mumbai Port Trust
+  1. Construction of Pir Pau Jetty
+
+
+  2. Dredging Works
+
+
+  3. Ancillary Works
+
+
+    a. Replacement of Lock Gate and Ancillary
+         Facilities
+
+
+    b. Replacement of Fire-Fighting Vessel
+
+
+    c. Installation of Management Information
+         System/Vessel Traffic Management System
+
+
+  4. Replacement of Caisson Gates
+
+
+  5. Procurement of Equipment and Civil Works
+
+
+B. Kakinada Port
+  1. Construction of Berths
+
+
+  2. Construction of Breakwater
+
+
+  3. Dredging Works
+
+
+  4. Internal Road, Buildings, and Ancillary Facilities
+
+
+  5. Procurement of Tugs and Launch
+
+
+  6. Procurement of Cargo-Handling Equipment
+
+
+C. Management Information System Study and
+   Ship Repair Sector Study
+
+
+                           Appraisal Schedule
+                           Actual Accomplishment
+                                                                                                      Appendix 4
+
+
+           MUMBAI VESSEL WAITING AND TURNAROUND TIMES
+
+                              Figure A4.1: Average Waiting Time
+
+
+10.00
+ 9.00
+ 8.00
+ 7.00
+                                                                                      General Cargo
+ 6.00
+                                                                                      Containers
+ 5.00                                                                                 Dry Bulk
+ 4.00                                                                                 Liquid Bulk
+ 3.00
+ 2.00
+ 1.00
+ 0.00
+         1990
+
+                1991
+
+                       1992
+
+                              1993
+
+                                     1994
+
+                                            1995
+
+                                                   1996
+
+                                                          1997
+
+                                                                 1998
+
+                                                                        1999
+
+                                                                               2000
+                                     Fiscal Year
+
+
+
+
+                         Figure A4.2: Average Turnaround Time
+
+
+
+ 45.00
+ 40.00
+ 35.00
+ 30.00                                                                                  General Cargo
+ 25.00                                                                                  Containers
+                                                                                        Dry Bulk
+ 20.00
+                                                                                        Liquid Bulk
+ 15.00
+ 10.00
+  5.00
+  0.00
+
+
+                                        Fiscal Year
+                                                                                                 Appendix 5, page 1
+
+
+                                          FINANCIAL STATEMENTS
+
+                             Table A5.1: Income Statement: Mumbai Port Trust
+                                               (Rs million)
+
+                                                                    Fiscal Year Ending
+Item                                        1994       1995        1996       1997       1998        1999     2000
+
+A. Operating Revenue
+   Vessels                               1,011.5    1,057.4     1,362.0    1,336.2     1,631.1    1,668.0   1,627.6
+   Cargo                                 2,961.0    3,496.8     4,231.8    4,357.0     4,023.7    3,924.5   3,268.3
+   Other                                   194.3      197.2       225.0      232.6       409.0      480.6     430.8
+
+          Total                          4,166.8    4,751.4     5,818.8    5,925.8     6,063.8    6,073.1   5,326.7
+
+B. Operating Expenses
+   Staff Remuneration                    1,067.7    1,428.4     1,501.9    1,707.2     1,801.4    1,986.9   1,860.3
+   Administration                          467.2      568.7       654.3      681.7       766.3      869.1     861.4
+   Operation and Maintenance               734.3      869.9       839.2    1,164.9     1,117.2    1,212.1   1,205.3
+   Depreciation                            130.2      139.2       140.5      190.5       267.5      275.9     300.8
+
+          Total                          2,399.4    3,006.2     3,135.9    3,744.3     3,952.4    4,343.9   4,227.8
+
+C. Operating Income                      1,767.4    1,745.2     2,682.9    2,181.5     2,111.4    1,729.2   1,098.9
+   Nonoperating Revenue                    681.4      833.7     1,005.5      959.4       788.2      790.1   1,011.2
+   Nonoperating Expense                    668.3    1,145.2     1,145.0    1,221.7     1,163.7    1,442.8   1,276.0
+   Interest Expense                         42.8       42.8        39.4       45.3        48.7       51.5      65.4
+
+D. Net Income before Tax                 1,780.5    1,391.0     2,543.4    1,919.2     1,735.9    1,076.5    834.1
+   Provision for Tax                     (713.0)    (573.0)         0.0        0.0         0.0        0.0      0.0
+   Net Income after Tax                  1,067.5      818.0     2,543.4    1,919.2     1,735.9    1,076.5    834.1
+   Operating Ratio (%)                      57.6       63.3        53.9       63.2        65.2       71.5     79.4
+   Return on Net Fixed Assets (%)           76.4       84.7        88.0       58.4        49.9       37.7     16.6
+
+Operating Ratio = operating expenses (including depreciation) as a percentage of operating revenue.
+Return on Net Fixed Assets = operating income as a percentage of average net fixed assets in operations.
+Source: Mumbai Port Trust.
+                                                                                                Appendix 5, page 2
+
+
+                           Table A5.2: Sources and Uses of Funds: Mumbai Port Trust
+                                                  (Rs million)
+
+                                                                          Fiscal Year Ending
+Item                                               1994       1995       1996       1997       1998       1999       2000
+
+A. Sources
+   Net Income before tax                        1,780.5    1,391.0    2,543.4    1,919.2    1,735.9    1,076.5      834.1
+   Interest Long-Term Debt                        468.8      639.2      658.1      846.3    1,165.7    1,166.6    1,214.6
+   Depreciation                                   132.0      139.2      140.9      204.9      273.1      300.0      337.9
+      Total Internal                            2,381.3    2,169.4    3,342.4    2,970.4    3,174.7    2,543.1    2,386.6
+   Long-Term Borrowings                         1,705.5    2,087.1    2,501.4    3,421.8    3,594.7    4,035.5    4,191.0
+   Government Contrbution                          15.3       23.1       24.4        0.0        3.1       64.9        0.0
+   Net Pension Funds and Other                  1,057.5    1,632.4    1,551.8    1,928.3    1,780.5    1,864.5    2,416.4
+
+          Total                                 5,159.6    5,912.0    7,420.0    8,320.5    8,553.0    8,508.0    8,994.0
+
+B. Applications
+   Capital Expenditure                            501.4      523.7      491.1      894.1      775.3      658.7    2,255.4
+   Change Working Capital                          20.9        3.8        0.0        6.2        0.0       10.6        0.0
+   Investments and Other                        3,769.4    4,349.1    5,463.8    6,105.4    6,607.7    6,477.3    4,685.0
+   Pension Funds and Other                        675.7      600.0      667.3      737.4      874.1      842.4    1,048.6
+
+          Total                                 4,967.4    5,476.6    6,622.2    7,743.1    8,257.1    7,989.0    7,989.0
+
+C. Surplus (Deficit) for Year                     192.2      435.4      797.8      577.4      295.9      519.0    1,005.0
+D. Cash Balance Year Start                         28.0      220.2      655.6    1,453.4    2,030.8    2,326.7    2,845.7
+E. Cash Balance End of Year (before tax)          220.2      655.6    1,453.4    2,030.8    2,326.7    2,845.7    3,850.7
+   Self-Financing Ratio (%)                        217        151           ­          ­          ­          ­          ­
+   Debt Service Coverage Ratio                        ­          ­          ­          ­          ­          ­          ­
+
+­ = not available.
+Self-Financing Ratio = internal cash generation (less debt service and net change in working capital) as a ratio of capital
+expenditure.
+Debt Service Coverage Ratio = internal cash generation expressed as a ratio of total debt service requirements.
+Source: Mumbai Port Trust.
+                                                                                                     Appendix 5, page 3
+
+
+                                       Table A5.3: Balance Sheet: Mumbai Port Trust
+                                                        (Rs million)
+
+                                                                                   Fiscal Year Ending
+Item                                                          1994     1995      1996      1997      1998      1999      2000
+
+A. Current Assets
+   Cash and Deposits                                          110.9     601.5     651.4     726.7     920.1     979.6   1,016.1
+   Accounts Receivable                                      3,249.9   3,830.3   4,363.9   5,104.5   5,542.9   5,975.7   6,359.6
+   Inventories                                                145.5     149.3     124.5     130.8      99.6     110.2     106.2
+   Other                                                    1,348.7   1,825.5   2,618.0   3,196.2   3,491.7   3,998.9   4,971.1
+
+           Subtotal (A)                                     4,855.0   6,406.6   7,757.8   9,158.2 10,054.3 11,064.4 12,453.0
+
+B. Fixed Assets (F.A.)
+   Gross F.A. in Operation                                  3,895.1   4,415.7 4,891.6 5,768.7 6,536.3 7,147.4 9,370.0
+   Accumulated Depreciation                                 1,581.3   1,717.4 1,843.2 2,031.1 2,301.2 2,554.8 2,765.3
+   Net F.A. in Operation                                    2,313.8   2,698.3 3,048.4 3,737.6 4,235.1 4,592.6 6,604.7
+   Work-In-Progress                                         7,089.8   8,914.1 11,052.2 13,548.6 16,470.8 18,973.9 20,068.8
+
+           Subtotal (B)                                     9,403.6 11,612.4 14,100.6 17,286.2 20,705.9 23,566.5 26,673.5
+
+C. Other Assets
+   Retirement Fund                                          2,797.1   3,528.8   4,480.8 5,680.9 7,130.4 8,878.3 10,217.9
+   Investments and Other Assets                             7,289.6   8,013.0   9,808.7 11,400.9 13,005.6 14,704.3 16,584.3
+
+           Total (A+B+C)                                   24,345.3 29,560.8 36,147.9 43,526.2 50,896.2 58,213.5 65,928.7
+
+D. Current Liabilities
+   Accounts Payable                                           889.3   1,234.7   1,507.0   2,012.5   2,327.1   2,317.0   2,405.9
+   Other Current Liabilities                                  752.0   1,068.8   1,261.0   1,360.6   1,351.6   1,741.1   2,040.8
+
+           Total                                            1,641.3   2,303.5   2,768.0   3,373.1   3,678.7   4,058.1   4,446.7
+
+E. Long-Term Liabilities
+   Long-Term Debt                                           2,662.1   3,215.4   3,711.8   4,346.1   4,706.0   5,058.7 5,437.3
+   Retirement Fund                                          2,866.6   3,733.0   4,739.6   5,994.8   7,492.6   9,249.2 10,790.2
+
+           Total                                            5,528.7   6,948.4   8,451.4 10,340.9 12,198.6 14,307.9 16,227.5
+
+F. Equity
+   Government Contribution and Capital Reserve              2,313.8 2,698.3 3,048.4 3,737.6 4,235.1 4,545.6 6,604.7
+   Revenue Reserves                                        14,861.5 17,610.6 21,880.1 26,074.6 30,783.8 35,301.9 38,649.8
+
+           Total                                           17,175.3 20,308.9 24,928.5 29,812.2 35,018.9 39,847.5 45,254.5
+
+    Total Liabilities and Equity                           24,345.3 29,560.8 36,147.9 43,526.2 50,896.2 58,213.5 65,928.7
+    Current Ratio (%)                                         295.8    278.1    280.3    271.5    273.3    272.7    280.1
+
+Current Ratio = ratio of current assets to current liabilities.
+Source: Mumbai Port Trust.
+                                                                               Appendix 6, page 1
+
+
+
+                      REEVALUATION OF FINANCIAL AND ECONOMIC
+                            INTERNAL RATES OF RETURN
+
+A.     General
+
+1.      This appendix presents both financial and economic reevaluation of the Project. The
+reevaluation was carried out on an incremental basis in terms of with- and without-Project
+scenarios. Wherever appropriate, comparisons will be made with the appraisal report and
+projection completion report (PCR) in terms of methods used, and in most cases such methods
+are different. All prices and costs are expressed in the third quarter 2001 constant United States
+dollar values. The costs and benefits incurred before 2001 were adjusted using the average
+exchange rates of the year when the costs occurred and international inflation rates over the
+period (1.5 percent average). In estimating financial costs, interest paid during construction was
+deducted. In estimating the economic costs, duties and taxes were deducted and nontradable
+local currency costs were converted to border prices using a 0.90 standard conversion factor. In
+addition, as labor costs form a significant portion of the overall operation and maintenance
+costs, a conversion factor of 0.6 was used to derive the shadow price of the labor costs from
+wages.
+
+2.     Table A6.1 provides the traffic (revenue) estimates for the four quantifiable components,
+which have been used in the subsequent recalculation of financial internal rates of return
+(FIRRs) and economic internal rates of return (EIRRs). The estimates include the actual and
+forecast traffic and revenue based on information provided by the executing agencies.
+
+B.     Replacement of the Outer Lock Gate at Indira Dock
+
+       1.      Appraisal and PCR Approach
+
+3.      The appraisal report correctly identified the main benefit: avoiding the reversion of Indira
+Dock to a tidal dock without the project. However, the specific nature of the benefit proved in
+retrospect to be different from that assumed at appraisal. The report assumed that most of the
+ships would wait for an average of five hours for high tides on which to enter and leave the
+dock, sitting on the bottom when the tide was out. However, shipping companies confirmed that
+they would rarely allow their ships to do this in Indira Dock, which has a hard floor; and in
+practice it virtually did not occur during a six-week period in which the lock gates were not used
+in May-July 2001.
+
+4.        The main benefit identified by the PCR was different from that in the appraisal report. It
+also proved to be incorrect. The report assumed that the old lock gates could be maintained
+indefinitely. The main costs of this option would have been regular overhauls every 10 years
+and the cost of vessel delays during these overhauls. The benefit was the avoidance of these
+costs. The engineering department of the Mumbai Port Trust (MbPT), however, considers that
+continued maintenance of the old dock would not have been an option. The old lock was built in
+1922 and its last major repair was in 1977. It was in too dilapidated and unreliable a condition,
+leaking continually into the dock. In other words, even with another major overhaul, it would not
+have functioned properly and would still adversely affect the dock's operation, for which high
+reliability is necessary. A replacement in this case was not only the least-cost option but also the
+only viable option without affecting traffic. Furthermore, the cost avoidance was greatly
+overestimated by both the appraisal and project completion reports since the operational cost
+                                                                                               Appendix 6, page 2
+
+
+with the new lock gate is approximately the same as that for the old one. With the new lock,
+operation costs would not have been saved as assumed in the PCR calculation.
+
+           2.       Project Performance Audit Report Assumptions
+
+5.      A guide to the actual consequences of losing the lock gate were observable when bad
+weather damaged the protective storm gates in May 2001, leaving the port tidal for six weeks.
+The main response was for the owners to lighten the ships before they came into the dock--by
+discharging cargo at the two berths outside, which have depths of 9.1-9.7 meters, or by
+reorganizing schedules so that the ships reached Mumbai with a lighter load. These solutions
+would not be sustainable on a long-term basis, as there are only two berths outside the lock. In
+practice, based on actual port statistics and interviews, the consequences of the dock becoming
+tidal were estimated as follows:1
+
+           (i)      30 percent of the ships calling at Indira would be unaffected as they are small
+                    enough to enter with 6.5 meters of water;
+           (ii)     30 percent would discharge to barges, at an additional cost of about US$5 per
+                    ton;
+           (iii)    20 percent would come in smaller ships, incurring diseconomies of size (It is not
+                    possible to calculate these diseconomies but they are unlikely to be less than $5
+                    per ton); and
+           (iv)     20 percent of the traffic would no longer call at Mumbai, because a water depth
+                    of 6.5 meters is too low for international shipping.2
+
+           3.       Recalculated FIRR
+
+6.       The main financial benefit of replacing the lock gate would be the retention of port
+revenues (net of expenditure), which would have been lost if the port became tidal. They are
+estimated from the ports' accounts at about $5 per ton. On the assumption that about 20 percent
+of the traffic (Table A6.1) would be lost, the FIRR is estimated at 62.7 percent (Table A6.2).
+
+           4.       Recalculated EIRR
+
+7.     The economic benefits are calculated in Table A6.3 on the assumption that the costs
+associated with the last three consequences mentioned (lighterage/double handling,
+diseconomies of size and diversion of ships to other ports) would all amount to at least $5 per
+ton. Even on this relatively conservative assumption, the EIRR is recalculated at 110.9 percent.
+
+C.         Pir Pau Oil Pier
+
+           1.       Appraisal and PCR Approach
+
+8.         The appraisal report gave the following reasons for building a new Pir Pau terminal:
+
+           (i)      the old Pir Pau terminal was in a dilapidated condition, having been built in 1922;
+
+1
+     These estimates represent the "best guess", which were partly based on the actual traffic increase as shown in
+     Table A6.1. After the completion of the lock gate in 1993, the total cargo handled at Indira Dock increased by
+     44 percent from FY1993 to FY1997, although other factors have undoubtedly contributed to the increase.
+2
+     Twenty percent of the traffic was estimated to no longer call at MbPT and would have had to find an alternative
+     port. One option would have been to build general cargo berths at the nearby Jawaharlal Nehru Port Trust, the cost
+     of which would likely be much higher than the current option.
+                                                                                               Appendix 6, page 3
+
+
+          (ii)     it could only take small tankers, up to 5,000 dead weight tons;
+          (iii)    it had a high rate of siltation; and
+          (iv)     it had a capacity of only 500,000 tons per year. (In fact it handled 1 million tons in
+                   FY1996, although at a very high occupancy rate of 83 percent, entailing long
+                   queues).
+
+9.       The benefits identified by the appraisal report were (i) savings in ship service time with a
+new, more efficient terminal; (ii) savings in waiting time with reduced berth occupancy (less
+busy); and (iii) economies of size with larger ships. These benefits are fairly standard in
+economic evaluation in ports, and would have been reasonable if they had been applied to the
+right set of berths. However, the appraisal report calculated them on the assumption that Pir
+Pau Oil Pier handled the same petroleum oils and lubricants products as are handled at
+MbPT's four other petroleum berths at Jawaharlal Deep. The appraisal report forecast steady
+growth in traffic, and concluded that the five berths combined (J1, J2, J3, and J4 and the Pir
+Pau old terminal) would reach full capacity by the mid-1990s--and therefore that a new Pir Pau
+Oil Pier was justified. In the event, petroleum traffic fell, and there is now surplus capacity at the
+existing petroleum oils and lubricants berths. On the approach adopted by the appraisal report,
+it is clear that in retrospect the justification would have proved weak.
+
+          2.       Project Performance Audit Report Assumptions
+
+10.     Despite being called petroleum oils and lubricants berth, new Pir Pau Oil Pier has
+become a specialized berth for chemicals and specific types of petroleum products that cannot
+be handled elsewhere. The pipelines from the berth go to nine chemical and other relatively
+specialized plants. Without the project, 2 million tons would have had to find other ways of
+reaching the chemical and other plants. The most likely solution would have been lighterage,
+which is still very common in India. The costs of the double handling, additional ship time for
+handling at anchorage and barging to shore are lower for bulk liquids than for general cargo,
+and are estimated at around $2.5 per ton.3
+
+          3.       Recalculated FIRR
+
+11.      The FIRR calculation assumes that the capacity of the new Pir Pau berth is about 2
+million tons4 (it is already handling 1.8 million tons at 67 percent occupancy), and the revenue to
+MbPT is about $1.5 per ton. On this basis the FIRR is calculated at 9.5 percent (Table A6.4).
+
+          4.       Recalculated EIRR
+
+12.    On basis of cost savings from lighterage required without the Project, the EIRR is
+recalculated at 18.3 percent (Table A6.5).
+
+D.        Modernization of MbPT's Ship Repair Facilities
+
+13.     The MbPT ship-repair facilities would have been unable to continue functioning without
+the civil works--especially the replacement of the caisson gates, which were leaking. The
+repairs allowed the dry docks to continue to provide services, giving MbPT an income of $1.4
+3
+    This includes foreign ships as well, because it is the Indian customers/importers who are paying the full cost of
+    shipping. Most Pir Pau chemical/petroleum tankers are hired on charters. The Indian importer would have to pay
+    for the double handling and lighterage, and would also have to pay for chartering the ships for extra days spent at
+    anchorage.
+4
+    Calculation of maximum capacity is generally based on less than 100 percent occupancy to avoid long queues.
+                                                                              Appendix 6, page 4
+
+
+million in FY2001. Ship repairing services provided by private contractors using MbPT's facilities
+bring the total value of the MbPT dry dock services up to about $2 million per annum. The
+occupancy of the facilities over the last three years has averaged over 85 percent.
+
+       1.      Appraisal and PCR Approach
+
+14.     The main financial benefit of the rehabilitation identified by the appraisal and project
+completion reports was a large reduction in operation and maintenance costs. This is
+questionable for three reasons. First, they estimated the saving at around $1.1 million per
+annum, which appears too high (Total expenditure in FY2001 was only $0.7 million). Second,
+the approach effectively assumed that the benefit of reduced operation and maintenance costs
+would still be valid even if the dry docks had no business. Third, the port engineers confirmed
+that the investments in replacement of the dock gates and additional civil work were a
+precondition for continued operation. Furthermore, the appraisal report made the assumptions
+that the repairs to the dry docks could reduce service times by over 50 percent, and could
+attract over 70 more vessels per annum. These assumptions were not supported by any
+background data and proved to be overoptimistic. In practice the total number of vessels
+serviced has fluctuated around an average of about 70.
+
+15.     The main economic benefit identified by the appraisal and project completion reports
+was the avoidance of the cost of steaming to a foreign port for repairs. Shipping lines
+interviewed, however, confirmed that they would not generally incur costs of this type. In
+practice, they select repair sites in areas they already visit to pick up or unload cargo. No
+significant additional costs are incurred travelling to the repair site.
+
+       2.      Project Performance Audit Report Assumptions
+
+16.     The project performance audit report assumes that the main financial benefit is the net
+revenues to MbPT from the dry dock services that were able to continue because of the related
+project component. The main economic benefit of the project component to the Indian economy,
+confirmed by shipping lines, is in fact the avoidance of the cost of using foreign repair yards.
+
+       3.      Recalculated FIRR
+
+17.    The net revenues to MbPT from the dry dock services was calculated as $0.77 million
+(revenues of $1.44 million minus expenditure of $0.77 million) in FY2001. On this basis the
+FIRR is recalculated at 4.4 percent (Table A6.6)
+
+       4.      Recalculated EIRR
+
+18.     The avoidance of the cost of using foreign repair yards is estimated at about $1.9 million
+in FY2001--i.e., about 10 percent less than the relatively expensive MbPT dry docks (based on
+interviews with ship owners), whose main customers are the navy and port craft rather than
+commercial ships. The net benefit is calculated by subtracting expenditure from revenues, using
+an opportunity cost for labor of 0.6. The EIRR recalculated on this basis is 11.2 percent
+(Table A6.7).
+                                                                                Appendix 6, page 5
+
+
+E.     Kakinada Port
+
+       1.      Appraisal and PCR Approach
+
+19.   The main reasons as stated in the appraisal report for building a deepwater port at
+Kakinada were as follows:
+
+       (i)     to realize the potential for gas based industries;
+       (ii)    to serve fertilizer plants, iron and steel plants, and petroleum depots that were
+               planned for the area;
+       (iii)   to reduce pressures on Visakhapatnam Port; and
+       (iv)    to create a regional growth center at Kakinada.
+
+20.      Traffic was forecast on this basis at 2.5 million tons in 1995 and 2.8 million tons in 2000.
+Over half of the forecast consisted of dry cargo, especially iron products and fertilizers. The dry
+cargo, however, has not materialized. Gas-based industries have not been attracted to
+Kakinada. In fact the gas reserves have remained largely unexploited, as the companies that
+have been exploring offshore are currently more interested in oil than gas. Consequently the
+fertilizer and iron/steel plants that were planned for the area have not come to the port. An iron
+plant, which was built during the 1990s, eventually went to Visakhapatnam, where the water
+depth at the port is much greater. Nor has Kakinada Port "relieved" Visakhapatnam Port; on the
+contrary, Visakhapatnam Port regards Kakinada Port more as a minor competitor. In fact, a new
+relief port is now being planned at Gangavaram, only 15 kilometers from Visakhapatnam.
+Furthermore, it has not been possible to attract cargo away from the old shallow draft harbor, as
+envisaged at appraisal, where agricultural and other dry cargoes are barged to and from
+anchorages. The Government of Andhra Pradesh has an explicit policy of reserving the cargo
+for the old port as these outdated operations employ 7,000 to 10,000 people. The main
+economic benefits presented in the appraisal report were avoidance of high handling costs and
+extended ship time at anchorage for iron pellets, sponge iron, and fertilizers. These benefits,
+however, are no longer applicable in the absence of such traffic.
+
+21.      Despite the underachievement of the original forecast, the new port's traffic reached 1.8
+million tons in FY2001. The vast majority consists of liquids. They include the phosphoric acid,
+ammonia, and petroleum products that were forecast in the appraisal report, but also a new
+product: edible oil. The edible oil, imported in processed form from Malaysia, was previously
+handled by Visakhapatnam Port. With the completion of the Kakinada Port, the private importer
+built a storage tank about three kilometers from the port and a pipeline linking it with the port;
+the oil is for subsequent distribution in the hinterland of Kakinada. The overall traffic of Kakinada
+Port has grown by over 50 percent per annum in the first four years of its operation. It is
+assumed to reach the capacity of the port, estimated at 3 million tons, in FY2004.
+
+       2.      Project Performance Audit Report Assumptions
+
+22.     The main financial benefit of the project component is the revenues from the liquid
+cargoes. The main economic benefit is savings in road transport costs from Visakhapatnam to
+the final consumers in the Kakinada region.
+                                                                                 Appendix 6, page 6
+
+
+       3.      Recalculated FIRR
+
+23.      The FIRR for Kakinada port was recalculated at 0.8 percent (Table A6.8). The revenues
+are low because almost all the cargo is liquid, for which handling is fast and labor free. The total
+revenues from cargo handling and ship services averaged just under $2 per ton in FY2001. The
+long-term FIRR for the port is likely to be higher for two reasons. First, the next berths to be built
+will not have to bear the costs of the channel (dredging) and breakwater. Second, it is likely that
+the port will attract some dry cargo in the future, and revenues for dry cargoes are greater than
+for liquids.
+
+       4.      Recalculated EIRR
+
+24.     It was confirmed in interviews with the fertilizer importers and others that the inland
+transport cost savings, compared to using Visakhapatnam Port and then road transport to the
+final consumers in the Kakinada region, was on average approximately $6 per ton for the main
+cargoes. The exception was petroleum products, which appeared to be more expensive to
+transport from Visakhapatnam by sea than by road. Consequently the $6 per ton transport
+saving was applied to only 80 percent of the cargo. On this basis the EIRR was recalculated at
+9.7 percent (Table A6.9).
+                                                                                     Appendix 6, page 7
+
+
+                          Table A6.1: Traffic and Revenue Forecast
+
+                       Indira Dock         Pir Pau Oil Pier      Ship Repair          Kakinada
+                                     a                    b                   c                    d
+Fiscal               Cargo Handled         Cargo Handled         Revenues          Cargo Handled
+Year                  (million tons)          (`000 tons)         ($ million)       (million tons)
+
+1992        Actual          7.4                    ­                   ­                   ­
+1993        Actual          8.8                    ­                   ­                   ­
+1994        Actual         10.7                    ­                   ­                   ­
+1995        Actual         11.7                    ­                   ­                   ­
+1996        Actual         12.1                  0.40                1.03                  ­
+1997        Actual         12.7                  1.16                1.18                  ­
+1998        Actual         12.0                  1.61                0.80                 0.5
+1999        Actual         11.5                  1.87                1.07                 1.1
+2000        Actual         11.0                  1.81                1.16                 1.5
+2001                       11.0                  2.00                1.44                 1.8
+2002                       11.0                  2.00                1.70                 2.2
+2003                       11.0                  2.00                1.70                 2.6
+2004                       11.0                  2.00                1.70                 3.0
+2005                       11.0                  2.00                1.70                 3.0
+2006                       11.0                  2.00                1.70                 3.0
+2007                       11.0                  2.00                1.70                 3.0
+2008                       11.0                  2.00                1.70                 3.0
+2009                       11.0                  2.00                1.70                 3.0
+2010                       11.0                  2.00                1.70                 3.0
+2011                       11.0                  2.00                1.70                 3.0
+2012                       11.0                  2.00                1.70                 3.0
+2013                       11.0                  2.00                1.70                 3.0
+2014                       11.0                  2.00                1.70                 3.0
+2015                       11.0                  2.00                1.70                 3.0
+2016                       11.0                  2.00                1.70                 3.0
+2017                       11.0                  2.00                1.70                 3.0
+2018                       11.0                  2.00                1.70                 3.0
+2019                       11.0                  2.00                1.70                 3.0
+2020                       11.0                  2.00                1.70                 3.0
+
+­ = not applicable.
+a
+  Forecast assumes dock remains locked. Without locks, a 20 percent decline is assumed.
+b
+  Capacity of New Pir Pau based on actual productivity of 6,900 tons/day in fiscal year 2001, and
+  occupancy of 80 percent.
+c
+  Revenues from ship repairing for Mumbai Port Trust, rather than tonnage or number of vessels repaired,
+  are used because the revenues are not proportional to the tonnage or number of vessels repaired.
+d
+  The capacity of the port is estimated at 3 million tons at the current three berths.
+                                                                     Appendix 6, page 8
+
+
+        Table A6.2: Financial Internal Rate of Return
+                     Mumbai Port Trust
+                     Indira Lock Gates
+                          ($ million)
+
+ Fiscal         Capital      Operations                         Net
+                                    a                     b
+ Year            Cost          M&R            Revenues         Benefit
+
+ 1991            1.253                                         (1.253)
+ 1992            1.121                                         (1.121)
+ 1993            1.227                                         (1.227)
+ 1994            0.848                                         (0.848)
+ 1995            1.053                                         (1.053)
+ 1996                            0.400           12.571        12.171
+ 1997                            0.400           13.176        12.776
+ 1998                            0.410           12.808        12.398
+ 1999                            0.407           12.128        11.721
+ 2000                            0.385           11.000        10.615
+ 2001                            0.385           11.000        10.615
+ 2002                            0.385           11.000        10.615
+ 2003                            0.385           11.000        10.615
+ 2004                            0.385           11.000        10.615
+ 2005                            0.385           11.000        10.615
+ 2006                            0.385           11.000        10.615
+ 2007                            0.385           11.000        10.615
+ 2008                            0.385           11.000        10.615
+ 2009                            0.385           11.000        10.615
+ 2010                            0.385           11.000        10.615
+ 2011                            0.385           11.000        10.615
+ 2012                            0.385           11.000        10.615
+ 2013                            0.385           11.000        10.615
+ 2014                            0.385           11.000        10.615
+ 2015                            0.385           11.000        10.615
+ 2016                            0.385           11.000        10.615
+ 2017                            0.385           11.000        10.615
+ 2018                            0.385           11.000        10.615
+ 2019                            0.385           11.000        10.615
+ 2020           (1.572)          0.385           11.000        12.187
+
+                    Financial Internal Rate of Return          62.7%
+
+
+M&R = maintenance and rehabilitation.
+a
+  Ten percent of capital costs.
+b
+  Avoidance of loss of port revenue estimated at $5 per ton for 20 percent
+  of traffic.
+                                                                             Appendix 6, page 9
+
+
+             Table A6.3: Economic Internal Rate of Return
+                          Mumbai Port Trust
+                          Indira Lock Gates
+                               ($ million)
+
+ Fiscal         Capital        Operations                           Net
+                                                            a
+ Year            Cost            M&R            Revenues           Benefit
+
+ 1991            1.139                                             (1.139)
+ 1992            1.019                                             (1.019)
+ 1993            1.116                                             (1.116)
+ 1994            0.771                                             (0.771)
+ 1995            0.957                                             (0.957)
+ 1996                             0.328           44.000           43.672
+ 1997                             0.328           46.116           45.788
+ 1998                             0.336           44.828           44.492
+ 1999                             0.333           42.450           42.117
+ 2000                             0.315           38.500           38.185
+ 2001                             0.315           38.500           38.185
+ 2002                             0.315           38.500           38.185
+ 2003                             0.315           38.500           38.185
+ 2004                             0.315           38.500           38.185
+ 2005                             0.315           38.500           38.185
+ 2006                             0.315           38.500           38.185
+ 2007                             0.315           38.500           38.185
+ 2008                             0.315           38.500           38.185
+ 2009                             0.315           38.500           38.185
+ 2010                             0.315           38.500           38.185
+ 2011                             0.315           38.500           38.185
+ 2012                             0.315           38.500           38.185
+ 2013                             0.315           38.500           38.185
+ 2014                             0.315           38.500           38.185
+ 2015                             0.315           38.500           38.185
+ 2016                             0.315           38.500           38.185
+ 2017                             0.315           38.500           38.185
+ 2018                             0.315           38.500           38.185
+ 2019                             0.315           38.500           38.185
+ 2020           (1.429)           0.315           38.500           39.614
+
+                     Economic Internal Rate of Return              110.9%
+
+M&R = maintenance and rehabilitation.
+a
+  Avoidance of Indira Dock becoming a tidal dock. The consequences of it
+  becoming tidal are assumed to be as follows:
+  (i) 30 percent of the ships would be unaffected as they are small enough to
+        enter at 6.5 meters;
+  (ii) 30 percent of the ships would lighten their loads at anchorage in order to
+        reduce draft;
+  (iii) 20 percent of the cargo would come in smaller ships, giving
+        diseconomies of size; and
+  (iv) 20 percent of the ships would no longer call, going elsewhere.
+                                                               Appendix 6, page 10
+
+
+          Table A6.4: Financial Internal Rate of Return
+                       Mumbai Port Trust
+                       Pi Pau Oil Terminal
+                            ($ million)
+
+ Fiscal       Capital    Operations                   Net
+ Year          Cost        M&R          Revenues     Benefit
+
+ 1991          1.253                                 (1.253)
+ 1992          2.616                                 (2.616)
+ 1993          5.032                                 (5.032)
+ 1994          4.727                                 (4.727)
+ 1995          3.392                                 (3.392)
+ 1996          3.203        0.062         0.624      (2.641)
+ 1997          0.114        0.181         1.810       1.515
+ 1998                       0.258         2.576       2.318
+ 1999                       0.297         2.966       2.669
+ 2000                       0.272         2.715       2.443
+ 2001                       0.300         3.000       2.700
+ 2002                       0.300         3.000       2.700
+ 2003                       0.300         3.000       2.700
+ 2004                       0.300         3.000       2.700
+ 2005                       0.300         3.000       2.700
+ 2006                       0.300         3.000       2.700
+ 2007                       0.300         3.000       2.700
+ 2008                       0.300         3.000       2.700
+ 2009                       0.300         3.000       2.700
+ 2010                       0.300         3.000       2.700
+ 2011                       0.300         3.000       2.700
+ 2012                       0.300         3.000       2.700
+ 2013                       0.300         3.000       2.700
+ 2014                       0.300         3.000       2.700
+ 2015                       0.300         3.000       2.700
+ 2016                       0.300         3.000       2.700
+ 2017                       0.300         3.000       2.700
+ 2018                       0.300         3.000       2.700
+ 2019                       0.300         3.000       2.700
+ 2020          (5.811)      0.300         3.000       8.511
+
+                 Financial Internal Rate of Return    9.5%
+
+M&R = maintenance and rehabilitation.
+                                                                  Appendix 6, page 11
+
+
+         Table A6.5: Economic Internal Rate of Return
+                       Mumbai Port Trust
+                      Pir Pau Oil Terminal
+                            ($ million)
+
+Fiscal       Capital    Operations                       Net
+                                                   a
+Year          Cost        M&R           Revenues        Benefit
+
+1991          1.139                                     (1.139)
+1992          2.378                                     (2.378)
+1993          4.575                                     (4.575)
+1994          4.297                                     (4.297)
+1995          3.084                                     (3.084)
+1996          2.911        0.034           1.177        (1.768)
+1997          0.104        0.098           0.972         0.770
+1998                       0.139           1.994         1.855
+1999                       0.160           3.007         2.847
+2000                       0.147           2.437         2.290
+2001                       0.162           3.459         3.297
+2002                       0.162           4.694         4.532
+2003                       0.162           5.408         5.246
+2004                       0.162           6.192         6.030
+2005                       0.162           7.055         6.893
+2006                       0.162           8.005         7.843
+2007                       0.162           9.049         8.887
+2008                       0.162          10.198        10.036
+2009                       0.162          11.461        11.299
+2010                       0.162          12.851        12.689
+2011                       0.162          13.616        13.454
+2012                       0.162          14.418        14.256
+2013                       0.162          15.261        15.099
+2014                       0.162          16.146        15.984
+2015                       0.162          17.075        16.913
+2016                       0.162          18.051        17.889
+2017                       0.162          19.076        18.914
+2018                       0.162          20.151        19.989
+2019                       0.162          21.281        21.119
+2020         (5.282)       0.162          22.466        27.586
+
+              Economic Internal Rate of Return          18.3%
+
+M&R = maintenance and rehabilitation.
+a
+  Represents avoidance of cost of handling at anchorage. Effective
+  economic capacity of the new Pir Pau terminal is 2 million tons.
+                                                              Appendix 6, page 12
+
+
+         Table A6.6: Financial Internal Rate of Return
+                      Mumbai Port Trust
+        Modernization of Mumbai Ship Repair Facilities
+                          ($ million)
+
+ Fiscal       Capital     Operations                   Net
+ Year          Cost         M&R         Revenues      Benefit
+
+ 1991          0.125                                  (0.125)
+ 1992          0.249                                  (0.249)
+ 1993          0.246                                  (0.246)
+ 1994          0.364                                  (0.364)
+ 1995          0.234                                  (0.234)
+ 1996          6.863                                  (6.863)
+ 1997          2.288         1.242        1.228       (2.302)
+ 1998                        0.962        0.851       (0.111)
+ 1999                        1.008        1.134        0.126
+ 2900                        0.813        1.162        0.349
+ 2001                        0.772        1.443        0.671
+ 2002                        0.851        1.702        0.851
+ 2003                        0.851        1.702        0.851
+ 2004                        0.851        1.702        0.851
+ 2005                        0.851        1.702        0.851
+ 2006                        0.851        1.702        0.851
+ 2007                        0.851        1.702        0.851
+ 2008                        0.851        1.702        0.851
+ 2009                        0.851        1.702        0.851
+ 2010                        0.851        1.702        0.851
+ 2011                        0.851        1.702        0.851
+ 2012                        0.851        1.702        0.851
+ 2013                        0.851        1.702        0.851
+ 2014                        0.851        1.702        0.851
+ 2015                        0.851        1.702        0.851
+ 2016                        0.851        1.702        0.851
+ 2017                        0.851        1.702        0.851
+ 2018                        0.851        1.702        0.851
+ 2019                        0.851        1.702        0.851
+ 2020         (2.309)        0.851        1.702        3.160
+
+                  Financial Internal Rate of Return    4.4%
+
+M&R = maintenance and rehabilitation.
+                                                                 Appendix 6, page 13
+
+
+        Table A6.7: Economic Internal Rate of Return
+                     Mumbai Port Trust
+       Modernization of Mumbai Ship Repair Facilities
+                         ($ million)
+
+ Fiscal        Capital      Operations                        Net
+                                                         a
+ Year           Cost          M&R            Revenues        Benefit
+
+ 1991           0.114                                        (0.114)
+ 1992           0.226                                        (0.226)
+ 1993           0.223                                        (0.223)
+ 1994           0.330                                        (0.330)
+ 1995           0.213                                        (0.213)
+ 1996           6.239                                        (6.239)
+ 1997           2.080          1.118             1.657       (1.541)
+ 1998                          0.866             1.148        0.282
+ 1999                          0.907             1.530        0.623
+ 2000                          0.732             1.569        0.837
+ 2001                          0.695             1.947        1.252
+ 2002                          0.766             2.298        1.532
+ 2003                          0.766             2.298        1.532
+ 2004                          0.766             2.298        1.532
+ 2005                          0.766             2.298        1.532
+ 2006                          0.766             2.298        1.532
+ 2007                          0.766             2.298        1.532
+ 2008                          0.766             2.298        1.532
+ 2009                          0.766             2.298        1.532
+ 2010                          0.766             2.298        1.532
+ 2011                          0.766             2.298        1.532
+ 2012                          0.766             2.298        1.532
+ 2013                          0.766             2.298        1.532
+ 2014                          0.766             2.298        1.532
+ 2015                          0.766             2.298        1.532
+ 2016                          0.766             2.298        1.532
+ 2017                          0.766             2.298        1.532
+ 2018                          0.766             2.298        1.532
+ 2019                          0.766             2.298        1.532
+ 2020          (2.693)         0.766             2.298        4.225
+
+                   Economic Internal Rate of Return          11.2%
+
+M&R = maintenance and rehabilitation.
+a
+  Avoidance of the cost of using foreign repair yards.
+                                                                 Appendix 6, page 14
+
+
+          Table A6.8: Financial Internal Rate of Return
+                      Kakinada Port Trust
+                         Kakinada Port
+                           ($ million)
+
+ Fiscal       Capital     Operations                    Net
+ Year          Cost         M&R         Revenues       Benefit
+
+ 1993          0.223                                    (0.223)
+ 1994          9.696                                    (9.696)
+ 1995         16.590                                   (16.590)
+ 1996         51.471                                   (51.471)
+ 1997          8.689                                    (8.689)
+ 1998                        1.280         1.007        (0.273)
+ 1999                        1.375         2.197         0.822
+ 2000                        1.426         2.833         1.407
+ 2001                        1.500         3.400         1.900
+ 2002                        1.600         4.080         2.480
+ 2003                        1.700         4.896         3.196
+ 2004                        1.800         5.667         3.867
+ 2005                        1.800         5.667         3.867
+ 2006                        1.800         5.667         3.867
+ 2007                        1.800         5.667         3.867
+ 2008                        1.800         5.667         3.867
+ 2009                        1.800         5.667         3.867
+ 2010                        1.800         5.667         3.867
+ 2011                        1.800         5.667         3.867
+ 2012                        1.800         5.667         3.867
+ 2013                        1.800         5.667         3.867
+ 2014                        1.800         5.667         3.867
+ 2015                        1.800         5.667         3.867
+ 2016                        1.800         5.667         3.867
+ 2017                        1.800         5.667         3.867
+ 2018                        1.800         5.667         3.867
+ 2019                        1.800         5.667         3.867
+ 2020        (23.558)        1.800         5.667        27.425
+
+                   Financial Internal Rate of Return    0.8%
+
+M&R = maintenance and rehabilitation.
+                                                                    Appendix 6, page 15
+
+
+          Table A6.9: Economic Internal Rate of Return
+                       Kakinada Port Trust
+                         Kakinada Port
+                            ($ million)
+
+ Fiscal       Capital     Operations                         Net
+                                                       a
+ Year          Cost         M&R            Revenues         Benefit
+
+ 1993          0.201                                         (0.201)
+ 1994          8.726                                         (8.726)
+ 1995         14.931                                        (14.931)
+ 1996         46.324                                        (46.324)
+ 1997          7.817                                         (7.817)
+ 1998                         1.152            2.560          1.408
+ 1999                         1.237            5.583          4.346
+ 2000                         1.283            7.200          5.917
+ 2001                         1.350            8.640          7.290
+ 2002                         1.440           10.368          8.928
+ 2003                         1.530           12.442         10.912
+ 2004                         1.620           14.400         12.780
+ 2005                         1.620           14.400         12.780
+ 2006                         1.620           14.400         12.780
+ 2007                         1.620           14.400         12.780
+ 2008                         1.620           14.400         12.780
+ 2009                         1.620           14.400         12.780
+ 2010                         1.620           14.400         12.780
+ 2011                         1.620           14.400         12.780
+ 2012                         1.620           14.400         12.780
+ 2013                         1.620           14.400         12.780
+ 2014                         1.620           14.400         12.780
+ 2015                         1.620           14.400         12.780
+ 2016                         1.620           14.400         12.780
+ 2017                         1.620           14.400         12.780
+ 2018                         1.620           14.400         12.780
+ 2019                         1.620           14.400         12.780
+ 2020         (22.286)        1.620           14.400         35.066
+
+                  Economic Internal Rate of Return           9.7%
+
+M&R = maintenance and rehabilitation.
+a
+  Avoidance of inland transport costs from Visakhapatnam.
+

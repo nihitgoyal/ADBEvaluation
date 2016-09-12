@@ -1,0 +1,1497 @@
+ASIAN DEVELOPMENT BANK                       SST: REG 99002
+
+
+
+
+             SPECIAL EVALUATION STUDY
+
+
+                      OF THE
+
+
+         ENVIRONMENTAL MITIGATION MEASURES
+
+
+                        IN
+
+
+          SELECTED BANK-FINANCED PROJECTS
+
+
+
+
+                   December 1998
+                   ABBREVIATIONS
+
+
+BAPEDAL   ?      Badan Pengendalian Dampak Lingkungan
+                 (Environmental Impact Management Agency)
+BME       ?      Benefit Monitoring and Evaluation
+DENR      ?      Department of Environment and Natural Resources
+DMC       ?      Developing Member Country
+DPW       ?      Department of Public Works
+ECC       ?      Environmental Compliance Certificate
+EGF       ?      Environmental Guarantee Fund
+EIA       ?      Environmental Impact Assessment
+EMA       ?      Environmental Management Agency
+EMAP      ?      Environmental Management Plan
+EMM       ?      Environmental Mitigation Measures
+EMOP      ?      Environmental Monitoring Program
+EPB       ?      Environment Protection Bureau
+ESP       ?      Electrostatic Precipitator
+FGD       ?      Flue Gas Desulfurization
+MME       ?      Ministry of Mines and Energy
+NGO       ?      Nongovernment Organization
+NPC       ?      National Power Corporation
+O&M       ?      Operation and Maintenance
+OFA       ?      Overfire Air
+PCB       ?      Pollution Control Board
+PDP       ?      Power Development Program
+PLN       ?      Perusahaan Umuum Listrik Negara
+                 (National Electric Company)
+PRC       ?      People's Republic of China
+UDP       ?      Urban Development Project
+
+
+
+
+                          NOTE
+
+          In this report, "$" refers to US dollars.
+
+
+              Postevaluation Office, SS-34
+                                               2
+
+
+                                   EXECUTIVE SUMMARY
+
+
+               Environmental mitigation measures (EMM) have been included on a selective
+basis in Bank-financed projects since the early 1980s, and guidelines are included in the
+Operations Manual and other Bank documents. The Bank has made good progress in
+integrating environmental considerations in improving the project design. However, the
+effectiveness and implementation of EMM have not been evaluated. The objective of this study
+is to assess the effectiveness of measures included in selected Bank-financed projects to
+mitigate adverse environmental impacts. The study examines whether the measures produced
+the anticipated benefits, and if not, what factors contributed to the failure. The purpose is to
+examine whether the Bank is emphasizing the correct expenditure and mitigation measures
+and what could be done to implement them more effectively. The study pays particular attention
+to internal or controllable factors, particularly those relating to the Bank's internal business
+processes, and provides some recommendations for operational improvement.
+
+               The study focuses on thermal energy generation projects (plus two urban
+development projects) selected from projects in People's Republic of China, India, Indonesia, and
+Philippines. These four countries account for about half of all Bank lending in the power sector.
+
+               The environmental impact assessment (EIA) process required and supported by
+the Bank has often resulted in successful identification and mitigation of major environmental
+impacts. The study projects are generally in compliance with environmental protection
+regulations and guidelines of the respective developing member country, even though the
+mandate and capacity of its environmental management agency (EMA) to regulate and monitor
+EMM may be low. Mitigation measures requiring foreign exchange are usually undertaken
+because the Bank provides funds for this purpose, but related local expenditure for maintaining
+and monitoring EMM are often delayed until the plant is well into the operational phase. Thus,
+the Bank should more frequently provide for detailed itemizing and earmarking portions of a
+loan to encourage greater application of prescribed measures. The possibility of doing this in
+foreign currency and/or establishing a local currency escrow fund needs to be explored.
+
+              The Bank should be able to routinely assess throughout the project cycle
+whether or not a project is in compliance with host country environmental protection legislation.
+The study recommends that the Bank develop and implement an EMM evaluation and reporting
+system to establish a transparent environmental audit trail. Environmental performance
+measurement criteria would be agreed upon on a country, sector, or project basis, in line with
+the EMA standards and procedures of the developing member country.
+
+                Environmental personnel, management plans, and monitoring programs have
+had variable success in achieving EMM during the operations phase in the study projects. In the
+study countries, the provincial EMAs do not have adequate capacity, training, means, or the
+incentive to ensure compliance with regulations. The Bank should promote regular external
+audits of the large power plants to ensure compliance with regulations, and continue to develop
+the institutional capacity, as well as the enforcement, compliance, and monitoring capability of
+the EMAs, depending on each country's needs. Decentralization of enforcement responsibilities
+to provinces needs to be encouraged and accompanied by capacity building of the provincial
+EMA.
+
+              Environmental protection needs greater attention in the planning and feasibility
+study stage. The scope and timing of the EIA of the study projects indicate that EMM were often
+                                                3
+
+
+designed after the site and technologies for the plant had been selected. The EIA should be
+done during feasibility assessments prior to finalizing the site and type of technology. It should
+also include strategic and cumulative studies, and risk assessment and emergency response
+planning for some projects. For Category A projects such as large thermal power plants, in
+addition to addressing the impacts of specific projects in the planning stage, cost-effectiveness
+of using a cluster development approach to EMM should be explored where possible.
+
+               Several of the study plants experienced problems due to improper planning.
+These included waste (ash) disposal problems due to reduced demand, overestimation of
+demand for environmental improvements generated by the plant (i.e., district heating,
+wastewater, or sewage treatment); and inadequate space to install equipment required by new
+regulations (e.g., flue gas desulfurization). Adequate attention needs to be given to these
+considerations by providing contingency plans and allocating space requirements at the
+planning stage. A public promotion campaign to increase the demand for environmental
+improvements and a willingness-to-pay survey to assess the extent of demand would have
+enabled this type of project to be more cost-effective.
+
+              Implementation of EMM during the construction phase appears to be weak,
+especially where the plant operator or the EMA applied little pressure on the contractor to
+undertake them. Plant operators need to carefully itemize the budget for EMM, build in penalty
+schemes for violation of EMM by contractors, and should designate a trained environmental
+inspector, with the responsibility of enforcing the EMM set out in the environmental
+management plan. In addition, ensuring that procurement documents adequately reflect
+environment loan covenants and prequalifying contractors who have demonstrated ability to
+comply with these covenants, as well as engaging external parties to supervise the
+implementation of the stipulated EMMs would enhance their compliance.
+
+                From the plant's perspective, most case study plants (except those in India) used
+cost-effective technology to reduce the major adverse impacts of power generation. From the
+broad perspective of the cluster of industrial plants operating in a watershed or an airshed, the
+power plants may be able to provide their excess capacity on a fee-for-service basis to other
+users, and this approach should be examined at the planning stage on a case-by-case basis.
+The wastewater treatment, waste heat utilization, and solid waste management systems for
+large power plants could be expanded to serve nearby residential areas or industrial estates at
+lower cost than for separate facilities, and could provide additional cash flow to the thermal
+power plant. To successfully implement such arrangements, there has to be good coordination
+and trust between the parties sharing the same facilities. The cluster approach can also be
+used to address environmental compliance status of projects related to a Bank-financed project
+such as a previous phase of a thermal power plant or an associated transmission system not
+financed by the Bank. The Bank may consider providing additional funding solely for
+implementation of EMM in a related project on a case-by-case basis, thus avoiding the
+reputational risks associated with such operations.
+
+                The role of public awareness and public participation in affecting EMM differs in
+developing member countries, sectors, and projects. Generally, greater public participation has
+improved the design, operations, and monitoring of EMM. Increased transparency has led to
+greater flexibility in adjusting the EMM to suit changing circumstances. This participatory
+approach can be facilitated by local nongovernment organizations and other representatives
+who should be involved in the early stages of developing terms of reference for EIA, as well as
+during the design and implementation phases. Establishing a multipartite monitoring group (as
+in the Philippines) helps to keep the momentum for mitigation measures and often provides on-
+                                             4
+
+
+the-job capacity building for representatives of the EMA. However, mechanisms to provide
+funding for these environmental groups to work, travel, and participate have to be determined
+clearly.
+                                         I.       INTRODUCTION
+
+
+
+A.     Background
+
+
+1.             The Bank introduced environmental mitigation measures (EMM) in projects on a
+selective basis since the early 1980s, and has made good progress over the years integrating
+environmental considerations in improving the project design. The steps the Bank has taken are
+well documented.1 However, the effectiveness and implementation of EMM have not been
+evaluated. This study was initiated at the suggestion of the Bank's Environment Division.
+Recent project completion reports and project performance audit reports have generally
+included a brief assessment of the environmental impact of projects, but have not focused on
+whether (i) EMM were being appropriately designed and implemented as designed; (ii) sufficient
+attention was being given to operational aspects, particularly maintenance; and (iii) policy
+issues and institutional aspects were being adequately considered during project design, or
+being implemented as agreed.
+
+
+B.     Study Objectives, Scope, and Methodology
+
+
+2.             The overall objective of this study is to assess the effectiveness of measures
+included in selected Bank-financed projects to mitigate adverse environmental impacts.2 The
+study examines whether the EMM were identified correctly and appropriately designed, whether
+they produced the anticipated benefits, and if not, what factors contributed to the failure. The
+purpose is to determine whether the Bank is emphasizing the correct expenditure and mitigation
+measures and what could be done to implement them more effectively. The scope of the study
+does not include economic or financial evaluation of projects. The study pays particular
+attention to internal or controllable factors, particularly those relating to the Bank's internal
+business processes, and recommends operational improvements where possible.3
+
+
+
+
+1      These include ADB Environment Paper No. 1:Environmental Planning and Management and the Project
+       Cycle (May 1988); ADB Environment Paper No. 5:Integration of Environmental Considerations into the
+       Project Cycle (September 1990); Guidelines for Preparation of Project Performance Audit Reports (August
+       1992) Postevaluation Office; Economic Evaluation of Environmental Impacts: A Workbook (March 1993);
+       Environmental Guidelines for Selected Industrial and Power Development Projects, Office of the
+       Environment (1993); The Environment Program of the Asian Development Bank: Past, Present, and Future
+       (April 1994); Operations Manual Section 20-97; and GP:20-97:Environmental Considerations in Bank
+       Operations, (January 1997); and ADB Environment Paper No. 13:Measuring Environmental Performance in
+       Asia (April 1997).
+2      The study was financed ($150,000) under RETA 5762 approved in 16 December 1997, and the field work
+       was carried out between April-June 1998.
+3      While the study acknowledges the improvements made in the past decade in integrating environmental
+       concerns in Bank projects and the contributions made as a result of environment specialist participating in
+       design, implementation, and postevaluation of selected projects, it looks beyond this to identify further
+       improvements that can be made.
+                                                            2
+
+
+     3.             The portfolio of projects with EMM mostly covers energy, urban infrastructure,
+     and natural resources development. EMM in the thermal power and urban infrastructure
+     projects concentrate on pollution abatement (brown) issues and related policy and institutional
+     aspects. Projects in hydropower and natural resource development deal with quite different
+     EMM, focusing on biodiversity (green), fisheries issues, and associated social concerns. To
+     keep the study scope manageable and to be able to draw lessons from cross-country
+     comparison of similar projects, this study focuses on the thermal energy generation projects.1
+     Therefore, the findings of the study generally stem from the thermal power projects. The study
+     included two urban development projects (in Indonesia) on a pilot basis to ascertain whether the
+     issues raised during the study differ significantly by sector and to determine the need and scope
+     of future work in this area. Although these may have some relevance in terms of EMM, they
+     may not be fully applicable for urban sector operations.
+
+     4.             Most of the early Bank projects (approved prior to 1992) did not focus on
+     integrating environmental concerns in project design and thus did not include substantial
+     measures to address adverse environmental impacts. Since 1992, the Bank has sharpened its
+     focus on promoting environmental performance of its projects, and requires EMM often in the
+     loan covenants based on the project environmental impact assessments (EIAs) carried out
+     during feasibility and design stages. To ensure that the special study will provide useful
+     information in the present context, it includes both closed projects approved prior to 1992, as
+     well as those approved since 1992. Although projects approved after 1992 were not all closed
+     at the time of the Mission, some observations could be made concerning EMM already
+     undertaken.2
+
+     5.              The case studies on thermal generation projects are selected from People's
+     Republic of China (PRC), India, Indonesia, and Philippines (Table 1). These four countries
+     account for about half of all Bank lending in the power sector. During the ten years from 1985 to
+     1994,3 the Bank financed 16 power projects with substantially completed thermal generation
+     components in these countries. Two power projects from each country were selected by
+     stratified random sampling to enable the study to capture differences in policy and institutional
+     aspects. Details of the stratification, selection criteria, and summary information on the projects
+     are in Appendix 1. Some of these projects include several power-related components, some of
+     which are design components for follow-up projects or maintenance and transmission
+     components of previously financed projects. Only those components relating to the design,
+     physical construction, policy, and institutional aspects of thermal power generation were
+     evaluated in the study. However, the effectiveness of EMM of a substitutive (closure of highly
+     polluting power plants with the introduction of cleaner plant built under the project) or
+     complementary (afforestation in addition to installation of air pollution control equipment) nature
+     was also evaluated.
+
+                                Table 1: Loan Information on Study Projects
+
+Country      Project Area      Loan                          Title                       Amount          Date         Status
+                                No.                                                      ($'000)       Approved
+
+     1      A special evaluation study of the environmental and social impact of hydropower projects currently underway
+            in the Postevaluation Office concentrates on the more "green" type of project.
+     2      In fact, there is some advantage in evaluating ongoing projects, because in projects that are closed, it is
+            difficult to evaluate the EMM carried out during the construction stage.
+     3      Projects approved since 1995 were not sufficiently completed at the time of the Mission to warrant inclusion
+            as case studies.
+                                                                  3
+
+
+   PRC             Liulin             1091             Shanxi-Liulin Thermal Power            65,000     25 Jul 1991   closed
+                 Qingdao              1205         Qingdao Environmental Improvement         103,000   10 Dec 1992     active
+   India         Unchahar              907          Unchahar Thermal Power Extension         160,000   29 Sep 1988     active
+               Rayalaseema             988             Rayalaseema Thermal Power             230,000   21 Nov 1989     closed
+Indonesia        Suralaya             1172                       Power 22                    350,000     4 Aug 1992    active
+                  Darajat             1092                       Power 21                    300,000     25 Jul 1991   active
+                 Mataram              1292      Eastern Islands Urban Development (Sector)    85,000   21 Dec 1993     active
+              Bandar Lampung          1078         Bandar Lampung Urban Development           33,000    31 Jan 1991    closed
+Philippines      Masinloc             1042                Masinloc Thermal Power             200,000    30 Oct 1990    active
+                 Pagbilao             7089       Hopewell Power (Philippines) Corporation     50,000   18 May 1993       na
+      na = not available, PRC = People's Republic of China.
+                                                        4
+
+
+
+6.               The study used a common methodology to evaluate the success of EMM in each
+study project. A questionnaire was prepared for each project prior to fieldwork with questions
+covering environmental issues related to air, water, and land quality; waste management; and
+land use, conservation during planning, design, construction, and operations phases.1 During
+the field visits, the Mission interviewed plant management and environmental staff, physically
+inspected pollution prevention and control operations and equipment, and requested and
+reviewed (where available) environmental management plans (EMAPs), environmental
+monitoring programs (EMOPs), as well as permits and licenses. Implementation of EMM was
+discussed with the local governments, nongovernment parties, national and provincial
+environment management agencies (EMAs),2 and the concerned central Government
+authorities. The rest of this report presents the main findings, major issues arising from them,
+draws lessons learned, and makes recommendations. Appendix 2 gives the Mission's
+observations on the implementation of the EMM designed for each project, and Appendix 3
+presents the cost-effectiveness of selected EMM and alternative technology options. A
+recommended checklist of actions to be taken by a mission leader to ensure that proper EMM
+have been built into a thermal power project are presented in Appendix 4.3 Finally, Appendix 5
+provides selected photographs of EMM and monitoring equipment.
+
+
+
+                    II.      MAIN FINDINGS FROM CASE STUDY PROJECTS
+
+
+
+A.     Planning and Design Stage
+
+
+7.             The selection of sites for the power plants was based on optimizing the
+economics of power supply and demand. Except for the Pagbilao plant that is privately owned,
+all other proponents were central or provincial government corporations. Selected factors4
+relevant to the choice of location, plant size, and technology, and other design issues which
+warrant further discussion are presented in Table 2. For example, the status of air and water
+pollution control are not presented in Table 2 but are given in detail with other EMM in Appendix
+2. In study power plants, generally capital intensive (foreign exchange) technology choices were
+made during the planning stage to meet the existing environmental regulations. Therefore, high
+efficiency electrostatic precipitators (ESPs), low nitrogen oxides burners, central effluent
+treatment facilities, dust suppression systems, and high stacks were generally standard
+equipment in the study thermal power plants. Ash disposal methods varied among plants (Table
+2) and many (except Unchahar and Masinloc) did not have contingency plans to change from
+one disposal method to another. Water usage and ash handling were changed in some plants
+
+1      Social issues not directly connected with plant operations were outside the scope of the study.
+2      The national EMAs in the study countries are Ministry of Environment and Forestry (MOEF) in India;
+       Environmental Impact Management Agency (BAPEDAL) in Indonesia; Department of Environment and
+       Natural Resources (DENR) in the Philippines; and State Environmental Protection Agency (SEPA) in the
+       PRC.
+3      With some modification, the checklist can be adapted for other projects needing EMM.
+4      The factors presented in the table are selected because of their variation across projects or their importance
+       to major issues discussed in Section III. The factors left out are either not relevant or adequately addressed
+       by the plant.
+                                                              5
+
+
+(Unchahar and Pagbilao) subsequent to the planning stage because of implementation
+difficulties. None of the plants had plans for EMM related to decommissioning.
+
+
+      Table 2: Selected Factors Affecting Thermal Power Plant Planning and Design
+
+    Plant              Location                  Size and                   Ash Handling and                   Water Usage and
+  (Country)                                     Technology                    Solid Waste                        Treatment
+                                                                              Management
+    Liulin          Area around plant      Local, high quality coal       No ash utilization planned.        Use deepwell water from
+    (PRC)          zoned for industrial      supplied from nearby       Uses hydraulic ash handling            Liulin spring. Water
+                      use. No major        mines and delivered by        system capable of recycling            conservation and
+                   polluters existed at    truck. Storage exceeds       water used to transport ash to        reclamation intended.
+                   the planning stage.        planned quantities.                ash pond.                   Cooling tower installed.
+                  Space available for
+                          flue gas
+                 desulfurization (FGD).
+   Qingdao          Expansion project       Size based on demand        Ash transported to distant ash       Uses treated water to
+    (PRC)          with district heating   forecast for heat. Actual     pond. Adequate ash disposal         reduce total wastewater
+                  and coal gasification    demand is less than the      site available for existing plant.   discharge.
+                    plants for Qingdao     projected. Residue from
+                      City. Intends to       desulfurization plant
+                 replace 1 million tons      used in sulfuric acid
+                     of domestic coal                plant.
+                          burning.
+  Unchahar        Stage II extension in    840 megawatts (MW),           Improvements made for ash              Sufficient water for
+   (India)           green field site.a       conventional coal            pond. Separated lagoon               Stages I and II. Uses
+                  Space available for        burning technology.          system. Vegetation for dust          once through cooling
+                 ash disposal and FGD      Local high ash content,         suppression. Dry fly ash            water system, closed
+                        equipment.             unwashed coal                collecting system under             cycle system under
+                                           transported by railway.              implementation.                   implementation.
+                                                                                                               Domestic wastewater
+                                                                                                                treatment to start in
+                                                                                                                        1999.
+ Rayalaseema        Located in future           220 MW, Stage I         Dry fly ash collection system in       Reservoir water used,
+    (India)      industrial zone, large-       conventional design        place but inoperable due to         and cooling water may
+                 sized green field site.    plant with total intended      inappropriate design. Ash         be a limiting factor when
+                  Adequate space for          capacity of 840 MW.            pond designed to meet            industrial zone is built.
+                   ash pond and FGD           Unwashed local coal             standards. Ash water             Dry fly ash collecting
+                      equipment.              with high ash content     treatment not planned but later           system in place.
+                                             transported by railway                introduced.
+                                               over long distances.
+    Suralaya      Located in industrial       Extension of existing     On-site cement plant receives        Process water supplied
+  (Indonesia)     zone, near the sea.          plant by 400 MW to          fly ash, but difficulty of full         by pipe from
+                  No additional space       reach maximum size of         utilization due to economic            desalination unit.
+                   available for FGD         3,400 MW. Low sulfur,           crisis. No groundwater           Cooling water drawn
+                      equipment.              low ash content local     protection for ash disposal and          from the sea, no
+                                                    coal used.                  insufficient space.          groundwater utilization.
+     Darajat        Surrounded by            Geothermal plant has                 Not applicable.                Plant uses water,
+  (Indonesia)    protected forests and     installed half (55 MW) of                                         groundwater, and water
+                   agriculture zones.       total designed capacity.                                           from a water supply
+                                                                                                                    company.
+   Masinloc      Green field site by the   Size (600 MW) of plant         Dry ash disposal system            Water obtained from the
+ (Philippines)    sea, near the (Oyon)      based on demand for          wetted before transportation.           Masinloc River is
+                 bay, later defined as a   power. High quality coal        Fly ash utilization study         processed. For cooling
+                  protected area. Land       imported. Two-stage                  underway.                  water needs uses open
+                 re-zoning being done.      combustion method to                                                  canal method.
+                   Space available for        reduce pollutants.
+                    FGD equipment.
+   Pagbilao          Green field site       700 MW plant, using           Special lining used for ash           Process water and
+ (Philippines)      selection partially     imported high quality           pond. Appears to have             groundwater utilization
+                    influenced by the              coal.                   insufficient space for ash           planned, but water
+                   cooperation of the                                     disposal. Fly ash utilization         desalination plant
+                   local government.                                         under consideration.                 installed to use
+                                                              6
+
+
+      Plant             Location                 Size and                  Ash Handling and                Water Usage and
+    (Country)                                   Technology                   Solid Waste                     Treatment
+                                                                             Management
+                                                                                                                seawater.
+a
+        A green field site is a site located outside industrial areas and away from densely populated areas. Often, it is a site
+        without existing infrastructure (roads, railways, harbor, water supply, etc.) suitable for the projects. Environmental
+        regulations may vary according to the country and state.
+                                               7
+
+
+
+
+8.             The integrated urban infrastructure development program guides the planning,
+design, and implementation of urban development projects in Indonesia through a combined
+"top down-bottom up" approach. It encompasses urban planning at the national level in
+combination with urban development needs identified by local government and inputs from the
+public. Although the projects involve provision of infrastructure, improvement of the urban
+environment is an objective of each of these projects. The mitigation of environmental impacts
+is considered by the National Development Planning Agency at the earliest stages of planning
+in these projects.
+
+
+B.     Construction and Operation Stage
+
+
+9.              To the extent the Mission could verify them subsequent to the construction stage,
+most plants appeared to have carried out major EMM for prevention of erosion and
+sedimentation, and for minimization of dust or noise pollution. However, routine supervision and
+handling of oil spills, safe disposal of hazardous waste and toxic material, general
+housekeeping, proper disposal of aggregate and construction material, and revegetation of
+disturbed areas did not appear to be implemented as planned in the plants that were recently
+constructed or under construction. The plant operators used routine meetings to remind main
+contractors of these requirements but often did not adequately supervise or enforce them. EMM
+that need improvement are presented in Table 3 and discussed further in Section III. The other
+EMM relating to construction and operation stages are presented in detail in Appendix 2.
+
+10.             During plant operation, implementation of mitigation measures related to core
+plant activities were in place in almost all plants visited. For example, the boilers for the
+Masinloc, Pagbilao, and the extension at Suralaya are designed to burn only low sulfur coal,
+therefore, sulfur oxides emissions are being reduced. Operation and maintenance (O&M) of the
+low nitrogen oxides burners, ESPs, coal dust, and coal fire suppression, and water supply and
+wastewater treatment equipment were mostly internalized and routinely undertaken. There were
+trained personnel, standard operating procedures, and equipment in place to implement the
+EMM associated with these routine plant processes. However, mitigation measures relating to
+peripheral activities were weak. Generally, housekeeping facilities were weak in all plants
+(except in Darajat), and solid waste disposal also needed improvement.
+                                                                      8
+
+
+
+                Table 3: Environmental Mitigation Measures and Monitoring Programs
+                                  Generally Needing Improvement
+
+   Plant         During Construction               Prior to Testing                   Housekeeping                   In-plant Monitoring
+ (Country)                                         and Operation
+   Liulin       Not possible to evaluate           All environmental             Active housekeeping and               Some sophisticated
+   (PRC)           as construction is             mitigation measures             clean-up. Tree planting         monitoring equipment is not
+                   complete and no            (EMM) were reported to be                  ongoing.                utilized due to lack of training
+                   documentation is             installed except for the                                          and spare parts. Feedback
+                       available.              monitoring station for air                                              loop not strong from
+                                                         quality.                                                     monitoring to decision
+                                                                                                                             making.
+  Qingdao         District heating plant      Not applicable, plant under         Housekeeping methods            Existing units have air and
+   (PRC)        under construction. Coal            construction.                   could be improved.            water pollution monitoring.
+                   gasification plant                                                                             Noncompliance feedback
+                operating. Impact is not                                                                            loop not strong. New
+                 felt much outside the                                                                            monitoring program not yet
+                  existing plant sites.                                                                                     started.
+ Unchahar        Dust suppression by          Stage II not in operation at        Inadequate construction        Stage I monitoring carried out
+  (India)       sprinkling water partially     the time of the Mission.         waste not properly disposed.          regularly, but further
+                    done. No proper           Domestic water treatment                                              evaluation of results not
+                precautions for spillage        plant may be delayed.                                                     undertaken.
+                  of oil or hazardous
+                         material.
+Rayalaseema        Construction stage             Several mitigation            Treatment of domestic water       Ash content of coal exceed
+   (India)       completed, not possible      measures not ready prior           in township. Plant drainage     design limit, no feedback loop
+                      to evaluate.                to operation. Dust              effluent not treated. Total      to comply with emission
+                                              suppression system partly          suspended solids standard                 standards.
+                                              installed three years after                 exceeded.
+                                               operation. Vegetation of
+                                                 ash pond not done.
+  Suralaya         Construction stage          Not possible to evaluate.         On-site landfill adjacent to        Particulate emissions of
+(Indonesia)      completed, not possible         Ash handling does not            the sea not covered or               Stack No. 1 exceed
+                      to evaluate.              comply with hazardous               fenced and is being          regulations, but no immediate
+                                              waste regulations. (Fly ash               scavenged.                 feedback loop to repair the
+                                              is considered a hazardous                                              electrostatic precipitator.
+                                                  waste in Indonesia.)
+   Darajat      Reclamation of plant site     Designed EMM carried out.          Handling and storage of          Routine monitoring carried
+(Indonesia)           complete.                Mitigation measures for          chemicals, oils, paints, etc.,       out as stipulated and
+                                                   erosion control,                  well managed.                submitted to environmental
+                                                 reforestation can be                                                 monitoring agency.
+                                                   improved in the
+                                                  surrounding area.
+  Masinloc          Erosion control             EMM are updated after           Cleaning up of construction         Monitoring equipment is
+(Philippines)   measures, revegetation        interaction with multipartite        material and general             being calibrated. On-line
+                  of disturbed areas           team. Plant testing being           housekeeping can be             monitoring of air pollutants
+                 carried out. Seagrass              undertaken, dust                    improved.                     possible. Air quality
+                  transplantation not             suppression system                                              monitoring equipment do not
+                successful, artificial reef   sprinklers not fully installed,                                    have air loggers. Environment
+                        planned.                   and temperature                                                    monitoring group for
+                                                monitoring systems are                                                operations stage not
+                                                      being tested.                                              identified at the testing stage.
+  Pagbilao       Construction complete,        Not possible to evaluate         Domestic waste disposed of        On-line monitoring of air
+(Philippines)   not possible to evaluate.     whether most EMM were in            in Pagbilao solid waste          pollutants. Submits all
+                    No sedimentation            place. EMM not in place                disposal site.            monitoring data according to
+                  visible. Tree planting      are temperature monitoring                                          environmental compliance
+                 ongoing near the plant         of coal stockpiles, wind                                           certificate. Environmental
+                        perimeter.             breakers near coal yard.                                           Management Unit has
+                                              Other EMM appear to be in                                             direct access to plant
+                                                         place.                                                  manager and feedback loop
+                                                                                                                            is strong.
+                                                     9
+
+
+
+11.             All study plants routinely tested coal content as required in the monitoring
+programs. However, implementation of other requirements of EMOPs varied across plants. On-
+line monitoring of air pollutants was available in newly completed plants (Masinloc and
+Pagbilao). However, monitoring instruments used in laboratories for in-plant monitoring were
+not being used in some plants due to incomplete installation, lack of training, or incomplete
+assignment of responsibilities. According to the agreement reached with the Bank, the Liulin
+plant in the PRC should have established stations to monitor both water quality and air quality.
+However, at the time of the Mission's visit (more than a year after operation), only the
+monitoring station for wastewater was in operation, whereas the construction of the monitoring
+station for air quality was not yet completed. In the Philippines, most of the Masinloc plant
+monitoring equipment for the laboratory was in their original packaging although the plant was
+in the testing and operation stage. In the Pagbilao plant in the Philippines, environmental
+management and monitoring programs provided point-by-point evidence of compliance with the
+conditions of the plant's Environmental Compliance Certificate (ECC). It engaged an
+independent consultant to conduct annual environmental audits at the plant and to recommend
+improvements to plant management. Environmental monitoring reports of the Suralaya and
+Darajat plants in Indonesia were prepared by consultants who conduct limited sampling and
+analyses and consolidate internal plant reports. In India (Unchahar and Rayalaseema), regular
+monitoring and sampling is carried out by the plant environmental staff, and also by a privately
+approved laboratory and by the regional pollution control board offices. The instrumentation was
+not always up-to-date, but improvements and additional training of staff are envisaged in the
+future. Similar problems with EMM and monitoring plans were evident in the selected urban
+development projects. The Mataram project does not carry out groundwater monitoring or have
+a watershed management program to protect the quality of groundwater. Enforcement of water
+pollution control regulations is not carried out in Bandar Lampung to reduce domestic and
+industrial pollution of the Kuripan river, which is used for the town water supply.
+
+
+
+            III.    ENVIRONMENTAL MITIGATION MEASURES: MAJOR ISSUES
+
+
+
+A.     Role in the Planning Stage
+
+
+12.            EIAs prepared for the study plants were design rather than planning endeavors,
+and were often done after a green field site had been identified and power generation
+technology choices were decided. They did not provide evidence of the selected EMM solution
+being the optimal one, taking into account the environmental conditions in the air or watershed
+in which the plants operate. Rather, they simply indicated what had to be done, to ensure that
+the particular project in a preselected site, would be in accordance with the environmental
+standards and guidelines.1 Had the projects in the case studies followed a more regional
+planning approach giving environmental issues due consideration, the sites used for the study
+plants may have proved not to be the optimum. In the Philippines, both case studies in Masinloc
+and Pagbilao are on green field sites with little or no polluters or suitable infrastructure already
+existing in the area. This generally enables such plants to comply with the ambient standard
+
+1      Comprehensive documents were not available on the analysis of alternative EMM (sites, coal handling and
+       burning technologies, etc.).
+                                                    10
+
+
+quite easily,1 as well as gain acceptance from local communities due to employment generation
+and developmental possibilities. Local, site-specific environmental considerations for mitigation
+measures and technology alternatives were not addressed in the Liulin, Darajat, or Suralaya
+plants. The site planning was done centrally for power generation, taking into account extension
+of existing facilities, sources of energy, and power distribution aspects. While these are
+important aspects to consider, environmental issues such as saturating an already polluted area
+or polluting a green field site have to be given due consideration at the planning stage on a
+case-by-case basis. The Bank's endorsement of emission standards as a policy, and
+implementation of such, in practice is important in this respect.
+
+13.            Presently, in some Bank projects, emphasis is given to environmental aspects in
+the early project stages both in the Bank and developing member countries (DMCs). For
+example, in the PRC Qingdao project, environmental considerations were in the forefront of the
+planning stage, as the project's objective was environmental improvement of the Qingdao City.
+The study DMCs are also exploring means of improving the energy efficiency of new projects
+and developing renewable and clean energy alternatives. Since these developments may, in
+the future, lead to more careful site selection and consideration of new technology alternatives
+for new plants, the Bank should endorse and support them where possible.
+
+
+B.     Choice of Plant Size and Technology
+
+
+14.             Choice of plant size and technology should give due consideration to land use
+aspects and water conservation needs. In both project areas in India, case study plants are well
+oversized in terms of space, even if future expansions are taken into consideration. As the size
+of the area, resettlement needs, and land use conflicts will influence the direct and indirect
+project costs, these aspects are of major importance during the feasibility study and the project
+preparation phase and should also be included in the economic analysis of the project. The
+case study power generation units in Liulin are small sized and their efficiency is not very high
+compared with the PRC standard of late 1980s. The area where the study plant is located has
+limited water resources. Therefore, water conservation technologies such as low water
+consuming ash conveyors and low water consuming cooling systems (for example, forced draft
+wet cooling towers) should have been considered when constructing a thermal power plant in
+this area. On the other hand, water shortages in Pagbilao plant in the Philippines led to the
+installation of a reverse osmosis plant. A project's water requirements need to be compatible
+with the master plan that regulates water allocation in the area.
+
+15.             The involved ministries and agencies in DMCs now consider a broader range of
+technologies, pollution prevention systems, by-product utilization, waste minimization, and water
+conservation than in the recent past when the case studies were planned. Presently, national
+plans of all four study countries follow a national/regional power generation and distribution plan
+considering to a certain extent several environmental aspects such as the use of alternative
+sources of energy. Broadening the initial environmental appraisal during the development of
+these national plans would likely assist in site selection, technology choice, and implementation
+of EMM during construction and operation.
+
+
+
+
+1      These two plants were designed to meet both ambient and emission standards.
+                                                        11
+
+
+C.     Plans for Pollution Control and Demand for Environmental Services
+
+
+16.            In the case study plants, contingency plans and associated EMM were not
+developed during the design phase for scenarios that do not occur according to plan, or for
+problems that emerge due to changes in economic conditions or changes in environmental
+protection standards. As such, the implementation office of the Qingdao project was not
+prepared to react to the lower than anticipated demand for heat. Although the district heating
+facility was augmented and a distribution pipe network was constructed, it was difficult to
+persuade consumers in the old buildings to pay for the new pipelines. The pipes already
+connected to existing inefficient highly polluting boilers did not have the required specifications
+needed for the new district heating system. The problem of generating sufficient demand for the
+new heating system was exacerbated by the fact that collective action was needed from all
+consumers in the building to simultaneously convert to district heating. The Government tried to
+remedy the situation by stipulating that all new buildings are required to install the appropriate
+heating-pipe network and by providing financial incentives for occupants of older buildings to
+convert to the new system. A willingness-to-pay survey to assess the extent of the demand at
+the design stage and public promotion campaign to increase the demand for such facilities
+could have enabled the project to be more cost effective.
+
+17.              The economic crisis in Indonesia and the resulting reduction in demand for
+construction material has made it difficult for the Suralaya plant to utilize the ash it generates.
+As it did not have a contingency plan such as an alternative disposal site, the plant was facing
+difficulties of ash disposal at the time of the Mission. The quality of coal used in India generates
+high ash volume, which has become a major problem for compliance with new legislation1
+concerning the utilization of ash. Only a small amount of the total ash produced by the study
+plants is being utilized. Each plant in India will soon have a dry fly ash collecting system. The
+implementing agencies are trying to promote ash utilization2 through public relations, financial
+incentives, and recommendations for government initiatives, etc., but this is proving difficult as
+the construction industry has some prejudices against using materials that contain ash. While
+the overestimation of demand for environmental services and waste utilization may not
+significantly affect the economic viability of the project, they do affect its ability to maximize the
+environmental improvements or minimize the adverse impacts. 3
+
+
+D.     Implementation During Construction Phase
+
+
+
+
+1      Notification on stipulating lower ash content coal for coal-fired power stations situated more than 1,000
+       kilometers away from the colliers.
+2      Coal benefication would lead to reduced ash generation, reduced emissions of particulate matter,
+       improvement in plant availability and utilization factor, as well as lower the cost of transportation. See Bank
+       study on TA 2266-IND:Implementation of Clean Technology through Coal Benefication, for $300,000,
+       approved on 27 December 1994. However, appropriate EMMs have to be introduced simultaneously to
+       reduce adverse environmental impacts that may be created by the coal benefication technologies used.
+3      Since the scope of the study did not include the economic analysis of the project, the impact such deviations
+       in demand has on the economic internal rates of return of the project was not determined.
+                                                      12
+
+
+18.            To the extent that the Mission could verify them,1 measures to reduce
+environmental impacts during the construction phase were generally poor for most study
+projects, and compliance with standards and guidelines was not monitored or supervised by the
+power plant or the relevant EMA. None of the study projects were able to provide documented
+monitoring data or contractor procedures and specifications for EMM during the construction
+phase. Precautions to avoid visible silt runoff, sedimentation, and erosion appeared to have
+been followed. But generally, housekeeping and precautionary measures to avoid less visible
+damage (i.e., groundwater contamination, air pollution, noise, and traffic) were not emphasized.
+Plant contractors were informed of the EIA requirements regarding construction; however, there
+appeared to be very little supervision except for reminders at meetings to follow the stipulated
+procedures. Penalties for failure to adhere to them were rarely built in to the contracts. This is
+consistent with the ongoing work in the Bank which indicates that tender documents on EMM,
+which are to be implemented by the contractors, seldom included provisions for measurement
+and payment. This increases the difficulties of implementation by providing a disincentive for
+contractual performance.
+
+19.             For the projects under construction, emphasis to meet construction deadlines
+compromised the implementation of some EMM. The Rayalaseema, Liulin, and Masinloc plants
+started operation before environmental staff assignments, sampling, monitoring, and analytical
+procedures had been established, and before all of the dust suppression equipment had been
+installed. For example, proper precautions needed to be taken to avoid spillage and for disposal
+of hazardous waste and unutilized construction materials. Physical inspection of some plants
+indicated unvegetated disturbed surfaces, abandoned materials, and poor housekeeping. Plant
+operators need to improve waste management, and the EMAs should be more vigilant during
+both construction and operations phases. Implementation of EMM and procedures should be
+better documented as a completed phase of the project EMAP. In all case study countries, the
+EMA network especially at the local level, is unable to devote much attention to the construction
+stage due to lack of personnel and has a tendency to concentrate on supervising plants only
+after they have been given the necessary clearances to operate. One model that might be
+followed is in the Philippines, where monitoring is undertaken by multipartite teams. This team
+consists of members from the local community, local government, local nongovernment
+organizations (NGOs), representatives of the EMA, and the power company. The team is
+assembled prior to construction and meets regularly well into the operations stage to address
+implementation of EMM. The Bank supervision missions should routinely assess EMM
+performance during the project construction stage to stimulate improvement in this area.
+
+
+E.     Implementation During Operations Phase
+
+
+20.            The case study projects, physical infrastructure, and technology choices were
+generally designed to be in compliance with the applicable environmental regulations and
+guidelines.2 They were not considered to be among the major polluting sources in the cities
+they operate in. The EIA process required by the Bank identified the major environmental issues
+and then led to the development and implementation of appropriate EMM for the case study
+
+1      The Mission found it difficult to evaluate the success of EMM during the construction phase for already
+       completed projects.
+2      Although well under way in their construction, three plants (at Masinloc, Qingdao, and Unchahar) were still
+       not completely operational at the time of the Mission; thus the design and implementation of EMM could not
+       be fully evaluated.
+                                                        13
+
+
+projects. The relevant EMAs expressed satisfaction with the actual environmental protection
+performance of the thermal power projects in general, but continue to request improvements in
+some specific areas where the environmental standards or conditions laid down in the operation
+permit are not yet met. Technical mitigation measures involving capital expenditure and foreign
+exchange were mostly installed as planned and are generally operating at design efficiency.
+Bank funds were usually specifically allocated for this purpose during the design stage. EMM
+incorporated into or required for routine plant performance were found to be the most
+successful. Except for Rayalaseema and Suralaya, all EMM equipment inspected had been less
+than three years in operation. At Rayalaseema, the quality of delivered coal was outside the
+design limits, which caused problems for the dust removal efficiency of the ESP.1 If the design
+calls for better quality coal than the fuel that is actually delivered, the environmental standards
+cannot be met. Therefore, continued monitoring of the quality of coal is required. The study
+projects visited had the capacity to test the coal content. However, once the plant design
+specifications are in place, there is little a plant can do in the short term to reduce emissions if
+the quality of coal is below design specifications.
+
+21.              Mitigation measures related to good housekeeping, waste disposal, and
+nuisance and risk minimization could be improved in most plants. Several plants (Suralaya,
+Masinloc, and Pagbilao) could improve control of heavy vehicle traffic through neighboring
+villages. All the study projects need to develop and rehearse emergency response plans. Some
+projects have processes or practices that are not in compliance with environmental regulations
+or guidelines. For example, the disposal of fly and bottom ash2 at the Suralaya plant was not in
+compliance with the hazardous waste management regulations of Indonesia. Its disposal
+method does not meet good practice for disposing of non-hazardous waste to landfill either. For
+example, there is no liner, leachate collection system, continuous covering, or a reclamation
+plan. The dust suppression system in Masinloc was not completely installed prior to plant
+testing and startup, and in the Liulin plant, the dust suppression sprinklers were not able to
+reach the top of the coal yard storage as it exceeded the designed storage capacity. Neither of
+the study power plants in India treats the ash water so far, but both are planning to do so in the
+short to medium term.
+
+
+F.     Monitoring
+
+
+22.            Several of the projects could improve the implementation of their EMOPs that are
+generally supported by the operational budget. Monitoring aspects are weak in most plants.
+Procedures are needed to ensure that the mitigation equipment and spare parts, and the
+operating, maintenance, and monitoring procedures are functional prior to startup. Generally,
+domestic and plant solid waste minimization and disposal as well as hazardous wastes
+management programs could be improved in all the projects evaluated. Few of the power plants
+and the urban development projects studied have procedures to routinely segregate, store, or
+dispose of their hazardous and toxic wastes in accordance with existing or planned hazardous
+and toxic wastes management regulations and guidelines. At the Suralaya plant in Indonesia,
+no record of actions taken by management to ensure routine operation and maintenance of
+wastewater treatment systems, ash disposal, and ESPs was evident in the plant's quarterly and
+annual environmental monitoring reports. Many environmental staff in some plants were not
+
+1      The power plant did not appear to have control over the quality of coal delivered to the plant.
+2      This ash is considered a hazardous waste in Indonesia.
+                                                      14
+
+
+aware of their plant's environmental objectives. As an example, dust suppression from coal
+handling could be considerably improved without additional costs in the cases of Rayalaseema
+and Liulin plants, if the operation of sprinkling facilities were improved. However, this did not
+appear to be a routine procedure followed by the staff. On the other hand, in Pagbilao,
+environment monitoring documentation provided evidence of compliance with stipulated EMM.
+This may be because it was the only plant in the sample that had been subject to an external
+audit.
+
+23.               EMAPs and EMOPs, according to the requirements of the EIA, have been
+prepared for most study projects. The EMAP stipulated the requirements for preparation of
+EMOP as per the regulatory requirements. These environmental monitoring reports are usually
+reviewed by the station manager and forwarded to plant headquarters and to the relevant
+provincial EMA. The station manager is responsible for taking actions according to the EMAP in
+cases where the EMM are not being followed as designed. The feedback loop from monitoring
+to initiation of appropriate EMM was quite weak in most plants (except Pagbilao). The Mission
+also found that having environmental staff, laboratories, consultants, and regular monitoring of
+effluents, emissions, and ambient environmental quality may not necessarily result in well-
+documented environmental mitigation efforts and accomplishments. It was not clear what, if any,
+self-regulation of EMM were initiated by management based on the monitoring and
+recommendations of their own environmental staff and external consultants. For example,
+particulate emissions from Stack No. 1 at Suralaya were not in compliance with Indonesia's air
+pollution control regulations, indicating that repairs to the ESP were needed.1 This also raises a
+separate policy issue on encouraging/requiring the compliance with DMC's regulations from a
+project that is related to the Bank-funded project. For example, what should be the Bank's
+position on the compliance of a previous phase of a power plant or a related transmission
+facility that is not Bank funded.
+
+
+G.     Enforcement and Institutional Aspects
+
+
+24.            Despite the improvement made in the last decade with national EMAs, the local
+and regional EMAs still need to develop their capacity to critically review the plant compliance
+and performance data. The capabilities and skills of the responsible provincial EMAs (with a few
+exceptions) are generally limited. The Bank's institutional development and human resource
+development programs should continue to strengthen the EMAs in the study countries focusing
+more on the decentralization of enforcement and regulatory functions. Different degrees of
+training and capacity building have to be addressed depending on each country's needs as
+some study countries and provinces are more advanced than others in this respect. In the
+Philippines, the provincial EMA staff overseeing the Masinloc plant did not have the expertise
+needed to monitor the power plant. They took the opportunity to familiarize themselves with
+technical aspects of monitoring when the National Power Corporation (NPC) demonstrated
+these to the multipartite monitoring team of which they are members. In both the PRC and
+Indonesia it seems that, in practice, the district-level EMAs do not have clear regulatory
+authority over all the projects in their domain. In the PRC, decision making tends to be
+concentrated within the sectoral hierarchy (electric power administration), and the involvement
+of the environmental agencies is restricted to the "appropriate" level; for example, provincial
+Environment Protection Bureaus (EPBs) are the institutions authorized to monitor the
+
+1      Stack No. 1 of the Suralaya plant was not financed by Bank funds.
+                                                    15
+
+
+compliance of power plants owned by the province. Therefore, it is the provincial EPB for
+Shanxi Province from Taiyuan City that regulates the Liulin plant rather than the district-level
+EPB representative office in Liulin. One of the reasons for allocation of this responsibility to the
+provincial EPB which is physically far removed from the plant is because the district-level EPB
+does not have adequate expertise or resources. In Indonesia, there were no provincial or
+district-level EMAs at the time of the study.1 These complications result in EMAs being far
+removed from the pollution problems facing the project areas and leads to delays in supervision
+and regulatory action.
+
+25.             The institution overseeing the preparation of a project's EIA and EMAP in
+Indonesia is quite different from the one in other case study countries. In the others, this
+responsibility lies with the national EMA. The Department of Environment and Natural
+Resources (DENR) (national EMA in the Philippines) has more regulatory authority and
+institutional capacity than the National Environmental Impact Management Agency (BAPEDAL)
+of Indonesia. In Indonesia, the authority to prepare and implement the EMAP, including
+supervision and inspection, is largely the responsibility of the relevant sector agency of the
+Government. The Ministry of Mines and Energy (MME) and the National Electric Company are
+responsible for the environmental management of the energy and power subsector instead of
+BAPEDAL. Power plants prepare the EIA to satisfy the terms of reference stipulated by the EIA
+commission chaired by the MME. BAPEDAL is represented as a committee member. The
+Department of Public Works (DPW) is responsible for supervising the EMAP of urban
+development projects in the planning and construction phases; during the operation phase, and
+upon transfer of the project assets, it becomes the responsibility of the provincial governor and
+the mayor. Therefore, the sector agency effectively regulates its own EMAP. Of the study
+projects, those that operate in a sector where environmental performance measures are "sector
+regulated" by a sector ministry or agency rather than by a national EMA tended to have lower
+levels of environmental protection. For such "sector-regulated" projects, senior management
+leadership and the provision of adequate budget are critical for successful EMM.
+
+26.             Generally in all study EMAs, the monitoring results are only used to check if the
+emission or effluent standards are met. Subsequent to determining any penalties or sanctions,
+often these monitoring reports are stored in paper form with no further analysis. It would be
+useful to undertake more analysis (e.g., statistics, correlation analysis) in order to get a better
+understanding of the environmental features of the airshed or watershed and the impacts of the
+power plant in the surrounding area. For the plant, better evaluation and analysis of the
+monitored data would, for example, help to optimize the O&M procedures for the EMM
+equipment. Further evaluation of monitored data would also be beneficial to find least-cost
+EMMs for similar future projects. Paucity of funds, training, and incentives discourage such
+activities, which narrows the purpose of monitoring and enforcement and limits their cost-
+effectiveness.
+
+
+H.     Cost-Effectiveness Within the Plant
+
+
+27.            One of the major purposes for this study was to evaluate whether the EMM
+introduced in Bank-financed projects have been worthwhile in terms of the expenditure incurred
+
+1      There is now attempt by the Ministry of Home Affairs and the National Environmental Impact Management
+       Agency (BAPEDAL) in Indonesia to appoint EMAs at the provincial level, however, implementation of this
+       scheme is quite slow.
+                                                                    16
+
+
+     and the benefits realized. There are two aspects of cost-effectiveness to consider with respect
+     to the adoption of EMM in a plant. First, in a narrow perspective it is necessary to determine
+     whether the plant is using the most cost-effective technology to mitigate the adverse
+     environmental impacts it causes. The second involves a broader question: whether the EMM a
+     plant adopts are the most cost effective in the location in which it operates (paras. 33-36).
+
+     28.              Within the narrow perspective, the EMM technologies a power plant adopts can
+     be classified into three main categories: air pollution control, water pollution control, and solid
+     waste management. For air pollution control, often the technology choices available for thermal
+     power plants depend on the quality of the coal used. Generally, the ash content in the coal
+     determines the generation of particulates, and the sulfur content influences the sulfur dioxide
+     emissions. The study, therefore, compares the cost-effectiveness of alternative types of coal,
+     which will enable the plant to meet its environmental protection requirements. In the PRC and
+     India case studies, EMM were complied with by using low quality local coal.1 The Suralaya
+     plant in Indonesia uses good quality local coal, whereas in the Philippine case studies, good-
+     quality coal is imported.
+
+     29.             Table 4 compares the cost-effectiveness2 of the plant's fuel choice with that of
+     an alternative fuel, which could meet the required environmental standards. Supporting analysis
+     of the effectiveness and costs of each of the technologies used are presented in Appendix 3.
+     The cost-effectiveness of switching from local to imported coal to mitigate ash generation
+     depends on the characteristics and cost of local coal and the availability of local technology. In
+     India, using imported coal is more cost effective because local coal has very high ash content
+     and very low heating value.3 In the PRC, using local coal is more cost-effective because of
+     higher heating value of this coal, and the availability of inexpensive locally manufactured ESPs,
+     etc.
+
+                     Table 4: Environmental Compliance of Thermal Power Plants and the
+                        Cost-Effectiveness of Alternative Pollution Control Strategies
+
+Project                     Compliance                 Pollution Control           Cost of Alternative                Pollution Control
+                                                        Technologies                Pollution Control                  Technology for
+                                                            (Cost)a                    Strategies                   Future Standards for
+                                                                                                                       Sulfur Dioxide
+Shanxi-Liulin           ?? Complies with total         ?? Use of 99% efficient    ??Using imported coal with          ?? Use of flue gas
+Thermal Power            suspended particulates               electrostatic          low sulfur and ash content       desulfurization (FGD)
+Plant                     (TSP)emissionstandard and        precipitator (ESP)      is not cost-effective. Cost of         (wet limestone
+(2 x 100 megawatts         all ambient standards.           ($1.27 million).          coal will increase by $257      method) using design
+[MW])                                                 ?? Use of 180 meter (m)            million for 20 years           coal will increase
+                                                          stack ($2.6 million).       operation; increases ESP         capital requirements
+                                                                                       cost by $14.13 million;           by $13.7 million.
+                                                                                    reduction of ash volume by
+                                                                                      53% - use of lower stack
+
+
+     1       As the quality of coal deteriorates, its ash content increases and the heating value (kilo calorie per kilogram
+             [kcal/kg]) decreases.
+     2       These cost-effectiveness calculations for coal technology are generally based on the coal prices,
+             subsidies/duties, and transportation costs that are available in the project documents. A partial cost-
+             effectiveness analysis with respect to the coal technology choice is presented in this study because full-
+             scale economic analysis of the projects is beyond the scope of the study.
+     3       The data available during the study under TA No. 2266-IND:Implementation of Clean Technology through
+             Coal Benefication, for $300,000, approved on 27 December 1994, was not sufficient to do an alternative
+             scenario of using local washed coal for study plants in India.
+                                                                     17
+
+
+    Project                    Compliance                Pollution Control            Cost of Alternative              Pollution Control
+                                                          Technologies                 Pollution Control                Technology for
+                                                                    a
+                                                              (Cost)                      Strategies                 Future Standards for
+                                                                                                                        Sulfur Dioxide
+                                                                                       (e.g., from 180 to 100 m)
+                                                                                        cost reduction is 15%.
+    Heat Generation at     ?? Complies with TSP          ?? Existing ESP with       ??Use of imported coal with
+    Qingdao Plant            emission standard and        higher capacity will be     low sulfur and ash content
+    (3 x 12 MW)              all ambient standards.                used.               not cost-effective (cost of
+                                                        ?? Use of 180 m stack            coal increase by $80
+                                                             ($0.99 million).             million) for 15 years
+                                                                                                operation.
+                                                                                    ??Use of lower stack height
+                                                                                       (e.g., from 180 to 100 m,
+                                                                                        cost will be reduced by
+                                                                                         approximately $0.38
+                                                                                                 million).
+    Unchahar Thermal       ?? Complies with the         ?? Design ESP to meet         ??Use of imported coal         ?? Use of FGD with the
+    Power Plant             emission and ambient          the emission standard.      reduces fly ash emissions            design coal will
+    (2 x 210 MW)              standards for TSP,          Provide a 220 m stack.     and is more cost-effective.        increase investment
+                                SO2, and NOx.          ?? Dust suppression and       Cost will be reduced by $60          by $18.5 million.
+                                                            extraction system.        million over the lifetime of
+                                                                                                 plant.
+    Rayalaseema          ?? Complies with emission     ?? 99.5% efficient ESP.      ?? Imported coal reduces fly     ?? Use of FGD with the
+    Thermal Power            and ambient standards     ?? Use of 220 m stack.         ash emission and is more             design coal will
+    Plant                             for TSP.         ?? Provide adequate                 cost effective. Cost         increase investment
+    (2 x 210 MW)         ?? Complies with ambient         space for future FGD.         reduced by $35.3 million          by $18.5 million.
+                               standards with stack                                      over the lifetime of the
+                             height requirements for                                              plant.
+                                  SO2 but not the
+                                emission standard.
+                           ?? No mention of NOx
+                              control but compliance
+                             to ambient standards is
+                                    committed.
+    Pagbilao Thermal        ?? Complies with all        ?? Use of 99% efficient                                      ?? Use of 1% sulfur coal
+    Power Plant              emission and ambient           ESP; 220 m stack                                             with FGD will cost
+    (2 x 350 MW)                  standards.                 height; low NOx                                             $42.52 million but
+                                                                 burner.                                                reduce cost of stack
+                                                       ?? Design coal meets the                                           by $2.6 million.
+                                                              SO2 emission
+                                                                standard.
+    Masinloc Thermal        ?? Complies with all          ?? Use 95% efficient                                         ?? Use of FGD and
+    Power Plant              emission and ambient            ESP; 150 m stack.                                            higher sulfur coal
+    (2 x 300 MW)                  standards.               ?? Screw type coal                                           (<1%) in place of low
+                                                           unloader and covered                                           sulfur coal allows
+                                                                conveyors.                                                stack height to be
+                                                       ?? Two-stage combustion                                                   lower.
+                                                                 burners.                                            ?? This will increase cost
+                                                                                                                           by $36.4 million.
+    Suralaya Thermal     ?? Complies with emission     ?? Ash handling at dust                                         ?? Use of FGD (wet
+    Power Plant             and ambient standards.        plant ­ ESP ($25.8                                              limestone method)
+    (3 x 600 MW)                                          million).                                                      using design coal will
+                                                       ?? Use of 275 m stack                                                increase capital
+                                                          ($29.5 million).                                              requirements by about
+                                                                                                                              $90 million.
+
+
+NOx = nitrogen oxide, SO2 = sulfur dioxide.
+a
+          Costs given are costs reported from the feasibility study, environmental impact assessment, or Bank project appraisal or
+          completion reports as indicated in Appendix 3. Costs were taken from references given in the same appendix.
+
+
+         30.            The cost-effectiveness of the fuel choice can be illustrated using the case studies
+         in India. The power plants at both Rayalaseema and Unchahar are able to meet the emissions
+                                                   18
+
+
+and ambient standards for particulates with the use of an ESP. The coal used in the India case
+studies is high in ash content (40 percent) and low in heating value (3,100 kilo calories per
+kilogram [kcal/kg]). Alternatively, a good-quality (10 percent ash and 5,200 kcal/kg) imported
+Indonesian coal will require an additional fuel cost, but the fuel consumption of the plant will
+decline due to the higher heating value. Moreover, a smaller ESP will be needed and the land
+requirements for ash disposal will also decrease. Thus, the alternative imported fuel choice will
+save about $60 million over the total lifetime of the plant. Similarly, in the Unchahar plant, the
+adoption of Indonesian coal will enable a cost saving of $35 million to the plant (Appendix 3,
+Tables 3 and 4). Both these plants can use more cost-effective imported fuel instead of what
+they presently use. However, the additional costs incurred due to the use of local coal need to
+be compared with the other social and national benefits and political considerations stemming
+from employment generation in coal mines, washing plants, and transportation systems and the
+impact of foreign exchange savings on the trade balance. On the other hand, in the Liulin and
+Qingdao plants in the PRC, use of better quality imported coal is not cost effective as it will
+increase the cost of coal to the plant, as well as the cost of the ESP due to the availability of
+cheap coal and locally produced ESP. In the case study plants in the Philippines and Indonesia,
+good-quality coal is necessary at present to meet the environmental requirements and,
+therefore, alternative use of lower quality coal (though less costly) is not practical.
+
+31.             All case study thermal power plants are able to cost-effectively meet the ambient
+sulfur dioxide (SO2) standards using high stacks. Most of them also meet the SO2 emissions
+standards1 (except Rayalaseema plant) using low sulfur coal, but they provide adequate empty
+space in the plant premises to install SO2 emission controlling flue gas desulfurization (FGD)
+equipment in anticipation of more stringent standards imposed for SO2 in the future. In the
+present context, the cost premium for low-sulfur coal is less than the capital and operating costs
+for FGD equipment required to remove SO2 emissions from the boiler exhaust. In addition,
+markets for the by-products of the FGD-technology (gypsum, elementary sulfur, sulfuric acid)
+have not sufficiently developed in these countries to make FGD equipment more attractive.
+Therefore, ambient SO2 standards are often met by constructing high stacks, which is cheaper
+than installing FGD technology. The additional stack heights (25-50 meters), fabricated to
+achieve desired ambient ground SO2 levels, are constructed at low additional cost, as the
+materials and labor for stack construction are locally supplied. However, high stacks merely
+move the ground level concentration of SO2 to a higher elevation rather than reducing the
+emissions. Although cost effective under the present regulatory environment, these plants will
+likely need to install FGD equipment when SO2 standards become more stringent or the
+premium for low sulfur coal is higher. While some plants (Masinloc, Pagbilao, and Liulin) have
+allocated the land for future FGD installations, others (Suralaya) do not have this flexibility. The
+mitigation measure of using high stacks to comply with SO2 ambient standards simply transfers
+the problem from a local to a regional issue. Therefore, DMCs attempts to replace SO2 ambient
+standards with emission standards should be encouraged.
+
+32.             Design and function of wastewater treatment facilities vary considerably from
+country to country depending on the availability of land and other resources. Therefore, cost-
+effectiveness comparisons become difficult. Locally made facilities in the PRC ($1,028 per MW
+in Liulin) were found to be cheaper than those in the Philippines ($7,333 per MW in Masinloc)
+and in India ($7,619 per MW in Unchahar). Treatment of heated effluent depends on the
+location of the power plant. Natural draft cooling towers are used at plants that discharge
+cooling water into adjacent freshwater bodies. Plants located near the sea generally use long
+
+1      The PRC does not have SO2 emissions standards and ground level concentrations of SO2 is controlled by
+       the use of 180 m stacks.
+                                                  19
+
+
+channels for cooling, mixing, diluting, and dissipating heat from the discharged cooling water.
+Investment costs of both methods range from 2 to 10 percent of total plant cost. It is more
+appropriate to evaluate the cost-effectiveness of wastewater treatment facilities in terms of the
+potential use of its excess capacity (para. 37). Most of the plants visited had the capacity to
+operate cost-effectively as combined wastewater treatment facilities for a cluster of users.
+
+33.             The cheapest and most commonly used nitrogen oxide (NOx) control technology
+in thermal power plants is the overfire air burners with low excess air. Overfire air burners have
+been extensively used in new boilers because of their low cost and ability to meet the prevailing
+emission standards in these countries. There are several technologies available in the market
+that reduce NOx levels during the combustion process. Additional cost of low NOx burners is
+not significant, as this technology has become standard rather than optional for thermal power
+generators.
+
+
+I.     Cost-Effectiveness in a Cluster
+
+
+34.             In considering the cost-effectiveness of introducing a "clean" plant in an already
+polluted location, the issue is to ascertain whether a combination of mitigation measures in the
+plant and neighboring plants would have been more appropriate than concentrating on EMM
+just for the plant. To evaluate this broader perspective of cost-effectiveness of EMM for a
+particular airshed or watershed, the Mission found it difficult to obtain quantitative data on the
+cost of technologies from the neighbors of case study plants. The variety of plant types in a
+particular industrial or commercial area prohibits extrapolation of information from available
+data. Therefore, qualitative information on how the case study plants can be more cost-effective
+in a broader perspective is discussed.
+
+35.            Typically a power plant would be in, or would attract, a cluster of other industries
+or services. As a result, a variety of EMM it invests in can be used more cost-effectively if they
+are shared with other potential users in the area. Power plants could provide services like clean
+water supply, wastewater/sewage treatment, and solid waste disposal on a fee-for-services
+basis to adjacent urban or industrial areas and to users operating in the same cluster. For
+example, in the area adjacent to the Liulin plant, there are insufficient domestic wastewater and
+sewage treatment facilities, and the Liulin district does not have sufficient funds to cover capital
+cost of treatment facilities for domestic sewage generated in the district. The domestic
+wastewater treatment facilities of the Liulin plant currently has excess capacity and is in use
+only eight hours a day as it was built to accommodate Phase 2 needs as well. This excess
+capacity could be sold to the Liulin district for at least the marginal cost, thereby increasing the
+cost-effectiveness for the cluster (or district in this case) as a whole. Similarly, there may be
+opportunities to capture the waste heat from a power plant and use it for the adjacent residential
+areas. The Qingdao project uses the waste heat as the main product and electricity as the by-
+product. In a broader sense, the district heating plant in Qingdao, is one component of several
+under the project that use the cluster approach to providing environmental protection more cost
+effectively to Qingdao City.1 Under this project, several highly polluting boilers have been
+substituted by cleaner heat generation units. This substitution concept can be considered at the
+planning stage with appropriate cost sharing or pricing mechanisms. In appropriate
+
+
+1      Similar environmental improvement approaches are being used in Bandar Lampung and urban development
+       projects as well as Tangshan-Chengde environmental improvement project.
+                                                 20
+
+
+geographical areas where there is a demand for waste heat either from residential areas or
+industrial areas, the cogeneration alternative can be explored in the planning stage to increase
+the cost effectiveness in a cluster. Cogeneration often has environmental advantages and in
+many cases (depending on the prices of power and heat and the demand for heat) also has
+economic benefits. This cluster approach to cost-effectiveness can be explored further at the
+planning stage of a power plant construction in line with the regional development goals.
+
+36.             In all suggested examples, good coordination between the different agencies is
+required to adopt such an approach and to ensure cost recovery for the services provided.
+Since the cluster approach crosses sectoral and institutional boundaries, supportive legal and
+institutional arrangements are needed. But this should not preclude the concept being
+examined at the planning stage on a case-by-case basis. With its existing level of planning and
+the organizational structure for administrative functions, this approach may be easier to adopt in
+the PRC where there may be a better sense of mutual confidence between public institutions.
+On the other hand, it may be quite difficult in countries like India where cooperation between
+sectoral agencies are much more strained. Similarly, a combined wastewater treatment facilities
+for the cluster can be provided instead of separate facilities for each plant. For the cluster as a
+whole, this may be more cost-effective.
+
+37.             The cluster approach can also be used to address a more sensitive issue
+regarding the environmental compliance status of projects related to a Bank-financed project.
+For example, some parts of Phase 1 of the Qingdao district heating facility (not funded by the
+Bank) do not have up-to-date pollution mitigation measures. While the Bank is funding Phase 2
+of the heating plant, it could also fund the pollution control measures needed for Phase 1,
+based on the cluster pollution control objectives. A similar example was illustrated with the
+Suralaya case study Stack No. 1 which did not meet the emissions requirements (para. 23). The
+Bank may consider providing additional funding solely for such pollution control investments on
+a case-by-case basis. This type of add-on investments would enable the Bank to avoid the
+reputational issues of being associated with a highly polluting sister plant or a complementary
+facility such as a transmission line not funded by the Bank.
+
+38.             Another opportunity to be more cost-effective in a cluster arises when the Bank-
+funded project with marginal additional funds (though not required under the country's
+regulation) can increase the environmental management capability of the cluster. For example,
+the Masinloc plant was required to install an ambient air monitoring unit near the plant as well
+as one in a nearby residential area. These units generate air quality data on an hourly basis for
+several parameters (total suspended particulates, SO2, NOx) and provide a basis for checking
+whether the Masinloc plant operates according to regulations. If the permitted limits are
+exceeded, the plant and environmental authorities must verify the source of pollution and take
+appropriate action. There are other useful applications of monitoring data within the
+environmental management system. Better evaluation and analysis of the monitored data
+would, for example, help to optimize the O&M procedures for the EMM equipment. In addition,
+the EMA can also use such data to do trend analysis of air quality parameters and be more
+cost-effective in managing the air pollution of vehicular traffic and other sources in the
+surrounding residential areas. However, these ambient air monitoring units in Masinloc do not
+have the computer capacity to store the air quality data they generate; data is presently printed
+but not stored in digital form. Additional funds to cover the cost of a computer to store the data
+and provide training in data analysis would enable more cost-effective use of the data
+generated. In the Pagbilao plant, although data storage capacity is available in the monitoring
+units, the data is not used for further analysis. Providing funding and training for these efforts to
+the plant and provincial EMAs could be more cost-effective.
+                                                      21
+
+
+
+
+J.     Revised Bank Environmental Guidelines and Design
+
+
+39.              The Bank guidelines for environmental management of projects have been
+undergoing substantial revision since 1992. Case studies of projects approved before and after
+1992 were considered to evaluate whether the design of EMM had improved.1 The Bank
+requirement for and support of the EIA process have undoubtedly improved implementation of
+the environmental planning and management process in DMCs and have provided desirable,
+often cost-effective, EMM in the study projects. This is particularly the case when the executing
+agency is a large and powerful agency and the respective EMA is still developing jurisdiction,
+capacity, and expertise, and where public awareness and public participation in the
+environmental management process is limited. The design of EMM has considerably improved
+in the recent projects where public participation, offsetting pollution control mechanisms, and a
+cluster approach toward environmental management are emphasized. The Bank's influence on
+introducing these concepts is better in some case study countries than others. For example,
+several projects in the PRC involve the cluster approach to environment management. For
+instance, the Qingdao project itself is an environmental improvement project aiming to improve
+air quality in Qingdao City and water quality in the adjacent coastal waters. It is designed to
+replace about 1 million tons per year of coal-burning and domestic cooking stoves and small
+inefficient burners. In other plants like Masinloc and Pagbilao in the Philippines, other offsetting
+activities like reforestation (mangos, mangroves), creation of habitat for marine wildlife (artificial
+reef, seagrass beds), and village improvement programs (electrification, water supply, septic
+tanks) as required conditions of their environmental compliance certificates are being
+implemented.
+
+40.             The revised EIA requirements2 issued by the Bank's Office of Environment and
+Social Development improve on previous guidelines. They require greater emphasis on the
+consideration of alternatives than the 1993 EIA guidelines.3 The 1998 version emphasizes the
+importance of considering the environmental impacts for each alternative or option for
+technology, route, and site selection. The best alternative is required to be assessed from an
+environmental perspective as well as economic and technical aspects. The Bank environmental
+guidelines for thermal power projects4 provides a framework for assessing a project's
+environmental and social issues, following the format and the organization of the Bank's EIA
+and initial environmental evaluation guidelines. The checklist of environmental issues and
+mitigation mitigation measures for coal-fired power plants provided as Appendix 4 to this study,
+is intended to augment the Bank guidelines and requirements.
+
+
+
+
+1      Although the Unchahar plant was approved in 1988, due to delays in implementation, a new EIA that
+       complied with the revised environmental guidelines was required; therefore, it is considered to be a recent
+       project in terms of EMM design.
+2      Environmental Assessment Requirements of the ADB, Office of Environment and Social Development, ADB
+       (1998).
+3      Environmental Assessment Requirements and Environmental Review Procedures of the ADB, Office of the
+       Environment and Social Development, ADB (1993).
+4      Environmental Guidelines for Selected Industrial and Power Development Projects, Office of the
+       Environment, ADB (1993).
+                                                      22
+
+
+41.            Although Bank guidelines for project preparation, design, and monitoring have
+progressed recently, there is still room for improvement in guidelines for performance
+evaluation. For instance, performance measures or environmental quality criteria for evaluation
+of the success of EMM at different stages of a project have not been developed. An evaluation
+of EMM should be able to assess whether or not a Bank-financed project is in compliance with
+host country environmental protection legislation and if the project is in accordance with the
+covenants of the loan agreement.
+
+
+K.     Incentives for Implementation
+
+
+42.             A private sector project at Pagbilao was included as a case study to observe
+whether the EMM designed and adopted by the private sector operators were substantially
+different from those adopted by the public sector plants. In general, it was found that the plant
+design and EMM introduced were very similar to those adopted in the other Philippine case study
+(Masinloc) operated by the NPC; therefore, no other private sector case studies were added to the
+study sample. Although the study cannot comment on the differences in private versus public
+project environmental performance, the Pagbilao plant had certain incentives for compliance that
+could be replicated in other projects.
+
+43.             In terms of design, the Pagbilao plant's EMM were similar to those in the Masinloc
+plant. However, the EMAP of the Pagbilao plant appeared to be more advanced and efficient
+than that of all the other case studies.1 It enabled the plant to comply with the conditions
+stipulated in the ECC agreed to with the Philippine DENR. The EMAP was well integrated into
+the day-to-day operations of the plant. Responsibilities of monitoring different pollution control
+parameters were assigned to the general staff who routinely work in the same area. For
+example, checking the quality of coal and content analysis was done in the coal laboratory by
+the coal handling department staff. All environmental monitoring for physical and chemical
+components was done in-house, while external consultants did the required biological
+monitoring. The plant's Environment Management Department had an annual work plan, clear
+supervisory responsibilities in terms of environmental monitoring, a budget, and instructions to
+report directly to the plant manager. The Environment Management Department was also
+responsible for implementing the social and environmental improvement programs conducted
+outside the plant (mangrove rehabilitation and sustainable fisheries). The plant manager
+reported on environmental management issues to the board of directors. The plant's parent
+company provided support to personnel. Of all the case studies, this was the only plant that had
+undergone a comprehensive annual environmental compliance audit by external auditors; the
+need to prepare for the audit may have influenced its implementation of the EMAP.2
+
+44.             Public awareness and public participation is also an incentive for better design
+and implementation of EMM. This influence is quite varied across the case study countries.
+Public participation in the design phase of the case study projects in India and the Philippines
+was stronger than in Indonesia and the PRC. Multipartite monitoring teams established at the
+initial stages of a project in the Philippines, in the view of the Mission, provide greater incentive
+
+1      The EMM of some of the study plants (Suralaya, Qingdao) were designed and completed at the same time
+       as the Pagbilao plant and, therefore, the differences in environment management of these plants cannot be
+       attributed to the age factor.
+2      The external audit was required by the International Finance Corporation, which partly financed the Pagbilao
+       plant.
+                                                      23
+
+
+for the management to implement and communicate effective EMM. Greater public participation
+in the EIA phase resulted in a more transparent review of project impacts and more flexibility in
+designing mitigation measures in response to unforeseen conditions facing project construction
+and operation. In 1997, India issued a public hearing notification that enhanced the level of
+public awareness and public participation in the EIA process considerably and provided greater
+incentive to implement and communicate effective EMM in the power sector. The DPW of
+Indonesia encourages public participation and also obtains information on willingness to pay for
+environmental improvement and sanitation services in urban development projects.1 These
+initial public consultations as well as continuous public awareness campaigns done throughout
+project implementation were found to be critical to the success of such projects in Indonesia,
+and it is likely the case with similar projects in other DMCs. In the PRC, public participation or
+NGO involvement is not very apparent. The Bank should continue supporting the
+implementation of public hearings and NGO involvement especially during the project design
+stage, preferably prior to developing detailed terms of reference for the EIA.
+
+
+
+                       IV.      CONCLUSIONS AND RECOMMENDATIONS
+
+
+
+A.     Conclusions
+
+
+45.             The EIA process required and supported by the Bank has often resulted in
+successful identification, design, and mitigation of major environmental impacts as tracked
+through the project cycle and verified by the Mission's site inspections. The study projects are
+generally in compliance with environmental protection regulations and guidelines of the
+respective DMCs, even though the mandate and capacity of each EMA to regulate and monitor
+project EMM may be low. Often, these mitigation measures requiring foreign exchange are
+undertaken because the Bank provides funding for that purpose. However, related local
+expenditure to provide training for maintaining and monitoring these measures are often
+delayed until the plant is well into the operational phase. This may be due to lack of counterpart
+funds, unrealistic cost estimates, or the lower priority given to EMM than to plant construction
+and operations.
+
+46.            Under the existing internal business process and operational procedure, the
+Bank cannot routinely assess whether or not a project is in compliance with DMC environmental
+protection legislation and, therefore, in accordance with the covenants of a loan agreement, at
+any stage of the project cycle. Availability of such a system enables the Bank to advise and
+assist executing agencies in selecting and implementing the most effective EMM for existing
+and future projects. Key issues for evaluation of the success of EMM of Bank projects would
+require clear analysis and reporting of (i) what will be monitored; (ii) what standards or
+procedures will be used; (iii) who will do it; (iv) how it will be reported; and (v) what Bank actions
+are taken when a project does not satisfy expectations. The goal of EMM evaluation will be to
+establish a transparent environmental audit trail through the Bank project planning,
+development, implementation, completion, and postproject review cycles. Environmental
+performance measurement criteria can be agreed upon on a country, sector, subsector, or
+
+
+1      Public participation is required to win awards in Indonesia's nationwide Clean Cities (ADIPURA) Program.
+                                           24
+
+
+project basis--within the Bank, with the borrower, and in line with the EMA standards and
+procedures of the respective DMC.
+                                                 25
+
+
+
+47.            Environmental personnel, management plans, and monitoring programs have
+had variable success in applying EMM during operations phases in the study DMCs. At the
+start-up of operations, the power plants generally did not have all the required mitigation
+measures in place, but most plants were working toward this goal. However, environmental
+quality monitoring, effluent, and emissions monitoring studies do not always result in significant
+changes to plant operations and management, even if noncompliance of required EMM is
+noted. For most case study plants, the accountability to take follow-up actions when the plant is
+not meeting the required regulations lies with the plant manager. The EMOP would indicate
+which actions are necessary, but forcing the plant to take action becomes unrealistic (especially
+if this means closure of some plant components) if the EMA is not vigilant. In the study
+countries, the provincial EMAs do not have adequate capacity, training, means, or the incentive
+to bear such responsibility. Monitoring is also often done to fulfill a legal requirement both by the
+plant and by the EMA.
+
+48.            The study concludes that environmental protection needs greater attention in the
+planning and feasibility study stage, including broader consideration of technologies and
+systems for pollution prevention, by-product utilization, waste minimization, energy efficiency,
+water conservation, and system cost-effectiveness and O&M requirements. Site location,
+technology, and management expertise are the most important factors affecting the success of
+EMM. The scope and timing of the EIA of the study projects indicate that EMM were often
+designed after the site and the technologies for the plant had been selected.
+
+49.           Several of the study plants experienced problems due to improper planning.
+These included waste (ash) disposal problems as a result of reduced demand; overestimation
+of demand for environmental improvements generated by the plant (i.e., district heating,
+wastewater, or sewage treatment); and inadequate space to install FGD equipment required by
+new regulations.
+
+50.            Implementation of EMM during the construction phase appeared to be weak
+especially because the plant operator and the EMA applied little pressure on the contractor to
+undertake these measures. Therefore, a lower priority was assigned to EMM. Often, the cost
+escalations incurred and emphasis to meet construction deadlines compromised the budget
+available for EMM and the monitoring of related activities.
+
+51.             From the plant's perspective, most case study examples (except those in India)
+used cost-effective technology to reduce the major adverse impacts of power generation. Even
+in the study plants in India, the choice of local coal over imported coal (although not cost
+effective), is not excessive when spread over the 25-year life of the plant, and may be justified
+to achieve the social benefits of employment generation and savings of foreign exchange. From
+the broad perspective of a cluster of industrial plants operating in a watershed or an airshed, the
+power plants may be able to provide their excess capacity on a fee-for-services basis to other
+users.
+
+52.            The role of public awareness and public participation in EMM compliance differs
+in DMCs, sectors, and projects. Public promotion and awareness campaigns during design, as
+well as implementation can help realize targeted goals for environmental achievements. Greater
+public participation can improve design, operation, and monitoring of EMM, and increased
+transparency can lead to greater responsiveness and flexibility in the face of changing
+circumstances.
+                                                    26
+
+
+53.           The urban development projects studied had similar problems/issues with
+respect to EMM as for the thermal power generation projects. These included inadequate
+consideration of alternatives at the design stage, overestimating the demand for environmental
+services, as well as problems with monitoring EMM and enforcing compliance with them.
+
+
+B.     Recommendations
+
+
+54.            The Bank should consider more detailed itemizing and earmarking greater
+portions of a loan or project financing to implement EMM.1 The possibility of doing this in
+foreign currency, and/or establishing an escrow in local currency for the implementation of EMM
+and monitoring of such, needs to be explored.
+
+55.           The study recommends that the Bank develop and implement an EMM
+evaluation and reporting system for sensitive projects on a project-specific basis. The EMM
+evaluation and reporting system should become an operational procedure with necessary staff
+assignments, budget, evaluation criteria, and Bank review and reporting methods.
+
+56.             The Bank should promote regular (annual) external audits of the large power
+plants to ensure actual compliance with the regulations. The Bank should also continue to
+develop the institutional capacity and the enforcement, compliance, and monitoring capability of
+EMAs in varying degrees catering to each country's needs. Decentralization of enforcement
+responsibilities to provinces needs to be accompanied by capacity building of the provincial
+EMAs.
+
+57.            The EIA should be done during the feasibility phase prior to finalizing the site and
+type of technology. It should also include strategic, regional, and cumulative studies, as well as
+risk assessment and emergency response planning for some projects. To the extent possible at
+the planning stage, instead of addressing the impacts of specific projects, cost-effectiveness of
+using a cluster approach to EMM should be explored; keeping in mind the institutional setup
+and the legislative system of the country.
+
+58.            Adequate attention needs to be given at the planning stage to prepare realistic
+demand for environmental services and preparing contingency plans for EMM by conducting
+public promotion campaigns, willingness-to-pay surveys, and using a forward looking approach
+to evolving environmental regulations in DMCs.
+
+59.             Plant operators need to carefully itemize the budget for EMM and build in penalty
+schemes for contractors for failure to implement them; and should designate an environmental
+inspector with the responsibility for enforcing regulations as indicated in the EMAP. Ongoing
+work in the Bank also suggests that EMM be incorporated into the specifications and the bill of
+quantities of the tender documents. In addition, the Bank should, for selected projects (i) ensure
+that loan covenants relating to EMM are specifically itemized in the procurement documents
+used to engage contractors; (ii) prequalify contractors who have demonstrated an ability to
+comply with rigorous environmental loan covenants; (iii) ensure that the executing agency has
+personnel who are committed to and trained for implementation of EMM; and (iv) engage either
+
+1      Examples of earmarking funds for EMM have been prepared by the Bank's Office of Environment and Social
+       Development. See ADB Environment Paper No. 12:Environmental Loan Covenants:Principles, Checklists,
+       and Samples (December 1993).
+                                               27
+
+
+consultants or local NGOs to ensure that EMM are implemented as designed. Proper
+documentation needs to be maintained to enable external auditors to verify that EMM were
+implemented adequately. Establishment of a multipartite monitoring group (similar to that in the
+Philippines), which would closely interact with the plant operator during the construction phase,
+would further encourage implementation of the stipulated measures.
+
+60.             To be cost-effective in a broader sense, designing of EMM should evaluate the
+possibility of common wastewater treatment facilities, solid waste management systems, and
+cogeneration plants, etc. However, institutional arrangements, coordination, and trust existing
+between the parties sharing the same facilities, needs to be critically evaluated on a case-by-
+case basis.
+
+61.            The Bank should support public participation in all aspects of projects, especially
+during project planning and design stage, including during the development of detailed terms of
+reference for the EIA. Creation of a multipartite monitoring group would contribute to
+accountability and transparency, as well as effectiveness of the EMM process. However,
+mechanisms to provide funding for these environmental groups to work, travel, and participate
+should be clearly determined. There is also a viable role for local NGOs in the participation
+process for designing and implementing successful EMM.
+
+62.            A separate study to evaluate the effectiveness of EMM in urban projects is not
+required. Although conclusions of this study may not be specifically applicable to urban
+development projects, general recommendations on planning, designing, implementing, and
+monitoring of EMMs could be applicable to them as well.
+

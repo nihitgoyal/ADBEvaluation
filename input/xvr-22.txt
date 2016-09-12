@@ -1,0 +1,518 @@
+Validation Report
+
+
+
+
+Reference Number: XVR-22
+Project Numbers: 31901 and 38926
+Investment Numbers: 7138 and 7211
+December 2013
+
+
+
+
+India: Equity Investment in and Loan to
+Infrastructure Development Finance Company
+
+
+
+
+This is a redacted version of the document that excludes information that is subject to
+exceptions to disclosure set forth in ADB's Public Communication Policy 2011.
+
+
+
+
+Independent Evaluation Department
+                                        ABBREVIATIONS
+
+               ADB       ­   Asian Development Bank
+               EMSP      ­   environmental management system and procedure
+               EROIC     ­   economic return on invested capital
+               IDFC      ­   Infrastructure Development Finance Corporation
+               IFC       ­   International Finance Corporation
+               IPO       ­   initial public offering
+               RRP       ­   report and recommendation of the President
+               ROIC      ­   return on invested capital
+               WACC      ­   weighted average cost of capital
+               XARR      ­   extended annual review report
+
+
+
+                                             NOTES
+
+             (i) The fiscal year (FY) of the government, which is followed in the financial
+                  reporting of IFDC ends on 31 March. FY before
+                  a calendar year denotes the year in which the fiscal year ends,
+                  e.g., FY2011 ends on 31 March 2012.
+             (ii) In this report, "$" refers to US dollars.
+
+
+                                           Key Words
+
+   adb, equity investment, extended annual review report, fund, ied, india, infrastructure
+   development finance company, private sector, sme, term loan facility, validation
+
+
+
+
+The guidelines formally adopted by the Independent Evaluation Department (IED) on avoiding
+conflict of interest in its independent evaluations were observed in the preparation of this report.
+
+In preparing any evaluation report, or by making any designation of or reference to a particular
+territory or geographic area in this document, the IED does not intend to make any judgments
+as to the legal or other status of any territory or area.
+                                            PROJECT BASIC DATA
+
+Project Number: 31901                            XARR Circulation Date: Dec 2011
+Investment Number: 7138                          XARR Validation Date:    Dec 2013
+Project Name: Equity Investment in and Loan to Infrastructure Development Approved                         Actual
+Finance Company                                                            ($ million)                   ($ million)
+Country:             India                       Total Project Cost:          274.0                         274.0
+Sector:              Finance                     ADB Equity Investment:        30.0                          15.5
+Other Equity         Government of India, RBI, Other Investors'               244.0                         258.5
+Investors:           IDBI, SBI, IFCI, HDFC,      Capital:
+                     ICICI, UTI, GSIC, CDC,
+                     international insurance
+                     companies, and
+                     international banks
+Approval Date:       14 Oct 1997                 First Disbursement:      30 Mar 1998
+Signing Date of          1998                            Final Disbursement:           30 Mar 1998
+Equity Agreement:
+Project Officers:        Name                            Location                         From           To
+                         R. Claudet                      ADB headquarters                  2001         2002
+                         C. Locsin                       ADB headquarters                  2002         2002
+                         T. Koike                        ADB headquarters                  2003         2003
+                         A. Idris                        ADB headquarters                  2003         2005
+                         K. Felsinger                    ADB headquarters                  2005         2006
+                         P. Marro                        ADB headquarters                  2006         2006
+Validator:               J. Lufkin, Consultant           Peer Reviewer:                N. Gamo, Senior Evaluation
+                                                                                        Officer, IED2
+Quality Reviewer:        H. Feig, Lead Evaluation        Director:                     H. Hettige, IED2
+                          Specialist, IED2
+ADB = Asian Development Bank; CDC = Commonwealth Development Corporation; GSIC = Government of Singapore
+Investment Corporation; HDFC = Housing Development Finance Corporation; ICICI = Industrial Credit & Investment
+Corporation of India; IDBI = Industrial Development Bank of India; IED2 = Independent Evaluation Department,
+Division 2; IFCI = Industrial Finance Corporation of India; RBI = Reserve Bank of India; SBI = State Bank of India; UTI
+= Unit Trust of India; XARR = extended annual review report.
+2
+
+
+                                       PROJECT BASIC DATA
+
+Project Number: 38926                           XARR Circulation Date:       Dec 2011
+Investment/Loan Number: 7211/2169               XARR Validation Date:        Dec 2013
+Project Name: Equity Investment in and Loan to Infrastructure Development      Approved         Actual
+Finance Company                                                                ($ million)    ($ million)
+Country:             India                    Total Project Cost:                  50.0           50.0
+Sector:              Finance                    ADB Financing:
+                                                Loan                               50.0           50.0
+Cofinanciers:        Not applicable             Cofinancing:                     Not             Not
+                                                                              applicable      applicable
+Approval Date:       19 Apr 2005                First Disbursement:          7 May 2007
+Signing Date of      20 Mar 2007                Final Disbursement:          7 May 2007
+Loan Agreement:
+Project Officers:                               Location:                       From            To
+                     K. Felsinger               ADB headquarters                 2005          2006
+                     S. Kim                     ADB headquarters                 2007          2010
+                     C. Engstrom                ADB headquarters                 2011          2012
+                     P. Flegler                 ADB headquarters                 2013         Present
+Validator:           J. Lufkin, Consultant      Peer Reviewer:               N. Gamo, Senior Evaluation
+                                                                              Officer, IED2
+Quality Reviewer:    H. Feig, Lead Evaluation Director:                      H. Hettige, IED2
+                      Specialist, IED2
+ADB = Asian Development Bank; IED2 = Independent Evaluation Department, Division 2; XARR = extended annual
+review report.
+
+                                  I.      PROJECT DESCRIPTION
+
+A.        Project Background
+
+1.      Since 1986, the Asian Development Bank (ADB) has been instrumental in supporting
+India's policy reforms in the finance sector and capital markets. Although there had been
+significant improvements in credit access and development of long-term financial instruments,
+large investment needs in infrastructure remained unfilled because not enough long-term
+financing was available from banks and nonbank financial intermediaries. India experienced an
+infrastructure bottleneck in the 1990s, which threatened the sustainability of the country's
+economic growth and prompted the establishment of the Infrastructure Development Finance
+Corporation (IDFC).
+
+2.      In an effort to inspire confidence among capital market investors and initiate key
+infrastructure reforms, the Government of India asked ADB, along with several other
+international investors, to help formulate a strategy for the establishment of the IDFC and to
+invest in the company's equity. ADB conducted several due diligence missions to help prepare
+the company's business plan. It was determined that the IDFC would need about Rs10 billion
+(approximately $274 million) by the start of commercial operation. On 14 October 1997, ADB
+approved an equity investment of up to $30 million in the IDFC.
+
+3.     In 2005, the IDFC entered into final preparations for an initial public offering (IPO) of its
+shares. Prior to the planned IPO, ADB approved a $50 million dollar-denominated loan in April
+2005 to provide additional funding for the IDFC's growing portfolio of infrastructure project loans.
+                                                                                                3
+
+
+B.       Project Features
+
+4.      Of the approved equity investment of $30 million, only $15.5 million was disbursed. This
+was equivalent to 61 million shares or 6.1% of the IDFC's total equity. Meanwhile, the $50
+million secured loan had a maturity of 10 years with a grace period of 3 years. The loan was to
+be repaid semi-annually.
+
+5.      ADB's equity investment aimed to address the shortage of long-term financing in favor of
+infrastructure projects. The loan, on the other hand, aimed to provide the IDFC with additional
+funding to further supplement the IDFC's support for the growing number of infrastructure
+projects.
+
+C.       Progress Highlights
+
+6.      The IDFC was incorporated in January 1997. From providing project finance and
+government advisory services in its formative years, it has developed into a market leader
+providing innovative products and solutions in infrastructure finance. The IDFC is currently
+engaged in the business of asset management, loan syndication, corporate advisory,
+investment banking, and institutional brokerage.
+
+7.      From the initial equity capital the IDFC received from ADB and other investors when it
+was formed, the IDFC has raised additional capital of over $1.3 billion through its IPO and
+qualified institutional placement.
+
+8.      ADB fully divested its IDFC equity holdings in September 2006. As of the date of this
+validation, the IDFC has been fulfilling its repayment obligations under the loan agreement.
+
+                                  II. PROJECT EVALUATION
+
+A.       Development Outcomes and Impacts
+
+         1. Contribution to Private Sector Development
+
+9.      The XARR rated the project's contribution to private sector development excellent. The
+establishment of the IDFC addressed India's problem of attracting capital to finance
+infrastructure projects. From providing project finance and government advice, it additionally has
+expanded to offering innovative products and financing structures through asset management,
+loan syndication, corporate advisory, investment banking, and institutional brokerage
+operations. The company successfully raised capital for the infrastructure sector by launching
+private equity funds and therefore contributed to higher private sector participation. Its
+involvement in the formulation of policy and issues related to infrastructure through various
+government-formed committees in India is regarded as highly valuable. The IDFC has
+developed best practices in credit appraisal, establishing itself as the leading source of
+knowledge and expertise in India's infrastructure development and finance. Since initiating its
+IPO in 2005, the IDFC has become the largest privately held infrastructure finance company in
+India and considered third largest project finance company in Asia and the Pacific.1
+
+
+
+
+1
+    Thomson Reuters.
+4
+
+
+10.     This validation concurs with the XARR's rating of excellent for private sector
+development. The IDFC has had an immense catalytic impact on private investments in
+infrastructure and the XARR has provided sufficient evidence to support this.
+
+         2. Business Success
+
+11.     The XARR rated business success excellent. The XARR used the IDFC's return on
+invested capital (ROIC) starting from 2005 when the loan was approved and prior to ADB's
+divestment of its shareholdings. The real ROIC as of FY2011 when compared to the weighted
+average cost of capital (WACC), corresponds to an excellent rating. 2 The XARR further
+supported the given rating by establishing the IDFC's strong financial and business
+performance. Since its IPO, the IDFC has experienced outstanding growth in its assets,
+shareholder's equity, and earnings accounts. The IDFC has also been an industry leader among
+India's financial institutions proven by its gross nonperforming assets to gross loans ratio of
+0.3%, significantly better than the 2.5% average for India's financial institutions.3
+
+12.     The XARR should have recalculated the ROIC from 1998, which was the year ADB
+invested in the equity securities of the IDFC. Anyway, this validation was not able to calculate
+the ROIC from 1998 because the IDFC's financial statements were not readily available. This
+validation recalculated the real ROIC and WACC as of 31 March 2012 and since the ROIC is
+greater than WACC plus 700 basis points, the rating of excellent for business success is
+confirmed.
+
+         3. Contribution to Economic Development
+
+13.     As ADB's loan to the IDFC was not targeted at a specific capital investment to allow
+measurement of project benefits and cost, the XARR chose to use economic return on invested
+capital (EROIC) as proxy to determine the project's contribution to economic development. Real
+EROIC was computed as of FY2011, which being greater than 20% corresponds to an excellent
+rating according to the evaluation standards of Project Administration Instructions (PAI) No.
+6.07B. Additionally, the IDFC's major participation in many large infrastructure projects through
+project financing and advisory services further justified the excellent rating for economic
+development.
+
+14.    This validation computed EROIC to be greater than 20% so the contribution to economic
+development rating of excellent is confirmed.
+
+         4. Environment, Social, Health, and Safety Performance
+
+15.     The XARR rated environment, social, health, and safety performance satisfactory stating
+that the IDFC has introduced an environmental management system and procedure (EMSP),
+which the International Finance Corporation (IFC) considers one of the best in India's finance
+sector. The IDFC's EMSP requires subprojects to comply with India's minimum government
+regulations and the IDFC's own parameters and requires submission of an environmental plan
+as a part of the credit assessment process. The IDFC has updated to new environmental and
+social management standards by sending its senior officers and managers to training and
+seminars. Along with its achievements for environmental management, the IDFC also claims
+2
+    Please see para. 37 for a discussion of disparate terminal values used in the XARR to calculate ROIC and EROIC
+    and their effect on ratings.
+3
+    The 2.5% figure is an average of nonperforming assets for Indian commercial banks, public sector banks, and
+    private banks.
+                                                                                                  5
+
+
+that its strong advocacy on policy matters related to the infrastructure sector resulted in
+meaningful government reforms on the environment.
+
+16.      This validation concurs with the satisfactory rating. ADB conducted an environmental
+due diligence on 6­10 September 2004 where it determined that the IDFC's EMSP substantially
+complied with ADB policy and guidelines. It has also introduced improvements to the EMSP in
+several areas pointed out by ADB. The IDFC claims that no infrastructure project failing to meet
+environmental and social standards has yet passed EMSP. This validation therefore finds that
+the IDFC has complied with key standards, practices, and procedures set by both the
+Government of India and ADB and concurs with the satisfactory rating.
+
+       5. Overall Development Impacts and Outcomes Rating
+
+17.     The validation concurs with the XARR's excellent rating for the overall development
+impact as the validation concurs with all the ratings given by the XARR for private sector
+development; business success; contribution to economic development; and environmental,
+social, health, and safety performance.
+
+B.     ADB's Investment Profitability
+
+18.    The XARR rated the overall ADB investment profitability for the combined equity and
+loan investments excellent. For the equity investment, the XARR calculated an internal rate of
+return that is slightly higher than the target internal rate of return given in the report and
+recommendation of the President (RRP).
+
+19.     The XARR evaluated ADB's loan to the IDFC by comparing its margin earnings against
+a comparable loan with similar project and country risk profile. IFC's $100 million 6-year loan to
+the IDFC on March 2006 was selected as the comparator loan. ADB's spread compared to
+IFC's spread results to a multiple of 0.90, which corresponds to a satisfactory rating for the
+profitability of ADB's loan.
+
+20.     This validation confirms the excellent rating for ADB investment profitability but notes the
+following: (i) ADB's equity investment of Rs610 million is equivalent to only $15.5 million and not
+$30.0 million as indicated in the basic data as the amount disbursed; (ii) ADB received a total of
+Rs3.60 billion and not Rs2.70 billion from its divestment in the IDFC--Rs0.32 billion in dividends
+and Rs3.28 billion in equity sales proceeds; and (iii) the expected return from ADB's investment
+in the IDFC was 19.0% in nominal dollar terms and not 25.0%. This validation recalculated the
+financial internal rate of return for ADB's equity investment in the IDFC to be 1.3 times the
+expected return.
+
+C.     ADB's Operational Effectiveness (Work Quality)
+
+       1. Screening, Appraisal, and Structuring
+
+21.     An excellent rating was given by the XARR for screening, appraisal, and structuring. The
+XARR stated that ADB was involved in formulating an operating strategy and preparing the
+business plan for the IDFC, which was designed to address the infrastructure investment gap in
+India. ADB also participated in the initial capital structuring plan, ensuring that although the
+Government of India, the Reserve Bank of India, and the Industrial Development Bank of India
+would have 40% ownership of the IDFC, private sector representatives would still constitute the
+majority on the board and be given management control. It was clearly stated in the XARR that
+6
+
+
+the Government of India would only have a minority position on the IDFC board. With regard to
+the loan, the Private Sector Operations Department determined that a $50 million dollar-
+denominated loan was necessary as the domestic corporate bond market could not meet the
+IDFC's funding requirements.
+
+22.      This validation concurs with the excellent rating. ADB recognized that creation of an
+institution like the IDFC was critical in finding a solution to India's infrastructure bottleneck.
+Participating fully in its early planning stage increased the chances of the IDFC's success.
+Making sure that the IDFC could operate as an independent body, even with the Government of
+India holding a major equity stake, also contributed greatly to the IDFC's results. The approval
+process of ADB's loan to the IDFC was also excellent. The RRP was very detailed in profiling
+the borrower, forecasting the IDFC's future financial performance, identifying risks, and utilizing
+previous lessons learned by ADB on similar loan projects to structure the loan.
+
+       2. Monitoring and Supervision
+
+23.    The XARR rated ADB monitoring and supervision satisfactory. The IDFC has kept ADB
+informed through the submission of regular financial statements from which it prepares periodic
+reports about the company's business and financial performance. Since 2010, the reports have
+included monitoring of sovereign performance, industry outlook, and development effectiveness.
+
+24.     This validation concurs with the satisfactory rating, as a strong case was made by the
+XARR that ADB has kept itself sufficiently informed as to the IDFC's status and financial
+situation.
+
+       3. Role and Contribution
+
+25.     The XARR gave ADB a rating of excellent for its role and contribution, primarily citing the
+move by ADB and other foreign investors to discourage the Government of India's attempt to
+change the IDFC's private sector-led status by aligning it with the State Bank of India through
+the transfer of all Reserve Bank of India's IDFC shares in 2004. Also, the XARR mentions that
+ADB's loan has enabled the IDFC to raise additional long-term funds from diverse sources.
+
+26.     The validation concurs with the XARR rating of excellent, but notes that any catalytic
+effect of ADB's 10-year loan in enabling the IDFC to raise additional funds should be seen in the
+context of the IDFC's strong financial performance and ability to conduct a very successful IPO.
+However, it is undeniable that ADB's support for the IDFC's independence was critical in
+preserving the confidence of private investors, and deflected an initiative, which could have
+been quite detrimental to the company's ability to raise funds for infrastructure and to its overall
+standing in the market.
+
+       4. Overall Work Quality
+
+27.     The XARR rated ADB's overall work quality excellent. The validation downgrades ADB
+overall work quality to satisfactory. For an excellent overall rating, guidelines require all three
+sub-indicators to be excellent.
+
+D.     ADB's Additionality
+
+28.     ADB's additionally was rated satisfactory by the XARR. The XARR stated that being one
+of the founding investors in 1997 allowed ADB to participate in the IDFC board and improve the
+                                                                                                                    7
+
+
+  IDFC's policies and systems. ADB has played a crucial role in the IDFC's success by ensuring
+  that the IDFC's original objectives were maintained, and by giving the IDFC its continuous
+  support and commitment.
+
+  29.    The validation concurs with the XARR's rating of satisfactory. ADB has utilized its IDFC
+  board seat well through its efforts of maintaining the consistency of the IDFC's objectives to
+  ADB's own standards. The XARR makes a strong case that ADB's involvement and support of
+  the IDFC has contributed to increased investor confidence toward the IDFC and that this has
+  helped the IDFC attract private capital from the market.
+
+  E.       Overall Assessment
+
+  30.  This validation agrees with the XARR's overall rating of highly successful. Table 1
+  summarizes the individual ratings.
+
+                                           Table 1: Overall Ratings
+
+                                                                             Reason for Disagreement and/or
+           Criteria                   XARR              IED Review                     Comments
+  Development outcomes
+  and impacts
+  1. Contribution to private      Excellent              Excellent
+     sector development
+  2. Business success             Excellent              Excellent
+  3. Contribution to              Excellent              Excellent
+     economic
+     development
+  4. ESHS performance        Satisfactory               Satisfactory
+
+  Overall development               Excellent            Excellent
+  outcomes and impacts
+  ADB's investment                  Excellent            Excellent
+  profitability
+  ADB's work quality
+  1. Screening, appraisal,          Excellent            Excellent
+     and structuring
+  2. Monitoring and                Satisfactory         Satisfactory
+     supervision
+  3. ADB's role and                 Excellent            Excellent
+     contribution
+  Overall ADB's work                Excellent          Satisfactory      For an excellent overall rating, all three
+  quality                                                                sub-indicators must be excellent.
+  ADB's additionality             Satisfactory         Satisfactory
+  Overall assessment                Highly               Highly
+                                  successful           successful
+  XARR quality                                         Satisfactory
+ADB = Asian Development Bank, ESHS = environment, social, health, and safety, IED = Independent Evaluation
+Department, XARR = extended annual review report.
+Note: From May 2012, IED views the XARR's rating terminology of "partly" or "less" as equivalent to "less than" and uses
+this terminology for its own rating categories to improve clarity.
+Source: ADB Independent Evaluation Department.
+8
+
+
+                   III.         ISSUES, LESSONS, AND RECOMMENDATIONS
+
+31.     The XARR noted that while ADB's loan was denominated in dollars, all of the IDFC's
+subloans are denominated in rupees so the IDFC has to incur additional costs in hedging
+transactions. The XARR recommended that ADB consider providing a loan in local currency for
+similar projects in the future. The XARR likewise suggested that (i) ADB increase its financial
+investment for clean energy projects in India considering the substantial unfilled demand; and
+(ii) ADB consider increasing its role in providing financial intermediation to the banking sector to
+encourage wider private sector participation in infrastructure finance.
+
+32.     This validation agrees with the issue and recommendations identified in the XARR. In
+addition, some of the positive lessons from the project include (i) the inherent advantages of
+direct investments in financial institutions as opposed to financial intermediation loan modalities
+and corporate loans; (ii) the importance of good financial institution management teams for its
+business success; and (iii) the importance of concurrent improvements in the regulatory
+framework for private investments in infrastructure.
+
+                          IV.    OTHER ASSESSMENTS AND FOLLOW-UP
+
+A.     Monitoring and Evaluation Design
+
+33.     The RRP for the equity investment did not include a monitoring and evaluation design
+but the loan had a good framework for assessing the development impact of the loan.
+
+B.     Other Aspects
+
+34.    None.
+
+C.     Data Sources for Validation
+
+35.     In addition to the concept clearance paper, the RRP and XARR for the IDFC, the
+validation reviewed, among others
+        (i)   the IDFC Annual Report (2006­2012), and
+        (ii) Thomson Reuters research
+
+D.     Comments on XARR Quality
+
+36.     The XARR was very comprehensive and provided adequate information to support the
+ratings given. The XARR is worth commending in its impressive adherence to the guidelines of
+PAI 6.07b.
+
+37.    However, the terminal value used in the computation of ROIC and EROIC was not
+consistent with the terminal value computed in Appendix 5 of the XARR. The XARR provides no
+explanation why a terminal value of Rs549,140 was used in Table 11 instead of the terminal
+value of Rs496,570 given in Appendix 5. Using the terminal value shown in Appendix 5 would
+have resulted in lower ROIC and EROIC figures and lower ratings for business success and
+contribution to economic development.
+
+38.    There is also ambiguity in the XARR as to whether the loan was secured or unsecured.
+In the Key Project Features section, the XARR describes the loan as unsecured while in the
+                                                                                                                    9
+
+
+ADB Profitability section, the XARR describes the loan as secured. Both the CCP and the RRP
+say that the loan would be secured. IDFC confirmed that the loan was secured.
+
+39.    As discussed in para. 20, the XARR likewise contained some incorrect information such
+as the actual amount of ADB's equity investment in the IDFC and the amount received by ADB
+when it divested its shares.
+
+                           Table 2: Extended Annual Review Report Quality
+
+                                                                                      Less than
+                                                  Excellent        Satisfactory      satisfactory      Unsatisfactory
+Quality and completeness of evidence
+                                                                         X
+and analysis to substantiate ratings
+Consistency with XARR guidelines
+                                                       X
+(PAI 6.07b)
+Plausibility of assumptions underlying
+economic and financial analyses,
+including calculations of EIRRs,                                         X
+FIRRs, and assumptions on project
+sustainability
+Quality of lessons identification and
+                                                                         X
+recommendations
+Clarity and internal consistency of the
+                                                                                            X
+XARR
+                                                   Highly                             Less than
+                                                satisfactory       Satisfactory      satisfactory      Unsatisfactory
+Overall Assessment                                                      X
+EIRR = economic internal rate of return, FIRR = financial internal rate of return, PAI = project administration
+instruction, XARR = extended annual review report.
+Source: ADB Independent Evaluation Department.
+
+E.       Recommendations for Independent Evaluation Department Follow-Up
+
+40.      None.
+

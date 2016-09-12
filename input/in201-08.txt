@@ -1,0 +1,399 @@
+Validation Report
+
+
+
+
+Reference Number: PCV: IND 2008­13
+Project Number: 29250
+Loan Number: 1747
+July 2008
+
+
+
+
+India: Surat-Manor Tollway Project
+
+
+
+
+Operations Evaluation Department
+                                   ABBREVIATIONS
+
+           ADB           ­     Asian Development Bank
+           ADF           ­     Asian Development Fund
+           EIRR          ­     economic internal rate of return
+           FIRR          ­     financial internal rate of return
+           NH            ­     national highway
+           NHAI          ­     National Highways Authority of India
+           O&M           ­     operation and maintenance
+           OCR           ­     ordinary capital resources
+           PCR           ­     project completion report
+           RRP           ­     report and recommendation of the President
+           TA            ­     technical assistance
+
+
+
+
+                                           NOTE
+                         In this report, "$" refers to US dollars.
+
+                                       Key Words
+india, adb, asian development bank, roads, lessons, operations evaluation department,
+performance evaluation
+
+
+
+
+Director           R.B. Adhikari, Operations Evaluation Division 2, Operations Evaluation
+                   Department (OED)
+
+Team leader        N. Singru, Evaluation Specialist, Operations Evaluation Division 2, OED
+Team members       R. Lumain, Senior Evaluation Officer, Operations Evaluation Division 2,
+                   OED
+                   C. Roldan, Senior Operations Evaluation Assistant, Operations Evaluation
+                   Division 2, OED
+                             PROJECT COMPLETION REPORT VALIDATION
+
+A. Basic Project Data                             PCR Validation Date:
+Project and Loan/          29250                                                          Approved         Actual
+Grant Number:              1747-IND
+Project Name:              Surat­Manor            Total Project Costs ($ million):           280.00        246.79
+                           Tollway Project
+Country:                   India                  Loan/Grant ($ million):                    180.00        149.75
+Sector(s):                 Transport/Roads        Total Cofinancing ($ million):
+                           and Highways
+ADB Financing              ADF:                   Borrower ($ million):                    100.00          88.52
+($ million):               OCR: 180.00            Beneficiaries ($ million):
+Cofinanciers:                                     Others ($ million):
+Approval Date:             27 Jul 2000            Effectiveness Date:                  3 Jan 2001    8 Nov 2000
+Signing Date:              5 Oct 2000             Closing Date:                        30 Sep 2004 30 Sep 2005
+Project Officers:          Name:                  Designation:                             From            To
+                           P. Vallely             Transport Specialist, IWTC               2000           2001
+                           N. Patel               Principal Project Management             2002           2002
+                                                   Specialist, SARD
+                           A. Akanda              Principal Transport Specialist, INRM     2002           2005
+                           A. K. Motwani          Project Implementation Officer           2005           2006
+                                                   (Transport), INRM
+                           S. Tsukada             Principal Transport Specialist, INRM     2005           2006
+Evaluator:                 T. F. Jones            Director:                               R. B. Adhikari, OED2
+Quality Control            N. Singru, OED2
+Reviewer:
+
+B. Project Description (summarized from the report and recommendation of the President)
+
+   (i)       Rationale. The western transport corridor, comprising national highway (NH) 8 and NH4 connecting
+             Delhi, Mumbai, Bangalore and Chennai is the busiest corridor in India; this is particularly true of the
+             528 kilometer (km) section between Ahmedabad and Mumbai, where the corridor passes through an
+             industrial belt with connections to several major west coast ports. A portion (348 km) of the
+             Ahmedabad to Mumbai section was widened to a four-lane standard, while the remaining
+             approximately 180 km section (between Surat and Manor) formed a severe bottleneck, hindering the
+             efficient movement of goods and passengers between the industrial heartland of Gujarat and west
+             coast ports (including Mumbai). The scale of the overall highway improvement program and
+             associated high costs made the Government conscious of the need to mobilize private financing to
+             develop the highway system. The private sector had taken up projects with relatively short payback
+             periods, such as bridges and bypasses, but delayed assuming the higher capital costs and risks
+             associated with financing long stretches of interurban highways until the correct environment and
+             incentives were in place, and a long-term debt market was developed. These requirements were
+             addressed separately, with private participation introduced through commercialization of the
+             operation and maintenance (O&M) of the completed project facility. The Project was designed to be
+             publicly funded but privately operated and maintained under a toll concession. The project O&M
+             concession to the private sector was intended to serve as a model for use on other highway sections
+             that are improved to the four-lane standard. The Asian Development Bank's (ADB's) involvement with
+             the Project was also intended to provide an opportunity to advance policy dialogue with the
+             Government on road sector reform issues, including the commercialization of O&M.
+
+   (ii)      Objectives or expected outcomes. The objectives of the Project were to remove capacity
+             constraints and improve road safety on critical sections of the western transport corridor connecting
+             Delhi to Mumbai, with the completed project highway operated and maintained by the private
+  2
+
+
+           sector through a toll concession. The commercialization of O&M of the project highway represents
+           a significant step in increasing private participation in national highway development in India. The
+           Project included the following: (a) the widening to four lanes (including strengthening of the existing
+           two-lane pavement) of about 180 km on NH8 between Surat and Manor, (b) consulting services for
+           construction supervision of road improvement, and (c) consulting services for the development of
+           private participation and toll operations. In urban areas, the Project was to provide a six-lane divided
+           highway with service roads. The design of the highway was based on a design speed of 100 km/hr,
+           reduced to 80 km/hour in limited sections. The pavement traffic loading was derived from traffic
+           projections and field investigation conducted during the feasibility study for the Project. The proposed
+           design was based on the concept of staged construction, with an initial pavement life of 10 years to be
+           extended to 20 years through overlay of the pavement after the 10th year. Safety issues were
+           addressed in the design through design standards, road stripping, road signing, and the use of service
+           roads in urban areas. Four toll plazas--using a barrier-type open toll collection system--were slated for
+           construction at locations that would avoid disruption to local traffic between urban centers and ensure
+           the capture of long-haul traffic, because of significant time and distance penalties along alternate
+           routes. The design of the highway pavement was in accordance with international design guidelines. A
+           further design review was slated to be carried out by the supervision consultants in relation to updated
+           traffic and loading factors prior to the commencement of road improvements.
+
+           The project design included consulting services for construction supervision of the highway
+           improvements, and to assist the National Highways Authority of India (NHAI) in its effort to promote
+           private participation in the development of national highways and for backstop services relating to
+           toll operations. The demonstration process for private participation requires a broad range of
+           studies covering project feasibility, financing modalities, the legal framework, risk allocation, and
+           institutional reform. ADB technical assistance (TA) that was then ongoing focused on developing a
+           demonstration project and took the lead in this effort, but required supplementation through other
+           studies and institutional reform measures to ensure the sustainability of private participation in
+           highways (construction, maintenance, and operation). The application of tolls to additional sections
+           of the national highway following improvement to a four-lane standard necessitated review and
+           restructuring of toll rates, and establishment of proper regulatory mechanisms. Assistance was also
+           projected to be required to prepare the O&M concession agreement for the completed project
+           highway.
+
+   (iii)   Components. The Project comprised (a) the widening to four lanes (including the strengthening of
+           the existing two-lane pavement) of about 180 km on NH8 between Surat and Manor, (b) consulting
+           services for construction supervision of road improvements, and (c) consulting services for the
+           development of private participation and toll operations.
+
+   (iv)    Outputs. The road works envisioned at appraisal were completed. Additionally, works constituting
+           flyovers, underpasses, overpasses, and additional service roads were undertaken using loan
+           savings. A toll system study and a comprehensive O&M concession study were carried out under
+           the Project. A road safety audit covering about 2,800 km of the national highway and expressway
+           sections was carried out and suggestions made for improvement of the Indian road safety
+           guidelines and codes.
+
+
+C. Evaluation of Design and Implementation (PCR assessment and validation)
+
+   (i)     Relevance of design and formulation. The Project was assessed at appraisal as being highly
+           relevant and consistent with the Government's National Highway Development Plan and ADB's
+           country strategy and program for India, and remains so at completion.
+
+   (ii)    Components: Outputs and costs by component as envisioned during appraisal as
+           compared to actual costs and achievement of outputs; reasons for any deviation.
+                                                                                                                                          3
+
+
+
+                                             Project Cost at Appraisal and Actual
+                                                                                                                 a
+                                                             Appraisal Estimate                        Actual                     Actual/
+                                                                 ($ million)                          ($ million)                Appraisal
+  Item                                                  Foreign     Local      Total          Foreign    Local          Total      (%)
+  A. Base Cost
+  1. Right-of-Way                                              0.0         12.0        12.0          0.0        7.7        7.7         64.3
+       Civil Works
+       a. Section I                                           51.3         29.2        80.5        63.2       36.4        99.6       123.7
+       b. Section II                                          28.6         17.3        45.9        36.6       21.0        57.7       125.6
+       c. Section III                                         34.1         20.0        54.1        36.8       21.1        57.9       107.1
+  2. Consultant Services
+       a. Construction Supervision                            10.0          2.5        12.5          7.7        0.0        7.7         61.4
+                                                     b
+  3. Private Participation and Tolling Operations             10.0          2.0        12.0          2.5        0.0        2.5         21.2
+  4. Project Management                                        0.0          1.0         1.0          0.0        2.3        2.3       227.0
+          Subtotal (A)                                       134.0         84.0       218.0       146.9       88.5       235.4       108.0
+  B. Contingencies
+  1. Physical Contingency                                     13.5          7.5        21.0          0.0        0.0        0.0          0.0
+  2. Price Contingency                                        15.1          8.5        23.6          0.0        0.0        0.0          0.0
+          Subtotal (B)                                        28.6         16.0        44.6          0.0        0.0        0.0          0.0
+  C. Interest During Construction                             17.4          0.0        17.4        11.4         0.0       11.4         65.6
+             Total (A+B+C)                                   180.0       100.0        280.0       158.3       88.5       246.8         88.1
+a
+    Includes cost of additional works and price escalation.
+b
+    Capacity building for private participation and tolling operations (e.g., preparation of private participation framework, preparation of
+    model concession agreements, and review of toll operations).
+Sources: Asian Development Bank and National Highways Authority of India.
+
+            The total contract value for all civil works contracts at the time of award was $130 million equivalent,
+            compared with an appraisal estimate of about $180 million. The lower-than-estimated cost arose from
+            (a) the increased competition among contractors, (b) a decline in the value of the Indian rupee against
+            the US dollar, and (c) overestimation at appraisal. Additional works on the project road to improve road
+            safety and remove capacity constraints (at an estimated cost of $66.8 million, with ADB financing of
+            $44.5 million) were approved, utilizing some of the loan surplus and implementing the works as part of
+            the Project. Consulting services upon completion of the Project totaled $10.2 million or about half the
+            appraisal estimate. The project completion report (PCR) attributes this to appraisal overestimation but it
+            is likely there were two other reasons: (a) the consultants were understaffed, either in terms of skills
+            mix, time (person-months) or both; and (b) the devaluation of the Indian rupee. Interest during
+            construction was significantly lower than the appraisal estimate, mainly because the loan was
+            transformed from a pool-based to a London interbank offered rate-based loan.
+
+ (iii)      Project cost, disbursements, borrower contribution, and conformance to schedule (as
+            relevant to project performance). At appraisal, the total cost project cost was estimated at
+            $280 million equivalent, comprising $180 million in foreign exchange and $100 million in local cost.
+            The ADB loan of $180 million was to finance the entire foreign exchange cost. At completion, the
+            project cost was $246.8 million equivalent, with a foreign exchange cost of $158.3 million.
+
+            The loan approved by ADB on 27 July 2000 was provided from ADB's ordinary capital resources,
+            determined in accordance with ADB's pool-based variable lending rate for US dollar loans. The
+            borrower was NHAI. The amended and restated loan agreement to switch from a pool-based to
+            London interbank offered rate-based loan was signed on 4 July 2002 and made effective on
+            25 July 2002. Disbursements totaled $149.749 million out of the $180 million available, with
+            $30.251 million cancelled in two stages as loan savings. The report and recommendation of the
+            President (RRP) did not did not include a disbursement schedule. Disbursement projections were
+            made annually. Except in 2001, disbursements generally followed the annual forecasts.
+
+            Overall, implementation was delayed by 1 year, due mainly to slow approval of variations and the
+            additional works.
+  4
+
+
+   (iv)    Implementation arrangements, conditions and covenants, and related technical assistance.
+           The implementation arrangements envisaged at appraisal were adhered to and were found to be
+           adequate by the PCR mission. No improvements to these arrangements were cited or
+           recommended by the PCR mission.
+
+   (v)     Performance of the Borrower and Executing Agency. NHAI was both the Borrower and the
+           Executing Agency (EA). Its overall performance in both roles was considered satisfactory.
+           Preconstruction activities were undertaken so that the construction sites could be turned over to
+           the contractors shortly after contract approval. The PCR does not mention that NHAI had roughly
+           2 years to prepare for implementation, due to the delay between project preparation and loan
+           effectiveness. Had the loan been approved shortly after appraisal, it is doubtful the NHAI would
+           have been so well prepared.
+
+           The NHAI project team provided strong management and problem solving capabilities, and the civil
+           works were completed expeditiously. However, according to the PCR, NHAI delayed the initiation
+           and award of contracts for sector studies, and advance action for procurement was approved
+           before appraisal. Major variations were considerably delayed, mainly by central government
+           agencies, regardless of the obvious beneficial effects of the proposed work. These delays could
+           help explain the poor performance of the foreign contractor.
+
+   (vi)    Performance of the Asian Development Bank. The PCR states that ADB's performance was
+           satisfactory. This is evidenced by the successful and relatively timely completion of a well-
+           designed project. Ten missions related to project implementation and/or administration were
+           fielded after project appraisal, in addition to the PCR review mission. Project administration was
+           delegated to the India Resident Mission (INRM) on 1 January 2003, about 2.5 years after loan
+           approval.
+
+D. Evaluation of Performance (PCR assessment and validation)
+
+   (i)     Relevance. The Project was rated "highly relevant" by the PCR mission as it was consistent with
+           the National Highway Development Plan and ADB's country strategy and program for India. This is
+           clear from the very high traffic volumes on the project road and the clear need for capacity
+           improvements. Also, the sector studies financed under the loan were appropriate to the needs of
+           NHAI at the time, and assisted with private sector participation, tolling, O&M, and road safety. This
+           evaluator agrees with the PCR rating. The project design was comprehensive and involved not
+           only a large road improvement component but also several institutional initiatives. These aspects
+           were well covered and explained in the RRP and PCR and the Project's goals were achieved.
+           Overall, the design was good and appears to have been effective in implementation. No significant
+           issues need to be highlighted.
+
+   (ii)    Effectiveness in achieving outcome. The PCR rated the Project "effective", and this rating
+           clearly was and remains appropriate. The only significant issues are the lack of measures to
+           control axle loadings and thus reduce road deterioration, and the mixture of local, slow-moving
+           traffic on the tollway, which raises safety and maintenance issues. The segregation of slow and
+           fast moving traffic has been largely addressed through construction of service roads and six-lane
+           stretches in urban and congested areas. Service roads are normally provided on both sides of a
+           high speed road, and may cover only about 25% of road length. While provision of such service
+           roads is an effective way of segregating local and through traffic, it cannot be assumed that slow
+           traffic will always stay within paved shoulders. Where appropriate, the use of barrier separation of
+           slow and fast moving traffic may be considered. Axle load control and proper maintenance of the
+           highway facility are reportedly being adequately addressed by a model concession agreement
+           covering expansion of roadways to six lanes, tolling, and highway O&M, under a long-term private
+           sector concession.
+
+   (iii)   Efficiency in achieving outcome and outputs. The PCR rated the Project "highly efficient."
+           Given the very high traffic volumes, the high economic internal rate of return (EIRR) is expected
+                                                                                                            5
+
+
+           (the appraisal EIRR was 25%, while the PCR found the EIRR to be 32%). With widening to six
+           lanes, efficiency can be maintained.
+
+   (iv)    Preliminary assessment of sustainability. Sustainability is rated "most likely", as a private sector
+           concessionaire will be responsible for road maintenance, funded by the collected tolls or through
+           negative viability gap funding. The financial internal rate of return (FIRR) was lower than appraisal
+           (9.6% as opposed to 14.2%). The meaning of the FIRR is difficult to judge as the PCR does not
+           mention the weighted average cost of capital. Nevertheless, for this type of project, an FIRR of
+           9.6% is generally acceptable and an indicator of sustainability.
+
+   (v)     Impact (both intended and unintended). Several environmental impacts were identified by the
+           summary initial environmental examination, and these were properly addressed during
+           preconstruction and construction. This Project introduced a new but probably very effective
+           scheme (pre-afforestation) to ensure that negative effects were corrected before they occur, by
+           planting replacement and compensatory trees before any existing trees were cut down. The PCR
+           draws the erroneous conclusion that trees and brush in the right-of-way and median reduce noise
+           pollution. Many studies have shown that these have no significant effect on nearby areas.
+
+           The rehabilitation and resettlement of project-effected persons was undertaken by NHAI in
+           accordance with the resettlement action plan, and with the assistance of a qualified
+           nongovernment organization. A verification survey 3 years after appraisal identified a significantly
+           higher number of project affected-persons than originally envisioned. There is some difficulty
+           finding certain parties due compensation, but the funds are available once they are found.
+
+E. Overall Assessment, Lessons, and Recommendations (validation of PCR assessment)
+
+   (i)     Overall assessment. The Project is rated "highly successful". It achieved more than its objectives,
+           due to adequate time to complete necessary preconstruction activities, and appropriate use of
+           some loan savings. A considerable amount was cancelled, but the cancellation would not have
+           been necessary if a sector approach had been followed; the sector approach has subsequently
+           been introduced. Policy and institutional issues have been appropriately addressed and have been
+           largely instituted.
+
+   (ii)    Lessons. The PCR correctly identified a number of lessons, including the poor performance of the
+           foreign lead contractor firm(s). This is a common problem. Foreign firms are often brought into the
+           prequalification process to augment the qualifications of the local contractor. The PCR states that
+           prequalification standards have been strengthened to avoid such situations in the future, and this is
+           a good response to an important lesson. This validation suggests the following lesson in addition to
+           those listed in the PCR. Most projects of this type have overly optimistic implementation schedules.
+           In the case of this Project, the EA had plenty of time to undertake the preconstruction phase,
+           because loans to India were not being approved until about 2 years after appraisal. If the Project
+           had been approved shortly after appraisal, the Project would most likely have experienced
+           considerable delays. This Project can serve as an example of the need for more realistic
+           implementation schedules.
+
+   (iii)   Recommendations. This Project provides a good example of allowing adequate time for
+           preconstruction activities such as land acquisition, resettlement and advance procurement. Such
+           activities should be included in a realistic implementation schedule.
+
+F. Monitoring and Evaluation Design, Implementation, and Utilization (PCR assessment and validation)
+
+   NHAI, with the assistance of the supervision consultants, were tasked with carrying out performance
+   monitoring and evaluation under the Project. Key indicators agreed upon by NHAI and ADB will be used
+   as baseline data in these activities. The PCR concluded that this was complied with. A benefit monitoring
+   and evaluation report containing key indicators was submitted in 2002. The project benefits were included
+   by NHAI in their PCR.
+     6
+
+
+
+G. Other (e.g., safeguards, including governance and anticorruption; fiduciary aspects; Government
+   assessment of the Project, as applicable) (PCR assessment and validation)
+
+     Safeguards were complied with. Fiduciary aspects appear to have been well handled.
+
+H. Ratings:                                        PCR             OED Review               Reason for
+                                                                                     Disagreement/Comments
+Relevance:                                  Highly relevant     Highly relevant
+Effectiveness in Achieving Outcome:         Effective           Effective
+Efficiency in Achieving Outcome and         Highly efficient    Highly efficient
+Outputs:
+Preliminary Assessment of                   Most likely         Most likely
+Sustainability:
+Borrower and EA:                            Satisfactory        Satisfactory
+Performance of ADB:                         Satisfactory        Satisfactory
+Impact:                                     Positive            Positive
+Overall Assessment:                         Highly successful   Highly successful
+Quality of PCR:                                                 Satisfactory
+
+I.   Comments on PCR Quality. The PCR is well written. However, the PCR was found to be silent on the
+     weighted average cost of capital in the financial evaluation, which could have been improved.
+
+J. Recommendation for OED Follow-Up
+
+     No follow-up action required.
+
+K. Data Sources for Validation
+
+     (i)     PCR, RRP, legal documents, Government's PCR;
+     (ii)    Management review meeting and staff review committee documents and summary record of
+             discussion of ADB's Board of Directors;
+     (iii)   Board reports and other progress reports;
+     (iv)    project administration memorandum and list of archived documents;
+     (v)     supervision reports, including most recent midterm review or progress reports, back-to-office report
+             of PCR Mission, etc.; and
+     (vi)    OED evaluations of previous projects, including PCR reviews.
+   REGIONAL DEPARTMENT'S RESPONSE TO THE PROJECT COMPLETION REPORT
+                          VALIDATION REPORT
+
+
+On 21 April 2008, Director, OED2, Operations Evaluation Department (OED), received the
+following comments from the India Resident Mission, South Asia Department.
+
+We have reviewed OED's earlier draft Project Completion Report (PCR) Validation Report
+circulated to us on 19 October 2007, 27 November 2007, and its final draft sent to us for review
+on 15 April 2008. We appreciate that the comments we made to OED on the earlier drafts have
+been adequately incorporated in the final draft. Therefore, we have no formal comment to make
+on the final draft.
+

@@ -1,0 +1,531 @@
+Validation Report
+
+
+
+Reference Number: PVR-326
+Project Number: 37066
+Loan Number: 2248
+October 2014
+
+
+
+
+Multitranche Financing Facility
+India: Rural Road Sector II Investment Program
+(Project 1)
+
+
+
+
+Independent Evaluation Department
+                                        ABBREVIATIONS
+
+              ADB        ­   Asian Development Bank
+              CPF        ­   community participation framework
+              CSP        ­   country strategy and program
+              EIRR       ­   economic internal rate of return
+              km         ­   kilometer
+              MFF        ­   multitranche financing facility
+              MORD       ­   Ministry of Rural Development
+              PCR        ­   project completion report
+              PIC        ­   project implementation consultant
+              PIU        ­   project implementation unit
+              PMGSY      ­   Pradhan Mantri Gram Yojana (Prime Minister's Rural
+                             Roads Program)
+              TSC        ­   technical support consultant
+
+
+                                               NOTE
+
+                              In this report, "$" refers to US dollars.
+
+
+
+
+                                           Key Words
+
+adb, asian development bank, assam, independent evaluation department, india, lessons, mord,
+orissa, performance evaluation, pmgsy, project completion report, rural road, west bengal
+
+
+
+
+The guidelines formally adopted by the Independent Evaluation Department (IED) on avoiding
+conflict of interest in its independent evaluations were observed in the preparation of this report.
+To the knowledge of IED management, there were no conflicts of interest of the persons
+preparing, reviewing, or approving this report.
+
+In preparing any evaluation report, or by making any designation of or reference to a particular
+territory or geographic area in this document, IED does not intend to make any judgments as to
+the legal or other status of any territory or area.
+                                              PROJECT BASIC DATA
+Project Number:             37066                 PCR Circulation Date:  Mar 2012
+Loan Number:                2248                  PCR Validation Date:   Oct 2014
+Project Name:               Rural Road Sector II Investment Program (Project 1)
+Country:                    India                                           Approved                           Actual
+                                                                            ($ million)                      ($ million)
+Sector:                     Transport and ICT     Total Project Costs:        250.2                           233.4
+
+ADB Financing:              ADF:       0.0            Loan:                                 180.0            173.9
+($ million)                                           Borrower:                              70.2             59.5
+                            OCR: 180.0                Beneficiaries:                          0.0              0.0
+                                                      Others:                                 0.0               0.0
+Cofinancier:                                          Total Cofinancing:                      0.0               0.0
+Approval Date:              31 Jul 2006               Effectiveness Date:             90 days from         18 Oct 2006
+                                                                                      loan agreement
+Signing Date:               29 Aug 2006               Closing Date:                   31 Dec 2008          30 Jun 2009
+Project Officers:                                     Location:                            From              To
+                            H. Iwasaki                ADB headquarters                   Aug 2006         Jan 2009
+                            O. Tonkonojenkov          ADB headquarters                   Feb 2009         Dec 2009
+Validators:                 B. Palacios,              Peer Reviewer:                  P. V. Srinivasan, Evaluation
+                              Consultant                                                Specialist, IED2
+                            F. D. De Guzman,
+                            Senior Evaluation
+                              Officer, IED2
+Quality Reviewer:           E. Gozali, Principal      Director:                       B. Finlayson, IED2
+                              Evaluation
+                              Specialist, IED1
+ADB = Asian Development Bank; ADF = Asian Development Fund; ICT = information and communication technology;
+IED1 = Independent Evaluation Department, Division 1; IED2 = Independent Evaluation Department, Division 2; OCR
+= ordinary capital resources; PCR = project completion report.
+
+                                        I.        PROJECT DESCRIPTION
+
+A.        Rationale
+
+1.      India's road network consisted of national highways, a secondary system of state
+highways and major district roads, and a tertiary system consisting mainly of rural roads. In the
+rural areas, where 70% of India's population lived, many villages relied on earth tracks that were
+unsuitable for motorized traffic and unpassable in the rainy season. During project preparation,
+about 40% of 850,000 habitations1 did not have all-weather roads. In areas with all-weather road
+connections, the road standard was low, maintenance was poor, and many roads needed
+rehabilitation. These conditions cut off rural communities from economic centers, thus slowing
+growth and development.
+
+2.      The tertiary road in India covered about 2.7 million kilometers (km), most of which were
+rural roads. A typical rural road network consisted of zilla parishad roads, gram panchayat roads,
+
+
+
+
+1
+    A habitation is a distinct cluster of population with houses, occupying an area, having a local name. In the rural
+    areas, a village may include more than one habitation.
+2
+
+
+and community roads. 2 Under India's Constitution, the panchayati raj institutions were to
+manage the rural roads. However, most states retained these rural roads under their respective
+jurisdiction and responsibility.
+
+3.       The Prime Minister's Rural Roads Program (PMGSY) was launched in 2000 to address
+the lack of rural road connectivity. To fund the PMGSY, an estimated Rs1,320 billion or about
+$30 billion was required. Fifty percent of special excise duty on high-speed diesel was identified
+as a source of funding. However, this was estimated to be only about Rs24 billion annually or
+$0.5 billion, which was not sufficient. The government sought funding assistance from external
+agencies such as the Asian Development Bank (ADB). In 2003, ADB approved the Rural Roads
+Sector 1 Project3 to improve about 1,000 km of PMGSY roads in the states of Chhattisgarh and
+Madhya Pradesh.
+
+4.     The government requested ADB for a multitranche financing facility (MFF) of $750 million
+over a 5-year period. ADB approved the MFF on 31 July 20064 to finance the first tranche of the
+MFF for the states of Assam, Orissa, and West Bengal. The MFF, under each subsequent
+tranche or subproject, was to cover about one-third of the annual financing required for the
+planned investment program. It was an appropriate instrument for long-term cofinancing of a
+government program involving multiple state agencies since it allowed for predictable financing
+sources and a more flexible financing arrangement.
+
+B.        Expected Impact
+
+5.      The envisaged impact of the MFF and the first tranche was to help reduce poverty and
+deprivation, and support the economic growth of rural communities connected by the road
+investment program. About 3­4 years after completion of the subproject, poverty rates in the
+areas connected by the project roads were expected to decrease by 5%. Social indicators in
+rural areas served by the investment program roads, such as maternal and infant deaths, safe
+delivery, immunization rates, post-primary dropout, and primary school teacher attendance,
+were expected to improve by 10%.
+
+C.        Objectives or Expected Outcome
+
+6.      The expected outcome for the MFF, including the first tranche, was improved
+connectivity of rural communities to markets, district headquarters, and other centers of
+economic activity via the road investment program. Outcome targets were all-weather roads for
+habitations with a population of 1,000 and more, and better access to markets and health and
+education facilities, to be measured by lesser disruption of access to these facilities (from 25% of
+the year to less than 15 days a year). Another performance indicator was diversified income
+opportunities in rural areas to be measured in the number of people obtaining work outside the
+village and changes in cropping pattern and agricultural-produce marketing.
+
+
+
+
+2
+    A panchayat is an assembly of the village elders, directly elected by the people of the village. Gram panchayats
+    refer to those at the village level, intermediate panchayats are those at the block level, and the zilla panchayats
+    are at the district level. They are collectively called the panchayati raj institutions.
+3
+    ADB. 2003. Report and Recommendation of the President to the Board of Directors: Proposed Loan to India for the
+    Rural Roads Sector I Project. Manila.
+4
+     ADB. 2005. Report and Recommendation of the President to the Board of Directors: Proposed Multitranche
+    Financing Facility to India for the Rural Roads Sector II Investment Program. Manila.
+                                                                                                           3
+
+
+D.        Outputs
+
+7.      The MFF was designed with two major components. First, the road connectivity
+component focused on building and upgrading rural roads to all-weather standard. This was to
+be implemented in batches, generally coinciding with the PMGSY annual project approval and
+fund allocation cycle. The first MFF tranche or subproject (which is being validated) was to cover
+3,144 km. The whole MFF was to cover about 30,000 km and connect about 19,000 habitations.
+The remaining subprojects or tranches were to be implemented in the subsequent three annual
+batches of future MFF-financed projects.
+
+8.     The second component was for capacity building to assist local agencies in
+implementing the subproject. Technical support in the form of consultant services in road safety
+and impact monitoring, among others, was to be provided. Another intended output was greater
+community participation, putting in place a better community consultation process, which would
+be evidenced by the community's higher satisfaction of the process.
+
+E.        Provision of Inputs
+
+9.      ADB was to finance civil works of the planned 3,200 km of rural roads, and provide 12
+person-month inputs of technical support consultants (TSC) to each participating state under the
+capacity-building component. At appraisal, the total project cost was estimated at $250.2 million,
+with a foreign currency exchange cost of $194.2 million and a local currency cost equivalent of
+$56.0 million. Of the $180 million ADB loan, $179.6 million was to fund the road connectivity
+component and $0.4 million for the capacity-building component. Civil works were expected to
+be completed by the end of 2007. At completion, ADB financed $173.7 million of the civil works,
+$0.2 million for the capacity-building component while $6.1 million was canceled.
+
+10.      The project was completed at a cost of $233.4 million, 6.7% lower than the appraisal cost
+of $250.2 million. The lower cost was attributed to the shorter road length completed. Some work
+packages were either moved to later tranches of the MFF or funded by the government later on.
+Despite the lower overall cost, the unit cost of road construction was actually higher because of
+engineering revisions and escalation of material prices. Civil works commenced one quarter late
+for the three states and completion took 2 years longer than scheduled. The monsoon rains and
+peace and order problems in a few project areas exacerbated implementation bottlenecks. The
+government's internal process delayed the mobilization of the TSCs by 15 months. The
+government was to pass on loan proceeds in local currency to the Ministry of Rural Development
+(MORD). MORD, in turn, was to pass on the proceeds to the governments of the participating
+states on a grant basis. The government was to shoulder the foreign exchange risk on the loans.
+
+11.     The TSCs were made up of environment specialists, social development experts, and
+road safety experts. They provided technical support to the project implementation units (PIUs)
+in road safety, and trained contractors on social and environment safeguard requirements. The
+TSCs also conducted an impact and monitoring survey and a traffic survey. At completion, the
+TSCs provided 92.8 person-months of services. The project completion report (PCR)5 rated their
+performance highly satisfactory.
+
+
+
+
+5
+    ADB. 2012. Completion Report: Rural Roads Sector II Investment Program (Project 1) in India. Manila.
+4
+
+
+12.    The project's environmental impact was assessed as category B in accordance with
+ADB's Environmental Assessment Guidelines (2003).6 An environment code of practice checklist
+and an initial environmental examination indicated that the rural roads would not generate any
+adverse environmental impact. Also, no affected persons were relocated because of the minor
+scale of land acquired for shoulder adjustment and drainage construction (PCR, Appendix 7,
+page 27, Status of Compliance on Loan Covenants item 12).
+
+13.    A total of 392 civil works contracts were awarded. The PCR indicated that, in general, the
+contractors' performance with respect to deployment of personnel, supervision, checking quality
+of work, and field inspections, was considered satisfactory.
+
+F.        Implementation Arrangements
+
+14.     As proposed at appraisal, the executing agencies responsible for supervising and
+executing the project were the MORD at the central level and the governments of Assam,
+Orissa, and West Bengal at the state level. The National Rural Roads Development Agency was
+to provide technical and management support. A coordination committee chaired by the MORD
+joint secretary was to be set up within 3 months of loan effectiveness. The committee was to
+monitor the use of loan funds and overall project implementation.
+
+15.     The implementing agencies were to be the state rural road development agencies in the
+three states. Each state was to establish a project implementation committee chaired by the
+executive officer of the state rural road development agency. The district PIUs of the
+implementing agencies were to perform the technical work. During implementation, the National
+Rural Roads Development Agency engaged a TSC to support PIUs. The implementation
+arrangements were carried out as planned. The necessary counterpart staff was made available
+and the coordination committees at the central and state levels were established under PMGSY
+guidelines.
+
+16.     Of the 44 covenants in the loan agreement, 2 covenants were not complied with because
+project implementation consultants (PICs) were not engaged as anticipated. Implementing
+agencies were to engage PICs who were experts in social development and environmental
+management to help implement the provisions of the community participation framework and the
+environmental assessment and review framework. They were to (i) prepare additional
+subprojects, (ii) supervise civil works, and (iii) support social and environmental safeguard and
+road safety. This noncompliance with the engagement of the PICs did not create any major
+problem. The PIUs were able to carry out the tasks using their own resources.
+
+17.     For environmental safeguards, an environmental specialist visited the project states
+during implementation. Likewise, the checklists for the environment code of practice were
+completed for all roads. Environment mitigation measures have been incorporated in the project
+design. The PCR indicated that an ADB mission conducting a detailed review of environmental
+safeguards did not find adverse environmental impact. On land acquisition, the PCR reported
+that communities and/or households agreed to voluntarily contribute land for the road
+construction; this was confirmed by verbal and written records and verified by gram panchayats
+(village or small town governments). Landowners and non-titled people were consulted on site
+
+6
+    Projects under category B are judged to have some adverse environmental impacts, but of lesser degree and/or
+    significance than those for category A projects. An initial environmental examination (IEE) is required to determine
+    whether significant environmental impacts warranting an environmental impact assessment (EIA) are likely. If an
+    EIA is not needed, the IEE is regarded as the final environmental assessment report.
+                                                                                                          5
+
+
+selection. Grievance redress mechanisms were in place in villages, and proper attempts were
+made at implementing community participation frameworks.7 The implementing agency ensured
+that voluntary land donations and/or transfers were transparent, properly documented, and
+avoided any kind of coercion.
+
+                      II.      EVALUATION OF PERFORMANCE AND RATINGS
+
+A.         Relevance of Design and Formulation
+
+18.      The PCR rated the project highly relevant, noting that it was consistent with the
+government's Tenth Five-Year Plan 2002­2007 and ADB's country strategy and program (CSP)
+for India. The project supported the PMGSY, the government's program to address the lack of
+rural road connectivity. The project was also in line with the poverty reduction programs of ADB
+and the government. The project was implemented in three states that had a higher poverty
+incidence than the national rate. Agriculture and rural development was a key sector in ADB's
+CSP 2003­2006 for India. The CSP recognized that rural development was important to
+mainstream poverty reduction. To complement the government's Tenth Five-Year Plan, ADB
+assistance focused on promoting equitable growth by supporting, among others, rural
+infrastructure in states with high poverty incidence.
+
+19.     This validation finds the MFF modality appropriate. The government established the
+national rural roads program, which covered a large number of subprojects to be implemented
+by several state agencies with differing absorption capacity, skill levels, and financial
+preparedness. The MFF approach allowed for greater flexibility in financing and implementation
+arrangements and enabled the central and state governments to focus on rural development
+policies.
+
+20.      This validation, however, noted that the implementation of the MFF tranche 1 did not
+progress as expediently as envisaged. The PCR (paras. 14­16 and 42­46) enumerated various
+implementation challenges arising from risks, which should have been known from past ADB
+projects in the sector, especially under the PMGSY--including design issues such as (i) the
+need for more time to complete each subproject on average, (ii) delays caused by the required
+relocation of electricity poles, (iii) the need for an allowance to cover escalation of material prices
+and prevent underfunding of contracts, and (iv) limited availability of good contractors. As a
+result, the PCR, in Appendix 1, suggested that the whole MFF covers only 13,198 km instead of
+about 30,000 km originally envisaged at appraisal. Given the prospect of a more conservative
+MFF coverage and design issues, this validation rates subproject 1 relevant instead of highly
+relevant.
+
+B.         Effectiveness in Achieving Project Outcomes and Outputs
+
+21.     The PCR rated the project highly effective. A total of 2,927.13 km of all-weather rural
+roads were constructed and upgraded (941.86 km in Assam, 1,199.35 km in Orissa, and 785.92
+km in West Bengal) under the project, benefiting 1,503 habitations (527 in Assam, 276 in Orissa,
+and 700 in West Bengal). This fell a bit short of the targeted outputs of 3,144 km envisaged for
+construction and 1,769 habitations connected. However, the PCR8 indicated that the number of
+beneficiaries was 40% more than the original estimate because larger habitations were
+connected and the original estimates were inaccurate.
+
+7
+    PCR, Appendix 7, page 27, Status of Compliance on Loan Covenants item 13.
+8
+    PCR, para. 7.
+6
+
+
+
+22.     The design and monitoring framework recorded an achievement of another outcome
+metric: improved access to markets, and no disruption (zero days per year) to health and
+education facilities. A higher percentage of inhabitants employed outside their households (1%
+higher) indicated that income opportunities were diversified. Over the 6-month period, the
+number of days of employment per year increased by 10 days.
+
+23.     Aside from the 7% shortfall in road length, two other output metrics pertaining to road
+quality were achieved. The result of the fourth output goal, which was to improve community
+consultation--to be measured by satisfaction of affected communities--was not clearly
+measured. The PCR reported that the community participation framework was introduced to all
+affected communities. On the whole, this validation rates the project effective.
+
+C.     Efficiency of Resource Use in Achieving Outcome and Outputs
+
+24.     The PCR rated the project efficient. The economic internal rate of return (EIRR) was
+reestimated at 21.4% for the entire project. The appraisal EIRR was 18% and the higher-than-
+expected traffic volume resulted in a higher EIRR at completion. However, this validation notes
+that 10% was added to vehicle operating costs and time cost savings to reflect other benefits
+such as socioeconomic development in the project area, poverty reduction, reduced accident
+cost, and savings in maintenance costs for the without-project case. This is arbitrary and needs
+careful justification.
+
+25.     Monsoon rains and peace and order problems in a few project areas delayed project
+implementation (para. 10). For the civil works component, the actual completion date was about
+18 months later than scheduled at appraisal (PCR, para. 16). For the capacity-building
+component, the PCR indicated that the TSC was mobilized in April 2007 instead of January
+2006 as envisaged at appraisal, and completed service on 31 March 2009. Notwithstanding
+these, the project's economic benefits appear to be of sufficient magnitude. Thus, this validation
+rates the project efficient.
+
+D.     Preliminary Assessment of Sustainability
+
+26.     The PCR rated the project likely sustainable in view of the PMGSY's continuous
+implementation with the assistance of development partners. Contractors were to maintain the
+roads built under the PMGSY for 5 years after construction and, after this 5-year liability period,
+state rural road development agencies were to be responsible for operation and maintenance.
+The PCR noted that project roads were well maintained and the funds and capacity for road
+maintenance were generally sufficient. The PCR highlighted certain risks of possible funding
+gaps in operation and maintenance--between the end of the 5-year maintenance period by
+contractors and continued funding from routine budgets. There is also sustainability risk from
+road damages caused by the higher-than-expected traffic volume. Under the ongoing PMGSY
+program, attention needs to be paid to these risks. Overall, this validation rates the project likely
+sustainable.
+
+E.     Impact
+
+27.      The PCR did not rate the project's impact. No adverse environmental impact was
+reported as mitigation measures were put in place and adequate drainage measures were
+incorporated in project design. The roads also improved many aspects of socioeconomic
+activities in the rural area.
+                                                                                                    7
+
+
+28.    The design and monitoring framework indicators for impact (para. 5) showed some
+improvements in school completion rates for grades 5 to 12. These were below the 10%
+expected improvement although a positive change in all levels ranging from 2% to 4% was
+noted. The PCR also reported a 2% increase in hospital visits, which it attributed to better
+accessibility.
+
+29.     The TSC conducted in 2009 a socioeconomic impact survey to assess between May
+2008 and January 2009 the project's impact on road users and inhabitants living along the road.
+An ADB mission validated the results in May 2011. Socioeconomic indicators of project villages
+showed positive changes and while these changes could not be attributed to the project alone,
+the project was a major factor. The after-project conditions showed that project villages were
+connected by public transportation, high school enrollment was higher, there were new private
+schools, land value was higher, access to finance was better, agricultural output was higher, and
+security improved. Health services were also more accessible, contributing to improved neonatal
+and maternal health. Ambulatory care was also reported to be quick and dependable. This
+validation rates the project impact significant.
+
+                      III.    OTHER PERFORMANCE ASSESSMENTS
+
+A.     Performance of the Borrower and Executing Agency
+
+30.     The PCR rated the performance of the borrower highly satisfactory. Counterpart funds
+and support were provided in a timely manner. The executing agency complied with specific
+project implementation covenants especially on timely provision of sufficient support and funds
+from the central government. The central and the state coordinating committees were set up as
+agreed and the project was implemented according to PMGSY guidelines. All financial, and
+performance monitoring and progress reports were submitted as required. This validation rates
+borrower performance highly satisfactory.
+
+B.     Performance of the Asian Development Bank
+
+31.     The PCR rated ADB's overall performance highly satisfactory. ADB fielded 3 specific
+consultation missions, 10 review missions, and 2 PCR missions. The PCR noted that ADB
+conducted regular procurement and disbursement audits and provided substantial advice during
+the different stages of project implementation. This validation rates ADB's performance highly
+satisfactory.
+
+         IV.     OVERALL ASSESSMENT, LESSONS, AND RECOMMENDATIONS
+
+A.     Overall Assessment and Ratings
+
+32.     Overall, this validation rates the project successful, the same rating given by the PCR.
+This validation gives lower ratings for relevance and effectiveness. This validation rates the
+project relevant. The project was consistent with the country and sector strategies, including
+ADB country and sector assistance strategies. However, weaknesses were noted in project
+design such as insufficient attention to design alternatives. This validation rates the project
+effective, lower than the PCR's rating of highly effective. The PCR did not discuss the
+effectiveness of the capacity-building component. It appears that the capacity of road agencies
+remain unchanged. This validation rates the project efficient and likely sustainable (see table).
+8
+
+
+                                                Overall Ratings
+    Criteria                        PCR             IED Review        Reason for Disagreement and/or
+                                                                                   Comments
+    Relevance                 Highly relevant     Relevant         There is concern of a mismatch
+                                                                   between the scale of interventions
+                                                                   proposed at appraisal (funding,
+                                                                   technical solution, risk mitigation) for
+                                                                   the MFF and outputs realized (para.
+                                                                   20).
+    Effectiveness in          Highly effective    Effective        Outcomes were achieved but the scale
+    achieving project                                              of output (road coverage) was lesser
+    outcome and outputs                                            than expected. The extent of citizen
+                                                                   participation is not fully known (paras.
+                                                                   21­23).
+    Efficiency in achieving   Efficient           Efficient
+    outcome and outputs
+    Preliminary assessment    Likely              Likely
+    of sustainability         sustainable         sustainable
+    Overall Assessment        Successful          Successful
+    Borrower and executing    Highly              Highly
+    agency                    satisfactory        satisfactory
+    Performance of ADB        Highly              Highly
+                              satisfactory        satisfactory
+    Impact                    Not rated           Significant
+    Quality of PCR                                Satisfactory     Refer to para. 36.
+ADB = Asian Development Bank, IED = Independent Evaluation Department, MFF = multitranche financing facility,
+PCR = project completion report.
+Source: ADB Independent Evaluation Department.
+
+B.        Lessons
+
+33.     The PCR drew out five valuable lessons. First, a longer implementation period of 15­18
+months is more realistic than the stipulated 12 months. Second, the methodology for traffic
+forecasts should be strengthened, taking into account the previous under forecasting of traffic
+volume. Third, the capacity of the construction industry should be increased substantially to
+address constraints in construction and maintenance. Fourth, utility relocation and preparation to
+address these needs should be done during the early stages of the project. Fifth, there should
+be adequate consideration for price escalations. This validation agrees with the lessons and
+finds them appropriate.
+
+C.        Recommendations for Follow-Up
+
+34.    This validation agrees with the following PCR recommendations: (i) baseline surveys
+should be carried out before or at the start of project implementation; (ii) capacity building for
+maintenance and state-based research and training on rural roads and road network
+management at the central level should be emphasized. This validation offers no additional
+recommendation.
+                                                                                                   9
+
+
+                    V.     OTHER CONSIDERATIONS AND FOLLOW-UP
+
+A.     Monitoring and Evaluation Design, Implementation, and Utilization
+
+35.     As covenanted, monitoring of the socioeconomic impact, including baseline and follow-
+up surveys, was carried out and reports were submitted to ADB. Independent consultants and
+auditors also conducted project performance audits annually; and audited financial reports were
+submitted to ADB. Implementing agencies submitted monthly progress reports regularly. There
+was no discussion of a project benefit monitoring system. The design and monitoring framework
+was generally satisfactory although some areas could have been strengthened by providing
+more specific and measurable impact and outcome indicators and performance targets.
+
+B.     Comments on Project Completion Report Quality
+
+36.     This validation rates the PCR quality satisfactory. The PCR generally followed the PCR
+guidelines under Project Administration Instructions 6.07. However, the discussion on the
+project's relevance and effectiveness is rather limited and did not give adequate evidence to
+support the highly relevant and highly effective ratings. The PCR offered sufficient information
+and a clear perspective on compliance with loan conditions. It also gave useful lessons and
+recommendations for future interventions. In quantifying economic benefits, the PCR added a
+10% extra benefit to account for other socioeconomic benefits. While reasonable in amount,
+these benefits need to be better specified. Also, the PCR could have provided more information
+on the project's capacity-building achievement.
+
+C.     Data Sources for Validation
+
+37.    Data sources for this validation included the project's report and recommendation of the
+President, the PCR, the report of the PCR mission, and the Country Strategy and Program 2003­
+2006 for India.
+
+D.     Recommendation for Independent Evaluation Department Follow-Up
+
+38.     The PCR recommended a project performance evaluation. This validation is of the view
+that a project performance evaluation is not necessary. Instead, a project performance
+evaluation report for the whole MFF would be more useful.
+

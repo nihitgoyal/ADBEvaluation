@@ -1,0 +1,1615 @@
+ASIAN DEVELOPMENT BANK                    SST:REG 99025
+
+
+
+
+            SPECIAL EVALUATION STUDY OF
+
+              EFFECTIVENESS AND IMPACT
+
+             OF ASIAN DEVELOPMENT BANK
+
+                 ASSISTANCE TO THE
+
+      REFORM OF PUBLIC EXPENDITURE MANAGEMENT
+
+                          IN
+
+               BHUTAN, INDIA, KIRIBATI,
+
+        AND LAO PEOPLE'S DEMOCRATIC REPUBLIC
+
+
+
+
+                     March 2000
+                 ABBREVIATIONS
+
+
+
+
+ADB    ­       Asian Development Bank
+DMC    ­       Developing member country
+MFEP   ­       Ministry of Finance and Economic Planning
+NAO    ­       National Audit Office
+PDMC   ­       Pacific developing member country
+SWOT   ­       strengths, weakness, opportunities, and threats
+TA     ­       technical assistance
+
+
+
+
+                         NOTE
+        In this report "$" refers to US dollars.
+
+
+
+       Operations Evaluation Office, SS­35
+                                      CONTENTS
+
+
+                                                       Page
+
+EXECUTIVE SUMMARY                                         ii
+
+I.     BACKGROUND                                         1
+       A.    Governance at ADB                            1
+       B.    Public Expenditure Management at ADB         1
+       C.    Selected Technical Assistance                3
+II.    EVALUATION DESIGN                                  1
+       A.    Objective                                    1
+       B.    Issues and Indicators                        2
+       C.    Information Sources and Data Collection      2
+III.   CAPACITY BUILDING                                  1
+       A.    Ownership                                    2
+       B.    Capacity Mapping                             4
+       C.    Action Plan for Implementing Change          5
+IV.    GOVERNANCE: PUBLIC EXPENDITURE MANAGEMENT          1
+       A.    Efficiency                                   2
+       B.    Effectiveness                                3
+       C.    Transparency                                 4
+       D.    Accountability                               4
+V.     CONCLUSIONS                                        1
+       A.    Results                                      1
+       B.    Key Issues                                   3
+APPENDIXES                                                5
+                                     EXECUTIVE SUMMARY
+
+        Public expenditure management is a key instrument for ensuring sound development
+management and good governance. Asian Development Bank (ADB) recognizes that public
+expenditure management is a core function of governments and that external assistance needs
+to focus on building governments' capacities to fulfill these functions. Therefore, ADB developed
+its focus on capacity building concomitantly with its increased attention to governance issues.
+
+        The evaluation was designed to analyze which aspects of the public expenditure
+management cycle ADB's technical assistance (TA) addresses and which approaches it uses
+for building capacities. The evaluation chose a cross section of TAs from four countries as case
+studies for illustrative purposes. In Bhutan, a series of four TAs aimed to strengthen the capacity
+of the Ministry of Finance to efficiently monitor, manage, and account for public sector
+resources. Assistance to the government of Gujarat, India, was provided to cover resource
+generation and expenditure aspects, the latter comprising assistance to improve the budget and
+for the reform of state-owned enterprises. In Kiribati, assistance was provided to improve
+financial and economic management by addressing the range of macroeconomic policy making,
+investment management, and budgeting. In the Lao People's Democratic Republic (Lao PDR),
+a TA grant was given to help with the country's economic and financial management, while a
+second TA was provided to set up an oversight function.
+
+       "Ownership" is one of the key ingredients to develop capacities. Little documentation is
+available to illustrate the extent of analyses of ownership issues during TA design. Such
+analyses should include identifying the "owners" of the reform process and those who might
+oppose it, analyzing whether the reform agenda of the owners concurs with ADB's objectives,
+and identifying manifestations of commitment to change. In India, the Gujarat State Finance
+Commission identified even before ADB's TA was designed that previous budget reform
+proposals had not been implemented. These insights should have been used to analyze the
+reasons for resisting reforms and whether/how ADB's TA could overcome such hurdles. Failing
+to do so resulted in a lack of ownership and commitment to the TA. Counterparts often cannot
+determine the need for capacity building. A process of policy dialogue and capacity mapping,
+which helps to identify existing capacities and areas that require reform, is essential to build
+ownership of the subsequent capacity building process.
+
+        Capacity mapping entails a thorough analysis of the agencies involved in the public
+expenditure management process, their functions and tasks, their interaction and
+communication, the resources allocated to them, and their normative and societal contexts.
+Resources allocated for TA design are minimal, thus a comprehensive capacity mapping
+exercise cannot be done. The typical TA design describes the functions of counterparts without
+detailed analysis of the causes of shortcomings, process inefficiencies, power structures, and
+communication gaps, or a clear description of how the counterparts are expected to function.
+On the positive side, TAs tend to recognize the need to involve more than one core agency,
+although assistance to others is limited to participation in brief workshops, which are insufficient
+to address the range of capacity building issues that need to be considered.
+
+        The TAs typically did not develop a comprehensive action plan for implementing change,
+which would include priorities (reforms that are needed before others can be introduced
+effectively), sequencing, and interim targets. Instead, the default approach is to recruit
+consultants who prepare reports, develop and document tools, and train counterparts. Because
+the tools often focus on narrow areas such as macroeconomic modeling or computerization of
+                                                iii
+
+
+budget releases, the extent to which public expenditure management capacities are built is
+meager. The TAs usually assist only a small segment of capacity building requirements, which
+is largely insufficient to bring about significant improvements in the public expenditure
+management process.
+
+        The public expenditure management process involves policy making; budget
+instructions; budget proposals; budget approval; budget execution; and controls, such as audit
+and evaluation. Governance criteria that ADB adopted and that relate to the budget cycle
+include efficiency, effectiveness, transparency, and accountability.
+
+        Efficiency can relate to the use of public resources, which is the most common way to
+consider efficiency in the context of public expenditure management, or in terms of process
+efficiency. ADB's assistance tends to concentrate on process efficiencies, as illustrated by the
+following three examples. The TAs in Kiribati and the Lao PDR could increase the efficiency of
+macroeconomic policy making by providing modeling tools that could help analyze policy
+options. Problems were experienced because the models were implemented in isolation, lacking
+capacities on the input side to provide requisite data and on the output side to actually use the
+results produced with the modeling tools. The former hampers the extent to which the models
+can function, putting staff members who run the models into a difficult situation. The latter
+impedes the effectiveness of the TAs. The budget approval process in Bhutan has become
+more efficient because the computerized system enables faster comparison of new proposals,
+previous allocations, and actual expenditures.
+
+        By introducing an output budget format in Kiribati, the TA increased the potential for
+greater effectiveness in resource allocation. However, the absence of costing standards makes
+it unclear how programs are designed and how decisions on resource allocations are made.
+Effective budget execution requires that actual expenditures do not exceed original allocations.
+The TA in Bhutan and a complementary bilateral TA in Kiribati could help improve expenditure
+control in that they have computerized the budget execution process, and thus immediately
+identify areas of overspending. However, better budget control does not automatically result
+from this because overexpenditures can easily be justified with supplementary budget requests
+that are typically granted.
+
+        The macroeconomic modeling tools introduced by the TAs in Kiribati and the Lao PDR
+could contribute to greater transparency in the policy-making process. However, because the
+models do not operate fully due to the lack of input data and policymakers tend to ignore the
+models' results, the models have not made the basis for decision-making more transparent. The
+output budget in Kiribati can increase transparency in allocating and using funds by linking
+financial resources to what they should attain. To achieve this link requires costing standards for
+outputs to be transparent and actual results to be evaluated some time after the budget was
+executed. The TAs cover neither of these two aspects.
+
+         The TAs in Kiribati and the Lao PDR could increase the accountability of policy making
+by illustrating whether and how policy choices were substantiated and whether policies resulted
+in expected developmental impacts. The output budget in Kiribati might contribute to greater
+accountability in budget preparation and execution provided the output budget is accompanied
+by actually giving people the authority required to prepare and implement the portion of the
+budget for which they are responsible, and by holding them accountable. The National Audit
+Office (NAO) set up through the TA in the Lao PDR should contribute to greater accountability.
+The TA is not yet completed; the extent to which NAO will become effective depends on the
+resources and authority allocated to it.
+                                                iv
+
+
+        ADB's understanding of capacity building has not evolved to fit the modern concept of
+capacity building, which goes beyond institutional development and training (para. 0). This
+assessment is more obvious and understandable for older TAs, but the observation applies
+equally to the more recent TAs. Among the sample TAs, the design has not changed
+significantly since internal reviews (para. 0) were made in 1992 and 1994. One of the main
+weaknesses of the TAs in terms of capacity building efforts is their focus on one agency (or
+sometimes involving some staff from other agencies but that as participants in workshops),
+which is insufficient for building capacities. Failing to identify (through capacity mapping and an
+analysis of strengths, weaknesses, opportunities, and threats) and deal with interinstitutional
+relationships (and the normative and societal contexts), the TAs are unable to generate an
+understanding of and plan for addressing systemic issues, rendering even technically sound
+TAs ineffective. Further compounding the situation is the limited time and lack of resources
+allocated for the complex process of capacity building. ADB's initial staff guidelines on capacity
+building could have been used to contribute to fostering a broader understanding of the concept
+and of the resources required for working in this area.
+
+        None of the TAs took a comprehensive approach to analyzing the budget cycle as a
+whole and assessing it against ADB's governance criteria. As a result, the TAs addressed a
+variety of issues but overlooked ways in which public expenditure management as a whole can
+be improved. The effectiveness of the TAs was limited by their narrow approach, as
+complementary activities were required to gain the full potential of improving the budget cycle.
+                                    I.      BACKGROUND
+
+
+A.     Governance at ADB
+
+1.       Governance issues have been an explicit part of Asian Development Bank's (ADB)
+agenda since the early 1990s, when strategic planning documents included various aspects that
+today fall within the understanding of governance. The various medium-term strategic
+frameworks highlight the importance of sound development management, including the effective
+and efficient use of public resources, and accountability and transparency of processes for this
+purpose. Public expenditure management is a key instrument to ensure sound development
+management. Public expenditure management links macroeconomic policy decisions to budget
+priorities, and manifests governments' decisions on investments and outlays on regular
+operating expenses. Through executing the budget, governments control access to resources
+(and power), and determine their distribution, geographically and across sectors. Preparing and
+executing a budget involves the ministry of finance at the center; line ministries and agencies to
+design and implement their programs; and the head of state and cabinet to approve and
+oversee the budget; and oversight agencies, such as auditors and evaluators. This range of
+participants involved in national and subnational budget processes necessitates a capacity
+building approach (para. 0).
+
+2.      ADB recognizes that sound development management and, by association, public
+expenditure management are the core business of governments, even if external agencies
+provide advice and assistance for preparing the budget and influence priorities through their
+funding choices. Thus, ADB increased its focus on capacity building, concomitantly with its
+governance agenda, to provide its developing member countries (DMCs) assistance for
+expanding required competencies whenever needed. The evaluation focuses on capacity
+building provided through technical assistance (TA).
+
+B.     Public Expenditure Management at ADB
+
+3.      From 1986 to 1989, ADB approved 39 TAs for $20 million for public expenditure
+management. ADB's assistance concentrated on small DMCs, largely in the Pacific for which 22
+projects worth $9 million were approved. Three countries in transition were assisted with eight
+TAs for $7 million. Only one large DMC, India, received TA for public expenditure management
+at the state level. Most TAs aimed to address a range of interrelated aspects of public
+expenditure management, including policy analysis, results-based budgeting, budget
+formulation and management, domestic and foreign resource mobilization and management,
+accounting, management information systems, and audit. ADB does not have an explicit
+comprehensive program that would define the conceptual framework for providing assistance to
+the reform of public expenditure management.
+
+4.      From the 39 TAs, a sample of TAs in four countries was selected (Bhutan, India, Kiribati,
+and Lao PDR) that represents, to the extent possible, the diverse institutional settings in which
+this type of TA was provided. Bhutan and Kiribati received a series of TAs, allowing longer-term
+cooperation to be compared with the short-term one time assistance. India is an interesting case
+because assistance was given at the state rather than the national level, as in the three other
+countries, thus allowing analysis of linkages between central and decentralized governments as
+they relate to ADB's TAs. The TA in India was provided in conjunction with a program loan,
+                                                               2
+
+
+providing insights into the effectiveness of this combination. Kiribati,1 and other Pacific DMCs
+(PDMCs), faces special challenges resulting from small institutions where the loss of even one
+qualified staff member has a significant impact, making capacity building in any area difficult.
+The Lao PDR, as a transition economy, faces similar challenges of staff turnover combined with
+the demands of reforming its public administration in an increasingly open economy. ADB
+assistance in the Lao PDR included establishing a national audit office to ensure effective
+monitoring and control, contrasting the example of India where the revenue side was included.
+Table 1 provides basic data on the TAs.
+
+                          Table 1: Basic Data for Selected Technical Assistance
+                                                  ($`000)
+
+TA No.         TA Title                               Approved Completed           Estimated Cost              Actual
+                                                                                ADB    Others    Total         Costa
+0970-BHU       Institutional Strengthening of the     19 Apr       Dec 1990     230         0         230       203
+               Department of National Budget and      1988
+               Accounts of the Ministry of Finance
+1487-BHU       Institutional Strengthening of the     20 Feb       Dec 1993       0       600 b       600       585
+               Department of National Budget and      1991
+               Accounts (Phase II)
+1932-BHU       Strengthening the Ministry of          18 Aug       Jun 1995     100         0         100        94
+               Finance                                1993
+2691-BHU       Further Strengthening of the           17 Oct       May 1998     100         0         100        96
+               Ministry of Finance                    1995
+                                                                                430        600       1,030      977
+                  Subtotal
+2552-IND       Restructuring Program for State-       2 Apr        Apr 1998       0       600 b       600       591
+               Owned Enterprises in Gujarat           1996
+2668-IND       Gujarat's Reform of Public Finance     23 Oct       Feb 1999     600         0         600       291
+                                                      1996
+                                                                                600        600       1,200      882
+                   Subtotal
+1796-KIR       Technical Assistance to the Ministry   7 Dec        Dec 1993     100         0         100        91
+               of Finance and Economic Planning       1992
+                                                                                                b
+1976-KIR       Institutional Assistance to the        10 Nov       Dec 1995       0        503        503       464
+               Ministry of Finance and Economic       1993
+               Planning
+2657-KIR       Strengthening Institutional Capacity   7 Oct        Feb 1999     600         0         600       913
+               for Financial and Economic             1996
+               Management
+               Supplementary TA to TA 2657-KIR        14 Jul                    380         0         380        0
+                                                      1998
+                                                                               1,080       503       1,583     1,468
+                  Subtotal
+                                                                                                 c
+2047-LAO       Strengthening Economic and             23 Dec       Feb 1999     514        683       1,197     1,172
+               Financial Management                   1993
+2987-LAO       Establishing the National Audit        9 Feb        ongoing      400         0         400       260
+               Office                                 1998
+                                                                                914        683       1,597     1,432
+                  Subtotal
+            TOTAL                                                              3,024      2,386      5,410     4,760
+TA = Technical Assistance.
+a
+  Disbursement up to July 1999.
+
+1
+    The evaluation did not include more PDMCs because the Office of Pacific Operations separately reviewed its reform
+    programs, resulting in the report Assessment of Bank Assistance for Reform Programs in the Pacific, July 1999. To
+    avoid overlaps, the evaluation focused on one of the PDMCs not included in the review. Many of the findings reported
+    in the assessment coincide with the evaluation findings presented in this report.
+                                                           3
+
+b
+ Japan Special Fund.
+c
+ United Nations Development Programme.
+Sources: Technical assistance papers and technical assistance information system.
+
+5.      The TAs were selected as case studies to illustrate which aspects of public expenditure
+management and capacity building are addressed through ADB assistance and to analyze how
+effective the TAs were in attaining governance and capacity building goals. However, this
+evaluation does not follow a typical approach and does not aim to rate the TAs' performance.
+
+C.         Selected Technical Assistance
+
+6.      In Bhutan, a series of four TAs2 aimed to strengthen the capacity of the Ministry of
+Finance to "efficiently monitor, manage and account for public sector resources." When the first
+project was developed, the Government had introduced a budget format that distinguished cost
+centers and overhead costs, specific programs, and identifiable program objectives. The first TA
+focused on issues related to human resources needed for budgeting and accounting, and the
+management and control of expenditures related to public sector corporations and enterprises
+and foreign debt servicing. The second TA aimed to streamline the accounting system,
+emphasizing its computerization. The subsequent two small-scale TAs built on the second TA
+and had the objective to enhance and maintain the computerized system, with the last TA
+completed in May 1998.
+
+7.      Two TAs3 were approved to assist the government of Gujarat, India.4 The first TA aimed
+to support the process of overhauling state-owned enterprises, which was expected to positively
+affect public expenditure. The second TA aimed, among other things,5 to strengthen the public
+finances of Gujarat by building the Finance Department's capacities for budget policy, planning,
+management, and control systems. The second TA was not limited to budgeting and
+expenditure management, but also aimed to reform the existing taxation system (revenue
+generation). The TA's objective was "to support the public finances in Gujarat through structural
+reforms of tax and expenditure systems ... by (i) building institutional capacities of the Finance
+Department to improve budget policy, planning, management, and control systems; and (ii)
+modernizing and computerizing of the tax and expenditure departments to effectively improve
+policy enforcement and compliance."6 The TAs were completed in April 1998 and February
+1999.
+
+8.       Three TAs7 were provided to the Ministry of Finance and Economic Planning (MFEP) of
+Kiribati. All three aimed to improve financial and economic management, cutting across issues
+
+2
+    TA 0970-BHU: Institutional Strengthening of the Department of National Budget and Accounts of the Ministry of
+    Finance, for $230,000, approved on 19 April 1988. TA 1487-BHU: Institutional Strengthening of the Department of
+    National Budget and Accounts of the Ministry of Finance (Phase II), for $600,000, approved on 20 February 1991. TA
+    1932-BHU: Strengthening the Ministry of Finance, for $100,000, approved on 18 August 1993, and TA 2691-BHU:
+    Further Strengthening of the Ministry of Finance, for $100,000, approved on 17 October 1995.
+3
+    TA 2552-IND: Restructuring Program for State-Owned Enterprises in Gujarat, for $600,000, approved on 2 April 1996.
+    TA 2668-IND: Gujarat's Reform of Public Finance, for $600,000, approved on 23 October 1996.
+4
+    ADB is currently assisting another state in India with TA 2943-IND: Support for the Government of Mahya Pradesh
+    Public Finance Reform, for $780,000, approved on 15 December 1997. The TA's implementation was delayed and
+    progress was insufficient at evaluation to justify including the TA in this report.
+5
+    The TA strongly focused on revenue generation and taxation, which are not subject to this evaluation.
+6
+    TA 2668-IND (footnote 3), para. 9.
+7
+    TA 1796-KIR: Technical Assistance to the Ministry of Finance and Economic Planning, for $100,000, approved on 7
+    December 1992. TA 1976-KIR: Institutional Assistance to Ministry of Finance and Economic Planning, for $503,000,
+    approved on 10 November 1993. TA 2657-KIR: Strengthening Institutional Capacity for Financial and Economic
+    Management, for $600,000, approved on 7 October 1996.
+                                                       4
+
+
+such as macroeconomic policy, investment management, and budgeting, including program or
+results-based budgeting. Consultants of initial TAs fulfilled staff functions at the ministry. Later
+TAs emphasized on developing the ministry's own competencies, which translated into capacity
+building assistance for three divisions, two of which were directly related to public expenditure
+management. The Macroeconomics and Public Finance Division was expected to provide the
+macroeconomic framework for national development planning and annual budgeting. The
+division's other responsibilities also included "advising the Budget Management Division on the
+fiscal strategy and confirming the reasonableness of the revenue estimates and the expenditure
+limits."8 The new Budget Management Division was made responsible for the annual budget
+cycle, assisting the Cabinet in setting expenditure priorities, reviewing annual budget
+submissions, and monitoring revenue and expenditure levels. The last TA was completed in
+February 1999.
+
+9.      In the Lao PDR, the TA for strengthening of economic and financial management9 was
+part of an umbrella project financed jointly by the United Nations Development Programme and
+ADB. The entire project had five components, with ADB focusing on two: planning and policy
+coordination, and public investment programming. The Government was responsible for the
+program coordination and aid coordination components, while the International Monetary Fund
+was to implement the public expenditure management component. The TA envisaged that ADB
+would "assist in the formulation of a coherent, comprehensive, and fully integrated framework
+for the country's economic and financial management within the context of a planning,
+programming, budgeting, and financing process."10 The TA was completed in February 1997.
+The TA for establishing a national audit office (NAO)11 was approved in response to the
+recognized need for external audit services "to determine the faithfulness and economy of
+expenditures and the correctness of Government receipts. In respect of the Government's
+development projects, especially those assisted by external agencies, it has been felt that audit
+is needed to validate the effectiveness and efficiency of project performance and to determine
+whether value has been obtained for investment....The objectives of the TA are to assist the
+Government in its effort to establish an independent [national] audit office (NAO) and to develop
+plans to augment NAO's capacity at the initial stage of its operations."12 The TA is ongoing.
+
+
+
+
+8
+   TA 1976-KIR (footnote 7), para. 7.
+9
+   TA 2047-LAO: Strengthening Economic and Financial Management, for $514,000, approved on 23 December 1993.
+10
+   TA 2047-LAO (footnote 9), para. 4.
+11
+   TA 2987-LAO: Establishing the National Audit Office, for $400,000, approved on 9 February 1998.
+12
+   TA 2987-LAO (footnote 11), paras. 3 and 10.
+                                II.     EVALUATION DESIGN
+
+
+A.     Objective
+
+10.     The objective of the evaluation is to assess which governance elements the TAs
+covered (para. 0) and the effectiveness of the TAs' capacity building approaches (para. 0). The
+insights derived will help to improve the understanding of how ADB's approach to these
+dimensions could be enhanced. The findings of the evaluation are expected to help ADB staff
+design future assistance of this nature, and counterparts and consultants implement TAs
+effectively. This objective corresponds to the concern for the quality of governance projects and
+the desire to avoid mistakes and take corrective action, as soon as necessary. The scope of the
+evaluation involves 11 TA case studies (paras. 0-0).
+                                                            2
+
+
+
+B.         Issues and Indicators
+
+11.     Capacity building efforts of the TAs are evaluated against three main aspects: ownership
+(participation), an analysis of existing capacities and identification of desired future ones
+(capacity mapping or a systematic analysis of strengths, weaknesses, opportunities, and threats
+[SWOT]), and an implementation plan for the reform process. The expression of ownership is
+traced in the design and implementation stages, and in the extent to which the government
+accepted and implemented suggested changes to the budget system. Capacity mapping and
+the action plan for implementing change typically take the form of reports or written statements,
+whether as part of the TA design or as a TA output, which is assessed in terms of availability
+(whether it has been done), and quality. Appendix 1 provides specific questions concerning
+these three dimensions and indicators.
+
+12.    For evaluating the public expenditure management process several dimensions of
+governance are considered: (i) efficiency; (ii) effectiveness; (iii) transparency; and (iv)
+accountability, the latter two being means for attaining greater efficiency and fiscal discipline.
+The four dimensions reflect aspects of ADB's governance concept, expressed in its medium-
+term strategic frameworks, which are applicable to public expenditure management. The
+evaluation aims to identify on which of these governance dimensions the TAs focused, which
+areas of the public expenditure management process the TAs addressed, and what type of
+approaches the TAs used to introduce changes. The assessment against governance indicators
+involves quantitative analysis (provided baseline and current operating data are available) and
+comparative analyses of documents and processes. The TAs performance against these criteria
+is evaluated only if the TAs aimed to address that particular area. Appendix 2 provides
+performance criteria.
+
+C.         Information Sources and Data Collection
+
+13.     The evaluation started with developing the methodology and revising it as necessary
+while reviewing relevant TA papers and reports, correspondence, and other materials that
+document governments' follow-up action taken on TA recommendations. The review served as
+preparation for visits to the four DMCs, where discussions were held with representatives of the
+counterparts and other agencies associated with the public expenditure management process.
+The Bhutan case study was conducted in October 1998,13 while field visits to the other countries
+were conducted in July 1999. The draft report was circulated to counterparts in DMCs and
+within ADB for comments.
+
+
+
+
+13
+     This case study was issued as a separate report: TE-24: BHU: Institutional Strengthening of the National Budget and
+     Aid Coordination Division of the Ministry of Finance, December 1998.
+                                       III.    CAPACITY BUILDING
+
+14.      The concept of capacity building evolved from an earlier focus on institutional
+development that comprised systems development (through consultants' services) and training
+or human resource development. The concept was developed in recognition of the fact that
+individuals and organizations do not operate in a vacuum and their interdependencies have an
+important influence on their performance, individually and collectively as a system. Capacity
+building is broader than institutional development in that it encompasses a variety of factors
+such as participants, functions or tasks, resources, and normative and societal contexts.14 With
+this holistic approach, capacity building interventions have the potential to address systemic
+issues at macro (political and societal support, and public policy), meso (organizational,
+institutional, and interorganizational), and micro (individual) levels.15
+
+15.      Methods for capacity building include participatory approaches to ensure ownership and
+to help understand interdependencies between participants. Capacity mapping is one form of
+systematic analysis that enables the participants in the capacity building process to arrive at a
+strategic option of optimally sequenced actions by the government and interventions by external
+agencies. Such a SWOT analysis includes reviewing the network of interrelated organizations
+and bottlenecks, and identifying the possibilities for capacity building. The change process
+involves building political, public, and institutional support for change, sometimes requiring
+attitudinal changes; developing missing or inadequate links between participants, and
+enhancing each participant's capability to contribute to the system's overall functioning. A
+process approach, rather than a fixed set of inputs and terms of reference, is often needed to
+ensure flexibility for responding to changing requirements in a dynamic capacity building
+process, and to allow adequately timed sequencing of interventions.
+
+16.      ADB's Interdepartmental Review Committee on Technical Assistance Operations16 and
+of the Task Force on Improving Project Quality17 found TAs to be inadequate in attaining
+institutional development or capacity building targets as they did not address underlying and
+systemic issues. The Strategy and Planning Office subsequently undertook an informal review
+and found that requisite analyses were not conducted rigorously, assistance was too short to
+have an institutional impact, and TAs rarely identified or monitored tangible measures of
+success. In implementing TAs, training and hardware requirements were emphasized too much,
+and consultants were not always capacity building specialists. Initial guidelines18 for capacity
+building were introduced in 1995 to ensure that this area of critical need in DMCs is addressed
+more systematically, professionally, and effectively. These concerns guided the analysis of the
+TAs' performance, while adding a focus on ownership as an important ingredient for capacity
+building.19
+
+
+
+
+14
+   Organisation for Economic Co-operation and Development. 1995. Development Assistance Committee on Capacity
+   Development in the Environment, Developing Environmental Capacity: A Framework for Donor Involvement. Paris.
+   Even though the framework was developed for environmental capacities, it can be applied to capacity building in
+   general.
+15
+   Qualman, Ann and Joe Bolger. 1996. Capacity Development: A Holistic Approach to Sustainable Development.
+   Development Express 8.
+16
+   Findings of the Interdepartmental Review Committee on Technical Assistance Operations, July 1992.
+17
+   Report of the Task Force on Improving Project Quality, January 1994.
+18
+   Initial Staff Guidelines on Bank's Capacity Building Services to DMCs, April 1995.
+19
+   The evaluation includes at least one TA in each country that was designed after these guidelines were issued.
+                                                   2
+
+
+A.      Ownership
+
+17.     Ownership is one of the most critical ingredients for capacity building. Without
+ownership, suggested capacity building approaches might not be appropriate or acceptable to
+the agencies concerned, and thus would not be implemented. In developed countries the reform
+of public expenditure management is often driven by the agencies themselves (when they face
+financial constraints and are forced to improve efficiency), and by the public at large (when it
+demands better but cheaper public services). DMC governments experience several forces that
+drive the reform process, including the international agenda and a desire of DMCs to be among
+the rewarded champions of change; multilateral and bilateral agencies, through policy dialogue
+and interventions; enlightened leaders within a DMC's political and administrative systems; the
+public sector; and to an increasing extent, the public at large. Not all these interest groups have
+common views on the desired direction of change, which makes it difficult to develop common
+ownership (particularly because more than one agency needs to be involved), and ensure
+sufficient support for reforms.
+
+18.     As an indication of ownership of the reform process, the evaluation aimed to identify the
+origin of the TA ideas, because the originator is the main proponent of reforms. This was
+problematic because institutional memory is weak and documentation often does not explain
+whether the TA is an outcome of ADB's negotiation during country programming and loan
+processing or whether the idea for requesting TA originated from the counterpart. While in both
+cases the governments officially requested TA, an important difference exists: if ADB instigates
+the TA, ADB may be trying to convince the agency to accept certain reforms, and thus would
+need to build ownership. However, the agency that requests TA is likely to be already engaged
+in a reform process and seeking additional assistance, indicating stronger ownership and
+commitment to change.
+
+19.      As part of its reforms, the Gujarat government appointed the Gujarat State Finance
+Commission, which issued a report in 1994.20 The commission suggested, among other things,
+implementing a combination of zero-based and output budgeting to ensure optimum use of
+limited resources (p. 97, para. 12.4), which is in line with the TA's objectives to develop
+budgetary planning, management, and controls.21 The commission noted that zero-based
+budgeting had not been implemented despite an earlier effort to do so. This indicates the
+Finance Department's limited support of these reforms, which in part can be explained by the
+impermanence of senior staff in the lead department, and illustrates the need to build common
+support for reforms even when its proponent comes from within the government. None of the
+other three countries had such a comprehensive internal analysis of the need for reform. The
+first TA in Bhutan (TA 970-BHU) indicated that the need for TA was identified by a counterpart
+in the Ministry of Finance. However, once the consultants were appointed, their terms of
+reference were changed and none of the original areas to be addressed by the TA were
+sustained. In Kiribati and the Lao PDR, ADB and other multilateral agencies played a key role in
+initiating the TAs. One of the most explicit examples is TA 2987-LAO, where the TA paper22
+specifically states the instrumental role of ADB in determining the need for the NAO.
+Counterparts do not always have the capability to identify the need for reform or capacity
+building assistance, leaving it to external agencies to determine requirements and possibilities
+for providing TA.
+
+20
+   This report was used when designing the policy matrix in Loan 1506-IND: Gujarat Public Sector Resource
+   Management Program, for $250 million, approved on 18 December 1996.
+21
+   TA 2668-IND (footnote 3), para 10(v).
+22
+   TA 2987-LAO (footnote 11), para. 6.
+                                                             3
+
+
+
+20.     The authorship of TAs rests with ADB. Staff and consultants design TAs in consultation
+with the recipient government. The extent to which such consultation requires or allows
+counterparts to actively participate in the design process is hard to determine, but the
+arrangement that ADB formulates the TA indicates that ADB's takes the lead.23 Counterparts
+would be more involved and assume greater responsibility if they were required to prepare a
+draft TA proposal when requesting assistance.
+
+21.     The need for building ownership of the reform process is not explicit in the TA design
+and during implementation depends on the efforts and attitude of counterparts and consultants.
+Typically, workshops are used to present TAs, their objectives, and their outputs to counterparts
+and sometimes a wider audience. However, the extent to which such workshops generate
+ownership is limited when the consultants (or ADB) are perceived to drive TA agenda rather
+than the counterparts.
+
+22.     During implementation, ownership of the TAs evolved with considerable variations. In
+Bhutan, there was little institutional memory of the first TA, which had little counterpart
+involvement. By contrast, the second group of TAs involved counterpart staff through training in
+the use of computers in general and of the budget system in particular, and for system's
+maintenance. This extent of ownership resulted from the TAs developing a system that eased
+the daily work routines of counterpart staff, thus meeting an identified need. In India, a high-level
+committee that was supposed to have supervised and given requisite weight to the consultants'
+work under TA 2668-IND was not appointed until the TA had been completed. Counterparts and
+offices were not made available until several months into the consultants' contract. This was
+contrasted by the experience of TA 2552-IND, where the consultants worked within the
+appropriate framework of the technical secretariat. However, the value of the TA lay in
+producing reports needed by the technical secretariat with lesser emphasis on institutional
+development. In Kiribati, ownership manifested itself differently; consultants typically became
+part of MFEP's staff and supported the ministry by producing requisite policy and other
+documents. Counterpart staff was assigned to work with the consultants, but their limited
+number and high turnover rate were not conducive to developing ownership or building
+capacities. In the Lao PDR, the consultants of TA 2047-LAO trained lower level staff to use a
+macroeconomic forecasting model without involving higher level staff, which limited their
+understanding of and interest in using the projections of the macroeconomic model. The
+information system developed under the same TA is suffering from the lack of required data
+inputs from other agencies that were not involved in the TA. Stronger ownership exists of the TA
+to assist NAO, where staff was assigned to participate in training and case study audits.
+
+23.    The ownership of TA implementation is mirrored in the acceptance of results. Where
+TAs produced a tool that was useful to the counterpart, ownership developed. This was the
+case in Bhutan, where the computerized system eases daily work routines. To some extent, the
+same thing happened with the macroeconomic model developed in the Lao PDR. The
+counterparts developed some ownership of the model, but the interest of decision makers was
+not the same as in Bhutan, so demand for the model and its results remains low. In Kiribati,
+MFEP accepted the output budget format, but the extent to which it has been internalized will
+remain unknown until the budget is prepared without external assistance and executed. The
+
+23
+      "Participation is sometimes equated with consultation--but consultation often falls short of empowerment which is
+     necessary for capacity development. Consultation can range from listening, to dialogue, to debate, to joint analysis,
+     and to joint agreed solutions. Empowerment asks stakeholders to take responsibility for change..." Qualman, Ann and
+     Joe Bolger. 1996. Capacity Development: A Holistic Approach to Sustainable Development. Development Express 8.
+                                                            4
+
+
+reports produced under the TAs to Kiribati and TA 2552-IND were welcomed and used by the
+respective agencies, because the consultants' reports filled an existing reporting gap. However,
+this use of reports does not necessarily indicate ownership of a reform process and certainly
+does not imply any capacity building. These examples of full or partial ownership are contrasted
+with the example of the reform TA in India (TA 2668-IND) that produced reports that will
+eventually be reviewed by the high-level committee, which should have been in place during
+implementation.24 This review might be useful but is less effective than if the consultants had
+been advising a body authorized to make reform decisions and ensure their implementation.
+The administration politely acknowledges the existence of the consultants' report. However,
+interest in implementing recommendations is limited by their quality (para. 0) and cognizance of
+what the recommendations entail.
+
+B.       Capacity Mapping
+
+24.     The holistic perspective of capacity building requires a comprehensive SWOT analysis
+of the capacity components and their interrelationship (para. 0) to identify the origins of
+shortcomings and their causes.25 Such analyses should entail a review of the functions (such as
+service provision, policy analysis, and formulation; networking and information flow; and
+decision making); the people who perform such functions; and the normative underpinnings and
+the societal context in which the participants operate. For instance, deciding on macroeconomic
+policies requires tools for planners to use to improve their understanding of the effects of
+various choices and consideration of other influences on the decision-making process that might
+render a modeling tool ineffective. Comprehensive capacity mapping would also facilitate
+coordination among external agencies.
+
+25.     The TAs26 were reviewed to identify whether they analyzed capacity components. All
+TAs described the functions of the counterpart, although shortcomings are discussed in a
+cursory manner without detailed analysis of the causes or a clear description of how functions
+should be ideally performed. The brevity of these descriptions is in part due to an implicit
+assumption that "ideal functions" should be self-understood, and because problems are
+attributed to shortages in staff and/or deficiencies in their skills. The analyses do not consider
+other potential problems, such as process inefficiencies, power structures, and communication
+gaps. This problem is also reflected in the resource analysis, which mentions the lack of staff
+and/or skills, but none of the other resources (informational, financial, and technological). None
+of the TAs provide details on the resources required to perform the envisaged functions.
+
+26.     On the positive side, many TAs recognized in their design the need to involve more than
+the core agency to ensure capacity building, although none of them analyzed whether agencies
+interacted in an appropriate and conducive way to the public expenditure management process.
+This would be necessary to understand cooperation and communication gaps that impede the
+functioning of interinstitutional and intrainstitutional systems. For instance, in the Lao PDR,
+controversies among the agencies involved in managing the country's resources impeded the
+performance of one of the TAs. This problem could have been identified through capacity
+
+
+24
+   Although it was not, the loan could have been used as leverage to ensure an earlier appointment of the committee.
+25
+   Mackay, Keith. 1999. Diagnostic Guide and Action Framework. Evaluation Capacity Development, Working Paper
+   Series No. 6: World Bank. The publication provides a step-by-step diagnostic process for identifying opportunities to
+   develop evaluation capacities and provides useful suggestions for capacity mapping. The guide is directly relevant to
+   public expenditure management of which evaluation is integral.
+26
+   Small-scale TAs were not included in this review because their design is limited to one paragraph, which is insufficient
+   to provide details necessary for capacity mapping and designing a capacity building project.
+                                                            5
+
+
+mapping and would have required capacity building assistance rather than trying to enable
+individual agencies (or departments within them) to perform specific tasks that might overlap.
+
+27.      Regarding the normative context, most TA papers describe the reform efforts of
+governments, but none analyze whether the context is conducive to reform. In India, for
+instance, it was clear during TA design that impediments existed to implementing reforms as
+evidenced in the report of the Gujarat State Finance Commission (para. 0). But these
+impediments were not recognized in the TA, although this would have been instrumental for
+assessing the potential for the TA's success. In addition, capacity mapping would have
+illustrated the extent to which budget reforms were possible at the state level, as the federal
+Government standardizes and prescribes rules for budget preparation and execution. The
+societal context of TAs and the reform process typically is not evaluated in detail during the TA
+design or early implementation stage. Appendix 3 summarizes the extent to which TAs' mapped
+existing capacities.
+
+C.         Action Plan for Implementing Change
+
+28.     The TAs involved only limited efforts to provide action plans for change that identify
+requisite interventions and their sequencing. Ideally, such a plan should contain actions that
+need to be taken with interim targets and be based on an understanding of which changes must
+be introduced first before others can be effective. This observation is particularly relevant to
+situations where a series of TAs were extended without having an overall framework for doing
+so, which renders the TAs piecemeal. The frequently adopted default approach was to recruit
+consultants who prepared reports and sometimes tools (such as computerized systems or
+macroeconomic models), documented the systems, and trained counterparts in using the
+systems.
+
+29.     In their implementation, the TAs focused largely on their main counterpart, partly
+because of resource constraints and possibly due to a limited understanding of the need for
+interaction between agencies. This approach is typical for institutional development rather than
+capacity building. For instance, an information system based in the central budget office may
+remain ineffective if requisite data to feed into the system is not available or unreliable. ADB-
+assisted macroeconomic models in Kiribati and the Lao PDR are facing this problem. They
+cannot be used fully because input data is missing. Similarly, the preparation of an output-based
+budget cannot be limited to the central budget office because line ministries and decentralized
+agencies need to be involved in rethinking the budget preparation and execution. Otherwise,
+central agencies might insist on or assist in preparing budget documents with declared
+objectives and intended outcomes, which remain meaningless for the lack of understanding in
+line ministries or at subnational levels. This is the case in Bhutan, where the program budget is
+an annotated line item budget.27 In Kiribati, where the program budget was prepared with the
+help of consultants, staff of various agencies participated in workshops to generate a better
+understanding of the program budget. However, workshops were too short for a complex
+management tool such as a program budget, which requires extended training for the concept
+to become fully internalized.
+
+30.    The less successful examples occurred where consultants prepared a report that
+described or analyzed the current situation and made some suggestions for changes. Such
+
+27
+     ADB's TA focused on computerizing the budget system, which helps in keeping track of budget ceilings and
+     supplementary budget requests that are frequently approved. The TA did not concern itself with the substance of the
+     program budget or in helping to monitor and evaluate whether the intended outcomes were actually achieved.
+                                                 6
+
+
+performance falls short of building capacities as the counterpart is left to analyze, interpret, and
+implement reports and their recommendations. This was the case with the first TA in Bhutan, for
+which the reports are not available any more. In the budget policies and management part of the
+public expenditure reform TA in India, the report makes general comments about the need for
+reforms without providing a detailed action plan or concrete suggestions.
+                   IV.      GOVERNANCE: PUBLIC EXPENDITURE MANAGEMENT
+
+31.    Public expenditure management is important to ensure sound development
+management as it concerns the transparent and accountable allocation and use of public
+resources. According to the Organisation for Economic Co-operation and Development, "All
+budget systems--reformed and traditional--have three basic budget tasks: (1) to maintain
+aggregate fiscal discipline, (2) to allocate resources in accord with government priorities, and (3)
+to promote the efficient delivery of services."28
+
+32.     Public expenditure management involves a series of steps that forms an annual budget
+cycle. The dimensions of governance considered in this evaluation (efficiency, effectiveness,
+transparency, and accountability [para. 0]), have different implications for each of the steps. For
+instance, transparency in policy making requires documentation of criteria and reasons for
+making policy choices, whereas in the budget preparation process transparency manifests itself
+in providing details on program choices and reasons for the resources allocated. The common
+factor in the examples is the need to reveal underlying reasons for the choices exercised.
+Appendix 4 provides an overview of the budget cycle and describes the meaning of each
+governance dimension as related to the steps of the cycle.29
+
+33.     Table 2 illustrates the areas addressed by the TAs and shows that no systematic
+patterns exist in the types of assistance. Included in the table are areas where TAs have the
+potential to assist, although these potentials might not have materialized. The evaluation
+recognizes that the sample may not cover all areas, as it represents about 30 percent of the
+TAs, randomly selected. The absence of a conceptual framework (para. 0) and related system,
+identifying TAs depending on their coverage, would necessitate an in-depth analysis of all TAs
+to ascertain which areas they covered and whether ADB assistance helps the entire range of
+the public expenditure management cycle.
+                                Table 2: Budget Cycle and Governance Dimensions
+
+
+Budget Cycle                     Efficiency           Effectiveness          Transparency         Accountability
+
+A.     Policy Making             Kiribati             --                     Kiribati             Kiribati
+                                 Lao PDR                                     Lao PDR              Lao PDR
+B. Budget Instructions           --                   --                     --                   --
+C. Budget Proposals              Lao PDR              Kiribati               Kiribati             Kiribati
+D. Budget Approval               Bhutan               Bhutan                 --                   --
+                                                      India
+E.     Budget Execution          Bhutan               Bhutan                 Bhutan               Bhutan
+                                 India                India                  Kiribati             Kiribati
+                                                      (Kiribati)                                  Lao PDR
+F. Evaluation                    --                   --                     --                   --
+-- = None.
+
+34.    The above classification of the TAs is based on their design and implementation. The TA
+design is not always explicit about the governance dimensions the TA intends to address, but
+most often refers to generic efficiency gains. Therefore, actual implementation results were also
+
+28
+     Organisation for Economic Co-operation and Development. 1999. Paris. The Changing Role of the Central Budget
+     Office, Organization of Economic Cooperation and Development, Public Management Service.
+29
+     A detailed description of the budget process and related performance issues can be found in Schiavo­Campo S., and
+     D. Tommasi. 1999. Managing Government Expenditure. Manila: Asian Development Bank.
+                                                                2
+
+
+considered to classify the TAs. The TAs do not cover the entire budget cycle, and no help was
+provided for issuing budget instructions and, more importantly, for measuring the performance
+of the executed budget (Table 2). The following details on the performance of the TAs illustrate
+a certain lack of a coherent framework, which links up with weaknesses in the capacity building
+approach.
+
+A.          Efficiency
+
+35.    The TAs in Kiribati and the Lao PDR had the potential for increasing the efficiency of the
+policy-making process. They developed macroeconomic models and databases for use in
+analyzing macroeconomic conditions and policy options.
+
+36.     In Kiribati, problems arose (and still do) at several levels. On the input side, the database
+depends on information from the national statistical office, which provides data in such intervals
+that quarterly economic reports are prepared with considerable delay or not prepared at all.
+Staff in the planning office has changed twice since the implementation of TA 1976-KIR, which
+introduced the economic reporting function.30 The current planning officer is familiar with the
+database and the analytical tool. For example, after analyzing copra trade, prices, and
+subsidies, the economic office calculated that funds set aside for subsidizing copra prices will be
+depleted shortly. However, even when producing such reports, the policy office finds it difficult to
+convince decision makers of the need to reduce subsidies. This difficulty is partly due to political
+reasons, because cutting copra subsidies is unpopular politically, and partly due to a lack of
+understanding on the part of decision makers. This example illustrates shortcomings that arise
+from focusing on one agency without considering interrelationships with other participants. A
+comprehensive capacity building approach may have recognized the need to develop the
+understanding of the users of policy advice and the capacity to generate input data.
+
+37.     The situation is similar in the Lao PDR, where the TA introduced a macroeconomic
+model and trained some staff in its use. Staff turnover reduced the number of people running
+the model to one. This person was absent for two years on overseas training, during which time
+the model was not used. Apart from that, some of the data needed to run the model are not
+available (recognized by the consultants who developed the model), therefore assumptions
+must be made. The staff member is not experienced enough to make correct assumptions, so
+the projections have been inaccurate, which limits their utility to decision makers who do not
+give much credence to the model or policy options suggested with its help. Staff lacking
+technical knowledge cannot adjust the model to the situation after the Asian economic crisis.
+The second part of the TA introduced a management information system to increase the
+efficiency of preparing and updating the public investment program. However, the system is
+defunct due to a lack of input data from various sources. Instead of building the capacity of
+these sources, assistance is being provided to another government unit to build a similar system
+without linkages. Capacities for preparing the public investment program were not built as
+evidenced by continued assistance provided for this purpose, such as a TA grant currently
+processed by ADB.
+
+38.     Efficiency improvements were experienced in Bhutan, where the TA computerized the
+budget system, which helped speed up the comparative analysis of budget proposals and past
+allocations and expenditure. The computerized analysis helps the Ministry of Finance to assess
+whether budget requests are realistic in terms of spending capacity, and whether line ministries
+and agencies propose large variations over their previous allotments. Timely feedback speeds
+
+30
+     The office is minimally staffed, which makes institutional development extremely difficult.
+                                               3
+
+
+up the budget preparation process. The second area in which the computer program improved
+efficiency is in budget releases. The need to request supplementary budget allocations is
+detected immediately, because the budget release system allows expenditure only up to the
+approved budget ceiling. In addition, the processing time for issuing budget release letters has
+been reduced from two weeks to one day.
+
+39.      In India, the TA to reform state-owned enterprises could ensure more efficient use of
+public resources by closing highly inefficient enterprises and reforming others. The TA
+consultants analyzed 10 enterprises. The consultants' reports were reviewed by the technical
+secretariat and revised for submission to the authorities for decision making. Apparently not all
+suggestions were acceptable, and the exit packages for staff layoffs were revised. The process
+is politically sensitive, and therefore time consuming. Since TA completion, decisions were
+made to close three or four enterprises, and merge others. Actual efficiency gains remain to be
+seen once divestments have been concluded.
+
+B.     Effectiveness
+
+40.     In Kiribati, TA 2657-KIR introduced a program budget format that could ensure effective
+resource allocation during the preparation of budget proposals. While the 1999 budget
+described desired outcomes and outputs and applicable performance standards, submissions
+were not prioritized. Because no costing standards were developed (which would have
+addressed the efficiency of resource use), it is not clear how programs are designed to fit
+effectively within the budget ceiling.
+
+41.    At the budget approval stage, the lack of prioritization necessitates that as soon as
+budgets exceed earmarked amounts, they are cut across the board, something that is common
+in most countries. Computerized budget systems can highlight when ceilings are exceeded but
+cannot help in the setting of priorities or in the negotiation process that requires balancing
+complex demands and pressures from various interest groups.
+
+42.     Effective budget execution requires that actual expenditures do not exceed original
+allocations. Instead of exercising financial discipline, supplementary budget requests are
+commonly used to revise the original allocation, thus authorizing excess expenditure. In Bhutan,
+the computer system helps detect when original allocations are exhausted, thus identifying the
+need for supplementary budget requests. However, financial discipline is not enforced because
+requests for budget releases and necessary supplementary allocations are made only when the
+line ministry or agency entered into a contractual obligation. Therefore, the Ministry of Finance
+has no option but to approve the request for supplementary allocations. The procedure has
+become a time-consuming formality that occupies much of the ministry's time without enabling it
+to manage the budget effectively. In Kiribati, ADB's TA does not deal with budget execution
+directly. However, TA financed through Australian bilateral aid (complementing ADB's TA) is
+computerizing the budget system and is likely to have similar results as ADB's TAs in Bhutan.
+Obviously, the structure of the process (line agencies entering into an obligation without having
+requisite resources) and cultural norms that make it impossible to reject requests for
+supplementary budget allocations have a much greater influence on the effective budget
+execution than a tool that can observe overspending. The public finance reform TA in India was
+meant to introduce greater fiscal discipline. However, given the TA's poor performance, this aim
+was not attained.
+                                                4
+
+
+C.     Transparency
+
+43.     Transparency in the policy-making process requires that the reasons for making policy
+choices be clearly stated. Potentially, the TAs in Kiribati and the Lao PDR could have
+contributed to greater transparency in decision making because they tried to introduce an
+objective means for choosing policy options. This potential has not been realized because the
+TAs did not succeed in setting up functional modeling facilities that were recognized and
+accepted by decision makers.
+
+44.     The budget is transparent if it provides details on the use of public resources and
+outcomes expected from executing the budget. Output or program budget formats are useful
+tools, because they require such linkages to be made. However, the tool is effective only if it is
+accompanied by costing standards that are equally transparent. Otherwise, the match between
+narrative and financial information may not be of much use. The output budget format
+introduced in Kiribati records expected outcomes and outputs and links them to resource
+allocations, which increases the transparency of the intended use of public resources. However,
+several program descriptions need to be more specific, and the costing needs to be clarified.
+
+45.     The requirements of NAO in the Lao PDR should help enforce greater transparency in
+the financial accounts of ministries and agencies, as they need to comply with reporting
+requirements. While the TA did not provide any direct assistance for this purpose, ADB will
+provide additional assistance for enhancing government accounting regulations and procedures
+that also should help ensure NAO's functioning, which otherwise could be impeded by the lack
+of capacities of line ministries and other agencies.
+
+D.     Accountability
+
+46.     Accountability in the policy-making process requires that policy options are clearly stated
+and specific targets are set so that performance can be measured. However, the process also
+requires a system within which accountability can be exercised: the accountable person or
+parties should have authority to pursue policy goals, and those to whom they are accountable
+should have the authority to hold them accountable. The TAs typically do not consider the latter
+aspects. The TAs in Kiribati and the Lao PDR had the potential to increase the accountability in
+the policy-making process, as they would have illustrated whether and how policy choices were
+substantiated, and whether policies resulted in expected developmental impacts or economic
+performance. However, the models are not functioning.
+
+47.     Accountability for preparing and executing budget proposals may increase as a result of
+introducing the outcome budget format in Kiribati, although this will depend on the extent to
+which people responsible for budget submissions will be held accountable for achieving targets
+set in the budget. The present perception is that when outputs are not produced in one year,
+they are carried forward into the next annual budget with new appropriations made for the same
+purpose.
+
+48.     In the Lao PDR, the TA to set up NAO could increase accountability, as the audit
+function will identify whether positions or funds have been abused and enforce necessary
+repercussions. NAO is not yet fully functional, so it remains to be seen whether any
+impediments to fulfilling these expectations exist. One potential problem is that the accounts of
+ministries and agencies are not always kept in a manner that is auditable.
+                                                V.       CONCLUSIONS
+
+
+A.         Results
+
+
+           1.        Capacities Built
+
+49.     ADB's understanding of capacity building has not evolved to fit the modern concept of
+capacity building, which goes beyond institutional development and training (para. 0). This
+observation is more obvious and understandable for older TAs, but it applies equally to the more
+recent TAs in the sample. Among those TAs, the design has not changed significantly since the
+internal reviews (para. 0) of 1992 and 1994. One of the main weaknesses of the TAs in terms of
+capacity building is their focus on one agency; although sometimes staff members from other
+agencies are involved but as participants in workshops, which is insufficient for building
+capacities. Failing to identify (through capacity mapping and SWOT analysis) and deal with
+interinstitutional relationships and the normative and societal contexts, the TAs are unable to
+generate an understanding of and plan for addressing systemic issues. This failure renders
+even technically sound TAs ineffective, and is further compounded by the limited time and lack
+of resources allocated for the complex process of capacity building. The initial staff guidelines
+on capacity building could have been used to contribute to fostering a broader understanding of
+the concept and resources required for working in this area.
+
+50.    The TAs come closer to an abridged31 form of institutional development where tools are
+developed and staff abilities fostered. The TAs were successful in
+
+           (i)       Bhutan where the TA developed a computerized tool that the staff continues to
+                     use;
+           (ii)      India, where some skills were developed for analyzing state-owned enterprises;
+           (iii)     Kiribati, where the foundation for macroeconomic analysis and program budgeting
+                     were laid; and
+           (iv)      Lao PDR, where skills were developed in macroeconomic modeling and the
+                     potential exists for NAO to function as an independent audit office.
+51.     The less successful examples in terms of capacity building, when TAs merely produced
+reports, were still useful for Kiribati, where these reports were used by the counterpart,
+particularly in international forums. In India, the consultants' reports produced under TA 2668-
+IND have greater value for the revenue generation side (not subject to this evaluation) for which
+the reports make detailed and practical recommendations. This is not the case for the part of the
+TA that dealt with the budget process reforms.
+
+           2.        Public Expenditure Management Reformed
+
+52.  None of the TAs took a comprehensive approach to analyzing the public expenditure
+management system or budget cycle as a whole and assessing it against ADB's governance
+
+
+31
+     The reason for calling this an abridged form of institutional development is that TAs are void of analyzing clients and
+     the services that institutions should be providing to their clients, service delivery mechanisms, financing and
+     managerial issues, and human resource development (as opposed to simple one-time training) questions.
+                                                   2
+
+
+criteria. As a result, the TAs addressed a variety of issues but overlooked ways in which public
+expenditure management as a whole can be improved. The effectiveness of the TAs was limited
+by their narrow approach, as complementary activities were required to gain the full potential of
+improving the budget cycle.
+
+53.    Some of the TAs attained--or have the potential to bring about--process efficiencies,
+reducing time and/or effort required for preparing or executing the budget. However, the
+potential of TAs that introduced program budgeting to attain greater efficiency in using public
+resources was forgone. To achieve improved efficiency in using public resources, TAs would
+have had to consider several things:
+
+
+        (i)     analyzing inputs required to produce a particular output, which involves assessing
+                the person-days or person-hours and material inputs needed to deliver a specific
+                service or product (such analyses are time-consuming and normally done for
+                selected services/products or processes, usually in the context of process
+                reforms);
+        (ii)    revising existing cost standards to reflect the actual costs; and
+        (iii)   introducing evaluation capacities that assess the efficiency of a process or
+                program.
+54.      The program budget format introduced through ADB assistance in Kiribati could ensure
+effective resource allocation, provided supplementary TA is given to build capacities needed to
+prioritize budget allocations. Effective budget execution (fiscal discipline) could have been
+attained provided the computerization programs had been accompanied by TA for developing
+greater discipline of line ministries and agencies and/or providing the Ministry of Finance with
+sufficient influence to enforce adherence to original budget allocations.
+
+55.     Possibilities for increasing transparency in the policy-making process could have
+materialized if the macroeconomic modeling tools had been complemented by assistance to
+create greater understanding of policymakers. Their acceptance of policy advisory tools is
+essential to attaining impact. Frequent changes in the incumbents of policy-making positions
+(and sometimes the policymakers' backgrounds, which can be politically oriented rather than
+based on an awareness of economics), requires long-term involvement in policy dialogue and
+TA to build the capacities of policymakers. In addition, it would have been useful to extend
+capacity building assistance for generating data required as input for the models. Transparency
+of the budget preparation process would have required the revision of costing standards to
+better link the narrative description of the program to resources allocated for it. Establishing
+NAO in the Lao PDR requires accurate documentation of accounts of ministries and agencies,
+and thus could indirectly enforce greater transparency. However, the effectiveness of NAO may
+be impeded should these accounting standards not be met, making transactions unauditable.
+
+56.     Opportunities for increasing accountability depend on the extent to which it is acceptable
+to hold a person or group of people responsible for their decisions and actions. TAs typically do
+not address accountability. Therefore, whether introducing tools such as program budget
+formats or an audit function will yield higher levels of accountability remains to be seen.
+                                                  3
+
+
+B.     Key Issues
+
+57.    ADB needs to devise an approach for developing public expenditure management
+capacities to ensure ADB interventions take place in a strategic framework that promises
+optimal sequencing, synergy, and impact of TAs. The conceptual approach is required for
+capacity building and public expenditure management. The Strategy and Policy Office is
+developing a handbook on governance issues, which might fill this gap.
+
+58.     Capacity building requires considerable understanding of the existing local capacity and
+the bottlenecks that hinder it from working effectively. Capacity mapping is one way to develop
+such understanding, which also can be used for building ownership if all the participants are
+involved in mapping capacities and conducting a SWOT analysis. Through capacity mapping,
+governments and ADB can arrive at a strategic medium-term framework that determines actions
+for the government to take (pre-conditions for the TA) and interventions by external agencies,
+including ADB. This systematic strategic framework would help programming missions in
+deciding on the areas that should receive assistance and enable individual TAs to be designed
+in context rather than addressing issues in a separate and ineffective manner.
+
+59.    Capacity mapping or any other systematic analysis is a complex and time-consuming
+process that cannot be attained within the framework of the typical short-duration TA fact-finding
+mission. Designing capacity building requires an up-front investment of time and resources to
+ensure strategic choices are made. The current arrangement for processing TAs is not
+conducive to such an approach.
+
+60.     Equally, building capacities takes long-term commitment on the part of governments and
+ADB, requiring a longer-term perspective rather than the short-term horizon of TAs, which is
+suitable to solve well-defined elements of a capacity building process. Capacity mapping
+provides the strategic framework, while the cluster TA is an ideal instrument for implementing
+the capacity building action plan.
+
+61.    Capacity mapping should be the first step, after which participants determine the
+capacities to be built (shortcomings to be overcome), the type and sequence of initiatives to be
+implemented by the government and external assistance required, and the first targets and
+externally funded inputs needed to attain the initiatives. At the end of each short-term TA,
+progress and medium-term targets in the capacity building strategy should be reviewed and
+revised as needed before designing and approving further TA. This review process could
+ensure (i) ownership (provided consultants do not drive the process), (ii) appropriate timing of
+and flexibility for adjusting required assistance (rather than to work with fixed inputs), and (iii) a
+focus on results.
+
+62.    Public expenditure capacity building requires capacity mapping to be combined with
+ADB's governance indicators as illustrated in this evaluation (Appendix 4). Combining these
+items will help identify the type of governance improvements TAs seek to attain and effectively
+channel limited resources toward achieving their goals of increasing efficient, effective,
+transparent, and accountable use of public resources.
+
+63.      Even when increasing participation in the design of the capacity building process,
+reforms are often perceived as threats, something that cannot always be avoided when
+institutions are outdated and need major changes. Capacity mapping cannot eliminate this
+problem. However, capacity mapping can help identify those groups that fear losing most and
+other forces that are likely to impede a reform process. An orientation toward functions that
+                                                             4
+
+
+need to be fulfilled and assistance to make them more easily attainable might help different
+agencies to work together on reform and service delivery.
+
+64.    While indigenous capacity for managing public resources is essential, it also needs to be
+understood which functions the government should perform and which activities are better
+outsourced to consultants with the help of external assistance. A solution such as this needs to
+be considered in particular in countries with small administrations, which should not be
+expanded for efficiency reasons, and for functions needed only at medium-term intervals.32
+
+
+
+
+32
+     Assessment of Bank Assistance for Reform Programs in the Pacific (footnote 1).
+                                        5
+
+
+
+
+                                 APPENDIXES
+
+
+
+                                                            Cited on
+Number   Title                                     Page
+                                                          (page, para.)
+
+    1    Capacity Building Issues and Indicators    19        2, 0
+    2    Governance Indicators                      20        2, 0
+
+
+    3    Capacity Mapping                           21        4, 0
+
+
+    4    Annual Budget Cycle                        24        1, 0
+                                                                                                            Appendix 1
+
+
+
+A.      Appendix 1
+
+                         CAPACITY BUILDING ISSUES AND INDICATORS
+
+
+
+
+Capacity Building                   Issues                        Indicators                   Information Sources
+  Component
+
+     Ownership           ??   Who is or was the          ??   Origin of TA idea           ??    TA design
+                              owner of the technical
+                              assistance (TA), and       ??   Role of the government      ??    Correspondence
+                              how does this                   in designing the TA
+                                                                                          ??    TA reports, and Back-
+                              ownership manifest         ??   Need for building                 to-Office reports
+                              itself?                         ownership discussed in
+                                                              TA design or reports        ??    Discussions and
+                         ??   How was ownership                                                 interviews
+                              built?                     ??   Level of government
+                                                              support and                 ??    Manifestations of the
+                         ??   Were the owner's                                                  government's follow-up
+                              interests respected in          participation in TA
+                                                              implementation                    action
+                              TA design and
+                              implementation?            ??   Discussion and
+                         ??   How was the owner               implementation of TA
+                              advised to ensure that          recommendations
+                              the owner's interests
+                              represented the best
+                              interest of government
+                              and country?
+                         ??   Was the TA relevant to
+                              the owners' needs and
+                              significant enough to
+                              influence a process of
+                              institutional change?
+Capacity Mapping         ??   Were existing              ??   Availability                ??    TA report containing an
+                              capacities analyzed,                                              institutional analysis
+                              and if so which            ??   Quality: coverage,
+                              aspects?                        specificity, depth of       ??    Government comments
+                                                              analysis, identification          on the institutional
+                         ??   Who was involved in             of key problem areas,             analysis
+                              the analysis?                   and consensus on
+                                                              these issues                ??    Discussions and
+                         ??   Were requisite future                                             interviews
+                              capacities
+                              determined, and if so
+                              to what detail?
+Action     Plan    for   ??   Was a plan for             ??   Availability                ??    TA report containing the
+Institutional Change          institutional change                                              recommended plan of
+                              developed? If so, what     ??   Quality: coverage,                action (these are
+                              did it contain?                 specificity, practicality         mostly TA outputs such
+                                                              of recommendations,               as a proposal for
+                         ??   Was it pragmatic,               and identification of             streamlining the
+                              implementable, well-            potential                         budgeting system or
+                              defined, acceptable,            implementation                    computerizing it)
+                              and accepted?                   problems and requisite
+                                                              countermeasures             ??    Government comments
+                         ??   Did it discuss                                                    and implementation
+                              explicitly institutional
+                                          Appendix 1
+
+
+explicitly institutional        action on
+aspects that might              recommendations
+hinder its
+implementation?            ??   Discussions and
+                                interviews
+                                                                                                           Appendix 2
+
+
+
+B.       Appendix 2
+
+                                       GOVERNANCE INDICATORS
+
+     Governance                        Indicators                                    Information Sources
+Efficiency of the   ??   Processing time: time required to               ??   TA reports
+Budget Process           process a particular transaction
+                                                                         ??   Records of agencies
+                    ??    Process flow: number of steps a
+                         process takes, ensuring the flow diagram        ??   Discussions and interviews
+                         is as streamlined as possible
+                    ??   Process resources: number of person-
+                         days and other resources to accomplish
+                         a particular transaction
+Efficiency in the   ??    Costing systems: specification and             ??   TA reports
+Use of Public            rationalization of cost standards;
+Resources                identification of cost-output relationships     ??   Instructions for budgeting/costing of
+                         to ensure efficiency gains                           outputs
+                                                                         ??   Discussions and interviews
+Effectiveness       ??    Resource allocation: matching of               ??   Budget document
+                         outlays with available revenue and other
+                         resources, setting of priorities in line with   ??   Expenditure reports
+                         policy objectives, and comparison of            ??   Discussions and interviews
+                         stated objectives and priorities with
+                         actual allocations
+                    ??   Resource use: comparison of
+                         expenditure with allocations, analysis of
+                         goal attainment with given resources,
+                         and assessment of resource reallocation
+Transparency        ??    Allocation process: criteria (what are         ??    Process specifications and
+                         they, how were they arrived at, how their            requirements, and actual practices
+                         application is ensured), and decision
+                         makers (who are they, who is informed of        ??   Discussions and interviews
+                         decisions, consultation, and consensus
+                         building)
+                    ??   Release process: documentation, and
+                         checks and balances
+                    ??   Resource reallocation process:
+                         criteria, documentation, and checks and
+                         balances
+                    ??   Budget documentation: linking
+                         objectives and outputs to budget
+                         allocations, reporting on budget
+                         allocations and actual expenditure, and
+                         annual accounts
+                                                                                                   Appendix 2
+
+
+   Governance                       Indicators                               Information Sources
+Accountability   ??    Linkage to development goals:             ??   Development plans and budgets
+                      allocations in line with development
+                      plans, specificity of targets to enable    ??   Financial accounting system: process
+                      accountability, and specificity of              specification, manuals, and actual
+                      implementation plans                            practices
+
+                 ??    Financial accountability: use of funds,   ??   Performance reports
+                      reporting, and audit                       ??   Discussions and interviews
+                 ??    Performance evaluation: monitoring
+                      and evaluation of goal achievements,
+                      reporting, and use of lessons (feedback
+                      into planning cycle)
+                                                                                                         Appendix 2
+
+
+
+C.       Appendix 3
+
+                                            CAPACITY MAPPING
+
+
+     Capacity Components                   Bhutan                              India                            Kiribati
+
+
+         Functions              ?? TA 970-BHU contains a           ?? TA 2668-IND discusses          ?? TA 1976-KIR describes           ?? TA 2049
+                                general description of the         the symptoms that manifest        the functions of the Ministry of   the importance of the role of
+??   Service delivery           functions of the counterpart.      institutional limitations. For    Finance      and     Economic      the Committee for Planning
+                                Implicitly, it covers several      instance, the expenditure         Planning (MFEP) regarding          and Cooperation in managing
+                                functions of the government:       wing is cited as having limited   macroeconomic         planning,    the economy. It does not
+??   Policy    analysis   and                                      abilities to manage and           investment monitoring, and         provide a detailed analysis of
+      formulation                                                  control slippages in current      budget preparation. In all         functions that are not well
+                                - Providing training to national
+                                  accounts staff. The need for     expenditures. The TA paper        cases,       problems       are    performed.
+??   Networking                   assistance does not identify     does not identify the reasons     mentioned with the existing
+                                      weaknesses and why a         for these shortcomings and        system, but little analysis is     ?? The National Audit Office
+??   Strategic planning                  review is needed.         whether they are intrinsic to     provided of the shortcomings.      was newly established under
+                                  - Improving the performance      the expenditure wing or                                              TA 2987-
+??   Learning                     of public sector enterprises,    induced by the normative or       ?? TA       2657-KIR     details   describes the weakness of
+                                  by assisting in developing a     societal context.                 problems related to the            the existing system (ad hoc
+??   Decision making              monitoring system. Reasons                                         budget preparation function of     inspections at the request of
+                                  for the poor results of public   ?? For TA 2552-IND, the           MFEP and the line ministries.      the Ministry of Finance,
+                                     enterprises are not given,    paper discusses the functions     Among other issues, this           insufficient     staff   and
+                                    therefore it cannot be said    of the Technical Secretariat,     included     the    need     for   expertise), and those in the
+                                      whether the solution (an     but does not reveal why it        "departments to think much         financial    accou
+                                 improved monitoring system)       required the support of           more critically about their        management processes.
+                                            is adequate.           external consultants financed     activities and the end results
+                                 - Managing external loan and      by the TA to fulfill these        they are expected to deliver
+                                      TA negotiations, the key     functions.                        (i.e., outputs), and also about
+                                      problem being a lack of                                        cost effectiveness" (TA paper,
+                                   procedures. The TA did not                                        para. 6). Weaknesses were
+                                    identify the disadvantages                                       also observed in the linkage
+                                   being experienced and why                                         between policy making and
+                                  standardization was needed                                         budget preparation, and in
+                                    but suggested developing                                         monitoring of the budget
+                                 procedures and documenting                                          execution.
+                                         them in a manual.
+                                ?? TA 1487-BHU identified
+                                the lack of a computerized
+                                system for budget preparation
+                                and accounting that interfered
+                                with the integrity of data and
+                                inadequacy to form a reliable
+                                financial information system.
+                                                                                                          Appendix 2
+
+
+     Capacity Components                       Bhutan                            India                           Kiribati
+
+
+     Actors/Participants            ?? The TAs focused on the         ?? TA 2668-IND recognized       ?? Both TAs (1976-KIR and          ?? TA 2049
+                                    central      agency       (the    that multiple actors were       2657-KIR) recognized the           the need to train staff of
+??    Individuals     (community    department within the Ministry    involved in the budgeting       need to involve MFEP and the       selected line ministries, thus
+       leaders, politicians)        of Finance with whom the TAs      process and highlighted that    line ministries. However, TA       to involve more than the core
+                                    were    implemented).     The     the Finance Department and      1976-KIR did not specify the       agency.
+                                    terms of reference of the         sector       ministries  had    type of capacities to be built
+??    Formal       organizations
+       (government,         non-
+                                    second TA foresaw that a          difficulties enforcing fiscal   at the line agency level.          ?? TA 2987
+                                    standardized     computerized     management (again without                                          assistance to other agencies,
+       governmental                 accounts package would be         specifying the reasons why).
+       organizations,                                                                                                                    such      as      state
+                                    developed for use by all          However, the objective and                                         enterprises and the Ministry of
+       universities)                government       departments.     the scope of the TA include                                        Finance,     although     ADB
+                                    However, the extent to which      only the Finance Department.                                       assistance is focused on the
+??    Network or organizations      other government agencies                                                                            National Audit Office alone.
+       (associations,   action      had the human and technical       TA     2552-IND     mentions                                       Further assistance will be
+       networks)                    resources to implement and        several bodies that would be                                       provided under another TA.
+                                    use such a package were not       associated with the TA in
+??    Informal       institutions   analyzed in the TA.               support of the Technical
+       (pressure        groups,                                       Secretariat, which was its
+       political movements)                                           main counterpart.
+
+                                    ?? No detailed analysis was       ?? Resource availability and    ?? TA 1976-KIR does not            ?? TA 2049
+         Resources                  done     of   the     resources   constraints are not analyzed    provide a resource analysis.       the shortage of skills as the
+                                    available during TA design or     in the TA papers.               TA 2657-KIR determines the         key problem. No other
+                                    of the resources required to                                      shortage of human resources        resource   constraints    are
+??    Human     (local   skills,
+                                    implement and sustain the                                         with requisite educational         discussed.
+       knowledge, motivation)
+                                    capacity building intervention.                                   background               without
+                                                                                                      discussing     limitations    to   ?? TA 2987
+??    Informational (technical                                                                        capacity building in the           the shortage of skills as a
+       data,         government                                                                       context of minimal institutional   resource problem.
+       strategy, intelligence)                                                                        size.
+
+??    Financial (domestic and
+       external)
+
+??    Technological
+
+                                    ?? The first TA discusses         ?? Both TA papers discuss       ?? TA 1976-KIR did not             ?? There is little information
+     Normative Context              the reform objectives of the      the   government's     reform   contain details on this. TA        other than on previous
+                                    Government.       Details   on    attempts but none elaborate     2657-KIR raises the urgency        assistance to the same
+                                    factors      supporting     or    on the reasons for delays in    of                 establishing    reforms in TA 2049
+??    Values (human       rights,
+                                    conflicting with the normative    their implementation. This      macroeconomic policies that
+       governance)
+                                    context are not mentioned.        would have been useful for      stimulate greater involvement      ?? TA 2987
+                                                                      recognizing factors that may    of businesses in the economic      the     Government's   effort,
+??    Organizational strategies                                       impede the performance of       sector, increasing skill levels,   assisted by several agencies,
+      (devolution, privatization,                                     the TAs.                        and integrating the domestic       to improve audit capabilities
+      public sector reform)                                                                           economy into the world             of state-
+                                                                                                      economy. The TA paper gives        and to translate accounting
+??    Policies      (economic                                                                         some information on these          standards into the local
+       reform, strategies for                                                                         aspects, but without analyzing     language, as an indication of
+       sustainable                                                                                    the potential for addressing       the ongoing reform process in
+       development,      land                                                                         them.                              the field of audit.
+       reform)
+
+??    Cultural        (ethnicity,
+       religion, art, language,
+       gender roles)
+                                                                                                           Appendix 2
+
+
+     Capacity Components                      Bhutan                             India                           Kiribati
+
+
+     Societal Context              ?? The TA paper does not          ?? The TA papers do not           ?? TA 1976-KIR does not        ?? TA 2049
+                                   provide details on this aspect.   provide details on this aspect.   raise these issues, although   provide details   on   these
+??   Global     (access   to       However, falling under this                                         they are mentioned in TA       aspects.
+     markets, changes in           category is the involvement of                                      2657-KIR    (see    previous
+     global governance, role       local levels in identifying                                         paragraph).                    ?? TA 2987
+     of donors)                    development projects, which                                                                        that ADB and United Nations
+                                   is   useful     for    program                                                                     Development      Programme
+                                   budgeting,     although     not                                                                    were instrument
+??   Regional (trade patterns,     immediately relevant to the
+      sectoral cooperation)                                                                                                           about     the  request   for
+                                   TAs with their focus on                                                                            assistance to analyze the
+                                   computerizing the budget                                                                           need for and develop an
+??   National      (style     of   system.                                                                                            approach to set up the audit
+      governance, sharing of                                                                                                          function.
+      political           power,
+      administrative capacity)
+
+??   Subnational (degree of
+      institutional  pluralism,
+      ethnic issues)
+                                                                                       Appendix 4, page 13
+
+
+
+D.         Appendix 4
+
+                                         ANNUAL BUDGET CYCLE
+
+1.     The annual cycle of planning and using public resources involves the following steps,
+which are schematic but largely applicable to any budget preparation process.33
+
+(i)        Policy decisions. Based on past performance, current development challenges, and
+           opportunities, policy options need to be considered. Macroeconomic policy choices can
+           be determined with the help of modeling tools, and economic and social development
+           goals stated in five-year development plans influence the choices of investments.
+
+(ii)       Guidelines for budget preparation. The ministry of finance issues instructions, which
+           contain an update on recent policy changes or reiterate goals stated in development
+           plans. In some instances, line ministries and agencies are advised of budget ceilings
+           within which they can plan their forthcoming budget. Member countries of the
+           Organisation for Economic Co-operation and Development are moving toward multiyear
+           frameworks34 to reflect requirements for multiyear investment projects and to anticipate
+           increases in the recurrent budget to fund operating expenses of completed investments.
+
+(iii)      Budget proposals. Line ministries and agencies present their budget proposals. When it
+           is a line item budget, increases are often justified on grounds of inflation and higher
+           expenditure requirements. These increases are determined by using a standard
+           multiplier to the current year allocation, the multiplier taking into account cuts expected
+           to be exercised by the central government. A well-functioning output or program budget
+           implies that achievements against current objectives and outputs are made, and based
+           on performance, new targets are developed with associated budget requirements.
+           Implicit in this process is the need for an appropriate costing mechanism by which inputs
+           (costs) can be associated with outputs, outcomes, and impacts.
+
+(iv)       Approval of budget proposals and appropriation of funds. Budget submissions are
+           screened by the ministry of finance to identify trends in requests for resources,
+           comparing past with current requirements and actual expenditure. This is a cumbersome
+           process when financial systems are not computerized and/or up to date, which makes it
+           difficult for the ministry of finance to identify whether requests are reasonable. When
+           budgets are prepared in an output budget format, the ministry of finance, sometimes in
+           cooperation with the planning agency, may analyze program objectives and outputs to
+           assess whether they are in line with national development plans and coherent with
+           budget allocations. This is equally if not more time-consuming, particularly when
+           programs are ill defined and cost estimates are not well justified. The Cabinet, or its
+           equivalent, approves the budget and relevant appropriations are made.
+
+(v)        Budget execution/plan implementation. During plan implementation, line ministries and
+           agencies draw down funds from their appropriations. Their expenditures are controlled
+           centrally by the ministry of finance, to which vouchers must be submitted to trigger
+           budget releases. This mechanism should ensure financial discipline (i.e., adherence to
+           allocated ceilings), but in reality many line ministries and agencies submit requests for
+           budget releases after entering into a contract obligation that may be above the budget
+
+33
+     A more detailed discussion of public expenditure management issues can be found in Managing Government
+     Expenditure. Schiavo-Campo, S. and D. Tommasi. 1999. Manila: Asian Development Bank.
+34
+     Organisation for Economic Co-operation and Development. 1998. Survey of Recent Budgetary Documents. Public
+     Management Service.
+                                                                                               Appendix 4, page 14
+
+
+           allocation for that particular line item. Therefore, supplementary budget requests are the
+           rule and are processed routinely.
+
+(vi)       Evaluation of results and feedback into policy making and budget design. Results-
+           oriented management, as the underlying rationale for output or program budgeting,
+           necessitates monitoring and evaluation of results. Evaluation findings should influence
+           all stages of the budget cycle: informing decision makers of their policy choices, helping
+           to prioritize and sequence investments, improving program designs, and highlighting
+           areas where budget execution and plan implementation require different approaches or
+           greater managerial attention.
+
+2.      The following table summarizes how the four dimensions of governance considered in
+this evaluation relate to each of the steps in the budget cycle.
+
+
+
+     Budget Cycle                   Efficiency                      Effectiveness                        Transparency                         Accountability
+1.     Policy decisions   Introducing decision-making      Effective policy making is           Transparency is gained if policy     Assuming that policies and
+                          tools that help model various    manifested in the actual             decisions are based on objective     development targets are well
+                          options can bring about          implementation of policy             criteria and careful analysis of     defined, account
+                          efficiency gains.                decisions, which depends on the      challenges and opportunities,        enhanced in that performance
+                                                           quality of policies and on the       and the reasons for making           against these goals becomes
+                                                           enforcement mechanisms.              choices are exposed.                 measurable.
+2.     Guidelines for     Process efficiency can be        Issuing instructions that ensure     By issuing budget instruction to     The budget instructions can
+       budget             enhanced with clear              matching outlays with available      all ministries and agencies,         clarify the allocation of
+       preparation        instructions that help prevent   resources can attain effective       informing them for instance of       responsibility and authority. For
+                          ministries and agencies from     budgeting.                           their budget ceilings,               instance, if the ministry of
+                          submitting proposals that are                                         transparency can be ensured.         finance sets the budget ceilings,
+                          outside the government's                                                                                   the ministry is accountable for
+                          priorities.                                                                                                the overall distribution of public
+                                                                                                                                     resources among sectors.
+                                                                                                                                     Within that framework, the
+                                                                                                                                     ministries and agencies may be
+                                                                                                                                     given authority to allocate
+                                                                                                                                     resources to various programs,
+                                                                                                                                     and thus are accountable for
+                                                                                                                                     priorities within their portfolio.
+3.     Budget             To ensure efficient use of       Preparing budget proposals           Transparency can be gained           Program budgets contribute to
+       proposals          resources, cost standards need   within allocated overall ceilings    when budget proposals                accountability when they are
+                          to be accurate and designed in   by prioritizing programs and         document their objectives and        well defined and contain
+                          such a way that the cost of      subprograms ensures effective        illustrate how they plan to attain   measurable targets and
+                          outputs can be determined.       budgeting.                           these. An intrinsic advantage        performance indicators.
+                                                                                                exists with output or program
+                                                                                                budgeting (over line item format)
+                                                                                                as it gives the opportunity to
+                                                                                                relate resource allocations to
+                                                                                                goals.
+4.     Approval of        Process efficiencies can be      Effective budgeting exercised        Transparency in the approval         The ministry of finance is
+       budget             gained by computerizing          during the budget preparation        and appropriation process            accountable for exercising due
+       proposals and      financial data, speeding up      process (1-3) can be unhinged if     depends on the existence of          diligence to assess whether the
+       appropriation of   comparative analyses of          arbitrariness is exercised at the    objective criteria for modifying     budget proposals are in line with
+       funds              budget requests and past         approval stage.                      budget proposals and of a            the government's policies and
+                          performance. Standardized                                             system that ensures                  development plans, and for
+                          tools for analyzing program                                           appropriations are made in line      advising the approving body
+                          proposals can introduce                                               with approvals.                      accordingly.
+                          greater objectivity into the
+                          process and make it more
+                          efficient with the use of
+                          checklists.
+                                                                                             Appendix 4, page 15
+
+
+     Budget Cycle               Efficiency                        Effectiveness                        Transparency                      Accountability
+5.   Budget           Efficiency in the budget           Effectiveness in budget              Transparency is ensured when       Monitoring and reporting
+     execution/plan   execution process refers to the    execution concerns the actual        documentation shows which          requirements can ensure
+     implementation   expedience with which              use of funds in accordance with      inputs were financed with public   financial accountability.
+                      resources are made available.      the budget plans.                    resources and for which
+                                                                                              program outputs these funds
+                      Efficiency in service delivery
+                                                                                              were spent.
+                      falls outside the budget
+                      process and would require
+                      reforms of the delivery process.
+6.   Evaluation of    Efficiency of evaluation is        Evaluations can verify the           Evaluations can verify whether     Evaluations are an instrument
+     results and      ensured through standard           effectiveness of budget              documentation has been             with which to en
+     feedback into    evaluation formats and             allocations and use.                 complete and accurate.             accountability as they report on
+     policy making    checklists that ensure                                                                                     the use of public resources and
+     and budget       expediency of the process.         Performance results (feedback        Evaluation reports add to          identify whether a party has not
+     design                                              from evaluation) provide insights    transparency by documenting        fulfilled its responsibility.
+                      Evaluation can contribute to       that should help improve             how public resources were
+                      efficiency gains when costing      effective budgeting (setting         spent and what has been
+                      systems are analyzed and           priorities, resource distribution    achieved with them.
+                      improvements recommended.          among sectors, sequencing of
+                                                         investments).
+                      Management or value-for-
+                      money audits can result in
+                      gains in process efficiencies.
+

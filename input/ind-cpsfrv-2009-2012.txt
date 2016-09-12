@@ -1,0 +1,2324 @@
+Validation Report
+
+
+
+
+Reference Number: FRV: IND 2013­01
+February 2013
+
+
+
+
+India: Country Partnership Strategy 2009­2012
+Final Review Validation
+
+
+
+
+Independent Evaluation Department
+            ABBREVIATIONS
+
+ADB     ­    Asian Development Bank
+ADF     ­    Asian Development Fund
+ANR     ­    agriculture and natural resources
+CAPE    ­    country assistance program evaluation
+CDM     ­    Clean Development Mechanism
+CPS     ­    country partnership strategy
+CPSFR   ­    country partnership strategy final review
+DEA     ­    Department of Economic Affairs
+DFID    ­    Department for International Development of the
+             United Kingdom
+EU      ­    European Union
+FY      ­    fiscal year
+GDP     ­    gross domestic product
+ICT     ­   information and communication technology
+IED     ­    Independent Evaluation Department
+IIFCL   ­    India Infrastructure Finance Company Limited
+IIPFF   ­    India Infrastructure Project Financing Facility
+JICA    ­    Japan International Cooperation Agency
+km      ­    kilometer
+KRDP    ­    Khadi Reform and Development Programme
+MDG     ­    Millennium Development Goal
+MFF     ­    multitranche financing facility
+O&M     ­    operation and maintenance
+PCR     ­    project completion report
+PFR     ­    periodic financing request
+PPP     ­    public­private partnership
+PSOD    ­   Private Sector Operations Department
+RTI     ­   Right to Information
+SARD    ­   South Asia Department
+SMEs    ­   small and medium-sized enterprises
+TA      ­   technical assistance
+TPRM    ­   tripartite portfolio review meeting
+ULB     ­   urban local body
+UN      ­   United Nations
+USAID   ­   United States Agency for International Development
+                                              NOTES
+
+              (i)     The fiscal year (FY) of the Government of India begins on 1 April and
+                      ends on 31 March.
+
+              (ii)    In this report, "$" refers to US dollars.
+
+              (iii)   For an explanation of rating descriptions used in ADB evaluation reports,
+                      see: ADB. 2010. Revised Guidelines for the Preparation of Country
+                      Assistance Program Evaluation. Manila.
+
+
+
+
+                                            Key Words
+
+ asian development bank, country partnership strategy final review, development impact,
+ effectiveness, efficiency, independent evaluation department, india, relevance, strategic
+ positioning, sustainability, validation
+
+
+
+Director General       V. Thomas, Independent Evaluation Department (IED)
+Director               H. Hettige, Independent Evaluation Division 2 (IED2), IED
+Team leader            C. Kim, Principal Evaluation Specialist, IED2, IED
+Team members           F. De Guzman, Evaluation Officer, IED2, IED
+                       R. Isidro-Cajilig, Evaluation Assistant, IED2, IED
+
+                       Independent Evaluation Department, VR-10
+
+
+
+In preparing any evaluation report, or by making any designation of or reference to a particular
+territory or geographic area in this document, the Independent Evaluation Department does
+not intend to make any judgments as to the legal or other status of any territory or area.
+                                               CONTENTS
+                                                                                              Page
+EXECUTIVE SUMMARY                                                                                  i
+
+I.     INTRODUCTION                                                                               1
+       A.   Validation Purpose and Procedures                                                     1
+       B.   India's Development Context and Government Plans                                      1
+       C.   Country Partnership Strategy                                                          3
+
+II.    VALIDATION OF THE COUNTRY PARTNERSHIP STRATEGY FINAL REVIEW                                8
+       A.    Strategic Positioning                                                                8
+       B.    Program Relevance                                                                   11
+       C.    Efficiency                                                                          15
+       D.    Effectiveness                                                                       18
+       E.    Sustainability                                                                      20
+       F.    Development Impact                                                                  22
+       G.    Overall Assessment                                                                  26
+       H.    Performance of Borrower, Executive Agencies, and Implementing Agencies              28
+       I.    Perception Survey on ADB's Performance                                              29
+       J.    ADB's Performance                                                                   30
+       K.    Conclusions                                                                         31
+       L.    Lessons and Recommendations                                                         32
+
+III.   ASSESSMENT OF THE QUALITY OF CPS FINAL REVIEW                                             34
+
+
+APPENDIXES
+1.     India Country Partnership Strategy Final Review                                           35
+2.     India Country Economic Indicators, 2002­2011                                              36
+3.     ADB Public Sector Loans to India, 1986­2012                                               37
+4.     ADB Nonsovereign Operations Projects in India, 1987­2011                                  38
+5.     ADB Technical Assistance to India, 1986­2012                                              39
+6.     ADB Economic and Sector Works in India                                                    40
+
+
+SUPPLEMENTARY APPENDIX
+A.   ADB Clients and Stakeholders Perception Survey (available on request)
+
+
+
+
+The guidelines formally adopted by the Independent Evaluation Department (IED) on avoiding
+conflict of interest in its independent evaluations were observed in the preparation of this report.
+The peer reviewers were J. Weiss, Professor of Development Economics, University of
+Bradford, United Kingdom, and H. Feig, Lead Evaluation Specialist, IED. B. Prakash as a
+consultant assisted the team leader. To the knowledge of the management of IED, there were
+no conflicts of interest of the persons preparing, reviewing, or approving this report.
+                                     EXECUTIVE SUMMARY
+
+        India is presently the largest ordinary capital resources borrower of the Asian
+Development Bank (ADB). In 2009, ADB formulated a country partnership strategy (CPS) for
+India, which was implemented during 2009­2012. In March 2012, ADB's South Asia
+Department prepared a CPS final review report (CPSFR) as an input to ADB's new CPS for
+India for 2013­2017 and requested the Independent Evaluation Department (IED) to validate
+the self-evaluated CPSFR. Using its standard methodology, IED reviewed the CPSFR and
+related documents and undertook an evaluation mission to India. This CPSFR validation builds
+on IED's first country assistance program evaluation (CAPE) for India prepared in 2007, which
+evaluated ADB operations in India during 1986­2006.
+
+        Country context and government plans. When the CPS was launched in 2009, the
+Indian economy was moving along its high growth trajectory of more than 8% per annum.
+However, it was adversely affected by the world economic and financial crisis through trade and
+financial linkages. The global crisis exposed India to growing stress through various adverse
+developments in its external trade and investments. This, combined with domestic factors like
+the growing fiscal deficit, resulted in macroeconomic imbalances. The passage of the CPS has
+been through an unexpectedly stressful period, with economic growth slowing to 6.5% in 2011.
+
+         Under the government's Eleventh Five Year Plan, 2007­2011, with which the CPS was
+aligned, a strategy of high and inclusive growth was envisaged. Key areas of support included
+(i) the revival of agricultural growth, (ii) infrastructure development, (iii) provision of essential
+services to enhance human capital skills, and (iv) promotion of environmental sustainability. The
+government plans were contingent on the stable and sustained participation of the private sector
+in India's development efforts. Additionally, the government stressed good governance at all
+levels, with emphasis on meeting the needs of disadvantaged and vulnerable groups.
+
+Country Partnership Strategy and its Program
+
+          ADB, through the CPS, responded to the government strategy and priorities. The CPS
+had four strategic pillars or objectives: (i) supporting inclusive and environmentally sustainable
+growth, (ii) catalyzing investments through using innovative business and financing solutions,
+(iii) strengthening results orientation and emphasizing knowledge solutions, and (iv) supporting
+regional cooperation. In pursuing the objectives, the CPS focused on a strong element of
+inclusive growth in its program on the basis of the following: (i) inclusion of lagging states such
+as weakly-performing northeastern states in ADB operations, (ii) choice of subsectors such as
+rural roads, (iii) support to agriculture and water resource management, and (iv) promotion of
+financial inclusion. The thrust of the CPS was consistent with government plans and ADB's
+Strategy 2020.
+
+       In pursuing the above CPS objectives, ADB allocated about $2 billion of ordinary capital
+resources lending and $20 million nonlending program per annum for India. Over the CPS
+period (2009­2012), ADB approved a sovereign lending program of $8.7 billion, comprising 80
+investment projects. The lending program is assessed to be relevant as it adequately supported
+the CPS objectives. As of 31 December 2011, the portfolio comprised 79 loans. Of these, 25
+loans were related to the energy sector with a value of $3.6 billion, 18 loans were in transport
+and information and communication technology ($4.1 billion), 21 loans in water and other
+municipal infrastructure and services ($2.0 billion), and the rest in other sectors.
+ii
+
+
+Performance of ADB Operations
+
+         The CPSFR self-assessed the overall performance of ADB operations during the CPS
+period (2009­2012) as successful, based on satisfactory strategic positioning, a relevant
+program, and an effective and efficient delivery of outputs and expected outcomes, and a likely
+sustainable and satisfactory development impact. This validation endorses the ratings of the
+CPSFR, and thus rates the overall performance successful. It considers that ADB has achieved
+its limited CPS objectives through designing and executing a relevant program. The strategic
+positioning was satisfactory as it supported the government's development strategy that
+targeted both rapid growth and inclusive development, although actual results have not been
+assessed. The validation's overall performance rating is in line with the 2007 CAPE's rating
+(successful). Nonetheless, it should be noted that ADB's results orientation needs to improve in
+order to generate greater total development impacts, based on enhanced targeting and
+monitoring of results that are linked to CPS objectives.
+
+        At the sector level, ADB operations in energy and transport sectors have performed well.
+However, in agriculture and natural resources, water and other municipal infrastructure and
+services, and finance sectors, operational efficiencies need to be improved, especially in terms
+of project implementation delays. The previously-weak efficiency in implementing ADB projects,
+however, has improved notably due to several efficiency measures introduced or strengthened
+in the CPS period through the periodic tripartite portfolio review meetings and capacity
+development programs. The contract awards and disbursement ratios exceeded the ADB-wide
+average, with the average disbursement ratio of 27% against the ADB-wide average of 20%.
+The ADB program was assessed effective in achieving the initial outcomes and outputs,
+especially in energy and transport, and building local capacity relating to public-private
+partnerships and projects management.
+
+         ADB's multitranche financing facilities (MFFs) modality has emerged as a preferred
+operational modality in India since 2005 as it allows executing agencies to plan and pace the
+implementation of large scale projects according to their progress and convenience. India is
+currently a major recipient of MFFs. The MFF modality also suits the area- or time-slice of
+operations and allows operations to be mobile across states within the same sector. This
+validation received positive feedback from various ADB counterparts in the government on the
+usefulness of the modality, particularly in designing and implementing large-scale projects.
+IED's recent evaluation study on MFFs pointed out that commitment fee savings are not
+significant where MFF tranche sizes were about the same as regular loans. India was an
+exception in terms of better due diligence being undertaken on the institutional capabilities.
+However, there were issues of project level due diligence on technical and other aspects, and
+classification of tranche scope changes as minor changes. In addition, the design of the MFF
+modality is such that in general it may not formally benefit from the lessons of previous MFFs
+and tranches. Therefore, to improve the development effectiveness of upcoming MFF programs
+and tranches, it would be useful to capture and report on the lessons from MFFs during the
+preparation of the CPS.
+
+Key Findings and Challenges for the Program
+
+        Support for policy reforms. The 2007 CAPE emphasized the significance of ADB's
+policy inputs with its financing. The importance of the policy inputs has been augmented in light
+of the lagging sector policy reforms (e.g., especially in fiscal management, power distribution,
+and urban development) in the country during the CPS period. The CPS broadly followed
+government plans and subscribed to the comprehensive programs launched at the national
+                                                                                                 iii
+
+
+level. ADB's role of making timely policy inputs and advice at the state level has become crucial
+and more significant over the CPS period.
+
+        Support for knowledge solutions and products. ADB technical assistance has been
+successful in introducing knowledge solutions with innovative elements (e.g., use of public-
+private partnerships, carbon credits, partial risk guarantees, and environmentally-friendly coastal
+protection solutions) and international best practices and procedures through a wide-scale
+capacity development program. Umbrella technical assistance projects for this purpose have
+enhanced the project preparedness of the executing agencies by supporting feasibility studies,
+preliminary design, bid documents, and bid evaluation, among others. This validation notes that
+these efforts together have supported the government's Finance Plus approach well by adding
+extra value to ADB's financing through providing knowledge solutions. It also notes the need for
+ADB to strengthen its related technical expertise of its staff and dissemination of knowledge
+products in India. Given India's scale and complexity, ADB's addressing of development issues
+often involves the challenge of adapting available knowledge to local conditions and advising
+decision makers to adopt necessary reforms and new practices, particularly at the state level.
+
+        Strengthening of capacity development. Capacity development is required for several
+agencies with which ADB is working. This is particularly so because ADB operations are
+entering softer (hence, more difficult) sectors (e.g., water and other municipal infrastructure and
+services, Khadi and small industries, and skills development). Further, ADB is operating in many
+lagging states (e.g., selected northeastern states) as the CPS concentrated nearly 70% of its
+operations in the lagging states where exposure to international standards and know-how is
+particularly scant. Likewise, operations in urban local bodies and cities cannot be undertaken
+satisfactorily without developing their own capacity to plan and implement development projects.
+This validation found that the resident mission had done well in conducting useful capacity
+development activities, as confirmed by various stakeholders. Such value adding activities need
+to be expanded, given the large magnitude of the requirements in India.
+
+        Role of non-sovereign operations. ADB's non-sovereign operations have promoted
+the public-private partnerships modality in India through participating in core development
+projects. ADB had actively invested in India focusing on energy, transport, and industry sectors,
+but the investment has become stagnant in recent years. However, the demand for ADB's non-
+sovereign operations in India remains strong as the private sector of the economy grows rapidly.
+Therefore, ADB's private sector operations would need to find its role to support private sector
+development more broadly than in the past within the context of ADB's lending program.
+Nonetheless, strategic awareness about this changing pattern was not adequately emphasized
+in the CPS. Given the significance of the role of the private sector in Indian economy, there is a
+need to build a strategic framework for India operations that encompasses synergies between
+public and private sectors.
+
+       Strengthening of results framework and monitoring. Despite the emphases made in
+the 2007 CAPE, the CPS and CPSFR did not pay attention to monitoring the CPS results
+framework and tracking the development impact of the ADB program on the ground. Both the
+CPS results framework and sector road maps lacked monitorable indicators and also linkages
+between the planned program and the CPS objectives and between outputs and outcomes.
+Hence, it is hard to understand whether the CPS objectives at the overall and sector levels have
+been achieved based on the project outputs.
+iv
+
+
+Recommendations for the Next CPS
+
+       The CPSFR recommended specific actions to improve ADB performance in each of the
+evaluation criteria. This validation adds the following crosscutting recommendations for the new
+CPS. More detailed ideas are suggested in the main text (paras. 129­136).
+
+       (i)     Strengthen policy dialogue and direct engagement, particularly at the state
+               level, for better strategic programming. State governments are the primary
+               agencies to implement development programs; they differ significantly from each
+               other, necessitating development interventions to be localized, and their
+               commitment to policy emphases also varies. Although states are given access to
+               centrally-funded programs, their inclusion has often taken place long after the
+               program design had been fixed at the national level, leaving little room for
+               customizing the program. Therefore, once a program is cleared with the central
+               authorities, further feasibility studies may be prepared for each participating state,
+               incorporating state-specific variations and their specific institutional issues. ADB's
+               programming functions could be strengthened by linking ADB programs with the
+               state governments' planning process, especially for those weakly performing
+               states (e.g., the northeast states where ADB operates).
+
+       (ii)    Enhance synergies and impact by better linking outputs to outcomes and
+               through sustained partnerships. ADB's India program is small (less than 1%),
+               compared to the national gross investment. As such, close partnerships with
+               government, other development partners, and the private sector in designing
+               ADB's projects are particularly important to generate synergies and increase the
+               outcomes from ADB operations in India. This is because both the line ministries
+               and departments, as well as ADB, are organized on sectoral lines and their
+               operations tend to be on a sectoral basis, lacking cross-sectoral coordination
+               within ADB or with other development partners. ADB needs to ensure that cross-
+               sectoral issues (e.g., linking road projects with social services and agricultural
+               sector programs) are addressed in a more strategic manner to support the
+               objectives of more inclusive and environmentally sustainable growth.
+
+       (iii)   Increase ADB staff resources at the field level to engage better with lagging
+               states and augment resources for technical work to deliver innovative
+               solutions and to stay abreast of client requirements. The resident mission
+               has been given more than double the number of delegated loan projects (from 15
+               to 42) since 2009, while the corresponding increase in the staff resources
+               remained slow, causing substantial overstretching of staff resources. The
+               available staff resources need to match the workload and the expectations of the
+               clients. Often ADB staff have to interact with civil service experts and make
+               policy-related discussions and/or decisions with technical professionals and
+               academics serving on government committees and boards. Such expanded and
+               policy-level engagement should be backed by adequate technical work and
+               expertise from ADB, for example, in the areas of fiscal management, power
+               distribution and ultra-mega power projects, renewal energy, and river basin or
+               coastal management.
+
+       (iv)    Prepare an integrated strategic framework to synergize ADB's public­
+               private sector operations in India. As the private sector's role in India's
+               economic development is growing fast and becoming more diverse, ADB's CPS
+                                                                                       v
+
+
+      positioning should also be broad-based, understanding the role of private sector
+      and its complementarities with the public sector. Currently, the CPS is largely
+      public sector-oriented. Based on a joint public­private sector strategic framework
+      that ensures synergies and greater impact, ADB should develop suitable roles for
+      ADB's private sector development and private sector operations. To this end,
+      ADB needs to strengthen its analytical work on various issues linking public­
+      private sectors at different levels and prepare a combined strategic framework, a
+      road map, and action plans for future country operations in India.
+
+(v)   Improve monitoring of the CPS results framework based on sharper CPS
+      objectives and tracking of development impact and sustainability. The CPS,
+      as well as the CPSFR, was weak in providing sharp objectives and monitorable
+      indicators in its results framework. The design quality of the results framework of
+      the next CPS should be significantly improved to help monitor implementation of
+      its various objectives for achieving greater impact and sustainability. The
+      government has emphasized its results orientation through adopting its Finance
+      Plus approach that aimed to generate better outcomes from external financing.
+      Therefore, ADB should develop improved results monitoring in its projects to
+      prove greater additionality from them under this approach.
+
+
+
+
+                                                   Vinod Thomas
+                                                   Director General
+                                                   Independent Evaluation
+                                           I.      INTRODUCTION
+
+1.     This chapter presents background information on the purpose of this validation,
+pertinent India's development context and government plans, and objectives and other key
+features of ADB's country operational strategy for India.
+
+A.        Validation Purpose and Procedures
+
+2.      The Asian Development Bank (ADB) in 2009 formulated and implemented a country
+partnership strategy (CPS) for India covering 2009­2012 1 and its South Asia Department
+(SARD) prepared a CPS final review (CPSFR), a self-evaluation, in March 2012 (Appendix 1).2
+The CPSFR identified issues and lessons from ADB operations in India, which will serve as
+inputs for preparing a new India CPS for 2013­2017. Upon request by SARD, the Independent
+Evaluation Department (IED) has prepared this validation report to assess the quality and
+coherence of the self-evaluation and suggest lessons and recommendations for the new CPS.
+For this, IED undertook a desk review of relevant documents, including IED's 2007 country
+assistance program evaluation (CAPE) for India, 3 and fielded a mission to India to hold
+discussions with government representatives, stakeholders, and the India Resident Mission.
+IED assessed ongoing projects using data available to the mission, including the documents of
+the tripartite portfolio review meetings (TPRMs) where ADB and government staff periodically
+reviewed the progress of ADB-financed projects. IED also conducted a client and stakeholder
+perception survey in May 2012 to collect stakeholders' feedback and suggestions on ADB
+operations.
+
+B.        India's Development Context and Government Plans
+
+3.     This section describes India's development context at the time of CPS formulation and
+subsequent developments up to 31 March 2012. The discussion is situated in the context of
+the government's Eleventh Five Year Plan (covering the period from 1 April 2007 to 31 March
+2012) to which the CPS was aligned. It describes how India's efforts to protect its high
+economic growth rate from the global economic crisis of 2008/2009 became mixed up with
+domestic economic issues and resulted in macroeconomic imbalances.
+
+          1.       Development Context
+
+4.     The CPS period (2009­2012) had been unexpectedly stressful. In 2009, India's gross
+domestic product (GDP) was moving along its high growth trajectory of more than 8% per
+annum. Economic fundamentals were solid and policy makers' confidence was high. The
+private sector's contribution to the Indian economic grew, particularly in information and
+communication technology (Appendix 2).
+
+5.      During the world economic and financial crisis of 2008/2009, the Indian economy--
+being relatively less integrated with the global economy--was in a comparatively less
+vulnerable position but it started showing signs of being adversely affected by the crisis through
+its trade and financial linkages. As in several other economies in Asia and the Pacific, India's
+immediate response was to launch a large fiscal stimulus that was intended to shore up the
+
+
+1
+    ADB. 2009. Country Partnership Strategy: India, 2009­2012. Manila.
+2
+    ADB. 2012. Country Partnership Strategy Final Review: India, 2009­2012. Manila.
+3
+    ADB. 2007. Country Assistance Program Evaluation: India. Manila.
+2
+
+
+growth rate.4 However, given its high public debt and the level of deficit financing, India did not
+have much fiscal space for undertaking it. The continued crisis exposed India to growing
+uncertainties and stress in view of shrinking trade, rising commodity prices (especially food and
+fuel), reduced banking credit, lower foreign direct investment, and continued global uncertainty
+and volatility. Other highly industrialized economies (especially the United States, European
+Union [EU], and Japan) were growing below their trend, signifying a downside risk for the
+Indian economy.
+
+6.      The overall conditions contributed to growing macroeconomic imbalances. On the
+domestic front, the fiscal deficit was increasing on account of growing subsidies. The overall
+government's deficit jumped from 2.5% in fiscal year (FY) 2007 to 6.0% in FY2008, and further
+to 6.5% in FY2009. Many states did not have adequate fiscal space to undertake development
+programs. Inflation had begun to slow down but was still high, especially food inflation (focused
+on vegetables, fruits, dairy, and other high protein foods). Fuel prices remained at elevated
+levels. Excessive imports in relation to exports added to the trade deficit, which ballooned to
+$185 billion by the end of FY2011 (i.e., March 2012) and fed into the current account deficit.
+Much-needed reforms related to the Indian economy and sectors that ADB has been
+supporting, such as power and finance sectors, were still pending.
+
+7.      In FY2011, the annual GDP growth rate fell to 6.5%. The fiscal year showed an adverse
+balance of trade of ­9.3% of GDP, an all-time record for the Indian economy. The declining
+foreign direct investment was not adequate to cover the gap and as a result there was a current
+account deficit of 4.0% of GDP. The inflationary pressures resurfaced. The central bank had
+been tightening monetary policy by increasing the bank rate to cool down the overheated
+economy. This monetary tightening squeezed credit and contributed to slower economic growth.
+
+8.      Critical shortages in infrastructure, especially energy, are binding constraints on the
+Indian economy. Likewise, pressures for continued consumption subsidies, instead of investing
+in better health, education, and social services are a difficult trade-off to manage. On the
+monetary side, a critical challenge is to bring the price level down without sacrificing economic
+growth. The rapid depreciation of the Indian rupee (by more than 25%) during the first half of
+2012 helped improve the balance of payments but the inflationary pressure remains strong.
+The high fiscal deficit needs to be controlled.
+
+          2.      Government Plans
+
+9.      Under the Eleventh Plan, the government focused on a growth strategy of high and
+inclusive growth. This two-pronged approach was aimed at a growth process that was
+expected to yield broad-based benefits and ensure equal opportunities for all. Key areas for
+policy attention and public support included (i) the revival of agricultural growth, (ii)
+infrastructure development, (iii) services essential to enhancing human capital (including job-
+related skills), and (iv) the promotion of environmental sustainability. Through the CPS, ADB
+responded to these government strategic thrusts and growth objectives.
+
+10.     Tying the Eleventh Plan to a results framework, the Planning Commission identified
+27 indicators on which the plan's performance would be assessed. In addition to the targeted
+9% economic growth, other indicators included were related to (i) income and poverty, (ii)
+4
+    "The fiscal stimulus package put in place to revive demand in 2008­2009, entailed a large expenditure hike
+     including front-loading of plan expenditure. Thus, both plan and non-plan expenditure went up substantially in
+     2008­2009 and 2009­2010." Government of India, Ministry of Finance. 2012. Economic Survey 2011­12. New
+     Delhi: Oxford University Press. para. 3.26, p. 59.
+                                                                                                               3
+
+
+education, (iii) health, (iv) women and children, (v) infrastructure, and (vi) the environment.
+Some of these indicators were further disaggregated into 13 state level targets. The
+expectation was that state governments would design their own policies and programs to
+achieve Eleventh Plan objectives and targets.5
+
+11.     The first important assumption of the Eleventh Plan was the need for investment rate in
+to increase from 32.0% of GDP at the end of the Tenth Plan to 36.8% by the end of the
+Eleventh Plan. However, estimates of savings at the end of the Tenth Plan were subsequently
+revised downward, 6 thus increasing the resource gap for the Eleventh Plan. 7 Difficulties
+resulting from the global crisis added to this gap.
+
+12.     The second important assumption of the Eleventh Plan was that the private sector
+would continue to play an expanding role in increasing investments in the economy. The share
+of private sector investments in the last three plans had been steadily increasing from about
+65% of total investment in the Eighth Plan, to 71% in the Ninth, and 78% in the Tenth Plan.
+The Eleventh Plan expected to stabilize this division of investment between the private and
+public sector at 78%. In this sense, a vibrant and globalized private sector was at the heart of
+the Eleventh Plan targets. For this, the need for economic reforms that would let the private
+sector play its envisaged role grew bigger.
+
+13.    Thirdly, the public sector had to help increase savings by reducing its own deficit. This
+assumption reflected a significant turnaround compared with past experience in India. The
+Eleventh Plan had set a higher bar for the public sector's own performance. Finally, the
+Eleventh Plan was aware of the volatility of fuel prices, and of the possibility of India having to
+pay a much larger amount for oil imports. This contingency was expected to be met by
+incoming foreign investments, an assumption that did not materialize.
+
+14.     On gender and development, the Eleventh Plan emphasized the importance of
+guaranteeing women's rights and entitlements across all sectors of government programs. One
+of the key development targets of the government was to ensure that at least 33% of the direct
+and indirect beneficiaries of all government schemes were females. A separate Ministry of
+Women and Child Development was established in 2006 to support the plan. The government
+also introduced gender budgeting to improve the sensitivity of the development programs to
+women and children.
+
+C.         Country Partnership Strategy
+
+15.      The formulation of the CPS was based on the recommendations of IED's 2007 CAPE
+for India. Evaluating the performance of ADB operations in India during 1987­2006, which was
+rated borderline successful, the CAPE had made some important recommendations. These
+were geared to (i) improve strategic focus, (ii) improve the quality of ADB's financial support,
+(iii) improve nonlending services, (iv) increase private sector operations, and (v) increase
+responsiveness to client concerns.
+
+5
+    Government of India, Planning Commission. 2011. Mid-Term Appraisal: Eleventh Five Year Plan, 2007­2012.
+    New Delhi: Oxford University Press. p.7.
+6
+    The revised estimates of the Central Statistical Organization adjusted the Tenth Plan average savings to 31%,
+    increasing the financing gap (Government of India, Planning Commission. 2011. Mid-Term Appraisal: Eleventh
+    Five Year Plan, 2007­2012. New Delhi: Oxford University Press. para. 2.4, p. 23).
+7
+    The saving­investment gap in FY2006 (the last year of the Tenth Plan) was ­1.1% of GDP and widened to ­2.8%
+    of GDP by FY2010. (Government of India, Ministry of Finance. 2012. Economic Survey 2011­12. New Delhi:
+    Oxford University Press. Table 1.4, p. 5). The final data for FY2011 have not been published.
+4
+
+
+16.      ADB had three main considerations while designing the CPS (CPSFR, para. 1) and
+explored a possible strategy under which a high growth rate for the Indian economy could not
+only be continued, but would also be more inclusive. The first consideration was to maintain a
+high level of economic growth in India of about 9% or more. The second was that such a high
+growth rate could not be taken for granted and that sustaining it would be a challenge. The
+third was that India's improved economic performance had not made much dent on its poverty
+situation and rural­urban disparities. This validation considers the approach and selection of
+priority areas in the CPS as adequate. The priority areas of the CPS are summarized below.
+
+17.     Country partnership strategy objectives and priorities. The CPS was designed to
+achieve its four objectives or strategic pillars: (i) supporting inclusive and environmentally
+sustainable growth, (ii) catalyzing investments through innovative business and financing
+solutions, (iii) strengthening results orientation and knowledge solutions, and (iv) promoting
+regional cooperation. The prevailing situation of the economy posed multiple challenges for the
+government and its development partners. The infrastructural backlog in the energy, transport,
+and irrigation persisted and ADB attached high priority to relieving these shortages. The
+achievement of the CPS objectives is discussed in paras. 93­98.
+
+18.     Infrastructure sectors. Within the infrastructure sector, energy and transport had
+constrained the achievement of rapid economic growth, especially for small and medium-sized
+enterprises (SMEs), which could be a source of employment generation. These constraints
+particularly affected lagging states (i.e., the northeast states where ADB operates), rural areas,
+and the poor. ADB planned transport sector interventions in the areas of rural roads, the urban
+metro railways system, and the main Indian railway network. ADB also pushed for investments
+in water resources, as the sector was capable of impacting agricultural productivity in the short
+term, and sustaining environmental and natural resources over the long term. Hydropower also
+supported sustainable environmental management by augmenting alternative sources of
+energy such as solar power and other renewable energy sources. ADB planned to improve the
+sector regulation and power distribution through a program supporting the formation of a
+national grid and its management, and a policy loan.
+
+19.     Investments in rural infrastructure were expected to open up access to markets and to
+enable farmers to move up the value-chain by opting for high-yielding varieties and diversifying
+their cropping pattern. However, agricultural production had been decelerating. During the
+implementation of the previous plans, per capita availability of food grains had declined for
+about two decades.8 The Eleventh Plan sought to reverse the trend with the help of enhanced
+rural infrastructure. The enhanced agricultural growth was also expected to contribute to
+ensuring food security.9
+
+20.     Inclusive development. To address inclusive development concerns, ADB sought the
+revival of poorer states and the rural economy, which was critical for employment generation
+and poverty reduction in the country. ADB also made special attempts to provide for
+disadvantaged groups to benefit in the development process. More importantly, by directing
+about 70% of ADB operations to the lagging states, ADB strengthened its inclusive
+
+
+8
+    Government of India, Ministry of Finance. 2012. Economic Survey 2011­12. New Delhi: Oxford University Press.
+    Table 1.17, p. A22.
+9
+    For a recent review of ADB's role in food security in the region, see "Agriculture in ADB and its Contribution to
+    Food Security" in 2012 Annual Evaluation Review (IED. 2012. 2012 Annual Evaluation Review. Manila: ADB),
+    pp. 48­63.
+                                                                                                             5
+
+
+development focus. Nonetheless, ADB's inclusive development interventions remained limited
+to several selected sectors or subsectors.
+
+21.     Regional cooperation. The promotion of regional cooperation, through cross-border
+infrastructure and the enhancement of trade and investment, was another focus in line with
+Strategy 2020.10 ADB focused in particular on northeastern states, thus strengthening linkages
+with the neighboring economies of Bangladesh, Bhutan, Myanmar, and Nepal.
+
+22.     Private sector participation. In addition to its direct operations in the private sector,
+ADB rightly aimed at mainstreaming public­private partnerships (PPPs) through a pilot
+program supported by technical assistance (TA) projects. In addition to capacity building, ADB
+supported (i) improvements in the PPP enabling environment (through the development of a
+draft policy framework, manuals, sector regulatory inputs, etc.); (ii) development, structuring,
+and facilitation of bidding for PPP pilot projects with potential for replication, in difficult sectors
+(mainly water supply and sanitation, health, and education); and (iii) a PPP implementation
+modality for providing urban amenities to rural areas. This included capacity development,
+particularly on risk assessment. The emphasis on supporting infrastructure development and
+private sector operations was quite relevant and appropriate. The lack of infrastructure had
+been impeding faster growth in manufacturing and services. The private sector had an
+important role in realizing the goals of the Eleventh Plan. Hence, ADB's efforts to support the
+private sector through promoting PPPs were considered useful (Box 1).
+
+                                 Box 1: Public­Private Partnership Initiative
+     The Asian Development Bank (ADB) has been supporting India since 2006 to mainstream public­
+     private partnerships (PPPs) in its operations. This support has been provided through a series of 7
+     technical assistance (TA) projects (totaling $15.3 million) from 2006 to 2011, and built on under loan
+     operations.
+     The primary objective of promoting PPPs in India has been to (i) accelerate investments in
+     infrastructure, and (ii) introduce improved asset management techniques. The major constraint has
+     been a lack of know-how among officials, especially at the state level and below. ADB's support has
+     built PPP cells for supporting officials and has mobilized technical and professional inputs in
+     accordance with requirements. This has been done both at the national and states levels. PPP
+     exchanges have been established in Mumbai and New Delhi to promote dissemination of PPP-
+     related information and experience.
+     The methodology helped to establish the necessary databases; provide management information
+     system expertise; support PPP policy making; and prepare frameworks for implementing typical
+     projects in construction, urban waste management, urban transport, among others. Project-specific
+     deeper transaction level expertise, including legal advice, has been made available to these cells
+     through the engagement of firms and individual consultants. Projects developed under this support
+     have also included funding from different sources within India, such as the government's variable
+     gap funding scheme and the Indian Infrastructure Development Fund.
+     Capacity development of central and state officials has been the main approach. It also showcases
+     international best practices. More than 180 workshops have been held involving more than
+     4,400 participants. This broad-based upgrading has resulted in a number of states undertaking PPP-
+     linked initiatives. These include Haryana, Karnataka, Maharashtra, and Uttarakhand, among others.
+     Hundreds of projects have been supported, including pilot projects and cross-state projects.
+     Knowledge dissemination is undertaken through case studies, bulletins, and web broadcasts.
+     Source: Independent Evaluation Department.
+
+10
+     ADB. 2008. Strategy 2020: The Long-Term Strategic Framework of the Asian Development Bank, 2008­2020.
+     Manila.
+6
+
+
+23.     Knowledge solutions. ADB pursued the government-initiated Finance Plus approach,
+under which projects became more effective by bringing new knowledge solutions, practices,
+processes, and know-how to India operations and supported the government with various
+project-related knowledge solutions. This Finance Plus approach was adopted by the
+Department of Economic Affairs (DEA) of the government to ensure that the development
+impact of the external assistance becomes larger than the value of financial support. With this
+in view, the DEA examined the project proposals from the states from a Finance Plus
+perspective, such as the adoption of international best practices in a particular sector, the
+inclusion of innovative elements, enhanced project management systems, etc.11 This validation
+notes that ADB has made adequate progress in this value adding area.
+
+24.     Capacity development. ADB TA has contributed to capacity development in its
+counterpart agencies in India.12 This validation's perception survey, to be discussed later in this
+report (para. 123), confirms this. ADB launched a large training program anchored at the
+resident mission for the executing and implementing agencies, training them in modern project
+management techniques and methods. The training program spanned a broad range of
+subjects and topics relevant to development projects. A calendar of training was prepared and
+provided to executing and/or implementing agencies for them to be able to plan the
+participation of their staff. Officers at the state and lower levels have particularly benefitted from
+the capacity development activities of ADB's operations in India. As mentioned earlier, more
+than 4,400 officials participated in the capacity building workshops--creating a cadre that is
+expected to be more receptive to reforms, knowledge solutions, and improvements in
+implementation and governance. This validation considers that, while the resident mission has
+done well in launching useful capacity development activities, which is confirmed by feedback
+from various meetings, the activities need to be expanded given the large requirements.
+
+25.     Operational sectors. Aligning itself with the Eleventh Plan, the CPS was designed to
+support the government within the framework of ADB's core competencies and priorities as
+articulated in ADB's Strategy 2020. The CPS covered the following sectors and subsectors for
+lending operations. This validation considers the choice of the following ADB operational
+sectors adequate. A list of ADB loan projects is in Appendix 3.
+          (i)   Agriculture and natural resources. To help address the fundamental problem of
+                low productivity in agriculture, ADB sought to diversify agricultural output and
+                improve water resource management in the sector. ADB's interventions also aimed
+                to address the important issue of environmental and natural resources
+                sustainability.
+          (ii) Energy. To help relieve the binding constraints in energy, ADB focused on
+                improving the energy sector's regulatory environment, generation, and distribution.
+                ADB also aimed to support development of hydropower, solar, and other
+                renewable energy forms for promoting environment sustainability.
+          (iii) Transport. ADB aimed to help develop an integrated system of road networks at
+                the national and state levels in selected states, including rural roads which provide
+                connectivity of the poor to product and factor markets, and delivery of essential
+                services for the poor. ADB interventions also aimed to modernize Indian railways.
+          (iv) Finance. ADB supported greater participation of the private sector in development
+                interventions through the PPP modality and promoting financial inclusion through
+                improved rural cooperatives, and other rural employment-generating village-based
+
+11
+     Minutes of the February 2012 Tripartite Portfolio Review Meeting (TPRM), para. 5.
+12
+     From 1986 to 2011, ADB approved 328 TA projects amounting to $244.8 million, comprising 110 project
+     preparatory TA projects and 218 other TA projects.
+                                                                                                                    7
+
+
+              industries like Khadi (hand-spun and woven cotton cloth and apparels) under the
+              Khadi Reform and Development Program (KRDP).13
+         (v) Water and other municipal infrastructure and services sector. ADB undertook
+              integrated urban development supporting water, sanitation, environment, and
+              urban transport systems.
+         (vi) Human development.14 ADB added this new sector in the course of implementing
+              the CPS, recognizing the need to empower people with "skills and knowledge,
+              especially in the context of India's goals of inclusive growth and enhancing the
+              overall productivity of the economy" (CPSFR, para. 36). This move is considered
+              appropriate.
+
+26.     Nonsovereign operations. The CPSFR notes (para. 49) that nonsovereign operations
+amounted to an additional $1.1 billion approved during 2009­2011. This included eight loans,
+equity investments and guarantees, comprising $648 million of debt $58 million of equity and
+$400 million of guarantees. Debt approved included the energy sector (46%), transport (39%),
+and finance for the development of trade finance for SMEs (15%). Equity investments were for
+clean energy, and credit enhancement was approved for grid-connected solar power projects
+(38%) and for micro, small, and medium-sized enterprises (62%). A list of nonsovereign
+operation projects is in Appendix 4.
+
+27.     Nonlending operations. The CPS also envisaged an active program of TA in support
+of ADB's India program. This validation notes that ADB TA projects have played an important
+role in terms of introducing new technologies and management practices in different sectors
+that have so far been dominated disproportionately by the public sector perspective. Such
+innovations are also important to push for exports, especially in the manufacturing and industry
+sectors where improvements are needed in India. A list of TA projects is in Appendix 5.
+
+28.    Role of major development partners. The role of major development partners has
+undergone a structural change during the period covered by the CPS. Over time, the
+government reduced the number of counterpart aid agencies in the country. These now include
+the Department for International Development of the United Kingdom (DFID), the European
+Union (EU), German development cooperation through KfW, Japan International Cooperation
+Agency (JICA), and the United States Agency for International Development (USAID) aside
+from multilateral organizations like ADB, the United Nations (UN) agencies, and the World
+Bank. As the operations of all the aid agencies were coordinated by the government's DEA, a
+broader convergence in terms of strategies and approaches was achieved around the country's
+development agenda, with virtually no duplication in terms of sectors or spatial coverage.15
+Nonetheless, the validation noted the need to strengthen interagency dialogue on policy areas.
+
+29.     The Japanese program is estimated at about ¥300 billion annually (about $3.8 billion). It
+primarily focuses on supporting urban metro transport and dedicated freight corridors for the
+Indian railways. JICA also supports the setting up of transport infrastructure in the Bangalore-
+Chennai region, and was active in the state of Gujarat. Support in the northeastern states,
+which promises to open up linkages with East Asian economies, is also envisaged. This is
+expected to promote regional cooperation and integration with East Asian economies.
+
+13
+   ADB. 2008. Report and Recommendation of the President to the Board of Directors: Proposed Program Loan and
+   Technical Assistance Grant to India for the Khadi Reform and Development Program. Manila.
+14
+   Since this is a new sector and the design of ADB's involvement in the area is still evolving, skills development is
+   not discussed separately under the CPSFR validation section, unlike other sectors that are discussed individually.
+15
+   A screening committee at the DEA's Multilateral Institutions Division selects project proposals for their
+   contributions to the Finance Plus approach.
+8
+
+
+30.    German development cooperation through KfW is active in the energy sector,
+sustainable economic development, and urban development. It is cofinancing a run-of-the-river
+hydro dam in Himachal Pradesh with ADB. In private sector operations, KfW is engaged with
+the Export-Import Bank of India in refinancing risk sharing arrangements. It is also involved in
+ADB's efforts to restructure rural cooperative banks and has cofinanced the Rural Cooperative
+Credit Restructuring and Development Program.16 German development cooperation through
+GTZ17 is involved in the city development initiative in Chennai and Pimpri-Chinchwad (off-Pune
+in Maharashtra).
+
+31.     The World Bank's portfolio comprised 75 active projects across 10 sectors:
+23 agriculture and rural development projects, 6 energy projects, 8 environment projects, 12
+transport projects, 3 Panchayat Raj Institutions projects, 5 rural water sewerage and sanitation
+projects, 6 urban development projects, 4 finance and private sector projects, 3 education
+projects, and 5 health projects. ADB and the World Bank work jointly with the DEA in
+monitoring portfolio and procurement activities. The World Bank's total net commitments at the
+end of March 2012 stood at $23.5 billion, with about two-thirds for the International Bank for
+Reconstruction and Development and one-third for the International Development Agency.
+
+32.    The DFID has helped with TA support and is extending flood management support to
+the northeastern states. Its studies on water resource management, jointly with ADB, are
+producing technically sound outputs. These studies focus on transboundary issues and have a
+strong interface with environmental and climate change issues. DFID is also likely to be
+engaged in research partnerships in India, with a view to contributing to knowledge solutions
+and sharing mutual development experience. It may also be involved in the forthcoming skills
+development area, but may be less active in the Millennium Development Goals (MDGs) and
+poverty reduction after 2015. The EU is active in the education sector and the USAID in health,
+while UN agencies continue to focus on the broad area of development, including gender (UN
+Women) and human development (United Nations Development Programme).
+
+     II.       VALIDATION OF THE COUNTRY PARTNERSHIP STRATEGY FINAL REVIEW
+
+33.        In this chapter, IED validates the CPSFR and assesses ADB's operational performance
+in India following the IED's evaluation criteria: (i) strategic positioning, (ii) program relevance,
+(iii) efficiency, (iv) effectiveness, (v) sustainability, and (vi) development impact. The
+assessment used, among others, the analysis of the 2007 CAPE and findings of the recent IED
+validation mission. The discussions narrate the strategic issues in each major sector,
+i.e., agriculture and natural resources, energy, transport and communications, water and other
+municipal infrastructure and services, and finance, with illustrative references to specific
+projects. The chapter also validates the performance of the borrower and ADB, and closes with
+an overall assessment, lessons, and recommendations.
+
+A.         Strategic Positioning
+
+34.     The CPSFR assessed the strategic positioning of the CPS as satisfactory, finding it
+consistent with the government's Eleventh Plan, ADB's Strategy 2020, and ADB's overarching
+objective of poverty reduction. This validation agrees with the CPSFR, and assesses strategic
+positioning as satisfactory. One weakness is that the CPS results framework, as a key planning
+16
+   ADB. 2006. Report and Recommendation of the President to the Board of Directors: Proposed Loan and
+   Technical Assistance Grant to India for the Rural Cooperative Credit Restructuring and Development Program.
+   Manila.
+17
+   GTZ, DED, and InWEnt merged to become GIZ in January 2011.
+                                                                                                9
+
+
+tool, did not provide adequate indicators. This validation's assessment about strategic
+positioning is detailed below.
+
+35.     Alignment. ADB has closely responded to the country's needs and government's
+development priorities according to the Eleventh Plan. The thrusts identified above in relation
+to the CPS, as well as the Eleventh Plan, are broadly in consonance with ADB's Strategy 2020.
+ADB's focus on infrastructure, the private sector, and the environment was appropriate. Two-
+thirds of ADB operations were accounted for by energy and transport infrastructure to address
+core binding constraints. Within agriculture and natural resources (ANR), ADB prioritized
+investments in irrigation infrastructure and water management. ADB targeted mainstreaming of
+PPPs and sought to bring ADB's public and private sectors together in financing and
+implementing large investment projects. However, a strategic framework cohesively
+encompassing both ADB's public and private sector investments was not there.
+
+36.     ADB emphasized good governance, gender and development, and capacity
+development, especially in the poor lagging states. ADB also emphasized knowledge solutions
+to enhance rapid economic development, and in the context of climate change underscored the
+significance of long-term sustainable management of the environment. The promotion of
+regional cooperation through cross-border infrastructure and the enhancement of trade and
+investment was another focus in line with Strategy 2020. ADB focused on northeastern states,
+thus strengthening linkages with the neighboring economies of Bangladesh, Bhutan, Myanmar,
+and Nepal.
+
+37.     Long-term continuity and regional links. A notable feature of ADB operations is that
+it entered only those sectors where engagement was going to be long-term. ADB continued to
+be involved in sectors such as energy, transport, water and other municipal infrastructure and
+services, and rural infrastructure. The CPS also highlighted the need for pursuing regional
+cooperation and integration, linking India with neighboring economies. Among other things, it
+recommended to build on ADB's South Asia Subregional Economic Cooperation Program and
+to support the Bay of Bengal Initiative for Multi-sector Technical and Economic Cooperation
+(CPS, paras. 31, 38, and 61).
+
+38.    Development partners. Partnership and harmonization among development partners
+under the CPS have been facilitated to a large extent by the fact that the government helped
+development partners devise their own interventions in support of the objectives of the
+Eleventh Plan. Aid agency-proposed activities were coordinated by the government (i.e., DEA)
+at the highest level. ADB collaborated closely with other development partners to prepare a
+cogent development program for India and to leverage additional financing resources (CPS,
+paras. 32, 46, 57, and 82). Development partners indicated that ADB discussed its planned
+operations with them in advance, enabling them to propose their own operations in tandem
+with ADB support. This resulted in considerable synergy and created a win­win position for
+development partners, including ADB.
+
+39.     Country partnership strategy results framework. The CPS provided an overall
+results framework which summarily linked the CPS outcomes and outcome indicators with
+those of the Eleventh Plan of the government on the one side and the individual sector results
+framework on the other. There were no specific indicators identified at the macro-level. Further,
+the details of outcome indicators were not provided in every sector road map. For some
+sectors, like energy, specific indicators were identified while they were not stated precisely for
+other sectors. This validation considers it a gap in the CPS. Importantly, the CPSFR did not
+10
+
+
+provide any assessment of the results framework, missing a valuable opportunity to provide
+input for designing the next CPS.
+
+40.     Allocation of lending and nonlending resources. During the CPS period, ADB
+allocations for the India program were about $2 billion per annum. This was more than the
+amount during the previous CPS periods. The CPSFR notes that about 70.0% of the total
+approvals were for the lagging states. As much as 34.3% of total ADB support was devoted to
+the energy sector and another 32.0% for transport. Thus, 64.3% was directly deployed in
+relieving the critical shortages and pushing the infrastructure envelope. During the CPS period,
+a number of TA projects were approved with a value of about $18 million annually. 18 The
+sectoral distribution of the TA portfolio mirrors the loan portfolio. A list of TA projects is in
+Appendix 5 and a list of economic and sector works for India is in Appendix 6. This validation
+considers that the resource allocation was adequate.
+
+41.     However, the ANR sector and rural infrastructure development, which were introduced
+in the India program during the previous CPS, took time to grow and received only a small
+amount of the allocation. Moreover, these allocations were confined to one or two states. This
+arrangement does not correspond to the importance of the issues identified in the approach of
+the CPS to development problems and the emphasis conferred on the different sectors.
+42.       Modalities. In terms of operational modalities, ADB used a full range of available
+options--standing-alone project loans, program loans, financial intermediation loans, and
+multitranche financing facilities (MFFs). Traditionally project loans and program loans--
+including sector development programs--were dominant in ADB's India program. The use of
+MFFs emerged as a preferred modality for large-scale infrastructure projects in India since
+2005.19 MFFs allowed executing agencies the freedom to pace and plan the implementation of
+projects according to progress and convenience. MFFs also suited the area- or time-slice of
+operations and allowed operations to be mobile across states within the same sector. In
+addition, the MFF modality offered a longer term commitment from ADB, it did not incur a
+liability to pay commitment fees on the entire MFF envelope and enabled many implementing
+agencies that were earlier used to only managing municipal services in cities and urban
+centers, for instance, an opportunity to design and implement comprehensive urban projects.
+However, capacity development in these lower level agencies is needed in large measure. This
+validation received positive feedback on the usefulness of the modality, particularly in
+designing and implementing large-scale projects, from ADB counterparts in the government.
+IED's recent evaluation study20 pointed out that commitment fee savings are not substantial
+where MFF tranche sizes were about the same as regular loans. India was an exception in
+terms of better due diligence being undertaken on the institutional capabilities. However, there
+were issues of project level due diligence on technical and other aspects, and classification of
+tranche scope changes as minor changes. In addition, the design of the MFF modality is such
+that in general it may not formally benefit from the lessons of previous MFFs and tranches.
+Therefore, to improve the development effectiveness of upcoming MFF programs and
+
+
+18
+   Of these, about $7.4 million per annum was from ADB's Technical Assistance Special Fund while the remainder
+   was sourced from other aid agencies' funds.
+19
+   The Asian Development Bank (ADB) introduced the multitranche financing facility (MFF) modality in 2005 and it
+   was mainstreamed in 2008 to facilitate greater certainty and upfront agreement with a client through financing that
+   fits within the client's longer-term plan. As of December 2011, 66 MFFs had been approved in ADB for $31.9
+   billion. India has been a major user of the MFF and accounts for 25 MFFs (38% in terms of the number of MFFs)
+   in the amount of $9.2 billion (29% by amount). So far, these MFFs have generated 54 tranches for $6.0 billion.
+   The approved MFFs cover a broad spectrum in India.
+20
+   ADB. 2012. Real-Time Evaluation Study of the Multitranche Financing Facility. Manila
+                                                                                                             11
+
+
+tranches, it would be useful to capture and report on the lessons from MFFs during the
+preparation of the CPS.
+
+B.         Program Relevance
+
+43.      The CPSFR assessed the CPS program successful (relevant). The CPS delivered
+support for $8.65 billion over the CPS period (2009­2012), comprising 80 investment projects.
+The CPSFR argues that the program has served as an instrument to deliver the strategic pillars
+or objectives laid out in the CPS and supported the sectors of energy (34.3%), transport and
+communications (32.0%), finance (15.0%), water and other municipal infrastructure and
+services (13.2%), ANR (3.2%), and education and human development (2.3%). At the macro
+level, the India CPS program was relevant as it pursued the broad objectives of the Eleventh
+Plan and the government's development priorities and adequately supported the CPS
+objectives. The program was also consistent with ADB's Strategy 2020 and its emphasis on
+infrastructure, i.e., energy, roads, water, and sanitation services. ADB also targeted water
+infrastructure management and supported long-term conservation measures like coastal
+management.
+
+44.    The planned sector programs have been well delivered, slightly exceeding the CPS
+target ($2.0 billion per year). A strength of ADB's operational support has been that the
+program was designed to support the government's Finance Plus approach. In doing so, the
+ADB operations team has engaged more actively with the state governments and entities as
+they were the main implementing agencies. Nonetheless, for the ADB program to be more
+relevant to their diversified needs, the programming functions at the state level need to be
+strengthened. Specific sector features of program relevance are detailed below. This validation
+concurs with the CPSFR, and assesses the CPS program relevant. A brief assessment of
+program relevance is given below.
+
+           1.      Design Features to Address Key Sector Issues
+
+45.     Agriculture and natural resources. Key sector issues included (i) food security, (ii)
+low productivity, and (iii) poor utilization of water resources. The long-term trend of declining
+agricultural productivity was reversed under the Eleventh Plan.21 ADB's sector program under
+the CPS was in the form of one stand-alone loan and six loans under MFF programs, as well
+as TA projects. The agribusiness infrastructure project is supporting small farmers in the states
+of Bihar and Maharashtra in shifting to higher value-chain production. Further, ADB's project in
+Chhattisgarh and Orissa was aimed at introducing participatory irrigation systems and the
+empowerment of water users' associations. It also pursued more efficient, productive, and
+participatory irrigation systems.
+
+46.     Responding to the government's request for Finance Plus-oriented lending and
+promoting knowledge solutions, the design quality of projects in the ANR sector included the
+following important features: (i) a legal and institutional framework that supports the value chain
+approach in the agribusiness subsector, (ii) the setting up of viable PPP arrangements in post-
+harvest and marketing infrastructure for high value products, (iii) a demonstration of highly
+productive and efficient irrigated agriculture, and (iv) the introduction of environmentally and
+socially friendly coastal protection solutions.
+
+
+21
+     The average growth of agriculture during the CPS period varied from 0.1% in FY2008, 1.0% in FY2009, 7.0% in
+     FY2010, and 2.5% in FY2011, yielding an average of 2.65% over 4 years but with high variance.
+12
+
+
+47.     Energy. Energy sources in India include coal, lignite, crude oil, natural gas,
+hydropower, nuclear power, wind, and solar power. The key sector issues are the following: (i)
+power shortages and the unreliable quality of electricity; (ii) high aggregate technical and
+commercial losses caused by the weak management of state electricity boards; and (iii) the
+need for greater involvement of the private sector in the energy sector, especially in distribution
+franchise. The government is keen to accelerate power generation because the previous five
+year plans (eighth to tenth) could only generate 50% of the planned additions to generation
+capacity. The Eleventh Plan improved power generation by involving the private sector. A
+major weakness of the Indian energy sector lies in the management of the power distribution
+system and adequate pricing. State electricity boards that manage electricity distribution need
+to be restructured comprehensively because they do not have adequate resources and
+capability to manage the system and bring in much-needed reforms, including pricing of
+electricity. The CPSFR did not address this concern adequately.
+
+48.    Through six stand-alone project loans and 25 periodic financing requests (PFRs) under
+14 MFFs, ADB interventions focused on power generation, transmission, distribution, and
+sector regulation and reforms in selected states, to ensure long-term continuity and
+sustainability. A national power grid development program loan and a policy loan for Bihar to
+improve power system improvement were approved as planned. ADB contributed to renewable
+energy hydropower generation (856-megawatt run-of-river hydropower capacity in Himachal
+Pradesh, and Jawaharlal Nehru National Solar Mission). In addition to supporting transmission
+and distribution systems, ADB supported distribution feeder separation, enabling 24-hour
+power supply to 100% of the rural villages in Madhya Pradesh; and capacity building to
+strengthen sector regulation and advance sector reforms in Assam, Bihar, and Himachal
+Pradesh. Private sector participation was supported in its solar power generation in Gujarat
+and Rajasthan.
+
+49.     The design qualities and their innovative features, as part of the knowledge solutions,
+included an ADB-initiated biofuels study, generating insights on cross-sectoral implications and
+measures to introduce more greening measures to the energy sector. ADB also provided TA to
+build capacity in the Clean Development Mechanism (CDM) initiative, and led two hydropower
+projects to sign carbon credit sales agreements. With ADB's support, Power Grid Corporation
+of India developed a corporate environment and social management system.
+
+50.     Transport and communications. Key sector issues included (i) low levels of
+investment in transport infrastructure, (ii) limited organizational capacity in project development
+and implementation, and (iii) a limited role for the private sector in developing transport
+infrastructure. The government has been trying to develop a transport network system from
+rural roads to national highways. It also has an ambitious program for modernization of the
+country's railway network, in accordance with the Indian Railways' Vision document tabled in
+the Parliament.
+
+51.     During the CPS period, ADB helped construct national highways with consideration for
+safeguards, social safety, and the environment. It supported rural road projects in a number of
+states and is supporting railways in its modernization efforts. The transport sector accounted
+for 27 loan projects backed by a number of project preparatory and advisory TA projects. ADB
+supported state roads in Bihar, Chhattisgarh, Jharkhand, Karnataka, Madhya Pradesh, and the
+northeastern region; and contributed significantly to greater inclusion and connectivity. Rural
+roads in Assam, Chhattisgarh, Madhya Pradesh, Orissa, and West Bengal are providing all-
+weather connectivity to previously unconnected areas. ADB has also supported urban transport
+projects, especially rail-based urban transport.
+                                                                                                  13
+
+
+52.     Pursuing the Finance Plus and knowledge solutions approach, ADB's transport sector
+strategy helped develop an enabling environment for road sector development--laws and
+regulations to promote private sector participation, establish a non-lapsable road development
+fund, and strengthen the capacity of road agencies to implement build-operate-transfer
+schemes and performance-based contracts. ADB helped introduce safeguard frameworks, and
+reinforce the integration of social and environmental safeguards and community consultations
+into rural road projects. ADB supported CDM activities and efforts to obtain carbon credits
+under the United Nations Framework Convention on Climate Change for the railway project.
+
+53.     Water and other municipal infrastructure and services. Key sector issues included
+(i) clearing the urban infrastructure backlog, (ii) devolving development autonomy and
+municipal services to urban local bodies (ULBs), and (iii) setting up technical planning and
+management capacity institutions in the country to support urban renewal. With an urban
+population of nearly 400 million in India, urban development is a gigantic task.
+
+54.     The sector support program consists of 29 approved loan projects, which are under
+implementation. Ten of these are stand-alone projects, while 19 are under nine MFFs. ADB's
+projects have contributed to a better environment through support for cleaner water, sanitation,
+sewerage systems, energy generation from wastes, the CDM, and urban transport. Institutional
+strengthening for better service delivery has also been promoted through municipal reforms
+and capacity development. In keeping with ADB's Water Operational Plan, 2011­2020, 22 the
+sector programs emphasized higher efficiency in water use, increasing investment in sewerage
+management, and bringing private sector efficiencies in operations. ADB has also been
+engaged in the development of tourism infrastructure, an employment-intensive sector of the
+economy.
+
+55.      The major features of the design included (i) adoption of a strategic, holistic, and
+integrated approach to sustainable urban development and environment improvement;
+(ii) provision of basic water and sanitation services to the lagging states and poorer urban
+centers, while incorporating the Ministry of Urban Development's benchmark targets in the
+design; (iii) knowledge transfer through the dissemination of best practices in urban municipal
+services; (iv) ring-fencing urban services accounts to protect their finances; and (v) introducing
+innovative facilities like the partial credit guarantee to support project bond issuance in the local
+currency bond market.
+
+56.     Finance and public sector management. ADB's involvement in financial inclusion
+mainly related to rural finance, especially rural cooperatives and the KRDP. ADB's financial
+sector operations were in line with the government's sector strategy, as embodied in the
+Eleventh Plan, and included knowledge solutions. The program focused on (i) leveraging
+private sector investment in infrastructure through PPPs and innovative financial instruments;
+and (ii) supporting states in undertaking fiscal reforms under the framework of the Fiscal
+Responsibility and Budget Management Act. It supported ULBs to improve public financial
+management for the effective management of public utilities and the delivery of services. ADB
+also supported Assam state in public resource management. Finally, it supported micro, small,
+and medium-sized enterprises for generating employment.
+
+57.     ADB operations with significant knowledge solutions and policy reforms had the
+following features: (i) mainstreaming the PPP infrastructure financing modality in India, (ii)
+supporting public resources management reforms, and (iii) pioneering policy-based lending for
+
+22
+     ADB. 2011. Water Operational Plan 2011­2020. Manila.
+14
+
+
+ULBs and assisting in introducing performance-based devolution mechanisms. Much more
+efforts need to be put into this policy reform area, particularly at the state level as some state
+governments are much in need of adopting knowledge solutions and policy reforms.
+
+           2.      Design Features to Address Crosscutting Issues
+
+58.      Skills development. Despite significant investments in both the general and technical
+education system at all levels in the country, the quality of education remains uneven and, on
+the average, students' achievement standards are low. The government has adopted a new
+National Policy on Skills Development (2009), which targets the upgrading of skills of 500
+million students up to 2022. The government has sought ADB's support in this undertaking and
+ADB adopted human resource development as a new sector. It has responded by initiating TA
+to the National Skill Development Corporation. The TA is helping to explore effective strategies
+for the implementation of the 2009 National Skills Policy. It also aims to identify implementation
+approaches and strategies for skills development activities.
+
+59.      Gender mainstreaming. The CPSFR states that effective gender mainstreaming
+registered an improvement during 2009­2012 by increasing from 25% of the portfolio at the
+beginning to about 38% at the end of 2011. The CPSFR does not provide details on the
+gender-related outputs and outcomes, although a number of innovative gender mainstreaming
+activities have been undertaken in India. For example, support to women entrepreneurs
+through ADB's Micro, Small and Medium-size Entrepreneurs Development Project, associated
+Japan Fund for Poverty Reduction grant project for women entrepreneurs, is an important
+initiative. The project is being implemented through the Small Industries Development Bank of
+India while the grant project is being implemented in the states of Madhya Pradesh,
+Maharashtra, Orissa, Rajasthan, and Uttar Pradesh.
+
+60.      In addition, under rural roads projects, traveling to schools, health centers, and
+marketplaces has become safer and convenient, particularly for women. The availability of
+electricity to rural households has helped women to undertake domestic chores and earning
+activities with less drudgery. In Chhattisgarh, under the irrigation project, active participation of
+women was built into the project design. During the field visit, the IED mission noted women's
+participation in field level meetings. Women participants shared their viewpoints and expressed
+satisfaction at being part of the projects. Notwithstanding, in India, a lot more progress is
+needed to have effective gender equality across states, sectors, and social hierarchies.
+
+61.      Monitoring. ADB's SARD uses a common monitoring format in its TPRMs for reviewing
+ongoing projects. 23 The format used in these meetings facilitates easier understanding by
+officials even remotely related to a project. Every executing and implementing agency knows
+that it would be called upon to explain the performance of its project according to this format,
+which has become a common instrument of monitoring and evaluation in India. A collective and
+shared understanding about project monitoring has been built around it in ADB's Indian
+operations. During TPRM discussions, a project's implementation is assessed in detail and
+reviewed rigorously. The discussion takes place publicly in the presence of a large number of
+staff, especially from the Indian central ministries of economics and finance, as well as senior
+officers of ADB, executing agencies, and implementing agencies. With the help of
+
+23
+     The format has much in common with the project performance report and design and monitoring format used in
+     ADB records. The key difference is that the resident mission format is oriented to monitoring project
+     implementation and its progress, whereas the project performance report is structured to suit the many other
+     broader institutional requirements of ADB, such as public information disclosure.
+                                                                                                                      15
+
+
+presentations and handouts, the resulting assessment by those present is transparent and
+consistent. 24 Projects are awarded red, yellow, and green flags to indicate the degree of risk
+they face (from high to low).25
+
+62.    Staff in many departments and ministries of the government conveyed to the IED
+mission that this method of monitoring progress had been a source of tremendous learning for
+them. They not only learned a lot about ADB's system and its project processing practices, but
+more importantly, they learned about project implementation from each other--whether
+emulating good practices or side-stepping impediments.26
+
+63.      While a systematic job is being done in terms of monitoring project implementation in
+India, additional information and analysis are required to assess the development outcomes
+and impact of projects.27 The periodic TPRMs are more than satisfactory for monitoring project
+implementation. However, they are not adequate to determine project outcomes and impact in
+terms of the results framework, although the CPS noted that "projects that are nearing
+completion or have been closed, are selected for detailed discussion of their overall results in
+terms of their outputs and outcomes (p. ii)." 28 These observations apply unevenly across
+sectors. For example, power and highway projects have useful baseline indicators while
+multisector urban projects, rural road projects, and financial inclusion projects seem to have
+difficulty identifying achievements as these projects lack baseline indicators.
+
+C.       Efficiency
+
+64.     The CPSFR assessed the efficiency of the CPS program successful (efficient). It
+pointed out that "repeat projects have been more efficient as they ride on capacity that has
+been built and institutions that have been strengthened" (CPSFR, para. 81). This validation
+agrees with the CPSFR and rates the program efficient, mainly because the transport and
+energy sectors, which take about two-thirds of the ADB portfolio29, were efficient while other
+sectors have had some implementation issues. It is also noted that the average disbursement
+rate in India was about 27%--much higher than the ADB average of about 20%, even though
+the portfolio has been growing rapidly (Table 1). There has been a sharp increase in the
+number of delegated loans to the resident mission since 2010 (from 15 to 42), while the
+corresponding increase in the staff resources remained slow. This suggests that staff
+resources for project implementation have been outstretched in the resident mission.
+
+
+24
+   Besides reviewing contract awards and disbursements, TPRMs also examine project implementation
+   comprehensively. For example, the minutes of February 2012 observe that "despite the high disbursements
+   achieved in 2011, there are a number of projects which are underperforming and running behind the schedule."
+25
+   Out of 73 active loans at the end of December 2011, 17 were identified as red flag projects with major issues
+   (23%) and another 18 with yellow flags (25%).
+26
+   The record of background documents and minutes is maintained for future reference. Two such sets of
+   documents covering about 75­80 projects each for 2010 and 2012 were reviewed in detail, as an input for this
+   validation.
+27
+   This Indian case is in line with the general findings of IED's special evaluation study on managing for development
+   results. "At present, attention is more focused on the beginning links of the chain (e.g., activities and outputs) vis-
+   à-vis the later links (e.g., outcomes and impacts). Reinforcing the later (weaker) links would be a useful way of
+   making the entire chain stronger and achieving greater results orientation." IED. 2011. Managing for Development
+   Results. Manila: ADB. p. 53.
+28
+   As a large number of projects are in the nature of MFF tranches, perhaps these are individually too discrete to
+   bear out results. As such, these may not be amenable to an impact assessment just yet.
+29
+   As of 31 December 2011, the India portfolio included 79 loans with a net loan amount of $11.9 billion. There were
+   25 loans in the energy sector, 18 loans in the transport sector, 21 loans in the urban sector, and six loans in the
+   ANR sector. The finance sector had nine loans, of which four were program loans.
+16
+
+
+                         Table 1: Financial Performance Ratios, 2007­2011
+                     Item                       2007     2008     2009      2010      2011
+     A. Loan Portfolio
+      1. Amount of Active Loans ($ million)      7,247    8,188    8,449    10,154     11,875
+      2. Number of Active Loans                     38       44       53        67         79
+      3. Number of Loans Delegated to the           15       15       15        24         42
+         Resident Mission
+     B. Financial Performance
+      1. Contract Awards ($ million)             1,437    1,154    1,657     1,856      1,751
+      2. Disbursement ($ million)                1,363    1,508    1,340     1,699      1,434
+      3. Disbursement Ratio (%)                   25.9     28.4     23.2      32.3       24.8
+     Source: Asian Development Bank database.
+
+65.      Project implementation delays in some projects have been an issue, but ADB has been
+addressing them through an enhanced portfolio review mechanism and capacity development
+programs for project implementing agencies. As most projects approved over the period 2002­
+2011 are still under implementation, evidence on the efficiency of ADB's current Indian portfolio
+is limited. Further, given that many of these operations are phased MFFs and their future PFRs
+are yet to be designed, it is not possible to assess their outcomes in terms of performance
+standards, costs, or economic benefits. In this sense, the validation's discussion below focuses
+on implementation efficiencies and is based on some completed projects, some progress
+reports, including midterm reviews, and the detailed minutes of individual projects in TPRMs.
+Overall, implementation efficiency has been better in the energy and transport sectors in
+comparison with other sectors.
+
+66.     Agriculture and natural resources. None of the ANR projects has been completed to
+date, so only a tentative assessment of likely efficiency is provided here. Most of the ANR
+projects are innovative in nature. Executing and implementing agencies are involved in their
+implementation for the first time. Even service providers like bidders, contractors, suppliers,
+and consultants have to contend with international standards for the first time as far as quality
+controls are concerned in the ANR sector. Likewise, the assessment of the quality of outputs,
+and the handing over of the completed assets to the beneficiaries are new activities and
+procedures for some government staff, so causing delays. In addition, delays in a flood control
+project in the northeast are likely to expose the region to yet another season of monsoonal
+floods, causing damage to swaths of population, homes, assets, and infrastructure. Some ANR
+projects faced slippages and were delayed because of various reasons, including lack of
+preparedness of project management offices, lengthy bid evaluation processes, delayed
+internal processing, and long turnaround time of statutory clearances and approvals. Often,
+delays took place in the absence of qualified bidders or the failure of contractors to meet set
+standards.
+
+67.     Energy. As many projects are similar to previous ones, there is much opportunity for
+on-the-job learning and benefitting from lessons learned. Consequently, the resources and
+procedures-oriented efficiencies in the energy sector have been high. Most projects have
+managed to deliver outputs without major slippages or delays. As acknowledged in a number
+of TPRMs, the use of project readiness filters has played an important role in keeping
+implementation broadly on track in the energy sector. As of December 2011, the TPRM noted
+that there were no major issues in the ongoing projects, except in the case of Uttarakhand
+which experienced significant slippages and delays. ADB's first energy sector intervention in
+Bihar was slow to take off, but with the help of TA, it is now under implementation. In
+comparison to other sector operations in India, the average loan extensions (at 14 months)
+                                                                                                           17
+
+
+were lowest for the energy sector. The project completion report (PCR) validation for the
+Assam Power Sector Development Program noted some methodological issues regarding the
+rate of return, but the economic internal rate of return was expected to be higher than the 12%
+cutoff.
+
+68.    Transport. Projects were well conceived and were based on plans that had been
+prepared over a long period. These were detailed in packages of activities with suitable
+advance actions. However, in some states, the capacities of local contractors, suppliers, and
+consultants were weak on the ground; and the local market was inundated with too many
+works. More than 1,000 packages of rural works were awarded as contracts, overwhelming
+some contractors. However, about 90% of them were able to deliver. Time extensions were
+needed in the case of Orissa30 and slower disbursements were experienced in Assam. The
+PCR for the rural road sector program assessed it as efficient.31 As of December 2011, the
+TPRM identified a total of 13 projects of which one had an implementation delay.
+
+69.      Initially, railway projects also took longer to register progress as executing and
+implementing agencies were not familiar with ADB practices, but they soon caught up and
+implementation quality improved. Modern accounting architecture, i.e., converting the railways'
+cash-based accounting system to an accrual-based system, involved a basic change and is
+under implementation. Full implementation of the new accounting system is considered a
+critical element for better financial governance and management, hence, for transparency and
+efficiency enhancement of the Indian railway business.
+
+70.     Thus, transport projects succeeded in constructing roads and delivering outputs.
+Outcomes were especially encouraging with regard to rural roads. The economic internal rate
+of return calculated for the first and second rural roads projects were estimated at 30.8% and
+21.4%, respectively, exceeding ADB's benchmark of 12% by a wide margin (CPSFR, para. 93).
+
+71.      Water and other municipal infrastructure and services. The CPSFR claims that
+implementation efficiencies in this sector have been reasonable. However, this validation notes
+that implementation of complex and fragmented projects have posed a number of problems
+(CPSFR, p.17, para. 79). This constituted a more complex part of the Indian portfolio.
+Implementation difficulties included (i) the low quality and capability of local contractors,
+(ii) inadequate capacity and staffing of project management offices and project implementation
+units, and (iii) general lack of experience and exposure to ADB practices in developing
+proposals and awarding contracts. More importantly, every time a new project was introduced,
+given the nature of urban development, it often involved a new ULB. A new location or a new
+urban center made it necessary to get everyone on board and negotiate the impediments
+anew. In comparison with repeat projects in some other sectors, little carryover of knowledge is
+gained across urban projects because of their horizontal nature. More importantly, many ULBs
+have little technical capability of their own. As of December 2011, there were 21 water and
+other municipal infrastructure and services sector projects, of which five had implementation
+delays.
+
+72.    Finance. Implementation efficiencies have been mixed. Financial intermediation loans
+were implemented well--these were fully disbursed for 37 PPPs. Likewise, program loans for
+
+30
+   ADB. 2005. Report and Recommendation of the President to the Board of Directors: Proposed Multitranche
+   Financing Facility to India for Rural Roads Sector II Investment Program. Manila.
+31
+   ADB. 2012. Completion Report: Rural Road Sector II Investment Program (Project 1) in India (Loan 2248-IND).
+   p.9, para. 30.
+18
+
+
+Assam and Mizoram were well implemented despite the time overrun. Slower implementation
+has been experienced in the case of rural cooperatives. The scope of this intervention was
+extremely wide and ambitious. The Khadi industry turned out to be a tough subsector to work in
+and posed huge implementation difficulties. The CPSFR suggests that ADB needs to examine
+its role in such projects in the future. As of December 2011, there were eight projects in the
+finance sector, of which three had implementation delays.
+
+D.        Effectiveness
+
+73.     The CPSFR assesses the CPS program successful (effective). It describes in detail
+outputs and outcomes generated under different programs, especially in energy, transport, and
+water and other municipal infrastructure and services sectors. Following the Finance Plus
+approach, institutional development and knowledge solutions activities have been undertaken
+in many ADB operations. This validation concurs with the CPSFR and assesses the program
+effective. This assessment is based on a number of factors. First, a number of completed
+assessments (e.g., Assam power, rural roads, Rajasthan urban water and sanitation services)
+have evaluated the projects as effective. Second, the weight of the energy and transport
+sectors has been dominant and has swung the overall portfolio outcomes toward effectiveness.
+Lastly, some significant institution building activities in relation to PPPs and capacity building
+have been successfully accomplished under the CPS. Details are provided below in relation to
+the sectors.
+
+74.     A total of 22 projects (involving 29 loans) for India were rated during 2002­2011. Fifteen
+of these (68%), or 22 loans (76%), were rated highly successful or successful in achieving the
+project objectives, while five were partly successful and two were unsuccessful. 32 This is a
+huge improvement from the 63% project success rate during the previous period, 1991­2001.
+The Indian success rate is also higher than the ADB-wide project success rate of 67% for
+2002­2011.
+
+75.     Agriculture and natural resources. The likely effectiveness of ongoing projects can
+be assessed based on project progress, while waiting for the final assessment upon
+completion. None of the MFFs in ANR have been completed (at facility level). The CPSFR
+reports that irrigated area in Chhattisgarh and Orissa increased by 200,000 hectares. Over
+800 water user associations were operating in irrigation areas. A preliminary study undertaken
+with the help of TA consultants under the Chhattisgarh project indicates progress in
+diversification of the cropping pattern. The study shows that the selection of new varieties of
+seeds has also helped in increasing yields and the enhanced use of fertilizers.33 Only a few
+studies have been mentioned in the CPSFR for review by this validation and the number of
+observations in some studies was insufficient to draw generalized conclusions. Most of the
+outputs in other ANR projects, like coastal management and agribusiness, are ongoing.
+
+76.     Energy. The CPSFR details ADB's contribution to outputs and outcomes in the energy
+sector. These included transmission lines (about 7,900 kilometers [km]); the setting up of 53
+transmission substations and upgrading of 140 transmission substations; and the laying of
+distribution lines (about 72,000 km, of which 27,800 km were part of the high-voltage
+distribution system to guard against pilferage). In addition, ADB provided partial funding for 415
+megawatts of a photovoltaic solar power system. It also conducted policy and regulatory
+
+32
+   The success rate for individual loans is much higher (i.e., 76%) than the project success rate in India. Many ADB
+   projects in India tend to have multiple, phased loans to cover different areas or states.
+33
+   Crop cuts are regularly undertaken by the project to measure the results.
+                                                                                                       19
+
+
+activities in a number of states, including Assam. Most of the outputs were delivered, and
+followed the procedures laid out under the project. The Assam power sector program,34 for
+which PCR validation has been carried out by IED, was assessed effective.35
+
+77.    Transport. ADB projects were effective in delivering a number of valuable outputs and
+outcomes that involved innovations and knowledge solutions. ADB built 1,464 km of national
+highways, 4,125 km of state highways, and 17,883 km of rural roads under the CPS period.
+These roads connected thousands of homes and hundreds of cities across the country. In rail
+transport, 353 km of railway tracks were converted from single lines to double tracks.
+
+78.     In terms of institutional development, ADB set up a system of planned expansions of
+road networks that proved to be its real contribution under the program. Good road plans with
+detailed project reports were drawn and consideration was given to social, engineering, and
+environmental conservation factors. Executing and implementing agencies developed norms
+and good practices to ensure that these innovations and knowledge solutions were included in
+the project design and were implemented with full commitment. Enabling Indian executing and
+implementing agencies to prepare projects in line with international standards was an important
+achievement. In summary, good road engineering practices were being blended to produce
+social and environmental outputs under these projects.
+
+79.      Water and other municipal infrastructure and services. Under the CPS, water and
+other municipal infrastructure and services sector projects succeeded in delivering outputs that
+involved significant knowledge solutions. The CPSFR states that these included the following:
+(i) the installation of water treatment capacity of 1,224 million liters per day; (ii) the expansion
+and rehabilitation of a 2,706 km water supply network; (iii) the creation of a 952 km wastewater
+collection network and an additional 1,276 km water treatment facility; and (iv) the
+augmentation of a solid waste treatment capacity by 376 tons per day. 36 The PCR for
+Rajasthan Urban Infrastructure Development Project37 assessed the project effective.
+
+80.     In terms of institutional development, urban water supply and sanitation projects helped
+introduce several reforms that resulted in the following outcomes: (i) development of a
+regulatory framework; (ii) the financial ring-fencing of accounts related to urban services; (iii)
+introduction of sound pricing policies for urban services; (iv) inclusion of operation and
+maintenance (O&M) under contracts for municipal services; (v) rendering of the PPP modality
+as a viable operational option in a number of cases; and (vi) improvements in the management
+and treatment of septic tanks, leading to improvements in the environment, a reduction in
+greenhouse gases, and the promotion of conservation.
+
+81.     The development of urban services was also effective in promoting tourism in the
+region. Attention was especially given to noncommercial tourism, with emphasis on bed-and-
+breakfast types of tourist services. TA support helped establish a regulatory system,
+benchmarking water and sanitation system pricing for South Asian countries. Urban water
+supply and sanitation related activities also promoted innovations that sought to move from
+current flat tariffs to volumetric tariffs for water usage.
+
+
+
+34
+    ADB. 2003. Report and Recommendation of the President to the Board of Directors: Proposed Loans and
+   technical Assistance Grants to India for the Assam Power Sector Development Program. Manila.
+35
+    IED. 2011. Program Completion Validation Report: Assam Power Sector Development in India. Manila: ADB.
+36
+   For details, see the CPSFR p.21, para. 99.
+37
+   ADB. 2011. Completion Report: Rjasthan Urban Infrastructure Development Project in India. Manila.
+20
+
+
+82.     Finance. The financial sector rendered many outputs under the CPS. As the CPSFR
+puts it, the India Infrastructure Project Financing Facility (IIPFF) I and II were exceedingly
+successful in generating 37 PPPs.38 These helped build roads, airports, and power plants. The
+airports of both Delhi and Mumbai were constructed and renovated under these interventions.
+Some 2,000 km of national and state highway segments were built, and financial support was
+provided to the Urban Mega Power Project in Gujarat. The total amount of funds leveraged by
+these interventions amounted to about $7.9 billion (i.e., more than 11 times).39
+
+83.      In terms of institutional and knowledge development, capacity was built and 21 PPP
+cells were established in different parts of the country. The outputs of these cells have included
+developing projects from the concept stage to bid process management and implementation as
+well as risk appraisals of PPP projects. Development of sector tools included websites and
+databases, and extended help to seek funding from central government funding schemes,
+e.g., viability gap funding. These services are not confined to ADB operations but have also
+been supporting government development interventions at large. In terms of public resource
+management, a number of reforms were undertaken in the states of Assam and Mizoram.
+These included the setting up of a tax management information system, the computerization of
+treasury, and the closing down of loss-making public sector undertakings. Further, a group of
+800 micro-, small, and medium-scale women entrepreneurs was being helped under the Micro,
+Small and Medium Enterprises Development Project.40 However, progress has been slow in
+the case of rural cooperatives and the KRDP.
+
+84.     Technical assistance. ADB TA projects have been successful in promoting knowledge
+solutions--introducing innovative practices and procedures through capacity development
+programs. 41 Umbrella TA projects have enhanced the project preparedness of executing
+agencies by supporting feasibility studies, preliminary design, bid documents, and bid
+evaluation, among others. The Private Sector Operations Department (PSOD) has also been
+engaged in capacity building of commercial banks through its TA42 for commercial bank lending
+for solar energy projects. It was found to be useful by commercial banks and the government.
+All these TA inputs have enabled improved coordination between TA and loan projects. They
+have led to (i) policy and awareness building, (ii) establishing processes and schemes, and (iii)
+developing the project pipeline. More importantly, their outcomes have been shared at central
+as well as state levels (Andhra Pradesh, Karnataka, Madhya Pradesh, Maharashtra, Orissa,
+and Uttarakhand). Likewise, capacity development TA has enhanced the implementation
+capacity of executing and implementing agencies (para. 24). However, a recently held TA
+TPRM drew attention to improving ADB's dissemination of knowledge products in India.
+
+E.        Sustainability
+
+85.     The CPSFR assesses the CPS programs successful (likely sustainable) as the program
+is well endorsed and supported by the government, including investment of the government's
+
+38
+   A total of 30 subprojects were funded under the IIPFF I, covering 28 road projects and two international airports at
+   Delhi and Mumbai.
+39
+   CPSFR, p. 19, para. 89.
+40
+    ADB. 2009. Report and Recommendation of the President to the Board of Directors: Proposed Loan and
+   Technical Assistance to India for the Small and Medium Enterprise Trade Finance Development Facility. Manila.
+41
+   Seven of these TA projects were primarily engaged in capacity building for PPPs (TA projects 4890, 4993, 7152,
+   7342, 7463, 7441, and 7625 for about $15.3 million). Of these, six were under this CPS.
+42
+    ADB. 2011. Report and Recommendation of the President to the Board of Directors: Proposed Technical
+   Assistance to India for Capacity Building for Commercial Bank Lending for Solar Energy Projects (Cofinanced by
+   the Asian Clean Energy Fund under the Clean Energy Financing Partnership Facility). Manila.
+                                                                                                 21
+
+
+own funds in the sector. The CPSFR also identifies institutional and staff capacity
+development, good practices, and government support as the major plank for ensuring
+sustainability. This validation agrees with the CPSFR and assesses the CPS program likely
+sustainable. This assessment is underpinned by a number of factors, including (i) the
+government's total commitment to and support for agriculture and food production; (ii)
+significant involvement of the private sector in energy and transport, along with an appropriate
+regulatory regime and O&M; and (iii) compatibility of infrastructure with safeguards and
+environmental conservation. This assessment is detailed below for each sector.
+
+86.     Agriculture and natural resources. Since ANR constitutes an extremely important
+sector for the development plans in India, the government attaches high priority to agricultural
+reforms. In the government's report card on completion of 3 years in administration issued in
+May 2012, food security was the first item for which the government claimed credit. Likewise,
+improved water resource management received high-level attention from policy makers. Thus,
+while the configuration of MFF tranches has yet to evolve fully, the context and possible
+government support for ANR activities are assured. However, this validation notes that
+capacities at the state level, where ANR projects are implemented, are limited by lack of
+training, exposure to better practices, and international standards.
+
+87.     Energy. The energy sector follows sustainable practices across the board. Power
+generation is taken care of through extensive plant maintenance, as indicated by plant load
+factor data. Financial allocation for O&M is adequately provided. The regulatory regime is kept
+up by pursuing the provision under the Electricity Act 2003, especially in relation to tariff fixing
+and revenue mobilization. Also, ADB TA helped to prepare master plans for the states of
+Himachal Pradesh and Bihar to ensure the sustainable development of the energy sector.
+Active involvement of the private sector in energy through PPPs is a positive development. The
+CPSFR, however, needed to address state level management of electricity boards for putting
+the sector on a sustainable path.
+
+88.     Transport. This validation notes that special attention was paid to ensure the
+sustainability of transport projects. Arrangements were made for O&M allocations to be ensured
+so that assets created under the project could last longer. For this purpose, a road maintenance
+fund was created in Madhya Pradesh. Similarly, a state highway fund was established to support
+the future construction of state highways. The sustainability of roads is likely to be improved by
+new institutional practices introduced under these projects. Special organizations created for the
+projects, like the National Rural Roads Development Agency and States Rural Roads
+Development Agencies, introduced reforms that are likely to benefit not only the road sector but
+also other areas of development. These include environmental conservation, emphasis on green
+construction, pursuing the CDM, and following road safety norms, among others. Several long-
+term reforms in the railways sector are, however, still pending.
+
+89.      Water and other municipal infrastructure and services. Sector sustainability issues
+have two main aspects: (i) dealing with the financial outlays for the maintenance of assets, and
+(ii) involving institutional arrangements to sustain good governance practices in the sector. The
+allocation of resources was significant under the Eleventh Plan, so the initial resource
+allocation was not likely to be the main issue. However, in some cases reforms are needed to
+improve property tax collection, revise and implement water tariffs, ensure the imposition of
+drainage surcharges, and register contracts with private providers for the maintenance of
+services as a necessary condition. In this sense, the mobilization of resources by urban centers
+on their own (not just state grants and subsidies) is also deemed crucial to sustainability.
+22
+
+
+90.     Although many of these and similar conditions are negotiated up front and were
+included in loan covenants with targets, the level of compliance remained low. ADB has been
+trying to negotiate the ring-fencing of financial resources that can be sourced for continued
+urban development and the provision of services. Beside the slow pace of reforms, the key
+constraints that this validation notes include the lack of expertise and technical know-how and
+the lack of appropriate management support at the municipal level.
+
+91.      Finance. The sustainability of the sector reforms relies on the capacity of the
+organizations that have been financially supported under the CPS. The CPSFR suggests that
+the sustainability of the IIPFF I and II activities is likely, as undertakings supported under these
+loans are established and functioning well. Likewise, most of the public resources management
+reforms in Assam and Mizoram are likely to continue. These may have to be topped up in
+future, as economic growth takes hold in these areas. However, there are some unresolved
+issues with regard to the rural cooperatives, for which legislation is awaiting consideration and
+the approval of Parliament. Only then will a likely path for future reforms be clear. The KRDP is
+still looking for the right direction and is unlikely to be sustainable in its present condition.
+
+F.         Development Impact
+
+92.      The CPSFR assessed the development impact of the CPS programs successful
+(satisfactory). It provided a detailed account of sector objectives and their sector-specific as
+well as cross-sectoral impacts. It also described plausible links between the CPS sector
+outcomes and larger sector outcomes. Citing the CAPE 2007, the CPSFR argued that although
+"ADB's financial assistance may have been small relative to the size of public investment in a
+middle income and large economy like India, its support made a significant contribution to the
+country's development process" (CPSFR, p. 24, para. 117). This validation took stock of ADB's
+achievement of the overall CPS objectives and sector-level development impacts (paras. 93­
+105). It agrees with the CPSFR and assesses the sector impacts satisfactory.
+
+93.     Achieving overall country partnership strategy objectives. The CPS was designed
+to achieve four strategic objectives (para.17). This validation considers that ADB has achieved
+its limited CPS objectives through delivering its program for India. The following four
+paragraphs discuss the results with respect to the strategic objectives of the CPS.
+
+94.     Supporting inclusive and environmentally sustainable growth. Growing at a rate of
+about 7.8% per annum under the Eleventh Plan, the Indian economy worked towards its
+objective of greater inclusiveness despite the difficulties associated with the global volatility and
+domestic constraints. This has led to a continued reduction in headcount poverty according to
+the national poverty line.43 Further, there is some evidence that interstate disparities may have
+improved under the Eleventh Plan as some of the lagging states have registered higher growth
+rates, e.g., Orissa, Himachal Pradesh, Maharashtra, and Uttarakhand. India's performance on
+MDGs is mixed although the country is on track in terms of income poverty, enrolments in
+primary education, drinking water, and reduction in gender disparities. However, it is lagging in
+malnourishment, infant mortality rates, maternal health, and sanitation facilities. This validation
+
+
+43
+     The Indian poverty line, which is made of "different poverty lines at sub-national level ... separately for rural and
+     urban areas," is lower than the international purchasing power parity-based poverty line (FY2004 prices).
+     Government of India, Ministry of Statistics and Programme Implementation, Central Statistical Organization. 2009.
+     Millennium Development Goals: India Country Report 2009. Mid-Term Statistical Appraisal. Delhi. p.3. In May
+     2012, the government set up a new commission to review the poverty line and reassess the number of poor in the
+     country.
+                                                                                                                 23
+
+
+believes that ADB, in its narrow sphere of influence, has contributed to those positive
+developments.
+
+95.     Within its area of ADB engagement inclusiveness was pursued through (i) the inclusion
+of lagging states in operations; (ii) the choice of subsectors, such as rural roads; (iii) rendering
+support to agriculture and water resource management; and (iv) the promotion of financial
+inclusion in the program. More importantly, the design of several projects followed an
+environmentally sustainable path. There were two types of development impacts. First, through
+its projects, ADB was able to demonstrate how to build more environmentally friendly and
+sustainable projects in different sectors, e.g., renewable energy projects. Second, ADB was
+able to convince executing agencies and their ministries, e.g., railways or highway authorities,
+to adopt an environmentally sustainable framework in their approaches. A good beginning has
+been made on both fronts.
+
+96.      Catalyzing investments through innovative business and financing solutions.
+Under the CPS, this has been supported through two main approaches. First, many projects
+moved away from the departmental structure of ministries to the corporate organization format
+under which business procedures have changed and development projects are being
+implemented through new institutions. This is a structural shift in the organizational design of
+business agencies that is potentially capable of far-reaching consequences. Second, ADB
+projects relied on the PPP modality with a view to combine the respective strengths of the
+public and private sectors to address sector development problems. By the sheer number of
+PPP cases approved under the CPS period, with or without ADB, it is emerging as a major shift
+in the earlier pattern of doing business in India. In the future, India's development agenda is
+likely to be riding more and more on the strengths of its private sector, with the government in
+an important role as regulator.
+
+97.     Promoting results orientation. The CPS helped promote results orientation through
+its projects. Results orientation has now spread across different ministries and departments of
+the government in India because of, among others, the Right to Information (RTI) Act in 2005,
+which requires public authorities to provide information to any citizen within 30 days. Most of
+the sector ministries as well as the Planning Commission have developed and adopted a
+results framework for evaluating their performance. In this sense, ADB's emphasis was not
+only in step with the unfolding pattern in India, but encouraged the government to pursue
+results orientation in its development efforts. Whenever a project was nearing completion, the
+resident mission's TPRM focused on its outputs and outcome and took note of the results. 44
+However, the CPSFR did not report on its results framework, which is another gap in the CPS
+results orientation (para. 39).
+
+98.    Promoting regional cooperation. Under the CPS, ADB pursued the core area of
+regional cooperation by focusing on strengthening infrastructure and policy reforms in the
+northeastern region of the country. Two projects that were approved are still under
+implementation, i.e., the South Asia Subregional Economic Cooperation Information Highway
+Project and the South Asia Tourism Infrastructure Development Project. These are in addition
+
+44
+     IED's 2012 Annual Evaluation Review (footnote 9) observes that the India portfolio has grown rapidly after 2005.
+     Because there are only a few project completion reports, and even fewer validations of PCRs, the review rightly
+     cautions that "Careful monitoring of the ongoing portfolio is recommended." The validation is of the view that a
+     comprehensive and thorough review of India's portfolio needs to be undertaken while keeping its peculiarities in
+     view, such as the dominance of the energy and transport sectors, which each account for about one-third of the
+     total, the predominance of the MFF modality in the program, and a lending environment characterized by the
+     multilayered nature of operations. In this sense, the typology of projects in India is unique.
+24
+
+
+to the support for promoting trade and transport linkages across Bangladesh, Bhutan, India,
+and Nepal under ADB's South Asia Subregional Economic Cooperation initiative. 45 These
+initiatives have engendered a new beginning based on greater subregional connectivity, an
+improved trading environment, and a combined thrust for tourism. The development impact of
+these initiatives is likely to manifest positively in the long term through increased trade and
+other economic activities within the subregion.
+
+99.     Sector-level development impacts. Greater complementarities are necessary to
+achieve greater development impacts of ADB operations on the ground. The development
+impact can become larger when projects are well linked across to different sectors and
+stakeholders' economic activities (Box 2). The studies conducted under rural road projects
+show the multifaceted nature of the development impact of rural connectivity, generating higher
+agricultural productivity and improved access to basic health and education services. These
+horizontal connections assume much greater importance in India as a number of government
+schemes are trying to reach down to the target population vertically in parallel. For instance,
+the Ministry of Rural Development has adopted a convergence approach to explore
+complementarities between the schemes and programs of the ministry and those of other
+ministries and state governments.46 However, the development programs' horizontal interface
+is often not well followed through.47 Thus, ADB needs to assist the government in this regard
+through future projects and TA. Although such horizontal linkages may have been implicitly
+considered in ADB's sector and project selection, these need to be spelled out more explicitly
+under the new CPS. Further, active involvement of the private sector in the management and
+delivery of services requires these horizontal linkages to be pursued and monitored closely to
+ensure their proper utilization.
+
+
+                                   Box 2: Horizontal Complementarities
+     The development patterns of nations feature multiple dots, each with distinct histories, geographies,
+     and characteristics. Connecting these dots, according to evaluation findings, is key to getting good
+     results from various interventions. Horizontal complementarities can be made across areas such as
+     education and employment; water supply, sanitation and health; and roads and the environment.
+     Here, the sectorwide approach modality--whereby development partners and governments pool
+     resources to support integrated development--is expected to be among the best ways to increase
+     efficiency in project implementation.
+     A series of evaluative findings at the project or sector levels make the case for connecting the dots
+     horizontally. An evaluation of rural roads showed that many poor people simply do not have the
+     means to take advantage of a rural road. Focusing only on the immediate predicament or proximate
+     needs risks losing sight of the desired results. The implication may not be that a single financier tries
+     to support all the goals, but rather that the strategy of each sees the bigger picture and the work of
+     different players is connected. An evaluation of rural roads showed that the poor often do not have the
+     means to take advantage of a rural road. Evaluation consistently shows that coordination or
+     collaboration across areas and among partners has been a weak link in the development process.
+     Source: IED. 2012. Connecting the Dots for Greater Development Impact. Learning Lessons. Manila: ADB.
+
+
+
+45
+   See CPS, para. 38.
+46
+   The Ministry of Rural Development, in its annual report 2011­2012, indicated that the ministry, with the help of the
+   Planning Commission, was trying to identify possible programs for convergence for the Twelfth Plan and beyond.
+   It also illustrated several ongoing champion convergence programs such as the Mahatma Gandhi National Rural
+   Employment Guarantee Scheme.
+47
+   The central Ministry of Rural Development is reportedly trying to assess the total cost of all these schemes at the
+   village level and beginning to take note of these horizontal interfaces.
+                                                                                                            25
+
+
+100. Agriculture and natural resources. According to the outputs and outcomes cited in
+the CPSFR (based on studies conducted by civil society organizations under associated TA)48
+and the field visits conducted by the Independent Evaluation Mission, the ANR program is likely
+to have a significant impact on the wider economy of the irrigated area. Within the sector, it is
+expected to improve agricultural yield as an outcome of investments under the project area
+because of improved irrigation and crop diversification. This, in turn, will generate more
+employment opportunities and more income in the neighboring rural areas, especially for
+women. Likewise, water users associations are likely to catalyze not only improved water
+resource management but also development activities at the local level once they become
+recognized by stakeholders as a change agent. Further, improvements in flood control and
+water resource management are likely to impact agriculture as well as other sectors in the
+adjacent geographical and downstream areas. As projects are still under implementation, these
+are all likely development impacts at the moment. Nonetheless, based on the interim results
+available from project documents, indications are that the operations are on track toward
+achieving some of these ends.
+
+101. Energy. The development impact of ADB's energy sector projects is likely to be
+significant, particularly because the operations are developing as planned and ADB is an
+important player in the sector. As electricity availability is a binding constraint, ADB makes a
+potential contribution to economic growth and development in the electricity-using sectors by
+enhancing capacity for reliable electricity utility service and through improved management of
+the energy sector (para. 76). Further, by improving the efficiency of operations, especially
+through the reduction of power losses, it reduces avoidable outlays under public funds. Similar
+economies can be traced to improvements in the regulatory environment of the energy sector,
+especially where the functioning of state electricity boards has improved. By enabling the larger
+and more economical transmission of power from surplus states to shortage areas, the
+financial revenue of the energy sector is augmented and it renders the sector attractive for
+future investments. Finally, bringing in enhanced private sector participation to the sector
+improves efficiency. The commercial use of electricity is particularly beneficial for promoting
+economic activities and growth. The commercial utilization of electricity in FY2009, at 10.4% of
+the total, was 28% higher than it was 5 years earlier in FY2004.49
+
+102. Transport. The development impact was assessed through some rigorously designed
+socioeconomic studies conducted by ADB under the rural roads project. These studies covered
+the states of Assam, Chhattisgarh, Madhya Pradesh, and Orissa in 2009­2010. They found
+that employment had increased in the connected habitations (by 9%). In some cases, per
+capita income had increased by as much as 2.5 times previous levels. As a result, a significant
+decline in the headcount of persons below the poverty line (by 3%) was noted. Besides these,
+the CPSFR presented a number of social development indicators that registered improvements
+in school attendance and teachers' presence in school. The rate of dropouts declined, while
+improvements in health indicators related to mothers and children were registered.50 Further,
+ADB projects have helped provide efficient and economical transport mechanisms in a number
+of cities, generating savings in time and resources. Most importantly, improvements in
+institutional practices--such as a non-lapsable road development fund and performance-based
+contracts--are likely to be the additional long-term gains of ADB operations in the sector.
+
+48
+    CPSFR, para. 33. See also ADB. 2011. India: A Partnership for Inclusive Growth. Development Effectiveness
+   Brief. Manila. p.19.
+49
+   Government of India, Ministry of Finance. 2012. Economic Survey 2011­12. New Delhi: Oxford University Press.
+   Table 1.25, p. A28.
+50
+   For details, see the CPSFR p. 28; Operations Research Group. 2009. Socio-economic Impact Assessment
+   Report­Rural Roads Project 1. Consultant's report. Manila (Loan 2018-IND).
+26
+
+
+
+103. Water and other municipal infrastructure and services. The CPSFR states that
+ADB's water and other municipal infrastructure and services sector services benefited 26.2
+million persons through provision of services. Sewerage services were provided to 15.0 million
+persons, while the size of the population that benefitted from solid waste management services
+is estimated to be 19.1 million. Health benefits of quality water and better sanitation have an
+immense development impact. In addition, a decline in nonrevenue water, as well as in
+greenhouse gases, has been noted to have wider development implications. These are likely to
+influence potential improvements in environment and climate change as well.
+
+104. Finance. In the case of the IIPFF I and II, the development impact is linked to the new,
+well-functioning airports in the metropolitan regions of New Delhi and Mumbai, and the partial
+relieving of power constraints as a result of energy sector interventions. Likewise, long-term
+gains resulting from improvements in public resources management are likely to impact
+millions in the northeastern region of the country. They also have a positive demonstration
+effect on the other states in the northeastern region or in the country at large. They may be
+encouraged to pursue similar reforms, e.g., health sector and health insurance related reforms
+undertaken in the Mizoram. The likely gains from the rural cooperatives project could also be
+immense, although it is difficult to say anything at this stage as the program is on hold because
+of pending legislative action (e.g., amending the Banking Regulation Act). Notwithstanding, it is
+assessed that Andhra Pradesh and Maharashtra have registered more progress in improving
+rural cooperatives in comparison to other states. The impact of the Khadi program has yet to
+shape up.
+
+105. Role of non-sovereign operations. ADB's non-sovereign operations have promoted
+the public-private partnerships modality in India through participating in core development
+projects (para. 22). ADB had actively invested in India focusing on energy, transport, and
+industry sectors, but the investment has become stagnant in recent years. However, the
+demand for ADB's non-sovereign operations in India remains strong as the private sector of the
+economy grows rapidly. Therefore, ADB's private sector operations would need to find its role
+to support private sector development more broadly than in the past within the context of ADB's
+lending program. Nonetheless, strategic awareness about this changing pattern was not
+adequately emphasized in the CPS. 51 Given the emphasis of ADB's Strategy 2020 on the role
+of the private sector in ADB-wide operations, and the share of the private sector in India's five
+years plans, a meaningful country operations strategy should straddle this divide. India is an
+appropriate case for introducing this approach, especially as the country operations have made
+in-roads to the private sector through PPPs. Given the significance of the role of the private
+sector in Indian economy, there is a need to build a strategic framework for India operations
+that encompasses synergies between public and private sectors.
+
+G.         Overall Assessment
+
+106. The CPSFR self-assessed the overall performance of ADB operations during the CPS
+period (2009­2012) as successful, with satisfactory strategic positioning, a relevant program,
+and an effective and efficient delivery of outputs and outcomes, and a likely sustainable and
+satisfactory development impact. This validation endorses the ratings of the CPSFR, thus rates
+the overall performance successful, and considers that ADB has successfully achieved its CPS
+objectives through a relevant program. Nonetheless, it should be noted that ADB needs to
+
+51
+     This is not only related to the India CPS. All country operations strategies in ADB are primarily designed from the
+     point of view of public sector operations. This is a legacy practice.
+                                                                                                             27
+
+
+further improve its results orientation to generate greater total development impacts based on
+results targeting and monitoring for achieving its CPS objectives. At the sector level, ADB
+operations in energy and transport sectors have performed well, but agriculture and natural
+resources, water and other municipal infrastructure and services, and finance sectors need to
+improve project implementation efficiencies. The validation's rating is in line with the 2007
+CAPE's performance rating (overall successful). 52
+
+107.       Table 2 summarizes the rating according to the IED's evaluation criteria.
+
+       Table 2: Ratings in India Country Partnership Strategy Final Review and Validation
+     Evaluation Criteria and                                                             Reasons for Rating
+     CPSFR Quality                    CPSFR Ratings           Validation Ratings            Deviations
+     Strategic Positioning         Satisfactory              Satisfactory                      NA
+     Program Relevance             Successful                Relevant                          NA
+     Efficiency                    Successful                Efficient                         NA
+     Effectiveness                 Successful                Effective                         NA
+     Sustainability                Successful                Likely sustainable                NA
+     Development Impacts           Successful                Satisfactory                      NA
+     Overall Rating                Satisfactory              Successful                        NA
+     ADB Performance               Satisfactory              Satisfactory                      NA
+     Borrowers' Performance        Satisfactory              Satisfactory                      NA
+     CPSFR Quality                 NA                        Satisfactory
+     ADB = Asian Development Bank, CPSFR = country partnership strategy final review, NA = not applicable.
+     Source: Independent Evaluation Department.
+
+108. In terms of strategic positioning, the CPS charted out a strategic direction that was
+consistent with the government's plan, particularly the Eleventh Plan. The CPS was also
+consistent with ADB's Strategy 2020 and the overarching goal of poverty reduction. ADB
+operations were designed with an aim to support rapid growth and inclusive development. ADB
+focused about 70% of its operations in the lagging states, and on long-term issues like flood
+control, coastal management, and environmental conservation. Most importantly, it helped
+augment power generation and build roads to enhance connectivity. Given the repetitive nature
+of their activities, the relative performance of energy and transport sector projects has been
+better. They also account for a major share of the portfolio. However, the performance of ANR,
+water and other municipal infrastructure and services, and finance sectors needs to be further
+improved.
+
+109. In terms of program relevance, the ADB program provided during the CPS period was
+relevant and adequate to support the CPS objectives. ADB succeeded in extending financial
+support to India in the order of $2 billion per annum. The highpoint of ADB's operational
+support was that it followed the Finance Plus approach. Among others, innovations included
+the introduction of participatory irrigation management, safeguard policies in the power sector,
+environmental consideration in railway operations, and greening of roads. ADB was successful
+in introducing several innovative features--an approach for inclusive development, PPPs,
+TPRMs, and the Finance Plus approach.
+
+110. ADB identified the PPP modality as a principal device to combine the capabilities of the
+public and private sectors toward the goals of the Eleventh Plan. The approach has much
+
+52
+     The 2007 CAPE assessed ADB's sector and strategic and institutional performance successful, as most ADB
+     assistance helped build much-needed infrastructure and contributed to improving sector policy and the
+     institutional environment.
+28
+
+
+potential for further application, and has already shown significant results in the energy and
+transport sectors. Prominent methods to make PPPs effective in India have included (i) the
+setting up of PPP cells and management information systems in states; (ii) the setting up of a
+cell in the DEA along with a number of financial experts; and (iii) creating a project
+development fund that helps with implementing pilot projects, and establishing advisory panels.
+
+111. However, project implementation in India is challenging as many state and lower level
+bodies do not have exposure to or familiarity with international best practices. This has caused
+some slippages and delays. Project management offices are not staffed or have suffered high
+turnover. Some implementation problems occurred because routine bureaucratic procedures
+were not amenable to mutual cooperation among parties involved, especially with
+nongovernment stakeholders and the private sector. Sector-specific issues have been
+described above (paras. 66­72). Legacy government controls and procedures block synergistic
+responses to the development problems. Hence, the capacity building measures led by the
+resident mission have been widely appreciated, as they bring basic management practices in
+support of the projects. These need to be further expanded. ADB also needs to share its
+experience of other Asian economies with the Indian decision makers, especially in states and
+at lower levels. ADB TA has performed well and has an important role in this regard.
+
+112. Overall, implementation of operations in India has been done well. In terms of contract
+awards and disbursement ratios, the experiences have been better than ADB-wide averages.
+Apart from the transfer of funds, this lends much credence to ADB's efforts to improve its
+operational efficiencies and engenders confidence in ADB's project proposals.
+Notwithstanding, several projects, especially in urban water and sanitation as well as financial
+inclusion, have faced some implementation difficulties. These have been mentioned in the
+relevant sections above (paras. 71 and 72).
+
+113. An important implication of the government's tight aid agency coordination is that it
+leaves little room for development partners to engage in an open-ended reform dialogue. This
+partly follows from the organizational structure in which aid agencies are dovetailed through a
+centralized desk (i.e., DEA) into the government's committed and planned programs. Given
+that the government is keen to improve its economic performance and restore the high growth
+trajectory, there is an opportunity to take the ADB­India relationship a notch higher. There is a
+need for ADB to strengthen its high-level dialogue with the government and support the policy
+reforms at both central and state levels.
+
+H.          Performance of Borrower, Executive Agencies, and Implementing Agencies
+
+114. The government performance in relation to the ADB program is assessed satisfactory.
+The government displays complete ownership of the development agenda as enunciated in
+different five year plans. It holds detailed sector discussions with different stakeholders and the
+private sector. It also factors in the global development thrusts, especially as these relate to
+MDGs, the environment, and climate change; and follows a rights-based approach. As
+mentioned earlier, the Eleventh Plan, to which the CPS mainly related, adopted a growth
+strategy of high and inclusive growth. It monitored progress with the help of predetermined
+indicators in the context of the Eleventh Plan's results framework. Some Indian reports not only
+noted progress in achieving MDG targets but also linked their achievements to different
+programs and activities of the government.53
+
+53
+     Government of India, Ministry of Statistics and Programme Implementation, Central Statistical Organization. 2011.
+     Millennium Development Goals: India Country Report 2011. New Delhi.
+                                                                                               29
+
+
+
+115. The CPSFR notes that the government takes the lead in aid agency coordination and
+that it actively encourages cross-learning among the various development partners. For
+example, the World Bank and ADB regularly attend each others' meetings on portfolio matters,
+sector reviews, and knowledge sharing. The government has also encouraged cofinancing and
+innovative mechanisms to leverage nonsovereign resources. During IED's discussions in the
+field, development partners echoed similar sentiments.
+
+116. The government follows the concept of Finance Plus to ensure that externally funded
+projects provide significant value addition beyond just financing the projects through transfer of
+knowledge, introduction of innovative practices and new approaches, reforms of processes and
+systems, and capacity development. The government screens and reviews requests from
+states and departments proposing new projects based on this approach. These are prioritized
+in a specially set up screening committee on the basis of the needs and alignment of the
+proposals with Indian planning objectives. Subsequently, the government reviews loan
+covenants through loan negotiations and provides counterpart funding.
+
+117. In addition to being a borrower, the central government in India is also a major financier
+of development projects for the state government. Therefore, the role of the central government
+in ADB operations needs to be viewed in a more nuanced manner. State governments and
+local bodies are the executing and implementing agencies in many projects, and are
+responsible for project implementation. In this context, the appointment of state nodal officers
+by the government has been helpful. These officers facilitate the smooth resolution of issues
+that transcend departmental boundaries.
+
+118. Similarly, in a number of cases in India, the private sector is an equal partner in the
+implementation of projects. In this connection, the establishment of PPP cells at the central and
+state levels has helped in undertaking project appraisals, structuring and financing PPP
+projects. These cells also help identify constraints, developing PPP frameworks and policies,
+conceptualizing pipelines, and supervising PPP projects. Reflecting these efforts, the share of
+the private sector in GDP had grown from 77.1% in FY2004 to 79.0% in FY2010.
+
+I.      Perception Survey on ADB's Performance
+
+119. A client and stakeholder perception survey was undertaken in May 2012. The objective
+of the survey was to gather opinions of stakeholders about ADB's responsiveness to India's
+development needs and their suggestions for improving ADB's performance in the next cycle of
+the CPS. The perception survey was conducted through semi-structured questionnaire that
+was sent to a total of 104 clients and stakeholders of ADB selected by IED--mostly central and
+state government organizations spread across various sectors and states of India. A total of 49
+responses was received (47%). These included 40 clients, five think tank members, academics,
+and researchers, and four other aid agencies. Selected findings are listed below (Box 3), while
+the detailed survey results are given in Supplementary Appendix A.
+30
+
+
+
+                     Box 3: ADB Clients and Stakeholders Perception Survey Results
+
+     (i) More than 90% respondents are of the view that Asian Development Bank (ADB) support has
+           been useful both in terms of relevance to the country's development priorities as well as in
+           terms of achievements and impacts in the main sectors supported. Nearly 70% of the
+           respondents (73%) considered ADB support substantial or significant in strengthening
+           institutional capacity and improving governance. The remaining one-fourth felt that it was
+           moderate. Most of the respondents were highly supportive of ADB's sector selection for its
+           operations. More than 90% of the respondents perceive the role of the India Resident Mission
+           to be either "very useful" or "useful." Some respondents provided suggestions for enhancing
+           the role of the resident mission.
+     (ii) About one-third of the respondents identified overly ambitious and complex project designs as
+           a main weakness of ADB operations. Other weaknesses cited related to processes such as
+           the following: "it takes a long time for preparing and processing loan proposals;" "long-winded
+           reports and time-consuming procedures;" "too many levels of decision-making, resulting in
+           delays in completing the procurement process;" etc. Some clients also identified the following
+           as weaknesses: (a) applying common approach to widely different sectors; (b) delay in
+           coordination between various departments at ADB headquarters; (c) lack of follow-up on the
+           agreed changes or improvements with the borrower; (d) rigidity in the approach towards
+           contract management matters, e.g., continuation of contractors even when they are not
+           performing; and (e) overloading of project teams with a number of projects.
+     (iii) Respondents gave specific suggestions for improving ADB operations and for improving
+           coordination with aid agencies and government agencies. They also identified certain sectors
+           (i.e., energy, transport including rural connectivity, water supply, and agriculture) as
+           constraints on Indian economic performance and suggested these as candidates for ADB's
+           consideration in future operations.
+        Source: Independent Evaluation Mission Survey.
+
+
+J.        ADB's Performance
+
+120. ADB's relationship with the borrower and other development partners has evolved into
+one with a high level of trust and mutual dependability. The resident mission's emphasis on
+capacity development and introducing knowledge solutions and innovations in project
+implementation, following the Finance Plus approach, has contributed to this perception.
+However, ADB did not prepare a public and private sector joint strategic framework and could
+not utilize the CPS results framework as a key planning tool as it did not have adequate
+indicators. Also, it was slow in providing adequate staff resources to the resident mission to
+match its rapidly growing role and functions.
+
+121. Given the multilayered character of governance in India, the project processing and
+implementation chain in India is long. Below the ministries, there are a number of departments,
+commissions, and specially set up corporate offices and public enterprises. These
+organizations operate through state governments and local bodies. Their commitments to
+project objectives, as well as their understanding and implementation capabilities, vary across
+organizations. Many of them are simply not familiar with international practices of project
+implementation and ADB's stipulations. Implementing projects in India is a major challenge, as
+governance practices vary across different layers.
+
+122. This is a more binding constraint, as the CPS concentrated nearly 70% of its
+operations in lagging states where executing and implementing agencies have serious
+capacity constraints. ADB took up this challenge and established a comprehensive capacity
+                                                                                              31
+
+
+development program for government officials and staff of executing and implementing
+agencies (para. 84). This contribution is widely acknowledged by the government and
+development partners. Notwithstanding, the problem of implementing projects in remote
+states and locations in India continues to be a major constraint. ADB's strategy to work with
+the private sector, through its emphasis on PPPs set up by the government, is a good long-
+term strategy.
+
+123. ADB has also done well in building a broad consensus among different agencies in
+favor of safeguards, environmental considerations, and greening and conservation policies. A
+number of agencies cited this as value addition by ADB. Taking all of the above into
+consideration, ADB's performance is assessed satisfactory.
+
+K.     Conclusions
+
+124. The CPS was prepared when the Indian economy was on a high growth trajectory,
+following an unprecedented level of performance under the Tenth Plan. However, the
+economic environment was already uncertain and volatile because of the 2008 global
+economic and financial crisis. The CPS design continued to focus on relieving the binding
+constraints--power, roads, railways, and irrigation. During implementation of the CPS,
+however, the government's economic and sector policy reforms were sluggish. Fiscal
+consolidation could not be realized. The fiscal stimulus that was launched in response to the
+global economic and financial crisis yielded a high level of growth but also resulted in
+overheating of the economy. Led by the increasing fuel and commodities prices, including food,
+the domestic inflationary pressure has been high during the last 3 years.
+
+125. ADB's approach attempted to reduce power and transport infrastructure constraints.
+Through PPPs, ADB also encouraged private sector participation in infrastructure
+development. In addition, ADB targeted both short- and long-term solutions. Short-term
+interventions included participatory irrigation and urban water supply and sanitation while long-
+term interventions are best illustrated through infrastructure development, flood control, and
+coastal environment and river basin management. ADB remained focused on inclusive
+development and pursued its limited objectives through engaging in lagging states. Its
+emphasis on constructing rural roads stands out as an important activity, with widespread
+benefits to the poor. Likewise, benefits from participatory irrigation management were geared
+to increase agricultural production and address poverty reduction. ADB also promoted regional
+cooperation, especially through its projects in the northeastern states.
+
+126. As ADB's operational focus moved to lagging states, addressing their weak and uneven
+capacities in implementing and supervising the projects became critical to the success of the
+ADB-financed program. In this regard, the resident mission developed an effective capacity
+development training program for staff of executing and implementing agencies. Further, it
+transformed routine portfolio implementation monitoring meetings into a regular forum that has
+become a valued venue for knowledge sharing and cross-learning. It supported not only
+improvements in implementation but started yielding insights into better design of TA and loan
+projects. Finally, ADB decided to engage in human resource development as it considered skill
+shortages to be an emerging constraint for rapid growth of the Indian economy. These factors
+have contributed to the successful ADB performance. At the same time, this type of work
+requires even more staff resources and expertise than has been already provided, particularly
+at the field level.
+32
+
+
+L.         Lessons and Recommendations
+
+127. Implementation of 2007 CAPE recommendations. The validation reviewed the
+implementation status of the earlier CAPE recommendations. This validation considers that
+ADB registered satisfactory progress toward improving the strategic focus, increasing private
+sector support through PPPs, and increasing responsiveness to client concerns. Nonetheless,
+ADB needs to improve the quality of nonlending services in the form of quality economic and
+sector works and policy dialogue. The following measures identified for ADB in the CAPE 2007
+need to be strengthened: (i) build ADB's strong knowledge base and expertise in core areas of
+support and engage with the government in policy discussions at appropriate times, and
+(ii) undertake dialogue regularly with government's senior officials on policy and operational
+issues.
+
+128. Lessons identified. The CPSFR identifies a number of lessons. Among others, it
+recommends to build on the existing strategy of inclusion through human resource
+development, further greening of the program, and promoting regional cooperation. The
+CPSFR acknowledges that it needs to do more to be able to deliver on the government's
+Finance Plus approach.54 This validation supports underlying rationale of these lessons.
+
+129. Recommendations. Following the lessons identified, the CPS recommends more
+specific actions to be taken in the new CPS that aim to improve ADB's performance in each of
+the six evaluation criteria. This validation considers that these specific recommendations are
+valid and useful. Building on the foregoing discussion and the recommendations of the CAPE
+2007, this validation adds the following cross-cutting recommendations for consideration during
+the new CPS.
+
+130. Strengthen policy dialogue and direct engagement, particularly at state level, for
+better strategic programming. ADB needs to strengthen strategic programming discussions
+directly with state governments, and improve strategic dialogue on this front. This is because
+(i) state governments are the primary agency for implementing development programs;
+(ii) states differ significantly from each other in size, geography, population, infrastructure,
+economic levels, and facilities--necessitating development interventions to be localized;
+(iii) states' commitment to policy emphases also varies; (iv) states may not develop the same
+degree of enthusiasm, ownership, and commitment to implement programs they have not
+conceived and designed themselves; and midcourse corrections would be more appropriate
+and easier if the state were involved in the program from the beginning; and (v) although states
+are given access to centrally funded programs, their inclusion often takes place long after a
+broad program design has been fixed at the national level--leaving only the detailed design of
+the program to states to suit their particular needs (paras. 44, 128 [ii]).
+
+131. In this regard, ADB can consider the following options. First, once a program has been
+cleared with the central authorities (i.e., DEA), further feasibility studies may be prepared for
+each state in which the program is to be implemented. Such feasibility reports should not only
+adapt the centrally determined core design of the program but should also factor in the state-
+specific variations and institutional issues. The studies should identify optional features that
+could be included or excluded from the main design to suit the state level situation better. This
+would help catalyze beneficial linkages with the local environment. Second, ADB's
+programming functions could be strengthened by linking ADB programs with the state
+
+
+54
+     Other recommendations of the CPSFR are given on pp. 31­34, paras 148­161.
+                                                                                              33
+
+
+governments' planning process, especially for weakly performing states (e.g., the northeast
+states where ADB operates).
+
+132.     Enhance synergies and impact by better linking outputs to outcomes through
+sustained partnerships. ADB's India program is small (less than 1%), compared to the
+national gross investment. As such, close partnerships with government, other development
+partners, and the private sector in designing ADB's projects are particularly important to
+generate synergies and increase the outcomes from ADB operations in India. This is because
+both the line ministries and departments, as well as ADB, are organized on sectoral lines and
+their operations tend to be on a sectoral basis, lacking cross-sectoral coordination within ADB
+or with other development partners. ADB needs to ensure that cross-sectoral issues (e.g.,
+liking road projects with social services and agricultural sector programs) are addressed in a
+more strategic manner to support the objectives of more inclusive and environmentally
+sustainable growth (para. 99).
+
+133. In this regard, ADB needs to ensure that cross-sectoral issues (e.g., liking road projects
+with social services and agricultural sector programs and linking finance sector projects with
+small industry development) be addressed in a more strategic manner at the country level
+through the CPS. ADB can consider (i) putting results and outcome orientation at the forefront
+and analyzing (through a problem tree analysis) the constraining elements that need to be
+ameliorated or eliminated; (ii) guiding sector analysis and sector road maps by achievement of
+outcomes as the main concern; and (iii) identifying target groups and broader multidisciplinary
+teams and partners for ADB to work with for such operations.
+
+134. Increase ADB staff resources at the field level to engage better with lagging
+states and augment resources for technical work to deliver innovative solutions and to
+stay abreast of client requirements. The resident mission has been given more than double
+the number of delegated projects since 2009, while the corresponding increase in the staff
+resources remained slow, causing substantial overstretching of staff resources. In addition,
+often ADB staff have to interact with knowledgeable civil service officials and have policy
+related discussions and/or decisions with technical professionals and academics serving on
+government committees and boards. Such expanded and policy level engagement should be
+backed by adequate technical work and expertise from ADB. These considerations are
+particularly important when designing PPPs in different sectors and dealing with sector policy
+reforms (especially in fiscal management, power distribution, and urban development); cutting-
+edge technologies (solar and wind power, etc.); ultra-mega power projects; and river basin or
+coastal management. In this regard, ADB needs to (i) maintain a pool of ADB's top-end sector
+professionals (either ADB staff or long-term consultants) who have an aptitude for problem
+solving in such positions; (ii) identify and groom national officers and rotate them through the
+region to enhance their regional exposure in the resident mission; and (iii) develop case studies
+documenting knowledge solution episodes to be used for capacity development in ADB as well
+as in executing agencies (paras. 64, 127, 128 [i] and [ii]).
+
+135. Prepare an integrated strategic framework to synergize ADB's public­private
+sector operations in India. As the private sector's role in India's economic development is
+growing fast and becoming more diverse, ADB's CPS positioning should be broad-based,
+understanding the role of private sector and its complementarities with the public sector to find
+their implications for ADB interventions. Currently, the CPS is largely public sector-oriented.
+Based on a joint public and private sector strategic framework that ensures synergies and
+greater impact, ADB should develop suitable roles for ADB's private sector development and
+private sector operations. To this end, ADB needs to strengthen its analytical work on various
+34
+
+
+issues linking public-private sector at different levels and prepare a combined strategic
+framework, a road map, and action plans for future country operations in India (para. 105).
+
+136.     Improve monitoring of the CPS results framework based on sharper objectives
+and tracking of development impact and sustainability. The CPS, as well as the CPSFR,
+was weak in providing sharp objectives and monitorable indicators in its results framework. The
+design quality of the next CPS results framework should be significantly improved to help
+monitor implementation of its various objectives for achieving greater impact and sustainability.
+In addition, at the individual project level, indictors that facilitate evaluability need to be
+foreseen early in the project cycle; as a project evolves, parallel analytical understanding of this
+development needs to be made in terms of the variables that capture this development. The
+project's rationale, objective, and design collectively need to be related to the variables and
+indicators that capture those intentions. In the Indian case, this results orientation is noted by
+the government's Finance Plus approach--adopted to generate better outcomes from
+externally financed projects. ADB should develop improved results monitoring in its projects to
+prove greater additionality from them under this approach (paras. 128 [iii], 137).
+
+
+           III.    ASSESSMENT OF THE QUALITY OF THE CPS FINAL REVIEW
+
+137. Quality of the final report. The quality of the CPSFR is satisfactory. It is well written. It
+understood evaluation criteria and presents its arguments logically and coherently. However, it
+did not provide sufficient evidence to substantiate its arguments on results in terms of
+outcomes and did not use the CPS results framework to track progress. Evidence was
+provided for certain sectors like energy, but it is missing from other sectors. The CPSFR could
+have been used as an opportunity to showcase the achievements of one of ADB's biggest
+borrowing countries, but it had a limitation in doing so, having only a few project completion
+reviews done. A major gap is the absence of a discussion on the results framework The
+CPSFR mentions impact studies under some projects (e.g., rural roads and the Chhattisgarh
+irrigation project), but the number of such impact studies used in the report is too few, failing to
+demonstrate some generalized impacts. The CPSFR also shies away from explaining why
+certain projects like Khadi reform and Uttarakhand power are not doing well.
+                                                                                 Appendix 1   35
+
+                     INDIA COUNTRY PARTNERSHIP STRATEGY FINAL REVIEW
+                  INDIA COUNTRY PARTNERSHIP  STRATEGY FINAL REVIEW
+                                    (LINKED DOCUMENT)
+                  http://www.adb.org/sites/default/files/ind-cpsfrv-2009-2012-app1.pdf
+                                    (LINKED DOCUMENT)
+     1.      Supplementary Country Strategy and Program Final Review: India, 2009­2012
+
+      http://www.adb.org/sites/default/files/linked-documents/ind-cpsfrv-2009-2012-app1.pdf
+
+1.        India Country Partnership Strategy Final Review
+36   Appendix 2
+
+
+                  INDIA COUNTRY      COUNTRY ECONOMIC
+                               INDIAPARTNERSHIP         STRATEGY INDICATORS
+                                                                     FINAL REVIEW
+                                          (LINKED DOCUMENT)
+                    http://www.adb.org/sites/default/files/ind-cpsfrv-2009-2012-app2.pdf
+                                      (LINKED DOCUMENT)
+     2.      India Country Economic Indicators, 2002­2011
+      http://www.adb.org/sites/default/files/linked-documents/ind-cpsfrv-2009-2012-app2.pdf
+
+     2. India Country Economic Indicators, 2002­2011
+                                                                                  Appendix 3   37
+
+                INDIA COUNTRY      PUBLIC SECTOR
+                              ADBPARTNERSHIP             LOANS TO
+                                                      STRATEGY       INDIA
+                                                                   FINAL  REVIEW
+                                        (LINKED DOCUMENT)
+                  http://www.adb.org/sites/default/files/ind-cpsfrv-2009-2012-app3.pdf
+                                    (LINKED DOCUMENT)
+
+     3.      ADB Public Sector Loans to India, 1986-2012
+      http://www.adb.org/sites/default/files/linked-documents/ind-cpsfrv-2009-2012-app3.pdf
+
+3.      ADB Public Sector Loans to India, 1986­2012
+38        Appendix 4
+
+                       ADB NONSOVEREIGN OPERATIONS PROJECTS IN INDIA
+                  INDIA COUNTRY PARTNERSHIP             STRATEGY FINAL REVIEW
+                                          (LINKED DOCUMENT)
+                    http://www.adb.org/sites/default/files/ind-cpsfrv-2009-2012-app4.pdf
+                                   (LINKED DOCUMENT)
+     4.       ADB Nonsovereign Operations Projects in India, 1987-2011
+
+      http://www.adb.org/sites/default/files/linked-documents/ind-cpsfrv-2009-2012-app4.pdf
+
+4.        ADB Nonsovereign Operations Projects in India, 1987­2011
+                                                                                 Appendix 5   39
+
+               INDIA COUNTRY PARTNERSHIP STRATEGY FINAL REVIEW
+                     ADB TECHNICAL ASSISTANCE TO INDIA, 1986-2012
+                                       (LINKED DOCUMENT)
+                                   (LINKED    DOCUMENT)
+                 http://www.adb.org/sites/default/files/ind-cpsfrv-2009-2012-app5.pdf
+
+    5.     ADB Technical Assistance to India, 1986-2012
+http://www.adb.org/sites/default/files/linked-documents/ind-cpsfrv-2009-2012-app5.pdf
+
+5.     ADB Technical Assistance to India, 1986­2012
+40       Appendix 6
+
+                          ADB ECONOMIC
+                INDIA COUNTRY     PARTNERSHIPAND SOCIAL
+                                                      STRATEGYWORKS    IN INDIA
+                                                                   FINAL   REVIEW
+                                         (LINKED DOCUMENT)
+                  http://www.adb.org/sites/default/files/ind-cpsfrv-2009-2012-app6.pdf
+                                    (LINKED DOCUMENT)
+     6.      ADB Economic and Social Works in India
+      http://www.adb.org/sites/default/files/linked-documents/ind-cpsfrv-2009-2012-app6.pdf
+
+
+6.      ADB Economic and Sector Works in India
+

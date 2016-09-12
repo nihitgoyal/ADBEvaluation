@@ -1,0 +1,625 @@
+Validation Report
+
+
+
+Reference Number: PVR-299
+Project Number: 23241
+Loan Number: 1556 and 1557
+December 2013
+
+
+
+
+India: Mumbai and Chennai Ports Project
+
+
+
+
+Independent Evaluation Department
+                                        ABBREVIATIONS
+
+                   ADB       -   Asian Development Bank
+                   CHPT      -   Chennai Port Trust
+                   CPS       ­   Country Partnership Strategy
+                   EIRR      -   economic internal rate of return
+                   FIRR      -   financial internal rate of return
+                   MBPT      -   Mumbai Port Trust
+                   MOST      -   Ministry of Surface Transport
+                   MOT       -   marine oil terminal
+                   PCR       -   project completion report
+                   PIO       -   Project Implementation Office
+                   PSP       -   private sector participation
+                   TA        -   technical assistance
+                   TEU       -   twenty-foot equivalent unit
+
+
+                                               NOTE
+
+                              In this report, "$" refers to US dollars.
+
+
+
+                                           Key Words
+
+adb, asian development bank, chennai, container-handling equipment, demurrage, independent
+evaluation department, india, mumbai, ports, port operation, project completion report, sea
+transport, shipping costs, technical assistance, validation
+
+
+
+The guidelines formally adopted by the Independent Evaluation Department (IED) on avoiding
+conflict of interest in its independent evaluations were observed in the preparation of this report.
+To the knowledge of IED management, there were no conflicts of interest of the persons
+preparing, reviewing, or approving this report.
+
+In preparing any evaluation report, or by making any designation of or reference to a particular
+territory or geographic area in this document, IED does not intend to make any judgments as to
+the legal or other status of any territory or area.
+                                       PROJECT BASIC DATA
+Project Number:        23241             PCR Circulation Date:            Nov 2011
+Loan Numbers:          1556 and 1557     PCR Validation Date:             Dec 2013
+Project Name:          Mumbai and Chennai Ports Project
+Country:               India                                               Approved           Actual
+                                                                           ($ million)      ($ million)
+Sector:                Transport and ICT      Total Project Costs:           245.00           235.58
+ADB Financing:         ADF: 0.00              Loan:                          113.00            47.93
+($ million)                                                      1556         97.80            43.42
+                                                                 1557         15.20             4.51
+                                              Borrower:                        0.00             0.00
+
+                       OCR:                   Beneficiaries:                    0.00            0.00
+                          97.80 (1556)        Others:
+                          15.20 (1557)             MPBT                       55.30           73.76
+                                                   CHPT                       39.90           17.34
+                                                    Private sector            36.80           96.55
+Cofinancier:                                  Total Cofinancing:               0.00            0.00
+Approval Date:         29 Sep 1997            Effectiveness Date:
+                                                   Mumbai Port (1556)     24 Dec 1998       6 Jan 1999
+                                                   Chennai Port (1557)    24 Dec 1998      23 Feb 1999
+Signing Date:          25 Sep 1998            Closing Date:
+                                                   Mumbai Port (1556)     30 Sep 2003       1 Jun 2001
+                                                   Chennai Port (1557)    30 Mar 2003      11 Sep 2002
+Project Officers:                             Location:                      From:              To:
+                       U. Witulski            ADB headquarters             Dec 1998          Nov 1999
+                       M. Mizutani            ADB headquarters             Dec 2000          May 2001
+                       P. Dutt                ADB headquarters              Jun 2001         Nov 2001
+                       P. Pattison            INRM                         Dec 2001          May 2002
+                       T. Kandiah             INRM                          Jun 2002         Aug 2002
+                       A. Motwani             INRM                         Sep 2002          Dec 2002
+Validator:             J. Supangco,           Peer Reviewer:              F. D. De Guzman,
+                          Consultant                                         Evaluation Officer, IED2
+Quality Reviewers:     C. Kim, Principal      Director:                   H. Hettige, IED2
+                          Evaluation
+                          Specialist, IED2
+                       R. Vasudevan
+                          Evaluation
+                          Specialist, IED1
+ADB = Asian Development Bank; ADF = Asian Development Fund; CHPT = Chennai Port Trust; ICT = information
+and communication technology; IED1 = Independent Evaluation Department, Division 1; IED2 = Independent
+Evaluation Department, Division 2; INRM = India Resident Mission; MPBT = Mumbai Port Trust; OCR = ordinary
+capital resources; PCR = project completion report.
+
+                                  I.       PROJECT DESCRIPTION
+
+A.      Rationale
+
+1.      In the early 1990s, considerable progress was made in India in loosening up
+government regulations, especially in the area of foreign trade where export-driven growth was
+emphasized. Many restrictions on private companies were lifted and new areas were opened
+to private capital. Even with these changes, India remained one of the world's most tightly
+regulated major economies as powerful vested interests--including private firms benefiting
+2
+
+
+from protectionism, labor unions, and much of the bureaucracy--opposed liberalization. There
+was considerable concern that liberalization would reinforce class and regional economic
+disparities.
+
+2.      The expected growth in foreign trade would require adequate transport infrastructure,
+including ports, to cope with the forecast growth in demand. Combined with the increased
+prevalence of containerized cargoes, the port infrastructure, which is old and lacks appropriate
+cargo-handling equipment and technical skills to operate modern and efficient facilities, would
+require modernization, new investments, and improvements in productivity. As the government
+could not provide adequate budget support for port investments, it considered alternative
+means of increasing capacity, such as build-operate-transfer, for developing new port facilities
+or managing ports to improve performance.
+
+3.      At Mumbai port, the submarine pipelines of the marine oil terminal (MOT) were more
+than 40 years old, had passed their safe economic life, and could have failed at any time with
+disastrous economic and environmental consequences. With the constrained throughput, MOT
+was operating at a level that resulted in long and costly vessel waiting times for ships at
+anchorage. Vessel average waiting time at berth had increased slightly from 2.4 days in 1989
+to 2.6 days in 1997, but waiting time at anchorage during the same period had increase
+substantially from 0.7 to 2.1 days. Further congestion would lead to vessel diversion to other
+ports. Demurrage on import product tankers in MOT rose between Rs87 per ton in fiscal year
+(FY) 1993 to Rs92 per ton in 1994, while those in other ports decreased. Thus, modernization
+of the facility was required as a matter of urgency.1
+
+4.      At Chennai Port, which is the gateway for container traffic on India's east coast, the
+Asian Development Bank (ADB) had provided financial support to create the country's first
+modern container handling facility. 2 Both container and general cargo berths required
+structural improvements and the container yard needed to be expanded as the government
+expected containerized traffic to triple to 64 million tons by FY2002. Productivity at many ports
+in India was low compared to international standards, such as the already best-equipped port
+of Chennai with about 12 twenty-foot equivalent units (TEUs) per vessel hour compared with
+30 TEUs in Colombo, 40 TEUs in Bangkok, and over 60 TEUs in Singapore. To augment
+capacity at India's ports, the government needed to (i) intensify utilization of existing
+infrastructure by improving operation and management; (ii) expand facilities to handle at least
+50% of general cargo in containers; (iii) modernize and rehabilitate the existing port facilities
+and use modern technology to improve the efficiency of operations; (iv) improve the
+productivity of labor and equipment; and (v) obtain alternative financing sources for port
+development, such as private sector participation (PSP) in selected port activities.
+
+B.      Expected Impact
+
+5.     The expected impact of the project was improved economic growth in the hinterland
+areas of Mumbai and Chennai ports through reduced total sea transport costs. Another
+envisaged impact was increased capacity and enhanced port productivity for both ports to help
+lower the cost of transporting imported commodities and decrease shipping costs for exports.
+Envisaged impact indicators were reduced total sea transport costs in the hinterland of Mumbai
+and Chennai ports and increased port capacity and traffic.
+1
+  ADB.1997. Report and Recommendation of the President to the Board of Directors: Proposed Loans to the Board of
+  Trustees of Mumbai Port Trust and Chennai Port Trust and Technical Assistance Grant to India for the Mumbai and
+  Chennai Ports Project. Manila.
+2
+  ADB. 1996. Project Performance Audit Report on the Ports Development Project in India. Manila.
+                                                                                                                  3
+
+
+C.        Objectives or Expected Outcomes
+
+6.      The project outcome statements indicated in the project frameworks of the report and
+recommendation of the President (footnote 1), also reproduced in the project completion report
+(PCR),3 referred to project outputs such as submerged oil pipelines replaced and oil jetties
+modernized in Mumbai port; and container terminal expanded and operated by PSP, including
+rehabilitation and upgrading of the inner harbor in Chennai Port. Thus, this validation adjusted
+the existing outcome statements, based on the information provided in Appendix 10 of the
+PCR and recent data (para. 19).
+
+7.       For Mumbai Port, the recommended expected outcomes were increased ship calls and
+savings in ship waiting time at anchorage and added berth through faster unloading of oil
+cargo with the increased capacity and utilization of the new oil pipelines and modernized oil
+jetties. The savings were to be passed on to shippers through the removal of demurrage on
+import product tankers (para. 3) and lower costs of oil products. In addition, environmental
+risks would be significantly reduced by the modern facilities. Fire and explosion hazards were
+to be reduced significantly, ecological damage avoided, and livelihood of fisher folks improved.
+
+8.      For Chennai Port, the recommended expected outcomes were likewise similar. 4
+Additionally, with PSP providing container handling equipment and terminal operation, it was
+expected that container handling productivity would improve significantly to levels achieved in
+other international ports such as Colombo and Bangkok. Dredging at Inner Harbor was to
+improve safety in vessel operations, contribute to the decrease in waiting time at anchorage,
+and allow bigger vessels to call at the port. For either ports, no targets were given in the
+project framework on the reduction in ship waiting time at anchorage and berth, and
+improvement in container handling productivity.
+D.        Components and Outputs
+
+9.       For the Mumbai Port project, the outputs envisaged at appraisal included the
+(i) replacement of seven submarine pipelines with five new lines between Pir Pau and Butcher
+Island; (ii) upgrading of three oil berths, including repair of damaged structures and
+modernization of firefighting, safety, and transfer facilities; and (iii) replacement of loading arms
+and support and the onshore service pipeline system. At completion, the following were
+achieved: (i) modernization of the MOT-Jawahar Deep berths 1, 2, and 3 and their associated
+facilities; (ii) replacement of the outdated submarine pipelines between the berths and Pir Pav
+manifold; and (iii) construction of an onshore pipeline connecting Pir Pav manifold with the
+marketing and storage terminals located at Sewere and Vadala (footnote 3).
+
+10.      For the Chennai Port project, outputs envisaged at appraisal included the (i) extension of
+the container berth, expansion of the container yard, and upgrading of existing berths;
+(ii) provision for cargo-handling equipment;5 (iii) rehabilitation of existing berths and dredging at
+Inner Harbor; and (iv) provision of safety equipment. At completion, the following were achieved:
+(i) extension of the existing berth by 285 meters, and (ii) modernization of all other support
+facilities and related container-handling equipment. The private sector concessionaire also
+
+
+3
+    ADB. 2011. Completion Report: Mumbai and Chennai Ports Project in India. Manila.
+4
+    The difference was for the Chennai Port, higher capacity of the container terminal was used instead of increased
+    capacity and utilization of the new oil pipelines and modernized oil jetties.
+5
+    To operate the container terminal, cargo handling equipment was to be provided separately by a private sector
+    party. It was to be selected by the Chennai Port Trust (CHPT) using competitive bidding procedures.
+4
+
+
+developed other associated facilities and equipment and made further investments to
+accommodate increased traffic (footnote 3).
+
+E.        Provision of Inputs
+
+11.     The project cost was estimated at $245.0 million with $150.5 million (61%) in foreign
+exchange cost (including $13.5 million for interest during construction) and $94.5 million (39%)
+in local currency cost. ADB provided two loans to the two ports totaling $113 million. The loans
+were guaranteed by the Government of India. The cost for the Mumbai Port project was
+estimated at Rs5.4 billion ($153.1 million equivalent). The loan amount was $97.8 million and
+the Mumbai Port Trust (MBPT) was to finance the remaining $55.3 million. The cost for the
+Chennai Port project was estimated at Rs3.2 billion ($91.9 million equivalent). The loan amount
+was $15.2 million. A private sector party, to be selected by CHPT, was to finance the foreign
+exchange cost of $28 million and local currency cost of $8.8 million equivalent for the cargo-
+handling equipment, with CHPT financing the remaining $39.9 million.
+
+12.     Of the completion cost of $235.58 million, $96.55 million was funded by the private
+sector, $73.76 million by MBPT, $17.34 million by CHPT, and $47.93 million by ADB. At an
+advanced stage of implementation, MBPT and CHPT decided to close the loan and undertook
+the completion of the project with their own funds. The undisbursed loan amount was canceled
+and the disbursed amount prepaid. The PCR pointed out that the cancellation and prepayment
+were triggered by the reduction of interest rates in domestic financial markets, exchange rate
+movements, and improved financial positions of MBPT and CHPT (footnote 3).
+
+F.        Implementation Arrangements
+
+13.     The implementation arrangements were as envisaged at appraisal. The borrowers--
+MBPT and CHPT--were also the executing agencies responsible for the respective loans. As
+required under the loan, the Project Implementation Office (PIO) for the Mumbai Ports project
+was established on 1 July 1997 and was headed by a deputy chief engineer. The PIO for the
+Chennai Port project was established with the redeployment of existing staff and was headed
+by a chief engineer and project director. There were two sets of loan covenants under the
+project. The government and the executing agencies generally complied with the respective
+loan covenants even after the loan cancellation and prepayment in 2001 (Mumbai) and 2002
+(Chennai).6
+
+G.        Related Technical Assistance
+
+14.     An advisory TA was processed with the project to operationalize the government's port
+policy reform initiatives pertaining to the enhancement of port commercialization and
+introduction of corporatization policy, issuance of policies and guidelines for PSP, and
+implementation of cost-based tariffs in major ports by establishing the Tariff Authority for Major
+Ports (footnote 1). The executing agency for the TA component was the Ministry of Surface
+Transport (MOST). The MBPT, CHPT, the Jawaharlal Nehru Port Trust, and the Tariff Authority
+for Major Ports were the implementing agencies. Consultants were fielded in September 1998
+and the TA component was completed in September 2001. The TA completion report was
+circulated in September 2001. The completion report assessed that the TA component was
+successfully implemented, within budget, and without any major problems. The TA component
+achieved its objectives and was rated generally successful (PCR, Appendix 8).
+
+6
+    These dates are based on PCR basic data regarding "cancellation on closure."
+                                                                                                                 5
+
+
+                      II.      EVALUATION OF PERFORMANCE AND RATINGS
+
+A.        Relevance of Design and Formulation
+
+15.     The PCR rated the project highly relevant based on its consistency with the
+government's overall development objectives. It noted that the upgraded components at the
+two ports were the logical next step to complement the facilities created by an earlier ADB
+support,7 averted the risk of environmental damage to the harbor from a possible failure of the
+old submarine pipelines in Mumbai Port, and helped turn Chennai Port into a clean cargo port
+since the coal and hazardous cargo was moved to the Ennore Port, about 20 kilometers north
+of Chennai. The government and the port trusts advanced the commercialization of ports and
+enhancement of PSP, which were the government's major policy initiatives in development,
+capacity augmentation, and operation of ports.
+
+16.      This validation notes that the government's development strategy, as set out in the
+Eighth Five Year Plan covering 1992 to 1997, included, among others, (i) encouraging high
+levels of capacity utilization to raise productivity and cost efficiency, (ii) attracting private
+initiative by reducing the government's regulatory controls, and (iii) reforming the public
+enterprise sector. The growing infrastructure constraints in India underscored the need to
+attract PSP in infrastructure development. In the ports subsector, the policy and regulatory
+framework was evolving to privatize or lease selected port operations. Furthermore, there was
+a need to increase autonomy of the major port trusts to promote and establish companies or
+joint ventures and grant them greater administrative and financial autonomy to manage their
+operations with the objective of eventually corporatizing them.
+
+17.      Under the country operational strategy for India published in 19968 and consistent with
+the ADB's development strategy and policy reforms and priorities in the Medium-Term
+Strategic Framework, the overall strategic emphasis was to provide support to, among others,
+promoting competition and private sector development. The ports subsector had great
+potential to develop projects with closer cooperation and risk sharing between the private and
+public sector. The emphasis of ADB was to support (i) policy reforms to improve the operations
+and efficiency of ports and their capacity to involve the private sector, (ii) the private sector to
+develop new port facilities; (iii) privatization and commercialization of most of the existing
+facilities of ports; and (iv) rehabilitation, modernization, and upgrading of the existing ports to
+improve their productivity and utilization.
+18.     This validation notes that the project design was well prepared. However, the traffic
+forecast during appraisal proved inaccurate.9 For the MOST, the increased capacity of the new
+submerged pipelines was not utilized as the proposed refinery expansion project--the source
+of the expected growth in crude oil shipments--was cancelled. In Chennai Port, the increase
+in container traffic was significantly higher than forecast. The terminal concessionaire had to
+construct additional facilities to accommodate the increased container throughput. This could
+have been caused by a number of factors, such as the higher containerization rate, or the shift
+
+
+7
+     ADB.1996. Project Performance Audit Report on the Ports Development Project. Manila; ADB. 2001. Project
+    Performance Audit Report on the Second Ports Project. Manila; and ADB. 1987. Report and Recommendation of
+    the President to the Board of Directors: Proposed Loan to India for the Ports Development Project. Manila.
+8
+    ADB. 1996. Country Operational Strategy Study India. Manila.
+9
+    IED had also noted "overly optimistic" traffic forecasts in 2001 in the Project Performance Audit Report on the
+    Second Ports Project (Loan 1016-IND). A more recent review of ports in India is available in Independent
+    Evaluation Department. 2007. Transport Sector in India--Focusing on Results. Manila: ADB (Appendix 2).
+6
+
+
+from general to container cargo, or higher import growth. On the whole, this validation rates
+the project relevant.10
+
+B.      Effectiveness in Achieving Project Outcomes
+
+19.     The PCR rated the project effective. The project achieved its primary objective of
+rehabilitating and reconstructing port facilities by modernizing outdated liquid cargo-handling
+systems and eliminating the possibility of failure of the oil pipelines at Mumbai Port, and
+expanding the existing port facilities to increase cargo-handling capacity for containers and
+other general cargo at Chennai Port.
+
+20.      To determine whether the project was effective in achieving outcomes, the validation
+utilized PCR data and collected recent data on ship calls and cargo throughputs at both Mumbai
+and Chennai ports to measure traffic growth. For the Chennai Port project, the container port
+was privatized in 2001 and the concessionaire took over and commenced operations in the
+same year. At appraisal in FY1997, the port had handled 256,500 TEUs and had reached 1.15
+million TEUs in 2011.The terminal entered the one-million TEU club in 2007. This validation
+estimates a container traffic growth rate of 11.3% per annum from FY1997 to FY2011, higher
+than the 9% estimated at appraisal. This validation estimates a 6.85% annual growth rate in
+break bulk traffic from FY1997 to FY2011, which is within the 5%­9% per annum assumed at
+appraisal. In terms of ship waiting time at anchorage, this declined substantially from 1.8 days in
+FY1997 to 1.07 hours by FY2011.11
+
+21.    For the Mumbai Port project, the MOT handled imported crude for the refineries, the
+coastal movement of crude for the Oil and Natural Gas Commission, and the export of products
+from the refineries and import of products for marketing in the hinterland by the refining
+companies. The refining capacity expansion that was projected at appraisal did not materialize
+and as a consequence the traffic mix has changed more toward products rather than crude.
+While crude oil throughput declined from FY1997 to 2011, other products throughput increased
+by 1.8% per annum, which is lower than the 2.8% per annum estimated at appraisal. In terms of
+ship waiting time at anchorage, this declined from 2.1 days in FY1997 to 0.48 days by FY2011.
+For average time spent at berth, this declined from 2.6 days in FY1997 to 1.48 days by
+FY2011.12 Based on the cargo traffic volume handled and the decline in average time spent at
+berth and at anchorage, this validation rates the project effective in achieving project outcomes.
+
+C.      Efficiency of Resource Use in Achieving Outputs and Outcomes
+
+22.     The PCR rated the project efficient. It observed that the project generated its intended
+benefits of (i) cost savings through reduction in vessel turnaround time inclusive of ship waiting
+and service times, and (ii) avoidance of diversion to other facilities. Handling costs at these
+ports have also been reduced. For the Mumbai Port project, the imminent danger of oil spills
+caused by 40-year-old pipelines was reduced.
+
+23.     For the Mumbai Port project, the economic and financial reevaluations were carried out
+at the time of PCR preparation. The recomputed economic internal rate of return (EIRR) was
+15.1%, lower than the appraisal estimate of 18%.
+24.      For the Chennai Port project, economic reevaluation was carried out for the Inner
+Harbor and for the container terminal. As envisaged at appraisal, CHPT awarded the
+10
+   The concerned regional department expressed the view to maintain the highly relevant rating in the PCR.
+11
+   www.dpworldchennai.com
+12
+   www.mumbaiport.gov.in
+                                                                                                    7
+
+
+concession to the private sector in 2001 for providing container-handling equipment and for
+the operation of the container terminal. The EIRR for the container terminal was computed at
+22.3% compared with the appraisal estimate of 19.8%.
+
+25.     The EIRR for the Inner Harbor was recomputed at 22.3% compared with the appraisal
+estimate of 13.8%. This validation finds the methodology used at appraisal and by the PCR to
+be valid. Based on the above findings, this validation rates the project efficient, the same as
+the PCR.
+
+D.     Preliminary Assessment of Sustainability
+
+26.    The PCR rated the project's sustainability likely. While it noted that the government and
+the port trusts still needed to address adequate port infrastructure and connectivity, high cost,
+labor inefficiencies, and obsolete equipment to be at par with international standards,
+expansion projects were already either being planned or implemented. The financial
+performance of the ports had improved and the government had undertaken policy initiatives
+for PSP in port development and operations.
+
+27.     This validation notes that the Chennai Port concessionaire had significantly improved
+cargo-handling productivity resulting in shorter vessel turnaround time and increased container
+movements. Increased container traffic growth necessitated additional investments from the
+concessionaire to increase port capacity. The higher financial performance as reflected in the
+recomputed financial internal rate of return (32% versus 16%) at PCR supports the view that
+the port is generating sufficient financial returns to ensure sustainability.
+
+28.     For Mumbai Port, this validation notes that while crude oil traffic had declined below
+forecast, growth in the import of products such as petroleum, oil, and lubricants and other
+products have increased, albeit slowly. With the new pipelines and accessories and state-of-
+the-art safety equipment, the project objective of mitigating environmental disaster has been
+attained. The lower recomputed financial internal rate of return of 5% from the appraisal
+estimate of 8% still shows that the port is financially capable to maintain and operate the
+pipelines. Based on the above discussions, this validation also considers the project likely to
+be sustainable.
+
+E.     Impact
+
+29.    The PCR did not rate the impact of the project. The appraisal document and PCR did not
+provide data on the expected socioeconomic impact of the project. On environmental impact,
+the project did not require an environmental impact assessment since it was intended to
+introduce environmental improvements at Mumbai and Chennai ports. The replacement of the
+submarine oil pipelines at Mumbai Port had prevented potential leakages. Through
+modernization of the oil jetties and loading and unloading facilities, accidents from oil tankers
+and ships carrying and unloading hazardous and toxic chemicals were avoided resulting in
+improved operating conditions at the port (footnote 3). Given the time lag in the preparation of
+the PCR, the likely sustainability of the project is already actualized.
+
+30.    At Chennai Port, the project, together with the coal ports project, helped shift coal cargo
+to Ennore Port and transformed Chennai Port into a clean port. The coal cargo at Chennai Port
+used to substantially pollute air in the city of Chennai. The project's positive environmental
+impacts far outweigh the negative impacts, if any.
+8
+
+
+31.     This validation considers that the improved port productivity at both Mumbai and
+Chennai would have resulted in lower shipping costs, removal of demurrage, enhanced
+competitiveness of India's exports, and lower prices of commodities. At appraisal, it was agreed
+that MBPT and CHPT would monitor, to the extent possible, other tangible benefits directly or
+indirectly attributable to the project, such as employment creation within the port hinterland, new
+ancillary industries attracted to the port area or its hinterlands, and environmental benefits
+arising from pollution-reducing operations at the port. No information on these was provided in
+the PCR. Based on the above factors, this validation rates the impact of the project significant.
+
+                       III.   OTHER PERFORMANCE ASSESSMENTS
+
+A.     Performance of the Borrower and Executing Agency
+
+32.    The PCR did not rate the performance of MBPT, CHPT, the borrowers, and executing
+agencies for the project. The PCR observed that the PIOs were set up as per appraisal in a
+timely manner. Procurement activities were, however, delayed resulting in delayed award of
+contracts. The executing agencies complied with the loan covenants during project
+implementation. Cooperation of the officials and staff from MOST, the executing agency for the
+TA component, contributed to its successful implementation.
+
+33.   Based on the assessment of the performances of MBPT and CHPT in the
+implementation of their project components, this validation rates their performance satisfactory.
+
+B.     Performance of the Asian Development Bank
+
+34.      The PCR rated the performance of ADB satisfactory. The PCR noted that ADB
+administered and supervised the project from ADB headquarters, but subsequently transferred
+this to the ADB India Resident Mission. ADB conducted an inception mission and three review
+missions before the loans were cancelled. The Mumbai Port project was canceled first, and
+prepaid before the project's transfer to the resident mission. Although loans were cancelled and
+the disbursed amounts prepaid by the borrowers, the PCR maintained that this was purely the
+decision of the two port trusts based on financial realities and had not been due to any issues
+with ADB. This validation rates ADB performance satisfactory, the same as the PCR rating.
+
+C.     Others
+
+35.     There were no resettlement and rights-of-way issues identified. The project was
+implemented within the two existing ports' operating areas or boundaries. Thus, no land
+acquisition and resettlement issues were involved.
+
+         IV.     OVERALL ASSESSMENT, LESSONS, AND RECOMMENDATIONS
+
+A.     Overall Assessment and Ratings
+
+36.     Both the PCR and this validation rate the project successful. On relevance, PCR had
+rated the project highly relevant but did not give sufficiently convincing reasons for the rating.
+The project was consistent with the then prevailing medium-term plan of India and that of ADB
+country strategy. However, although the project design was well prepared, traffic forecast
+proved highly inaccurate (para. 18). Hence, this validation rates the project relevant.
+                                                                                                                9
+
+
+37.      Validation assesses the project effective due to the higher than expected traffic growth
+in Chennai project and the lower than expected traffic growth in Mumbai project plus better
+than expected waiting time at anchorage The projects are assessed efficient given the
+reasonable EIRRs. Sustainability is likely based on the financial performance and policy
+initiatives undertaken. A comparison of the ratings given at PCR and at validation is
+summarized in the table below.
+
+                                               Overall Ratings
+
+  Criteria                               PCR              IED Review            Reason for Disagreement
+                                                                                     and/or Comments
+ Relevance                        Highly relevant     Relevant              Demand forecasts for the two
+                                                                            ports were not accurate (para. 18).
+                                                                            Traffic forecasts should have been
+                                                                            undertaken with more rigor,
+                                                                            especially for Mumbai.
+ Effectiveness in achieving       Effective           Effective
+ outcome
+ Efficiency in achieving          Efficient           Efficient
+ outcome and outputs
+ Preliminary assessment of        Likely to be        Likely to be
+ sustainability                   sustainable         sustainable
+ Overall assessment               Successful          Successful
+ Borrower and executing           Not rated           Satisfactory          Refer to paras. 32­33.
+ agency
+ Performance of ADB               Satisfactory        Satisfactory
+
+ Impact                          Not rated            Significant           The improved port productivity
+                                                                            would have resulted in lower
+                                                                            shipping costs, removal of
+                                                                            demurrage, enhanced
+                                                                            competitiveness of India's exports,
+                                                                            and lower prices of commodities
+                                                                            (para. 31).
+ Quality of PCR                                       Less than             The PCR was done 9 years after
+                                                      satisfactory          completion. There were significant
+                                                                            data deficiencies including port
+                                                                            statistics that could have
+                                                                            strengthened the conclusions
+                                                                            reached at PCR. A number of
+                                                                            sections were omitted in the PCR,
+                                                                            i.e., lessons, recommendations for
+                                                                            follow-up, monitoring and
+                                                                            evaluation design, and
+                                                                            recommendation on IED follow-up
+                                                                            (para. 42).
+ADB = Asian Development Bank, IED = Independent Evaluation Department, PCR = project completion report.
+Note: From May 2012, IED views the PCR's rating terminology of "partly" or "less" as equivalent to "less than" and
+uses this terminology for its own rating categories to improve clarity.
+Source: ADB Independent Evaluation Department.
+10
+
+
+B.     Lessons
+
+38.     Given the time lag between project completion and PCR preparation, the usefulness of
+lessons obtained from the project's implementation would be limited. For example, delays in
+procurement during project implementation were traced to the confusion in applying the
+government's or ADB procurement rules. This had already been remedied in subsequent ADB
+projects by training the executing agency and PIO staff on ADB procurement procedures.
+
+39.      The cancellation and prepayment of the project loans by the executing agencies were
+premature and abruptly cut ADB participation in the project and in the ports subsector. This
+explained the delay in the preparation of the PCR and the lack of data after project completion
+on socio-economic impacts, among other things. Also, ADB incurred upfront costs, such as
+feasibility study preparation, deployment of project review missions, and related activities for the
+project.
+
+C.      Recommendations for Follow-Up
+
+40.     The loans had been prepaid and there would be no motivation for the port trusts, for
+example, to conduct a follow-up study on the socioeconomic impacts of the project. The PCR
+did not indicate if there were project performance monitoring systems operating in these ports.
+There were no recommendations made in the PCR.
+
+                     V.     OTHER CONSIDERATIONS AND FOLLOW-UP
+
+A.     Monitoring and Evaluation Design, Implementation, and Utilization
+
+41.     The project outcomes were actually outputs and no targets had been established for the
+performance indicators. For example, increase in cargo throughputs due to the project were not
+given in the framework, although forecast traffic growth was given in the economic and financial
+analysis.
+
+B.     Comments on Project Completion Report Quality
+
+42.     Typically, PCRs are undertaken 12 to 24 months after completion of the project, but this
+PCR was completed in November 2011, which was 7 and 9 year delay after completion of the
+Mumbai and Chennai Port projects respectively (para. 39). Due to their favorable financial
+positions (para. 12), MBPT and CHPT requested and ADB agreed to cancel the undisbursed
+amounts of their loans (footnote 3). Both loans were prepaid by the two port trusts.
+Subsequent to loan cancellation and loan prepayment, CHPT and MBPT completed the
+project utilizing their financial resources. There was a misunderstanding regarding the need to
+prepare a PCR for a prepaid project and it took a few years to realize that a PCR was needed.
+Given the elapsed time between project completion and PCR preparation, data may not have
+been available to provide reliable and accurate information on port traffic, productivity, and
+impacts. The PCR discussion on impact was limited only on environmental impacts. There was
+no discussion on the project's socioeconomic impact or no data was provided to allow this
+validation to rate the project's overall impact. The ratings on some criteria given by the PCR
+were not properly supported by evidence. A number of PCR sections were omitted. These
+were the lessons and recommendations, including follow-up, monitoring and evaluation, and
+                                                                                                          11
+
+
+timing of the project performance evaluation report. This validation finds the PCR quality less
+than satisfactory.13
+
+C.         Data Sources for Validation
+
+43.    The data sources used for this validation included the project's report and
+recommendation of the President, PCR, back-to-office reports, ADB Country Operational
+Strategy Study: India, India CPS 2009­2012 of ADB, ADB Country Strategy and Program,
+2003­2006 for India, and PCRs of previous port projects in India.
+
+D.         Recommendation for Independent Evaluation Department Follow-Up
+
+44.    IED follow-up is not necessary given that project loans were cancelled and prepaid,
+and there is only limited information in the PCR.
+
+
+
+
+13
+     The concerned regional department expressed the view for a satisfactory rating of the PCR quality.
+

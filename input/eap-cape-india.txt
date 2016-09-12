@@ -1,0 +1,1895 @@
+Asian Development Bank. 6 ADB Avenue, Mandaluyong City, 1550 Metro Manila, Philippines
+Tel +63 2 632 4444; Fax +63 2 636 2163; evaluation@adb.org; www.adb.org/evaluation
+
+
+
+Evaluation Approach
+Country Assistance Program Evaluation for India
+January 2016
+
+Co-Team Leaders:     Benjamin Graham, Senior Evaluation Specialist (email: bmgraham@adb.org)
+                     Toshiyuki Yokota, Senior Evaluation Specialist (email: tyokota@adb.org)
+Contact: evaluation@adb.org
+
+
+
+
+A.         Introduction
+
+1.     The purpose of the country assistance program evaluation (CAPE) is to provide the
+Asian Development Bank's (ADB) Board of Directors and Management with an independent
+assessment of past operational performance in India. This information will provide an input to
+the design of the subsequent country partnership strategy (CPS). The CAPE will (i) provide an
+independent assessment and rating of the performance of ADB's country programs and identify
+factors affecting performance, and (ii) draw forward-looking lessons and make
+recommendations for the next CPS of India.
+
+2.      The proposed CAPE will be the second assessment of ADB's country strategies and
+programs in India. The first CAPE was undertaken in 2007 and it assessed ADB support over
+2 decades, from 1986 to 2006. A country partnership strategy final review (CPSFR) was
+prepared in 2012 as self-assessment of the overall performance of ADB operations during the
+CPS period (2009­2012). Independent Evaluation Department (IED) validated this CPSFR in
+2013. 1 The proposed CAPE will follow on from the first CAPE and will cover 2007­2015.
+
+3.     The proposed timing and implementation arrangements for the CAPE are determined by
+and aligned to ADB's proposed schedule for developing its next CPS for India. The CAPE will
+be guided by the principles and methodological approaches set out in the Revised Guidelines
+for the Preparation of Country Assistance Program Evaluations and Country Partnership
+Strategy Final Review Validations. 2 The revised guidelines reflect recent changes to ADB CPS
+methodology and follow good practice standards for country-level evaluations by multilateral
+development banks. As such, the revised guidelines should be read in conjunction with this
+approach paper to gain a complete understanding of CAPE methodology as well as limitations.
+
+B.         Background
+
+4.     Economy. India is one of the world's largest economies, with a population of
+1.267 billion 3 and its gross domestic product (GDP) in current prices at $2.1 trillion ranked
+seventh in the world (based on nominal exchange rates). 4 India has experienced remarkable
+economic growth since the early 1990s and while growth rates remain high by world standards,
+they have declined over the past decade. While most of the FY2005-FY2010 period saw growth
+1
+    IED. 2013. Validation Report: India Country Partnership Strategy Final Review. Manila: ADB.
+2
+    ADB. 2015. Guidelines for the Preparation of Country Assistance Program Evaluations and Country Partnership
+    Strategy Final Review Validations. Manila.
+3
+    Government of India, Central Statistics Office. 2015. Press Note on Provisional Estimates of Annual National
+    Income 2014-2015 and Quarterly Estimates of Gross Domestic Product for the Fourth Quarter 2014­2015. Delhi:
+    Ministry of Statistics and Programme Implementation.
+4
+    International Monetary Fund. 2015. World Economic Outlook 2015. Washington, DC.
+2
+
+
+averaging 9%, the rate declined to 5% in 2012 and 7% in 2013 and 2014. 5 One of the current
+government's first steps after being elected was to initiate a range of reforms to restore growth.
+A large number of reforms are underway, including reforms to the tax structure, notably the
+introduction of goods and services tax, enabling environment improvements, better targeting of
+subsidies, and improving capital expenditure.
+
+5.      Poverty and diversity. The high economic growth that has occurred since the economic
+reforms of the early 1990s has helped to reduce the poverty headcount ratio at $1.90 a day (in
+2011 international prices) from 46.1% in 1993 to 21.3 % in 2011. 6 This rapid growth and poverty
+reduction was accompanied by a slight rise in inequality. 7 Thinking of India as one large country
+may ignore the significant differences in size, demographics, culture, and climate of the various
+states. The richer states have, on average, experienced relatively faster per capita GDP growth
+and the pace at which richer states are pulling away from the poorer states appears to be
+increasing, despite the strong performance of low income states. 8 As a result, poverty rates
+range widely, from 5% in Goa to 40% in Chhattisgarh. 9 GDP per capita of the poorest state
+Bihar was below $700 in 2014, while Goa and New Delhi achieved levels of above $4,500.
+
+6.      Urbanization and environmental sustainability. Urbanization is progressing rapidly,
+with the urban population forecast to grow from 31% (as of 2014) to 55% by 2050. 10 Rural India
+continues to be an important target for development interventions, but investment in urban
+centers, which contribute significantly to economic growth and activity, will require increasing
+attention to address this demographic shift. A recent analysis on states, clusters, and cities
+highlights the importance of urban districts in fuelling growth in India. 11 The urbanization rate of
+each district is a key indicator of how fast its economy is growing, with an estimate that GDP per
+capita of urban and semi-urban districts is four to five times that of rural districts. New migrants
+to urban centers face numerous challenges including access to shelter, education, healthcare,
+and basic amenities like water and sanitation. Ensuring that India's rapid urbanization is both
+environmentally sustainable and inclusive and that its cities are efficient in terms of supporting
+trade, investment, and business, is among the country's most significant challenges. 12
+
+7.       Infrastructure challenges and public­private partnership. Government has
+prioritized infrastructure development, particularly in transport and energy. Industrialization has
+not taken off as envisaged in the lagging states, despite positive progress in economic
+development. 13 Although demographic changes have been favorable, it has been difficult to use
+this advantage due to infrastructure constraints that make it expensive to develop and run
+manufacturing businesses. A low tax-to-GDP ratio, estimated at 7.2% in 2014 (footnote 6) is
+one major constraint to securing sufficient funds to develop infrastructure. The government has
+
+5
+   ADB. 2015. Key Indicators for the Asia and Pacific 2015. Manila.
+6
+   World Bank country dashboard: India. http://povertydata.worldbank.org/poverty/country/IND
+7
+   International Monetary Fund. 2014. India Selected Issues. Washington, DC.
+8
+   The Hongkong and Shanghai Banking Corporation. 2014. Unfolding the Tapestry--A Guide to India's States. Hong
+   Kong.
+9
+   Poverty rate is estimated using Suresh Tendulkar panel's recommendations in 2011­2012, which fixes the poverty
+   line at Rs27 in rural areas and Rs33 in urban areas.
+10
+   World Economic Forum. 2011. Water Security­The Water-Food-Energy-Climate Nexus. The World Economic
+   Forum Water Initiative.
+11
+   McKinsey & Company. 2014. India's Economic Geography in 2025: States, Clusters and Cities. Identifying the
+   High Potential Markets of Tomorrow. Insights India (October). Mumbai.
+12
+   In response to these challenges, the government has initiated three flagship urban missions: the Swachh Bharat
+   (Clean India) Mission, the Atal Mission for Rejuvenation and Urban Transformation, and the Smart Cities Mission.
+13
+   This paper and the main CAPE report will use the definition of "lagging states" provided in the ADB CPS for India
+   2013­2017: lagging states include the government's special category states and low-income states with a high
+   poverty incidence.
+                                                                                                                       3
+
+
+sought to increase investment in infrastructure by corporatization of public sector services and
+scaling up public­private partnerships (PPPs).
+
+C.       Government's Twelfth Five-Year Plan, 2012­2017
+
+8.      The government's vision for development under the Twelfth Five-Year Plan, 2012­2017
+was for "faster, sustainable, and more inclusive growth." The immediate challenge is to reverse
+the observed deceleration in growth by reviving investment as quickly as possible. This calls for
+urgent action to tackle implementation constraints in infrastructure which are holding up large
+projects, combined with action to deal with tax related issues which have created uncertainty in
+the investment climate. From a longer term perspective, the plan must put in place policies that
+can leverage the many strengths of the economy to bring it back to its real growth potential. This
+will take time but the aim is to get back to 9% growth by the end of the plan period. 14
+
+9.       The plan identified a core set of indicators reflecting the vision of rapid, sustainable, and
+more inclusive growth, for which all development partners can work, including not only the
+central and state governments, but also local governments, civil society organizations, and
+international agencies. 15 Under the plan, decentralization is likely to be facilitated by further
+empowerment of states. The government has agreed to devolve a larger share of financial
+resources to states. 16 For infrastructure, the issues of delays in clearances and financing gaps
+are being addressed with a revitalized PPP model, higher outlays for roads and railways, and
+regulatory reforms. The formation of a Monetary Policy Committee, the strengthening of the
+regulatory mandate of the Securities and Exchange Board of India over the commodities
+market, and the creation of a sector-neutral financial redressal agency which aims at consumer
+protection by addressing grievances across all financial products and financial sector regulators
+will likely lead to important financial reforms.
+
+D.       Asian Development Bank's Country Strategies
+
+10.    ADB's support to India during the evaluation period (2007­2014) was covered by a
+country strategy and program update 2006­2008 17 and two CPSs covering the periods 2009­
+2012 and 2013­2017. 18
+
+
+
+
+   Government of India, Planning Commission. 2013. Twelfth Five-Year Plan 2012-2017. New Delhi.
+14
+15
+   The following are the major indicators: (i) Economic Growth [(a) Real GDP Growth Rate of 8.0%, (b) Every State
+   must have an average growth rate in the 12th plan preferably higher than that achieved in the 11th plan];
+   (ii) Poverty and Employment [(a) Head-count ratio of consumption poverty to be reduced by 10 percentage points
+   over the preceding estimates by the end of the Twelfth Five-Year Plan, (b) Generate 50 million new work
+   opportunities in the non-farm sector and provide skill certification to equivalent numbers during the Twelfth Five-
+   Year Plan]; (iii) Infrastructure, including rural infrastructure [(a) Increase investment in infrastructure as a
+   percentage of GDP to 9% by the end of Twelfth Five-Year Plan, (b) Provide electricity to all villages and reduce
+   aggregate technical and commercial losses to 20% by the end of Twelfth Five-Year Plan, (c) Connect all villages
+   with all-weather roads by the end of Twelfth Five Year Plan, (d) Ensure 50% of rural population has access to 40
+   liters per capita per day piped drinking water supply]; (iv) Environment and Sustainability, [(a) Increase green cover
+   (as measured by satellite imagery) by 1 million hectare every year during the Twelfth Five-Year Plan, (b) Add
+   30,000 megawatts of renewable energy capacity in the 12th plan, (c) Reduce emission intensity of GDP in line with
+   the target of 20% to 25% reduction over 2005 levels by 2020].
+16
+   The Finance Commission recommended the highest-ever devolution at 42% of center's total resources to state
+   governments starting in 2015­2016.
+17
+   ADB. 2005. Country Strategy and Program Update: India, 2006­2008. Manila.
+18
+   ADB. 2009. Country Partnership Strategy: India, 2009­2012. Manila; ADB. 2013. Country Partnership Strategy:
+   India, 2013­2017. Manila.
+4
+
+
+           1.       Country Strategy and Program Update, 2006­2008
+
+11.     The country strategy and program update, 2006­2008 kept the key objectives of the
+ADB's country strategy and program approved in 2003, which aimed to mainstream poverty
+reduction as the central organizing theme of ADB. The Government of India's Tenth Five-
+Year Plan called for the urgent need to upgrade infrastructure facilities, and refocus on
+agriculture and rural development so that growth became more broad-based and created
+employment opportunities. In response, the relative size of infrastructure (transport, urban, and
+energy) projects in ADB's program increased from 69% of the 2005­2007 pipeline as proposed
+in the country strategy and program update, to 77% of the 2006­2008 pipeline. Although
+infrastructure received most of ADB financial support, ADB kept a wide range of the pipeline in
+infrastructure and non-infrastructure sectors, including transport, urban, energy, agriculture, and
+water resource management, public resource management and governance, private and
+financial sector development, education, and health.
+
+           2.       Country Partnership Strategy, 2009­2012
+
+12.     ADB's CPS 2009­2012 was aligned with India's Eleventh Five-Year Plan (2007­2011)
+and it drew from the recommendations of the 2007 CAPE for India. 19 ADB presented a strategy
+that would support India's continued high growth rate, and make it more inclusive. The CPS had
+four strategic pillars or objectives: (i) supporting inclusive and environmentally sustainable
+growth, (ii) catalyzing investments through using innovative business and financing solutions,
+(iii) strengthening results orientation and emphasizing knowledge solutions, and
+(iv) supporting regional cooperation. This program involved (i) inclusion of lagging states
+especially northeastern states in ADB operations, (ii) support to agriculture and water resource
+management, and (iii) promotion of financial inclusion. 20 Over the CPS period (2009­2012),
+ADB approved a sovereign lending program of $8.7 billion, comprising 80 investment projects.
+
+           3.       Country Partnership Strategy, 2013­2017
+
+13.      ADB's CPS for 2013­2017 (for about $10.04 billion) supports India's twelfth five-year
+plan (2012­2017) priorities of "faster, more inclusive, and sustainable growth," creation of jobs
+for youth, enhancement of ongoing investment reforms, and improvement of infrastructure in
+critical areas. The strategy again combines physical investments with knowledge products to
+address emerging issues of urbanization, water scarcity, and gives more prominence to newer
+issues such as climate change, emission controls, internet connectivity, vocational training (to
+address the problem of youth unemployment), and the development of capital markets (the lack
+of which is a growing concern). Under the CPS, 2013­2017, ADB proposed to support the
+government's vision of rapid, sustainable, and more inclusive growth.
+
+14.     Below is a summary of the key objectives of the three ADB strategies which applied to
+the 2007­2015 period to be evaluated. Table 1 shows that the key objectives in the ADB
+strategies have evolved from a sector­oriented approach to more thematic-driven support.
+
+
+
+
+19
+     IED. 2007. Country Assistance Program Evaluation: India. Manila: ADB.
+20
+     The Eleventh Five-Year Plan defines financial inclusion as the delivery of banking and other financial services at
+     affordable costs to the vast sections of disadvantaged and low-income groups.
+                                                                                                             5
+
+
+          Table 1: Summary of Key Objectives of the ADB Strategies and Programs
+                      Country Strategy
+                   and Program Update,            Country Partnership        Country Partnership Strategy,
+Objectives                 2006­2008              Strategy, 2009­2012                   2013­2017
+Inclusive          Mainstreaming poverty       Continued focus on            Job creation and access to jobs
+growth             reduction through           infrastructure                Infrastructure development
+                   continued assistance        development                   investments anchored on
+                   in the following priority   Enhancing agriculture and     lagging states
+                   sectors:                    water resource
+Environmentally                                                              Synergies in infrastructure
+sustainable          - transport               interventions                 development, urbanization, and
+growth               - urban                   Maintaining environmental     regional cooperation and
+                     - energy                  sustainability                integration
+                     - agriculture and
+                                               Strengthening gender          Investments in water resources
+                         water resource
+                                               mainstreaming                 management and introduction
+                         management
+                     - public resource         Mainstreaming disaster        of new technologies and low-
+                         management and        management to ensure          carbon solutions
+                         governance            sustainability
+                     - private and             Greater use of public­
+                         financial sector      private partnerships and
+                         development           more synergy between
+                     - education               ADB's public and private
+                     - health, and             sector operations
+Regional             - disaster                Developing cross-border       Investments anchored on the
+cooperation              management            infrastructure                South Asia Subregional
+                                                                             Economic Cooperation program
+                                                                             Development of economic
+                                                                             corridors along India's east
+                                                                             coast with multimodal regional
+                                                                             connectivity
+Knowledge                                      Greater results orientation   Ensuring innovation and value
+solution and                                   Knowledge solutions           addition
+innovation
+ADB = Asian Development Bank.
+Source: Asian Development Bank.
+
+E.      Asian Development Bank's Country Portfolio
+
+        1.        Portfolio during the Evaluation Period
+
+15.     India is ADB's largest borrower in the South Asia region, accounting for 54% of the total
+regional loans. 21 During the evaluation period, ADB approved a total of 315 projects and
+programs amounting to $20.4 billion, 22 comprised of 115 sovereign loans and grants
+($16.3 billion), 48 nonsovereign investments ($4.0 billion), and 148 technical assistance (TA) 23
+operations ($142.0 million), with 84% of the allocation for projects and programs directed to the
+public sector, while nonsovereign operations accounted for 16% (Table 2). A list of the ADB
+sovereign loans and grants, nonsovereign investments, and TA operations during the evaluation
+period is provided in Appendix 1.
+
+
+
+21
+   ADB. 2015. ADB Annual Report 2014. Manila.
+   Includes projects and programs that were approved during 2007-2015.
+22
+23
+   Excluding the supplementary TA operations.
+      6
+
+
+                                    Table 2: ADB Support to India, 2007­2015
+                     Sovereign Loan         Grant                  Nonsovereign                 TA            Total
+                                  With
+                Amount            PCR    Amount               Amount         With Amount          With Amount
+ Sector        ($ million) No. (Closed) ($ million) No.      ($ million) No. XARR ($ million) No. TCR ($ million) No.
+ ANRRD            310.90     6    0 (0)     7.50     3           48.40    2    -     14.80     14   2      381.66     25
+ Education        200.00     2    0 (0)          -   -            2.00    1    -       7.28     7   0      209.28     10
+ Energy         4,380.40    31    2 (4)          -   -        2,112.30 29      7     23.45     33   8    6,516.13     93
+ Finance        1,040.00     5    1 (1)          -   -        1,021.58    8    -       9.05     9   2    2,070.63     22
+ Health           300.00     1    0 (0)          -   -          38.604    1    -       3.65     4   1      342.30      6
+ Industry and
+ trade                   -      -     0 (0)       3.00    1           -   -    -       1.00     1   0        4.00      2
+ Multisector        960.00     4      4 (4)           -   -      20.00    1    -     18.18     15   7    998.218      20
+ PSM                800.00     5      2 (2)           -   -           -   -    -     10.14     11   6      810.14     16
+ Transport        6,223.90    31      4 (7)           -   -     680.00    4    -     36.92     34   4    6,940.77     69
+ Water and
+ other urban
+ infrastructure
+ and services     2,076.20    24      1 (2)       3.80    2      70.00    2    -     17.55     20   4    2,167.52     48
+      Total     16,291.40 109        14 (20)     14.30    6   3,992.89 48      7    142.00 148 33 20,440.58 311
+ADB = Asian Development Bank, ANRRD = agriculture, natural resources and rural development, No. = number, PCR =
+program/project completion report, PSM = public sector management, TA = technical assistance, TCR = technical assistance
+completion report, XARR = extended annual review report.
+Note: Four XARRs covered a total of seven nonsovereign investments.
+Source: ADB Listing of Loan, Grant, Equity and TA database.
+
+      16.     By approved amounts, the transport and energy portfolios represented about 66% of the
+      total portfolio during the evaluation period with 34% and 32%, respectively (Figure 1). The other
+      major portfolios were water and other urban infrastructure and services (13%) and finance
+      (10%). Multisector and public sector management operations made up 5% and 4% of approved
+      amounts, respectively. Health and agriculture, natural resources, and rural development
+      operations represented around 2% each while education operations took up 1%.
+
+
+                            Figure 1: ADB Support to India by Sector, 2007­2015
+                                                                Energy
+                                               Education        31.9%
+                                                 1.0%
+                              Agriculture, Natural
+                               Resources and
+                                                                                  Finance
+                              Rural Development
+                                                                                   10.1%
+                                     1.9%
+
+                              Water and Other                                        Health
+                             Urban Infrastructure                                     1.7%
+                                 & Services                                         Industry & Trade
+                                  12.50%                                                  0.01%
+                                                                                 Multisector
+                                                                                   4.9%
+                                                                          Public Sector
+                                                    Transport             Management
+                                                     34.0%                   4.0%
+
+              ADB = Asian Development Bank.
+              Sources: ADB Listing of Loan, Grant, Equity and Technical Assistance Database accessed in
+              October 2015.
+                                                                                                                    7
+
+
+17.     Sovereign loans and grants. During the evaluation period, 115 sovereign loans and
+grant amounting to $16.3 billion were approved. Six sovereign grants ($14.3 million in total)
+were provided to the Government of India. Sovereign loans and grants represented about 84%
+of the total ADB portfolio to India. The bulk of ADB sovereign operations were managed by
+executing agencies in the national government and the states of Madhya Pradesh, Uttarakhand,
+Bihar, Rajasthan, and Himachal Pradesh. The CAPE will provide a more detailed assessment of
+sovereign operations by state and/or region.
+
+18.    Multitranche financing facility. ADB introduced this instrument in mid-2005 and it was
+mainstreamed in 2008. The multitranche financing facility (MFF) finances multiple projects
+under an investment program in a sector or in several sectors, or large stand-alone projects with
+substantial and related individual components with long-term implementation plans. The MFF
+can also finance slices of long-term contract packages in such investment programs or large
+stand-alone projects. The India program has been a major user of the MFF--36 out of 88 MFFs
+approved in ADB for $13.86 billion. To date, these 36 MFFs have comprised of a total of 84
+tranches. MFF is ADB's major financial modality for all sectors in India, except social sectors
+and public sector management. About 60% of sovereign loans approved in the evaluation
+period were financed by MFF. A list of India MFFs is provided in Appendix 2.
+
+19.     Nonsovereign operations. ADB catalyzed private sector investments through direct
+financing, credit enhancement, and risk mitigation instruments. Over 2007­2015, nonsovereign
+operations represented 14% of the total ADB portfolio by approved amount. During this period,
+ADB approved 48 nonsovereign investments amounting to $4.0 billion. The majority of the
+nonsovereign investments focused on the energy (53%), finance (26%), and transport (17%)
+sectors, although 15 of the 48 approved nonsovereign investments (31%) were cancelled.
+
+20.    Technical assistance. ADB TA operations during the evaluation period represented
+less than 1% of ADB's portfolio for India. On an annual basis, the average approved amount
+from 2009 to 2014 24 was $16.7 million with a mode of close to $18 million (Appendix 1).
+
+21.     Only a small proportion of the 315 projects approved during the 9-year evaluation period
+have been completed and subjected to a project completion report (PCR), and a similar finding
+applies to the 148 TA operations. Twelve PCRs were produced covering 14 sovereign loans 25
+(out of 20 closed loans of the 109 total sovereign loans). The ratings were generally successful;
+of the 12 PCRs, 9 were rated successful, 2 were rated highly successful, and 1 was rated less
+than successful. Four of the PCRs were validated, all of which were rated successful. For the
+nonsovereign operations, 4 extended annual review reports (XARRs) were completed, covering
+7 nonsovereign investments (out of a total of 48 investments). The XARRs were all validated as
+successful (one was rated highly successful). For the TA operations, a total of 33 technical
+assistance completion reports (TCRs) were produced covering 34 TA operations (out of 148
+total). Of the 33 TCRs, 26 were rated successful, 2 were rated highly successful, and 5 less
+than successful. 26
+
+
+
+
+24
+   The period 2009­2014 was used for computing the average to remove the effects of outliers in 2007 and 2008.
+25
+   Fourteen sovereign loans supported 12 projects.
+26
+   As of 1 May 2012, IED changed the previous rating category of partly successful to less than successful to clarify
+   that such a category indicates "below the line" performance. In this report, all prior ratings preceded by the word
+   "partly" have been converted to the new designation of "less than."
+8
+
+
+           2.      Other Development Partners' Programs
+
+22.      India is a significant recipient of official development funding. From 2007 to 2013, total
+official development financial flows to India totaled $91 billion. Development funds from the
+World Bank and ADB together made up more than 51% of these flows. This makes ADB one of
+the three main development partners in India. The World Bank program for India covers a wide
+range of sectors, with transport and energy being focus areas. The World Bank support is likely
+to decline as International Development Association funds are phased out. Other significant
+partners were Japan, Germany, United Kingdom, and the United States (Table 3).
+
+                Table 3: Committed Total Development Support to India, 2007­2013
+                                                                        Amount                Share
+            Rank                 Country/Organization                  ($ million)             (%)
+            1           World Bank                                      31,774.96               34.84
+            2           Asian Development Bank                          15,478.08               16.97
+            3           Japan                                           14,362.08               15.75
+            4           Germany                                          4,604.34                5.05
+            5           United Kingdom                                   3,227.24                3.54
+            6           United States                                      905.05                0.99
+            7           United Nations Agencies                            731.03                0.80
+            8           France                                             574.87                0.63
+            9           Norway                                             238.05                0.26
+            10          Australia                                          104.88                0.12
+                          Subtotal (Top 10)                             72,000.58               78.95
+                        Rest of the world                               19,197.31               21.05
+                              Total (World)                             91,197.89              100.00
+            Sources: Asian Development Loan, Technical Assistance, Grant and Equity Approvals Database;
+            World      Bank.       http://www.worldbank.org/projects/search?lang=en&searchTerm=&tab=map&
+            countryshortname_exact=India; Organisation for Economic Co-operation and Development
+            Statistics. http://stats.oecd.org/viewhtml.aspx?datasetcode=TABLE2A&lang=en#
+
+23.      Support to BRIC (Brazil, Russia, India, and the People's Republic of China) countries
+from a number of Development Assistance Committee of the Organisation for Economic Co-
+operation and Development donors may be cut or reduced in the near future. 27 In 2011, the
+United Kingdom bilateral aid review indicated it would end bilateral aid programs in 16 countries
+by 2016. 28 This may include India. The European Union has announced in its Multiannual
+Financial Framework, 2014­2020, that it will end bilateral aid to 17 upper middle-income
+countries, and two large low-income countries (India and Indonesia) with a combined GDP that
+is larger than 1% of global GDP. In the FY2014 budget, it appeared that India was emerging as
+a major aid donor with foreign aid expenditures that may reach $1.3 billion, more than its
+expected foreign aid receipts.
+
+F.         Key Findings, Lessons, and Recommendations of Previous IED Country Program
+           Evaluations
+
+           1.      Country Assistance Program Evaluation 2007
+
+24.     The 2007 CAPE for India covered two decades (1986­2006) of ADB operations, with an
+overall rating of successful. While ADB's program may have been small relative to the size of
+India's total public investment, ADB support made a significant contribution to the country's
+
+27
+     Global Humanitarian Assistance. 2012. India Country Briefing. United Kingdom.
+28
+     Department for International Development of the United Kingdom. 2011. Bilateral Aid Review: Technical Report.
+     London.
+                                                                                              9
+
+
+development process. This support was most effective when it was focused, part of a long-term
+engagement, and integrated with government reform initiatives. Support for infrastructure
+development and policy reforms had an impact on economic growth which helped mitigate
+income poverty. ADB's recent focus on rural development activities and the provision of basic
+urban services are likely to have a positive impact on the reduction of both income and non-
+income poverty, although there were concerns about sustainability that, if unaddressed, might
+diminish impact. ADB was judged as having been not very effective in mainstreaming
+environmental and gender objectives in its operations.
+
+25.     To maximize impact with limited resources, the CAPE recommended that ADB
+(i) improve strategic focus, (ii) improve the quality of its financial support, (iii) improve
+nonlending services, (iv) increase private sector operations, and (v) increase responsiveness to
+client concerns.
+
+       2.     Country Partnership Strategy Final Review Validation, 2009­2012
+
+26.    The CPSFR self-assessed the overall performance of ADB operations during the CPS
+period (2009­2012) successful, based on satisfactory strategic positioning, a relevant program,
+an effective and efficient delivery of outputs and expected outcomes, and a likely sustainable
+and satisfactory development impact. The CPSFR validation report prepared by IED in 2013
+confirmed the ratings of the CPSFR.
+
+27.     The 2013 CPSFR validation report reviewed the implementation status of the earlier
+CAPE recommendations and the findings of the 2011 CPSFR (footnote 1). The validation report
+found that ADB registered satisfactory progress toward improving strategic focus, increasing
+private sector support through PPPs, and increasing responsiveness to client concerns. The
+2007 CAPE emphasized that ADB's policy inputs were important to reform lagging sector
+policies (e.g., especially in fiscal management, power distribution, and urban development).
+ADB's role of providing timely policy inputs and advice to a number of state governments has
+become more significant over the 2009­2012 CPS period.
+
+28.     ADB TA successfully introduced innovative knowledge solutions and international best
+practices and procedures. Capacity development is required in several agencies working with
+ADB. ADB operations are entering more difficult sectors (e.g., water and other municipal
+infrastructure and services, and small industries), and ADB is operating in lagging states. The
+CPSFR validation found that ADB needed to keep to building ADB's strong knowledge base and
+expertise in core areas of support.
+
+29.     The 2009­2012 CPS was largely public sector-oriented. ADB's CPS positioning should
+have been more broad-based, understanding the role of the private sector in the country. The
+validation recommended that ADB (i) strengthen policy dialogue and direct engagement with the
+states, (ii) enhance synergies and impact by better linking outputs to outcomes, (iii) increase
+staff resources in the field to engage better with lagging states and augment resources for
+technical work to deliver innovative solutions and to stay abreast of client requirements,
+(iv) prepare an integrated strategic framework to synergize ADB's public­private sector
+operations, and (v) improve monitoring of the CPS results framework.
+10
+
+
+G.         Key Evaluation Issues 29
+
+30.    As set out in the revised CAPE guidelines (footnote 2), the CAPE will assess the
+relevance, effectiveness, efficiency, sustainability, and development impacts of ADB's
+operations in India. ADB and borrower performance will be assessed and issues, lessons, and
+recommendations will be provided. Section H provides further details on the evaluation
+methodology, criteria, and components. An evaluation framework is provided in Appendix 3.
+
+31.    In assessing the ADB program using the above criteria, the following key issues and
+questions will be addressed, given their importance to development in India and their
+prominence in recent ADB CPSs for India and ADB's Strategy 2020.
+
+32.     Inclusion and lagging states. ADB strengthened its inclusive development focus by
+directing operations toward lagging states in the 2009 and 2013 CPSs. The CAPE will examine
+how states were selected to address inclusive growth, what achievements were made in
+promoting inclusive growth, and how ADB support in the lagging states has performed. In
+addition, the shift to lagging states invokes other questions such as whether ADB appropriately
+strengthened strategic programming discussions directly with state governments and how it
+ensured project readiness and implementation capacity. State governments are the primary
+agencies to implement development programs, and they differ significantly from each other,
+necessitating development interventions to be locally adapted. In addition, project
+implementation is challenging as many state and lower level bodies do not have exposure to or
+familiarity with international standards, know-how, and best practices. This issue has become
+particularly apparent as operations have entered more difficult sectors (e.g., water and other
+municipal infrastructure and services).
+
+33.     Environmentally sustainable growth. India, the world's third biggest greenhouse gas
+emitter (8% of the world total), has pledged to generate 40% of its electricity from renewable
+and other low-carbon sources by 2030. Environmental and climate impacts typically threaten the
+poorest and most marginalized, and therefore the achievement of environmentally sustainable
+growth will play a major role in achieving greater inclusion. The Twelfth Five-Year Plan 2012­
+2017 set targets for environmentally sustainable growth as (i) increase green cover by 1 million
+hectare every year during the plan, (ii) add 30,000 megawatts of renewable energy capacity in
+the plan, and (iii) reduce emission intensity of GDP in line with the target of 20%­25% reduction
+over 2005 levels by 2020. Strategy 2020 introduced the strategic agenda of environmentally
+sustainable growth in 2008, which included further strengthening climate change mitigation and
+adaptation. The increasing significance of environmentally sustainable growth and climate
+change related activities in ADB investments are expected to be reflected over the period of this
+evaluation.
+
+34.     Tackling greenhouse gas emissions can have the co-benefit of mitigating local air
+pollution, now a critical human health challenge for many of India's cities. Poor water security is
+a threat to the population and economy of India. Opportunities for green growth and low carbon
+trajectories will need to be found to ensure that urban centers and key infrastructure sectors
+contribute to India's development in an environmentally sustainable manner. The evaluation will
+examine how ADB contributed to sustainable growth, including through its support for integrated,
+resilient, and inclusive urban development, and whether ADB sufficiently integrated
+considerations for environmental sustainability in its sector strategies and project designs.
+29
+     As set out in the revised CAPE guidelines (para. 22), additional evaluation issues/questions (above and beyond the
+     standard evaluation criteria/questions) may need to be asked, depending on a country's unique context and
+     circumstances.
+                                                                                                                11
+
+
+
+35.      Regional cooperation. ADB supported the South Asia Subregional Economic
+Cooperation program, 30 and the Bay of Bengal Initiative for Multi-Sectoral Technical and
+Economic Cooperation. 31 A recent ADB regional cooperation initiative is the Bangladesh­
+People's Republic of China­India­Myanmar Economic Corridor, which aims to establish a multi-
+modal corridor between the four countries. The CPS for 2013­2017 emphasized that ADB
+would facilitate the South Asia Subregional Economic Cooperation program with emphasis on
+lagging states and economic corridors. The CAPE will review how the synergy of the programs
+was ensured and translated into the CPSs, and the effectiveness of regional cooperation efforts
+overall.
+
+36.     Knowledge solutions and innovation. The government initiated a Finance Plus
+approach, where projects were made more effective by bringing new knowledge solutions,
+practices, processes, and know-how. The 2009­2012 and 2013­2017 CPSs emphasized
+knowledge solutions and aimed to build on innovations and best practices in the ADB programs.
+Given the smallness of ADB's financial support relative to the large economy, knowledge
+solutions and products should add value to ADB funding. Sector assessments will include an
+analysis of how TA and other resources were used to support operations, capacity
+development, and other objectives. The CAPE will review projects to gain lessons, and review
+how ADB and the government shared knowledge and good practices among states, with a view
+towards strengthening future support.
+
+37.      Other issues. About 60% of sovereign loans approved in the evaluation period were
+financed by the MFF (para. 18). The CAPE will assess how the modality added value, in
+particular in the major infrastructure sectors where it is now the predominant financing modality
+and how objectives of MFFs whose timeframes stretch longer than a CPS period are relevant to
+the country and sector strategies. The private sector's role in India's economic development is
+growing fast and becoming more diverse. ADB approved $4.0 billion in private sector financing,
+although a significant proportion was subsequently cancelled. The evaluation will examine how
+ADB's nonsovereign operations performed, how it coordinated its sovereign and nonsovereign
+operations, and how better collaboration between sovereign and nonsovereign operations can
+be ensured to create greater impact from its support. The CAPE will review ADB's efforts to
+promote gender equality and women's empowerment through improved gender analysis and
+action plans, monitoring of key gender equality outcomes, and documenting gender equality
+results.
+
+H.      Evaluation Methodology: Framework and Limitations
+
+38.    The CAPE will cover the period 2007­2015 and adhere to the principles and
+methodological approach in the CAPE guidelines (footnote 2). An evaluation framework in
+Appendix 3 provides evaluation criteria and questions. These questions will be addressed
+alongside the key issues in Section G.
+
+39.        The CAPE will apply five main evaluation criteria: (i) relevance, (ii) effectiveness,
+(iii) efficiency, (iv) sustainability, and (v) development impacts (Appendix 3). A weight of 20% will
+be assigned to each criterion. The CAPE will review how ADB's program followed the related
+30
+   The program was established in 2001 as a project-based initiative that initially promoted economic cooperation
+   through the enhancement of cross-border connectivity and facilitation of trade between Bangladesh, Bhutan, India,
+   Maldives, Nepal, and Sri Lanka.
+31
+   The program is a regional organization comprising seven member states: Bangladesh, Bhutan, India, Myanmar,
+   Nepal, Sri Lanka, and Thailand lying in the littoral and adjacent areas of the Bay of Bengal constituting a
+   contiguous regional unity, and aims to accelerate the economic growth and social progress.
+12
+
+
+guidelines, procedural requirements, and due diligence for project preparation and
+implementation, and operation and maintenance.
+
+40.     Sector portfolio assessments will be prepared to assess ADB supported project
+performance in six operational areas: (i) energy, (ii) finance, (iii) public sector management,
+(iv) transport, and (v) water and other urban infrastructure sectors, 32 and (vi) nonsovereign
+operations. 33 The CAPE will conduct a simplified assessment for operations in the social
+sectors (education and health) without rating performance given the limited number of projects
+approved during the CAPE period (two in education and one in health), all of which are ongoing.
+Projects that covered several sectors and that were originally categorized as multisector will be
+reclassified to the most relevant sectors. 34 The CAPE will include a small case study to review
+regulations for involuntary resettlement in India, and assess benefits in terms of the
+government's policy and ADB's policy. Findings of the case study will be fed into the ongoing
+study, Real-Time Evaluation of ADB's Safeguard Experience: Country Case Studies.
+
+41.     The CAPE will be based on a mix of qualitative and quantitative methods: document and
+file study; data analysis; interviews and consultations with ADB staff, beneficiaries, and other
+stakeholders; field observations; and survey questionnaires. Information will be drawn from ADB
+project databases and from previous IED reports. These include project completion and project
+validation reports and the findings of project performance evaluation reports for projects that
+closed during the evaluation period. Data will be collected through project field visits, desk
+studies, stakeholder consultations, and survey questionnaires where feasible. The CAPE will
+triangulate and verify quantitative and qualitative data and information from different sources.
+
+42.    Given the large size and diversity of the ADB program in India, it is not possible to
+evaluate every project in-depth within the available time and budget. Nevertheless, the CAPE
+team will endeavor to conduct as many field and project visits as feasible and communicate with
+as many key stakeholders, especially executing and implementing agencies, as possible. While
+senior staff in most executing and implementing agencies in New Delhi will be interviewed, only
+selected agencies in other states can be covered. IED will work with the India Resident Mission
+and government to coordinate field and project visits. 35 Projects that have been fully or largely
+completed will be prioritized for field visits. Where necessary, the team will set interviews
+through video and telephone conferences. A stakeholder perceptions survey will be conducted
+online among all key stakeholder groups, including the government, beneficiary groups, and
+other development partners, civil society, and the private sector.
+
+43.    The CAPE will use data sources from operational departments, executing and
+implementing agencies, and existing independent evaluation reports, supplemented by further
+evidence collected during the evaluation missions. Generally, data collection through surveys
+and other methods is part of ADB and executing agencies' project and strategy monitoring. As
+stated in the revised CAPE guidelines (footnote 2), the onus is on ADB and the agencies
+responsible to make this relevant data available when IED starts the evaluation; IED does not
+have the resources and time to collect large amounts of primary data on its own.
+32
+   Two projects classified in the transport sector will be assessed in the water and other urban infrastructure sector
+   given the nature of these projects and for consistency with other projects.
+33
+   Given the small financial share of the agriculture and natural resources sector (1.9% of the portfolio over the
+   evaluation period), the CAPE will not carry out a sector assessment for this sector, but key projects under the
+   sector will be reviewed and discussed in the CAPE main report.
+34
+   Two projects classified as multisector will be included in the water and other urban sector assessment and another
+   two multisector projects will be included in the finance sector assessment.
+35
+   An indicative list of projects to be visited for each sector assessment has been developed and provided to the India
+   Resident Mission.
+                                                                                                                13
+
+
+
+44.     As recognized in the revised CAPE guidelines (footnote 2), quantifying and isolating the
+development impact of ADB support will not be easy. Each ADB intervention would have
+produced some results, but overall country development impacts materialized from the
+cumulative interventions and projects of ADB, other development partners, and the government.
+In the absence of data on these contributions, it may be difficult to assess whether and to what
+extent ADB's interventions caused any change in the country. There are data gaps between
+project and country levels impacts. Consequently, the CAPE will focus on assessing whether
+plausible linkages can be made between ADB's program, with emphasis on sector programs
+and contributions, and the achievement of country objectives. 36
+
+I.      Related Project Evaluations
+
+45.    IED will undertake three project evaluation studies to build up the stock of independently
+assessed project performance and complement the CAPE sector assessments and main
+analysis. The three projects were selected from three large sectors in financial terms, namely
+the energy, transport, and water and other urban infrastructure sectors, and will cover sovereign
+and nonsovereign operations. 37 Findings of the evaluation studies will provide inputs to the
+sector portfolio assessments and the CAPE main report.
+
+J.      Implementation Arrangements
+
+46.     The evaluation will be prepared by a team of senior evaluation specialists/co-team
+leaders (B. Graham and T. Yokota), supported by principal evaluation specialists (K. Thukral
+and N. Subramaniam), an evaluation specialist (G. Kilroy), evaluation officers (N. Gamo,
+L. Guevara, and L. Ocenar), and administrative staff (E. Li-Mancenido and V. Melo-Cabuang). It
+will be based on assessments of the important sector programs and nonsovereign operations.
+Sector assessments will be carried out by the team led by T. Yokota for transport operations,
+B. Graham for public sector management, finance, and social sectors operations (simplified
+assessment), G. Kilroy for water and other urban infrastructure operations, K. Thukral and
+L. Guevara for energy operations, and N. Subramaniam and N. Gamo for nonsovereign
+operations. C.J. Mongcopa will support portfolio analysis and in-country coordination for the IED
+mission. To support the team, consultants will be engaged individually following ADB's
+Guidelines on the Use of Consultants (2010, as updated from time to time). To ensure quality,
+internal and external peer reviews will be implemented.
+
+47.     It is proposed that the CAPE activities be carried out in accordance with the following
+preliminary schedule. However, it is subject to timely support from ADB, and the Indian national
+and local governments, in areas such as mission clearance, provision of data and documents,
+arrangement of meetings during the evaluation missions, and review of the draft CAPE report.
+
+
+
+
+36
+   The revised CAPE guidelines provide more discussion on assessing development impacts and limitations related
+   thereto, in particular paras. 28-30, Table 1, para. 44, and Appendix 4 (Guidance on Assessing Development
+   Impacts).
+37
+   Three projects are (i) Karnataka Urban Development and Coastal Environmental Management Program. The
+   evaluation approach paper was approved in September 2015. The study commenced in October 2015 and will be
+   completed by the end of March 2016; (ii) the Dahanu Solar Power Private Limited (the evaluation approach paper
+   for this evaluation is under development). The study will commence in early 2016 and will be completed by the end
+   of May 2016; and (iii) National Highway Corridor Project. The evaluation approach paper will be developed. The
+   study will commence in early 2016 and will be completed by the end of May 2016.
+14
+
+
+                           Table 4: Proposed Activities and Schedule
+          Activity                                                  Tentative Schedule
+          Consultant recruitment                                II November 2015
+          Reconnaissance mission                                III November 2015
+          Interdepartmental circulation of EAP                  II December 2015
+          Approval of the EAP                                   II January 2016
+          Mobilization of consultants                           II January 2016
+          First Evaluation mission
+                Sector assessments                              II­IV February 2016
+                Nonsovereign Operations                         IV February­II March 2016
+          Draft of sector assessments                           IV March 2016
+          Second Evaluation mission                             III April 2016
+          First draft of CAPE                                   IV May 2016
+          One stop review meeting                               III June 2016
+          Interdepartmental circulation                         III July 2016
+          Government review                                     II August 2016
+          CAPE consultation mission                             I September 2016
+          Heads of Departments meeting                          IV September 2016
+          IED Director General approval                         II October 2016
+           CAPE = country assistance program evaluation, EAP = evaluation approach paper, IED
+           = Independent Evaluation Department.
+           Source:
+
+K.     Dissemination
+
+48.     The final CAPE with management response and chair's summary of the Development
+Effectiveness Committee meeting, and two-page learning curves of the CAPE, will be
+disseminated after the Development Effectiveness Committee meeting.
+
+Appendixes:
+1.    ADB India Portfolio, 2007-2015
+2.    List of India Multitranche Financing Facility Projects, 2007-2015
+3.    Evaluation Framework for the Country Assistance Program
+                                                                                                 Appendix 1             15
+
+
+                                    ADB INDIA PORTFOLIO, 2007­2015
+
+                                         Table A1.1: Sovereign Loans
+                                                                                 a
+Loan                                                                   Amount          Date       Closing             PCR
+                                                                                                        b
+No.                             Project Name                           ($ million)   Approved      Date              Rating
+Agriculture and Natural Resources
+2444     Orissa Integrated Irrigated Agriculture and Water                16.5       26 Sep 08   31 Mar 15
+         Management Investment Program - Tranche 1 (MFF22)
+2669     Agribusiness Infrastructure Development Investment               67.6       24 Sep 10   30 Jun 18
+         Program - Tranche 1 (MFF 45)
+2679     Sustainable Coastal Protection and Management                    51.6       6 Oct 10    30 Jun 17
+         Investment Program - Tranche 1 (MFF 49)
+2837     Agribusiness Infrastructure Development Investment               24.3       19 Dec 11   31 Dec 15
+         Program - Tranche 2 (MFF 45)
+3172     Karnataka Integrated and Sustainable Water Resources             31.0       17 Oct 14   31 Mar 19
+         Management Investment Program - Project 1 (MFF 85)
+3265     Orissa Integrated Irrigated Agriculture and Water               120.0       30 Jun 15   17 Sep 18
+         Management Investment Program - Project 2
+Education
+3033     Supporting Human Capital Development in Meghalaya               100.0       27 Sep 13   31 Mar 19
+3188     Supporting Kerala's Additional Skill Acquisition Program in     100.0       19 Nov 14   30 Jun 19
+         Post-Basic Education
+Energy
+2309     Uttaranchal Power Sector Investment Program - Tranche            41.9       2 Jan 07    30 Mar 16
+         1 (MFF 3)
+                                                                                                             c
+2323     Madhya Pradesh Power Sector Investment Program -                106.0       4 Apr 07    31 Jan 13             S
+         Tranche 1 (MFF 11)
+                                                                                                             c
+2324     Madhya Pradesh Power Sector Investment Program -                 45.0       4 Apr 07    15 Jul 13
+         Tranche 2 (MFF 11)
+                                                                                                                 c
+2346     Madhya Pradesh Power Sector Investment Program -                144.0       21 Aug 07   16 Sep 13             S
+         Tranche 3 (MFF 11)
+                                                                                                             c
+2347     Madhya Pradesh Power Sector Investment Program -                 90.0       21 Aug 07   1 May 14
+         Tranche 4 (MFF 11)
+2415     National Power Grid Development Investment Program -            400.0       28 Mar 08   30 Jun 15
+         Tranche 1 (MFF 19)
+2461     Himachal Pradesh Clean Energy Development Investment            150.0       27 Oct 08   30 Apr 15
+         Program - Tranche 1 (MFF 23)
+2498     Uttarakhand Power Sector Investment Program - Tranche            62.4       23 Dec 08   30 Mar 16
+         2 (MFF 3)
+2502     Uttarakhand Power Sector Investment Program - Tranche            30.6       8 Jan 09    15 Dec 15
+         3 (MFF 3)
+2510     National Power Grid Development Investment Program -            200.0       3 Mar 09    31 Dec 15
+         Tranche 2 (MFF 19)
+2520     Madhya Pradesh Power Sector Investment Program -                166.0       13 Apr 09   31 Dec 14
+         Tranche 5 (MFF 11)
+2592     Assam Power Sector Enhancement Investment Program -              60.3       27 Nov 09   30 Jun 15
+         Tranche 1 (MFF 38)
+2596     Himachal Pradesh Clean Energy Development Investment             59.1       8 Dec 09    31 Mar 15
+         Program - Tranche 2 (MFF 23)
+2677     Assam Power Sector Enhancement Investment Program -              89.7       5 Oct 10    30 Jun 15
+         Tranche 2 (MFF 30)
+2681     Bihar Power System Improvement                                  132.2       19 Oct 10   30 Jun 16
+2687     Himachal Pradesh Clean Energy Development Investment            208.0       22 Oct 10   30 Jun 16
+         Program - Tranche 3 (MFF 23)
+2732     Madhya Pradesh Power Sector Investment Program -                 69.0       21 Dec 10   31 Dec 14
+         Tranche 6 (MFF 11)
+2764     Madhya Pradesh Energy Efficiency Improvement                    200.0       15 Jul 11   28 Feb 18
+         Investment Program - Tranche 1 (MFF 57)
+2778     Gujarat Solar Power Transmission                                100.0       12 Sep 11   31 Dec 16
+ 16       Appendix 1
+
+
+                                                                                a
+Loan                                                                  Amount          Date       Closing           PCR
+                                                                                                       b
+No.                           Project Name                            ($ million)   Approved      Date            Rating
+2787     National Grid Improvement                                      500.0       30 Sep 11   30 Jun 17
+2794     Himachal Pradesh Clean Energy Transmission Investment          113.0       18 Oct 11   30 Jun 18
+         Program - Tranche 1 (MFF 62)
+2800     Assam Power Sector Enhancement Investment Program -             50.0       4 Nov 11    30 Jun 15
+         Tranche 3 (MFF 38)
+2823     National Power Grid Development Investment Program -            76.0       7 Dec 11    31 Mar 15
+         Tranche 3 (MFF 19)
+2830     Madhya Pradesh Energy Efficiency Improvement                   200.0       14 Dec 11   28 Feb 18
+         Investment Program - Tranche 2 (MFF 57)
+2914     Himachal Pradesh Clean Energy Development Investment           315.0       2 Oct 12    30 Jun 18
+         Program -Tranche 4 (MFF 23)
+2924     Uttarakhand Power Sector Investment Program - Tranche          150.0       26 Oct 12   30 Mar 16
+         4 (MFF 3)
+3001     Himachal Pradesh Clean Energy Transmission Investment          110.0       7 May 13    30 Jun 18
+         Program - Tranche 2 (MFF 62)
+3052     Rajasthan Renewable Energy Transmission Investment              62.0       22 Oct 13   31 Dec 16
+         Program - Tranche 1 (MFF 76)
+3066     Madhya Pradesh Power Transmission and Distribution             350.0       27 Nov 13   31 Dec 18
+         System Improvement
+3140     Assam Power Sector Investment Program - Tranche 1               50.0       11 Jul 14   30 Jun 19
+         (MFF 83)
+3200     Assam Power Sector Enhancement Investment Program               50.2       25 Nov 14   30 Jun 19
+         Tranche 4 (MFF 38)
+Finance
+2452    Khadi Reform and Development Program                            150.0        2 Oct 08    30 Sep 15
+2617    Micro, Small, and Medium Enterprise Development                  50.0       26 Feb 10    30 Jun 15
+                                                                                                          c
+2822    Second India Infrastructure Project Financing Facility -        240.0       1 Dec 11    14 May 14
+                                                                                                                    S
+        Tranche 3 (MFF 37)
+3048    Accelerating Infrastructure Investment Facility in India -      400.0       21 Oct 13   31 Dec 16
+        Tranche 1 (MFF 77)
+3186    Clean Energy Finance Investment Program - Tranche 1             200.0       17 Nov 14    30 Apr 19
+        (MFF 87)
+Health
+3257    Supporting National Urban Health Mission                        300.0       28 May 15   30 Sep 18
+Multisector
+                                                                                                            c
+2404    India Infrastructure Project Financing Facility - Tranche 1     300.0       20 Dec 07   15 Jan 10
+                                                                                                                   HS
+        (MFF 17)
+                                                                                                            c
+2509    India Infrastructure Project Financing Facility - Tranche 2     200.0       24 Feb 09   26 Aug 11
+        (MFF 17)
+                                                                                                            c
+2586    Second India Infrastructure Project Financing Facility -        210.0       27 Nov 09   14 Sep 11
+                                                                                                                    S
+        Tranche 1 (MFF 37)
+                                                                                                            c
+2717    Second India Infrastructure Project Financing Facility -        250.0       7 Dec 10    23 Oct 12
+        Tranche 2 (MFF 37)
+Public Sector Management
+                                                                                                            c
+2442    Assam Governance and Public Resource Management                 100.0       17 Sep 08    6 Feb 12           S
+        Sector Development Program (Subprogram 2)
+2536    Mizoram Public Resource Management Program                       94.0       18 Aug 09   31 Jan 15
+2537    Developing Public Resource Management Program in                 6.0        18 Aug 09   31 Jan 15
+        Mizoram (TA Loan for Mizoram Public Resource
+        Management Program)
+                                                                                                            c
+2926    West Bengal Development Finance Program                         400.0       30 Oct 12   24 Jul 14           S
+3187    Punjab Development Finance Program                              200.0       19 Nov 14   30 Jun 17
+Transport
+                                                                                                              c
+2308    Uttaranchal State-Road Investment Program - Tranche 1            50.0        2 Jan 7     1 May 13
+        (MFF 10)
+                                                                                                          c
+2330    Madhya Pradesh State Roads Sector Project II                    320.0       31 May 07    5 Oct 12           S
+                                                                                                          c
+2414    Rural Roads Sector II Investment Program - Tranche 2             77.7       17 Mar 08    7 Apr 11          HS
+        (MFF 1)
+                                                                                             Appendix 1         17
+
+                                                                             a
+Loan                                                               Amount          Date       Closing         PCR
+                                                                                                     b
+No.                          Project Name                          ($ million)   Approved       Date         Rating
+                                                                                                       c
+2443    Bihar State Highways                                         420.0       18 Sep 08   28 Jan 13
+                                                                                                       c
+2445    Rural Roads Sector II Investment Program - Tranche 3         130.0       26 Sep 08   19 Nov 13
+        (MFF 1)
+2458    Uttarakhand State-Road Investment Program - Tranche 2        140.0       22 Oct 08   31 Mar 15
+        (MFF 10)
+                                                                                                         c
+2527    National Highway Corridor (Sector) I - (Supplementary)       100.0       30 Jun 09    9 May 12         S
+                                                                                                       c
+2535    Rural Roads Sector II Investment Program - Tranche 4         185.0       7 Aug 09    23 Apr 13         S
+        (MFF 1)
+2578    South Asia Tourism Infrastructure Development (Regional)      20.0       16 Nov 09   15 Mar 15
+2594    Jharkhand State Roads                                        200.0        2 Dec 09   31 Dec 15
+2651    Rural Roads Sector II Investment Program - Tranche 5         222.2        6 Jul 10   30 Jun 14
+        (MFF 1)
+2660    National Capital Region Urban Infrastructure Financing        78.0       18 Aug 10   31 Dec 14
+        Facility - Tranche 1 (MFF 44)
+2663    Bihar State Highways II                                      300.0       16 Sep 10   30 Jun 16
+2705    Karnataka State Highways Improvement                         315.0       29 Nov 10   31 Dec 16
+2736    Madhya Pradesh State Roads III                               300.0       10 Mar 11   31 Dec 15
+2770    North Eastern State Roads Investment Program - Tranche        74.8       22 Aug 11   31 Dec 16
+        1 (MFF 58)
+2793    Railway Sector Investment Program - Tranche 1 (MFF 60)       150.0       18 Oct 11   30 Jun 18
+2881    Rural Connectivity Investment Program - Tranche 1 (MFF       252.0       22 Aug 12   31 Dec 15
+        69)
+2894    Bihar State Highways II - Additional Financing               300.0       20 Sep 12   31 Mar 18
+2925    Jammu and Kashmir Urban Sector Development                   110.0       26 Oct 12   31 Mar 17
+        Investment Program - Tranche 2 (MFF 12)
+2981    Chhattisgarh State Road Sector Project                       300.0       11 Dec 12   30 Jun 18
+3040    Uttarakhand State - Road Investment Program - Tranche        150.0        9 Oct 13   31 Dec 17
+        3 (MFF 10)
+3055    Uttarakhand Emergency Assistance                             200.0       28 Oct 13   31 Mar 17
+3062    Jaipur Metro Rail Line 1 - Phase B                           176.0       20 Nov 13   30 Sep 18
+3065    Rural Connectivity Investment Program - Tranche 2 (MFF       275.0       25 Nov 13   31 Dec 17
+        69)
+3073    North Eastern State Roads Investment Program - Tranche       125.2       2 Dec 13    31 Mar 20
+        2 (MFF 58)
+3108    Railway Sector Investment Program - Tranche 2 (MFF 60)       130.0       6 Feb 14    30 Jun 19
+3118    South Asia Subregional Economic Cooperation Road             300.0       1 Apr 14    30 Jun 22
+        Connectivity Investment Program - Tranche 1 (MFF 79)
+3189    Madhya Pradesh District Connectivity Sector                  350.0       19 Nov 14   31 Oct 18
+3276    Second Jharkhand State Road                                  200.0        9 Sep 15   30 Jun 20
+3306    Rural Connectivity Investment Program - Tranche 3 (MFF       273.0       22 Oct 15   30 Jun 18
+        69)
+Water and other urban infrastructure and services
+                                                                                                         c
+2312    North Karnataka Urban Sector Investment Program -             33.0       26 Jan 07   23 Jul 14        LS
+        Tranche 1 (MFF 6)
+2331    Jammu and Kashmir Urban Sector Development                    42.2       4 Jun 07    30 Apr 15
+        Investment Program - Tranche 1 (MFF 12)
+2366    Rajasthan Urban Sector Development Investment                 60.0       8 Nov 07    31 Dec 14
+        Program - Tranche 1 (MFF 15)
+2410    Uttarakhand Urban Sector Development Investment               60.0       1 Feb 08    25 Jan 16
+        Program - Tranche 1 (MFF 18)
+                                                                                                         c
+2456    Urban Water Supply and Environmental Improvement in           71.0       13 Oct 08   24 Jun 14
+        Madhya Pradesh (Supplementary Loan)
+2506    Rajasthan Urban Sector Development Investment                150.0       19 Jan 09   30 Jun 15
+        Program - Tranche 2 (MFF 15)
+2528    North Eastern Region Capital Cities Development               30.0        1 Jul 09   30 Apr 16
+        Investment Program - Tranche 1 (MFF 30)
+2638    North Karnataka Urban Sector Investment Program -            123.0       14 Jun 10   30 Jun 16
+        Tranche 2 (MFF 6)
+ 18       Appendix 1
+
+
+                                                                                    a
+Loan                                                                    Amount             Date       Closing      PCR
+                                                                                                            b
+No.                            Project Name                             ($ million)     Approved       Date       Rating
+2676     Infrastructure Development Investment Program for                 43.4          4 Oct 10    30 Jun 17
+         Tourism - Tranche 1 (MFF 46)
+2684     Assam Integrated Flood and Riverbank Erosion Risk                 56.9         25 Oct 10    31 Jul 16
+         Management Investment Program - Tranche 1 (MFF 50)
+2725     Rajasthan Urban Sector Development Investment                     63.0         13 Dec 10    30 Jun 15
+         Program - Tranche 3 (MFF 15)
+2797     Uttarakhand Urban Sector Development Investment                  100.0         3 Nov 11     31 Dec 15
+         Program - Tranche 2 (MFF 18)
+2806     Assam Urban Infrastructure Investment - Tranche 1 (MFF            81.0         18 Nov 11    30 Jun 18
+         64)
+2833     Infrastructure Development Investment Program for                 43.8         15 Dec 11    31 Dec 17
+         Tourism - Tranche 2 (MFF 46)
+2834     North Eastern Region Capital Cities Development                   72.0         16 Dec 11    30 Jun 16
+         Investment Program - Tranche 2 (MFF 30)
+2861     Bihar Urban Development Investment Program - Tranche              65.0         13 Apr 12    30 Jun 17
+         1 (MFF 67)
+2882     North Karnataka Urban Sector Investment Program -                 60.0         22 Aug 12    30 Jun 16
+         Tranche 3 (MFF 6)
+3053     Kolkata Environmental Improvement Investment Program             100.0         22 Oct 13    30 Jun 19
+         - Tranche 1 (MFF 75)
+3088     North Karnataka Urban Sector Investment Program -                 63.3         9 Dec 13     5 Dec 16
+         Tranche 4 (MFF 6)
+3132     Jammu and Kashmir Urban Sector Development                        60.0         18 Jun 14    31 Mar 17
+         Investment Program - Tranche 3 (MFF 12)
+3148     Karnataka Integrated Urban Water Management                       75.0         29 Jul 14    30 Sep 19
+         Investment Program - Tranche 1 (MFF 80)
+3182     Rajasthan Urban Sector Development Program (Program              250.0         24 Oct 14    30 Jun 20
+         Loan)
+3183     Rajasthan Urban Sector Development Program (Project              250.0         24 Oct 14    30 Jun 20
+         Loan)
+3223     Infrastructure Development Investment Program for                123.5         11 Dec 14    30 Jun 20
+         Tourism - Tranche 3 (MFF 46)
+ MFF = multitranche financing facility, PCR = project completion report.
+ a
+   Based on approved amount.
+ b
+   Based on the latest revised closing date unless otherwise indicated.
+ c
+   Actual closing date.
+ Source: Asian Development Bank.
+
+                                                Table A1.2: Grants
+Grant                                                                     Amount          Date       Closing       GCR
+No.                           Project Name                               ($ million)    Approved      Date        Rating
+Agriculture and Natural Resources
+9134    Capacity Building and Livelihood Enhancement of Poor
+        Water Users                                                           2.0       19 Jun 09    17 Dec 15
+9147    Improving Small Farmers' Access to Market in Bihar and
+        Maharashtra                                                           3.0        30 Jul 10    30 Apr 16
+9168    Livelihood Improvement for River Erosion Victims in Assam             2.5        5 Oct 12    31 May 16
+Industry and Trade
+9145    Supporting Microentrepreneurship for Women's
+        Empowerment                                                           3.0       25 May 10    31 Dec 14
+Water and other urban infrastructure and services
+399     Karnataka Integrated Urban Water Management
+        Investment Program - Tranche 1                                        1.8       29 Jul 14    30 Sep 19
+413     Rajasthan Urban Sector Development Program                            2.0       24 Oct 14    30 Jun 20
+ GCR = grant completion report.
+ Source: Asian Development Bank.
+                                                                                                                              Appendix 1      19
+
+
+                                               Table A1.3: Nonsovereign Operations ($ million)
+Number                                                      Equity                             B-                               Date       XARR
+                                Company                     Facility   OCR     ADF   Total    Loan   Guarantees   Combined    Approved     Rating
+Agriculture and Natural Resources
+7389/3016 Champion Agro Limited Horticulture Cold Chain           -     18.4     -    18.4       -            -        18.4   23 Aug 13
+7411         India Agri Business Fund II                         30        -     -    30.0       -            -        30.0   18 Jul 14
+Education
+7405         Hippocampus Learning Centers (Rural
+             Education Project)                                    2       -     -      2.0      -            -         2.0   11 Apr 14
+Energy
+7253/2326 The Tata Power Company Limited (TPC)                     -    79.3     -    79.3       -            -        79.3   17 Apr 07     HS
+7276/2419 Coastal Gujarat Power Limited (CGPL)                     -   450.0     -   450.0       -            -       450.0   17 Apr 08
+7277/2417 Gujarat Paguthan Energy Corporation Private
+             Limited (GPEC)                                        -    45.0     -    45.0       -            -        45.0   17 Apr 08      S
+7277/2434 CLP Wind Farms Private Limited (CWFPL)                   -    60.0     -    60.0       -            -        60.0   17 Apr 08      S
+7288/2476 Rural Electrification Corporation of India               -   225.0     -   225.0       -            -       225.0   27 Nov 08
+7300         Public­Private Partnership for Renewable
+             Energy Development                                  40        -     -    40.0       -            -        40.0   28 Apr 09
+7331         Solar Power Generation                               -        -     -       -       -          150       150.0   19 Apr 11
+7338/2788 Powergrid                                               -    250.0     -   250.0       -            -       250.0   30 Sep 11
+7340/2798 Dahanu Solar Power Private Limited                      -     48.0     -    48.0       -            -        48.0    2 Nov 11      S
+7353/2853 Industrial Credit and Investment Corporation of
+             India                                                 -   100.0     -   100.0       -            -       100.0   28 Mar 12
+7354/2854 Rajasthan Sun Technique Energy Private
+             Limited                                               -   103.0     -   103.0       -            -       103.0   28 Mar 12
+7361/2906 Chattel Constructions Private Limited                    -    19.1     -    19.1       -            -        19.1   18 Sep 12
+7362/2907 Ganges Green Energy Private Limited                      -    20.7     -    20.7       -            -        20.7   18 Sep 12
+7363/2908 Hiraco Renewable Energy Private Limited                  -    16.3     -    16.3       -            -        16.3   18 Sep 12
+7364/2909 Responsive Sutip Limited                                 -    19.1     -    19.1       -            -        19.1   18 Sep 12      S
+7365/2910 Sand Land Real Estate Private Limited                    -    13.7     -    13.7       -            -        13.7   18 Sep 12      S
+7366/2911 Ujiwala Power Private Limited                            -    11.2     -    11.2       -            -        11.2   18 Sep 12      S
+7381         Simpa Networks off-grid Pay-as-you-go Solar
+             Power                                                 2       -     -      2.0      -            -         2.0   15 Jan 13
+7386         NSJ Renewable Power Private Limited - Hydro
+             and Wind Power Development                          30        -     -    30.0       -            -        30.0   12 Apr 13
+7396/3085 Petronet LNG Limited                                    -    150.0     -   150.0       -            -       150.0    5 Dec 13
+7398/3101 BSES Rajdhani Power Limited                             -     80.0     -    80.0       -            -        80.0   10 Dec 13
+7400         Welspun Renewables Energy Limited (WREL)            50        -     -    50.0       -            -        50.0   12 Dec 13
+7406         Renew Power Ventures Private Limited (Renew
+             Power Investment Project)                           50        -     -    50.0       -            -        50.0   16 May 14
+7416/3175 Acme Gurgaon Power Private Limited (Acme-
+             EDF Solar Power Project)                              -    10.0     -    10.0       -            -        10.0   16 Oct 14
+20       Appendix 1
+
+
+Number                                                           Equity                             B-                                Date       XARR
+                                 Company                         Facility   OCR     ADF   Total    Loan    Guarantees   Combined    Approved     Rating
+7417/3176     Acme Mumbai Power Private Limited (Acme-
+              EDF Solar Power Project)                                  -     9.7     -      9.7       -            -         9.7   16 Oct 14
+7418/3177     Acme Rajdhani Power Private Limited(Acme-
+              EDF Solar Power Project)                                  -     9.8     -      9.8       -            -         9.8   16 Oct 14
+7419/3178     Medha Energy Private Limited (Acme-EDF Solar
+              Power Project)                                            -     9.4     -      9.4       -            -         9.4   16 Oct 14
+7420/3179     Ranji Solar Energy Private Limited (Acme-EDF
+              Solar Power Project)                                      -    11.2     -    11.2        -            -        11.2   16 Oct 14
+7421/3180     Acme-EDF Solar Power Project (100mw of
+              Projects To Be Selected By ADB)                           -    50.0     -    50.0        -            -        50.0   16 Oct 14
+Finance
+7248/2318     Small Industries Development Bank of India
+              (SIDBI)                                                  -        -     -       -        -            -           -   22 Feb 07
+7283          India Mortgage Guarantee Company                    18.581        -     -    18.6        -            -        18.6   22 Aug 08
+7301/2559     Export-Import Bank of India (Eximbank)                   -    100.0     -   100.0        -            -       100.0   30 Sep 09
+7306          Small Industries Development Bank of India               -        -     -       -        -        250.0       250.0   26 Feb 10
+7360          Credit Enhancement of Project Bonds                      -        -     -       -        -        128.0       128.0   20 Sep 12
+7427/3192     Dewan Housing Finance Corporation (Low-Cost
+              Affordable Housing Finance)                               -   125.0     -   125.0        -            -       125.0   18 Nov 14
+7428/3195     Axis Bank Limited (Strengthening Rural Financial
+              Inclusion and Farmer Access to Markets Project)           -   200.0     -   200.0        -            -       200.0   18 Nov 14
+7429/3196     Yes Bank Limited (Strengthening Rural Financial
+              Inclusion and Farmer Access to Markets Project)           -   200.0     -   200.0        -            -       200.0   18 Nov 14
+Health
+7287/2470     Columbia Asia Hospitals Private Limited                   -    38.6     -    38.6        -            -        38.6   10 Nov 08
+Multisector
+7334          Ventureast Life Fund III                                20        -     -    20.0        -            -        20.0   20 May 11
+Transport
+7278/2421   GTL Infrastructure Limited (GIL)                            -   150.0     -   150.0        -            -       150.0   23 May 08
+7286/2459   Soma Isolux NH One Toll Way Private Limited
+            (Soma Isolux)                                               -   100.0     -   100.0    140.0            -       240.0   23 Oct 08
+7329/2748 Bangalore Metro Rail Corporation                              -   250.0     -   250.0        -            -       250.0   31 Mar 11
+7422/3174 Ocean Sparkle Limited                                         -    40.0     -    40.0        -            -        40.0   24 Oct 14
+Water and Other Municipal Infrastructure and Services
+7373/2938 Kul Urban Development Private Limited (Kul
+            UDPL)                                                       -    35.0     -    35.0        -            -        35.0   26 Oct 12
+7452        Drashti Developers Private Limited (Shapporji
+            Affordable Housing Project)                                      35.0          35.0                              35.0     7 Jul 15
+                                                                                      Appendix 1         21
+
+
+                                  Table A1.4: Technical Assistance
+TA                                                                         Date      Closing        TCR
+No.                        TA Name                    Type   Total ($)   Approved     Date         Rating
+Agriculture and Natural Resources
+4965     Sustainable Coastal Protection and           PP     1,200,000   7 Sep 07    26 Mar 11
+         Management
+7131     Institutional Development of Integrated      AD      250,000    18 Sep 08   26 Mar 11
+         Water Resources Management in Orissa
+7132     Integrated Flood and River Erosion           PP      900,000    11 Sep 08   29 Mar 11
+         Management Project
+7136     Integrated Flood and Riverbank Erosion       PP      900,000    26 Sep 08   30 Mar 12
+         Risk Management - Assam (Phase 2):
+         Processing and Institutional Strengthening
+7195     Agribusiness Infrastructure Development      PP     1,000,000   10 Dec 08   23 Dec 11
+         Investment Program (Phase 2)
+                                                        s
+4573     Water Users Association Empowerment for      AD     1,350,000   7 Aug 09    1 Apr 14
+         Improved Irrigation Management in
+         Chhattisgarh (Supplementary)
+7410     Advanced Project Preparedness for            CD      290,000    4 Dec 09    30 Jun 12
+         Poverty Reduction - Capacity Development
+         for Sustainable Coastal Protection and
+         Management (Subproject 3)
+7418     Integrated Water Resources Management        CD      925,000    7 Dec 09    13 Jul 12       S
+         and Sustainable Water Service Delivery in
+         Karnataka
+7713     Project Management Capacity Building for     CD      425,000    16 Dec 10   15 Oct 13       S
+         Water Resources Sector Executing
+         Agencies
+7722     Advanced Project Preparedness for            CD      600,000    7 Dec 10    31 Dec 14
+         Poverty Reduction - Capacity Development
+         for Community-based Flood Risk
+         Management in Assam (Subproject 10)
+7766     Advanced Project Preparedness for            CD      850,000    15 Dec 10   31 May 15
+         Poverty Reduction - Institutional
+         Development for a Value Chain Approach
+         to Agribusiness in Bihar and Maharashtra
+         (Subproject 12)
+7954     Karnataka Integrated and Sustainable         PP     1,200,000   9 Dec 11    29 Jul 14
+         Water Resources Management Investment
+         Program
+8089     Operational Research to Support              PA     1,450,000   1 Jun 12    31 Jul 15
+         Mainstreaming of Integrated Flood
+         Management under Climate Change
+8166     Climate Adaptation through Sub-Basin         PP     1,461,000   20 Sep 12   31 Dec 15
+         Development Investment Program
+8652     Climate-Resilient Coastal Protection and     CD     2,000,000   16 May 14   30 Jun 17
+         Management
+Education
+8010     Skills Development for Inclusive Growth      CD     1,100,000   19 Dec 11   30 Apr 15
+8087     Supporting Human Capital Development in      PP       225,000   30 May 12   13 Dec 13
+         Meghalaya
+8468     Capacity Building for Supporting Human       CD     2,000,000   27 Sep 13   31 May 16
+         Capital Development in Meghalaya
+8571     Supporting Additional Skill Acquisition      PP      225,000    13 Dec 13   31 Mar 15
+         Program in Kerala
+8593     Odisha Skills Development                    PP       725,000   17 Dec 13   21 Sep 16
+8626     Capacity Building of the National Skill      CD     1,500,000    7 Mar 14   30 Apr 16
+         Development Agency
+8760     Capacity Building for the Additional Skill   CD     1,500,000   19 Nov 14   30 Apr 17
+         Acquisition Program
+22     Appendix 1
+
+
+TA                                                                       Date      Closing      TCR
+No.                      TA Name                    Type   Total ($)   Approved     Date       Rating
+Energy
+4992   Energy Efficiency Enhancement in the         AD     1,000,000   16 Nov 07   31 Oct 12    PS
+       Power Generation Sector
+7073   Developing the Power System Master Plan      AD      624,000    4 Apr 08    29 Feb 12     S
+       for Bihar
+7096   Energy Efficiency Enhancement Project in     PP     1,000,000   10 Jul 08   16 Jan 12
+       Assam
+7099   Integrated Renewable Energy                  PP     1,400,000   21 Jul 08   27 Dec 12
+       Development
+7172   Facilitating the Operations of the Energy    AD     1,700,000   13 Nov 08   30 Nov 13
+       Conservation Fund "Energy Smart" in
+       Madhya Pradesh
+7181   Capacity Building for Himachal Pradesh       AD      900,000    26 Nov 08   23 Apr 12     S
+       Power Sector Agencies
+7250   Study on Cross-Sectoral Implications of      PA      500,000    13 Mar 09   31 Dec 11     S
+       Biofuel Production and Use
+7378   Capacity Development of the Assam Power      CD     1,000,000   18 Nov 09   31 Mar 13
+       Sector Utilities
+7478   Advanced Project Preparedness for            CD      500,000    20 Nov 09   15 Jun 12     S
+       Poverty Reduction - Capacity Development
+       of Bihar Power Sector Entities (Subproject
+       4)
+7622   Bihar Power Sector Capacity Development      CD      300,000    19 Oct 10   18 Jan 15
+       and Implementation Support
+7652   Madhya Pradesh Energy Efficiency             PP      400,000    18 Nov 10   20 Sep 12
+       Improvement
+7661   Himachal Pradesh Clean Energy                PP      225,000    29 Nov 10   26 Mar 12
+       Transmission Program
+7688   Innovative Financial Instruments for Power   CD      225,000    26 Nov 10   30 May 12     S
+       Grid
+7771   Himachal Pradesh Clean Energy                PP      500,000    11 Jan 11   31 May 12
+       Transmission Investment Program
+7802   Capacity Building for Commercial Bank        CD     1,250,000   8 Apr 11    30 Jun 14    PS
+       Lending for Solar Energy Projects
+7814   Advanced Project Preparedness for            CD      500,000    11 May 11   27 Sep 13
+       Poverty Reduction - Rajasthan Solar Park
+       Capacity Development (Subproject 13)
+7815   Advanced Project Preparedness for            CD      400,000    16 May 11   31 Dec 14
+       Poverty Reduction - Gujarat Solar
+       Vocational Training and Livelihoods
+       (Subproject 14)
+7808   Development of International Center for      CD     2,000,000   17 May 11   31 Dec 14
+       Application of Solar Energy Technologies
+7831   Enhancing Energy-Based Livelihoods for       CD     1,000,000    7 Jul 11   13 Apr 15
+       Women Micro-Entrepreneurs
+7875   Himachal Pradesh Power Sector Capacity       CD      600,000    30 Sep 11   31 Dec 16
+       Development and Implementation Support
+7922   Support to Jawaharlal Nehru National Solar   CD      225,000    18 Nov 11   22 Aug 13     S
+       Mission
+8020   Advanced Project Preparedness for            PP      225,000    21 Dec 11   31 Mar 14
+       Poverty Reduction - Rajasthan Renewable
+       Energy Transmission Program (Subproject
+       19)
+8055   Gujarat Solar and Smart Grid Development     PP      350,000    5 Mar 12    31 Dec 15
+       Investment Program
+8056   Advanced Project Preparedness for            CD      600,000    8 Mar 12    9 Jan 15
+       Poverty Reduction - Gender Inclusive
+       Capacity Development for Electricity
+       Distribution Loss Reduction in Rural
+                                                                                     Appendix 1         23
+
+
+TA                                                                         Date      Closing       TCR
+No.                       TA Name                     Type   Total ($)   Approved     Date        Rating
+         Madhya Pradesh (Subproject 23)
+8062     Maharashtra Solar Park and Green Grid        PP      350,000    20 Mar 12   30 Jun 14
+         Development Investment Program
+8129     Advanced Project Preparedness for            CD      400,000    3 Aug 12    30 Jun 14
+         Poverty Reduction - Updating Load
+         Forecasting and Power System Master
+         Plan for Assam (Subproject 26)
+8351     Advanced Project Preparedness for            PP      975,000    11 Apr 13   31 Dec 15
+         Poverty Reduction - Second Power Sector
+         Investment for Assam (Subproject 28)
+8365     Clean Energy Finance Investment Program      PP      225,000    9 May 13    30 Apr 15
+8374     Madhya Pradesh Power Transmission and        PP      750,000    30 May 13   30 Jun 15
+         Distribution System Improvement
+8455     Concentrated Solar Power                     PP     1,000,000   24 Sep 13   10 Jun 15
+8486     Rajasthan Renewable Energy Capacity          CD     2,000,000   22 Oct 13   31 Mar 16
+         Development and Implementation Support
+8545     National Green Energy Corridor Investment    PP      225,000    10 Dec 13   31 Oct 15
+8642     Advanced Project Preparedness for            PP      100,000    15 Apr 14   31 Oct 15
+         Poverty Reduction - Project Preparation
+         and Implementation Support for Odisha
+         Power Sector Emergency Assistance
+         (Subproject 31)
+Finance
+4938     Implementing Pension Reforms                 AD     1,000,000    8 Jun 07   25 Oct 11     HS
+7030     Capacity Development for India               AD       500,000   14 Dec 07   31 Dec 11      S
+         Infrastructure Finance Company Limited
+7142     Capacity Building for Reforming the Khadi    AD     2,000,000   2 Oct 08    30 Sep 15
+         and Village Industry Subsector
+7358     Small and Medium Enterprise Trade            CD     1,550,000   30 Sep 09   31 Dec 15
+         Finance Development Facility
+8279     Preparing the Bond Guarantee Fund for        CD      800,000    17 Dec 12   28 Apr 15
+         India
+8764     Enhancing Bond Guarantee Structuring         CD      225,000    17 Nov 14   31 Jan 16
+         Skills in India
+8857     Strengthening Rural Financial Inclusion      CD     2,000,000   18 Nov 14   31 Dec 18
+         and Farmer Access to Markets
+8876     Enabling Monetization of Infrastructure      PP      225,000    13 Feb 15   7 Jun 17
+         Assets in India
+8937     Capacity Building of the Indian Renewable    CD      750,000    6 Aug 15
+         Energy Development Agency
+Health and Social Protection
+7256     Strengthening Implementation of Social       CD      225,000    10 Feb 09   31 May 11     PS
+         and Environmental Safeguard
+         Requirements in Projects in India
+7921     Advanced Project Preparedness for            CD      600,000    15 Nov 11   31 Jan 15
+         Poverty Reduction - Supporting Clean
+         Village Environments for MDGs
+         (Subproject 17)
+8577     Supporting National Urban Health Mission     PP       825,000   16 Dec 13   30 Apr 15
+8899     Strengthening Capacity of the National       CD     2,000,000   28 May 15   30 Jun 18
+         Urban Health Mission
+Industry and Trade
+7014     Inclusive Tourism Infrastructure             PP     1,000,000   12 Dec 07   26 Jun 12
+         Development
+Multisector
+7092     Knowledge Management for Enhanced            AD     1,000,000   27 Jun 08   18 Sep 12      S
+         Operational Effectiveness
+7152     Public­Private Partnerships Pilot Projects   PP     2,000,000   17 Oct 08   31 Dec 15
+         Initiative (Mainstreaming Public­Private
+24     Appendix 1
+
+
+TA                                                                         Date      Closing      TCR
+No.                      TA Name                      Type   Total ($)   Approved     Date       Rating
+        Partnerships)
+7211    Capacity Development Programs for             AD      225,000    2 Dec 08    23 Mar 11     S
+        Executing Agency Staff of India Projects
+7342    Supporting an Initiative for Mainstreaming    CD     1,500,000   11 Sep 09   30 Sep 15
+        Public­Private Partnerships for Providing
+        Urban Amenities in Rural Areas
+7413    Multistate and Multisector Project            CD     1,200,000   8 Dec 09    28 Feb 15
+        Management Capacity Building
+7417    Support for the National Action Plan on       PA      950,000    7 Dec 09    31 Dec 11    HS
+        Climate Change
+7463    Sustaining the Government of India-ADB        CD     1,300,000   10 Dec 09   31 Dec 16
+        Initiative for Mainstreaming Public­Private
+        Partnerships
+7511    Capacity Building for Government              CD      225,000    15 Mar 10   30 Jun 14     S
+        Agencies Supporting ADB Operations in
+        India
+7593    Capacity Development for Project              CD     3,250,000   7 Sep 10    31 Dec 15
+        Implementation
+7625    Deepening Capacity Building for               CD     3,000,000   22 Oct 10   30 Jun 14     S
+        Mainstreaming Public­Private Partnerships
+7734    Knowledge Management for Inclusive            PA     2,250,000   14 Dec 10   14 Dec 16
+        Growth
+7747    Assam Urban Infrastructure                    PP      225,000    16 Dec 10   21 Feb 12
+7750    Strengthening Urban Transport Subsector       CD      225,000    16 Dec 10   31 Oct 12     S
+        under ADB-supported Urban Development
+        Projects
+7751    Strengthening Contracting and                 PA      225,000    13 Dec 10   17 Oct 12     S
+        Construction Industries for Infrastructure
+        Development in India
+8420    Advanced Project Preparedness for             CD      600,000    6 Aug 13    31 Dec 15
+        Poverty Reduction - Enhancing Capacities
+        of Executing and Implementing Agencies to
+        Achieve Gender Equality Results
+        (Subproject 29)
+Public Sector Management
+                                                        s
+4890    Mainstreaming Public­Private Partnerships     AD     2,000,000   8 Aug 08    31 Oct 12     S
+        at State Level (Supplementary)
+4993    Mainstreaming Public­ Private                 AD     2,000,000   16 Nov 07   30 Mar 12     S
+        Partnerships at Central Line Ministries of
+        the Government of India
+7055    Capacity Development of the National          AD     2,000,000   23 Jan 08   31 Aug 12     S
+        Capital Region Planning Board
+7129    Supporting the Assam Governance and           AD      600,000    17 Sep 08   29 Feb 12     S
+        Public Resource Management Sector
+        Development Program (Subprogram II)
+7334    India Municipal Finance Study                 PA       500,000   24 Aug 09   28 Dec 11    PS
+7441    Assisting in Framework Development for        PA     1,000,000   11 Dec 09   27 Jun 14    S
+        Mainstreaming Public­Private Partnerships
+7745    Advanced Project Preparedness for             PP      200,000    17 Nov 10   13 Feb 12
+        Poverty Reduction - Meghalaya Public
+        Resource Management Development
+        Program (Subproject 9)
+8041    Advanced Project Preparedness for             PP      220,000    17 Dec 11   24 Dec 12
+        Poverty Reduction - Designing and
+        Capacity Building for Strengthening State
+        Finances and Service Delivery in West
+        Bengal (Subproject 21)
+8203    Supporting West Bengal Development            CD      700,000    30 Oct 12   30 Jan 15
+        Finance Program
+                                                                                   Appendix 1         25
+
+
+TA                                                                       Date       Closing      TCR
+No.                        TA Name                  Type   Total ($)   Approved      Date       Rating
+8232    Punjab Development Finance Program           PP     290,000    22 Nov 12   20 Jan 14
+8759    Supporting the Punjab Development            CD     400,000    19 Nov 14   30 Apr 17
+        Finance Program
+8787    Support to Scheme of Fund for               PP      225,000    12 Dec 14   31 Dec 15
+        Regeneration of Traditional Industries
+Transport
+4934    Institutional Strengthening of Madhya       AD     1,000,000   31 May 07   10 Dec 10
+        Pradesh Public Works Department
+4989*   Deploying Innovative Information and        AD      500,000    15 Nov 07   23 Dec 11     PS
+        Communications Technology for
+        Supporting e-Governance in Assam
+4998    Railway Sector Investment Program           PP     1,000,000   29 Nov 07   31 Jul 10
+3995    Chhattisgarh State Roads Sector             PP       990,000   26 Jun 08   10 Jun 11
+        Development (Reallocation of Funding)
+7130    Institutional Strengthening of the Bihar    AD     1,000,000   18 Sep 08   23 Dec 11
+        Road Sector
+7134    Preparing and Enhancing Readiness of        PP      800,000    23 Sep 08   20 Sep 12
+        Proposed North Eastern State Roads
+        Investment Program
+7198    Bihar State Highways II                     PP       700,000   10 Dec 08   31 May 11
+7207    Dedicated Freight Corridor                  PP     1,500,000   10 Dec 08   31 Oct 11      S
+7237    Rural Roads Sector III                      PP     1,130,000   20 Feb 09   31 Aug 13
+7252    Capacity Development to Enhance Project     CD     2,925,000   18 Mar 09   30 Jun 16
+        Readiness and Results Monitoring for
+        Transport Projects
+7324    Karnataka State Highway Network             CD     1,500,000   3 Aug 09    28 Dec 11      S
+        Improvement Strategy
+7390    Advanced Project Preparedness for           PP      600,000    11 Sep 09   23 Dec 11
+        Poverty Reduction - Madhya Pradesh State
+        Roads III (Subproject 1)
+7538    Advanced Project Preparedness for           PA     1,100,000   21 May 10   30 Nov 12
+        Poverty Reduction - Land Transport
+        Management and Master Plan for Sikkim
+        (Subproject 6)
+7598    Capacity Building for Bihar State Road      CD     1,000,000   16 Sep 10   30 Jun 13
+        Sector
+7667    Capacity Building for the Karnataka State   CD     1,500,000   29 Nov 10   31 Dec 14
+        Road Sector
+7761    Advanced Project Preparedness for           CD     1,100,000   16 Dec 10   26 Dec 13
+        Poverty Reduction - Capacity Development
+        for Jharkhand State Roads Sector
+        (Subproject 11)
+7773    Bihar State Highways III                    PP       225,000   16 Dec 10   31 Oct 13
+7785    Capacity Building for Road Safety and       CD     1,000,000   10 Mar 11   30 Sep 14
+        Public­Private Participation Support
+7828    Enhancing Readiness of the Railway          CD      400,000    30 Jun 11   31 Dec 16
+        Sector Investment Program as a Clean
+        Development Mechanism Project
+7838    Capacity Building for North Eastern State   CD     1,200,000   21 Jul 11   31 Dec 14
+        Roads Sector
+8007    Advanced Project Preparedness for           PP     1,295,000   9 Dec 11    31 Jul 15
+        Poverty Reduction - West Bengal North
+        South Road Corridor (Subproject 18)
+8019    Advanced Project Preparedness for           PP     1,200,000   21 Dec 11   30 Jun 15
+        Poverty Reduction - State Roads
+        (Subproject 20)
+8063    Advanced Project Preparedness for           CD      700,000    23 Mar 12   31 Dec 14
+        Poverty Reduction - Capacity Building for
+        the North Eastern State Roads Sector
+26     Appendix 1
+
+
+TA                                                                         Date      Closing      TCR
+No.                     TA Name                       Type   Total ($)   Approved     Date       Rating
+        (Subproject 24)
+8110    Institutional Development for Rural Roads     CD     2,300,000   12 Jul 12   5 Oct 15
+        Asset Management
+8116    Advanced Project Preparedness for             PP     2,000,000   12 Jul 12   31 Dec 15
+        Poverty Reduction - Detailed Design for the
+        SASEC Subregional Road Connectivity
+        (Subproject 25)
+8170    Road Master Plan for Bihar's State            PA     1,000,000   20 Sep 12   30 Apr 15
+        Highway Development*
+8294    Institutional Strengthening of the            CD      500,000    11 Dec 12   30 Jun 15
+        Chhattisgarh Public Works Department
+8295    Advanced Project Preparedness for             CD      500,000    11 Dec 12   30 Jun 15
+        Poverty Reduction - Institutional
+        Strengthening of the Chhattisgarh Public
+        Works Department (Subproject 27)
+8427    Uttar Pradesh Major District Road             PP      700,000    13 Aug 13   31 Jan 16
+        Investment Program
+8543    Advanced Project Preparedness for             PP     2,000,000   9 Dec 13    31 Dec 15
+        Poverty Reduction - Project Preparation
+        and Implementation Support for
+        Uttarakhand Emergency Assistance
+        (Subproject 30)
+8598    Madhya Pradesh District Connectivity          PP      225,000    18 Dec 13   31 Mar 15
+        Sector
+8691    Karnataka State Highways Improvement III      PP      600,000    24 Jul 14   30 Sep 15
+8765    Supporting Sustainable Urban Transport in     CD      225,000    25 Nov 14   31 Mar 16
+        Aizawl City
+8828    Second Rural Connectivity Investment          PP      500,000    16 Dec 14   30 Jun 17
+        Program
+8949    Supporting the Preparation and                CD     2,000,222   03 Sep 15
+        Implementation of the Comprehensive
+        Integrated Master Plan for the Vizag-
+        Chennai Industrial Corridor
+Water and Other Urban Infrastructure and Services
+7106    Bihar Urban Development                       PP     1,000,000   30 Jul 08   23 Dec 11
+7114    National Capital Region Planning Board        PP       700,000   8 Aug 08    30 Jun 11
+        Project
+7148    Promoting Inclusive Urban Development in      AD     1,000,000   15 Oct 08   26 Dec 13     S
+        Indian Cities
+7221    Preparing Nonsovereign Urban                  PP     1,250,000   16 Dec 08   30 Apr 13
+        Infrastructure Projects
+7327    Kolkata Environmental Improvement             PP      400,000    7 Aug 09    30 Nov 12
+        Phase II
+7392    Advanced Project Preparedness for             CD     2,200,000   11 Sep 09   28 Jul 14
+        Poverty Reduction - Support for the
+        Jawaharlal Nehru National Urban Renewal
+        Mission (Phase II) (Subproject 2)
+7565    Advanced Project Preparedness for             PP      200,000    14 Jul 10   26 Dec 12
+        Poverty Reduction - Preparing an
+        Investment Plan for Himachal Pradesh
+        Urban Development (Subproject 7)
+7749    Capacity Development for Project              CD     1,000,000   29 Nov 10   31 Jul 13     S
+        Management of Infrastructure Development
+        for Rural Livelihood Enhancement
+7696    Strategic Framework for a Slum Free Delhi     PA      225,000    9 Dec 10    16 Jul 13     S
+7748    Improving the Delivery of Urban Services in   CD                 16 Dec 10   31 Mar 13
+        Madhya Pradesh
+7867    Advanced Project Preparedness for             CD      600,000    7 Sep 11    31 Dec 14
+        Poverty Reduction - Capacity Building and
+                                                                                          Appendix 1       27
+
+
+TA                                                                                Date         Closing   TCR
+No.                         TA Name                      Type     Total ($)    Approved         Date    Rating
+         Institutional Strengthening for the Assam
+         Urban Infrastructure Investment Program
+         (Subproject 15)
+ 7884    Advanced Project Preparedness for                CD       600,000      11 Oct 11     26 Nov 14
+         Poverty Reduction - Capacity Building for
+         Bihar Urban Infrastructure Development
+         (Subproject 16)
+ 7947    Introducing Best Practices for Septage           CD       700,000      2 Dec 11      31 Dec 14   S
+         Management
+ 8043    Advanced Project Preparedness for                PP       850,000      22 Dec 11     31 Mar 15
+         Poverty Reduction - Rajasthan Urban
+         Development Program (Subproject 22)
+ 8415    Delhi Water Supply Improvement                   PP     1,300,000      29 Jul 13     31 Mar 15
+         Investment Program
+ 8429    Bangalore Cluster City Development               PP     1,300,000      16 Aug 13     28 Feb 15
+         Investment Program
+ 8749    Capacity Development of Institutions in the      CD     1,225,000      24 Oct 14     31 Dec 17
+         Urban Sector in Rajasthan
+ 8799    Supporting Public­Private Partnerships for       CD     1,500,000      15 Dec 14     30 Jun 17
+         Infrastructure Development
+ 8816    Madhya Pradesh Urban Services                    PP     1,000,000      16 Dec 14     31 Dec 16
+         Improvement Program
+ 8820    Strengthening Municipal eGovernance              PP       500,000     16 Dec 14     31 Mar 16
+         Reforms in Karnataka
+AD = advisory, CD = capacity development, PA = policy and advisory, PP = project preparatory, PS = partly
+successful, S = successful, TA = technical assistance, TCR = technical assistance completion report.
+Notes: TA 4989 was originally classified under Transport and ICT sector. One PPTA, TA 7207, has TCR.
+Source: Asian Development Bank database.
+28    Appendix 2
+
+
+      LIST OF INDIA MULTITRANCHE FINANCING FACILITY PROJECTS, 2007­2015
+
+MFF                                                                                   Date        Total
+No.                         Title                                 Sector            Approved    ($ million)
+1      Rural Roads Sector II Investment Program          Transport and ICT          20 Dec 05        750.0
+3      Uttaranchal Power Sector Investment Program       Energy                     30 Mar 06        300.0
+6      North Karnataka Urban Sector Investment           Water and other            6 Dec 06         270.0
+       Program                                           municipal infrastructure
+                                                         and services
+10     Uttaranchal State-Road Investment Program         Transport and ICT          18 Dec 06        550.0
+11     Madhya Pradesh Power Sector Investment            Energy                     29 Mar 07        620.0
+       Program
+12     Jammu and Kashmir Urban Sector                    Water and other            31 May 07        300.0
+       Development Investment Program                    municipal infrastructure
+                                                         and services
+15     Rajastan Urban Sector Development                 Water and other            31 Oct 07        273.0
+       Investment Program                                municipal infrastructure
+                                                         and services
+17     India Infrastructure Project Financing Facility   Multisector                14 Dec 07        500.0
+18     Uttarakhand Urban Sector Development              Water and other            24 Jan 08        350.0
+       Investment Program                                municipal infrastructure
+                                                         and services
+19     National Power Grid Development Investment        Energy                     28 Mar 08        600.0
+       Program
+22     Orissa Integrated Irrigated Agriculture and       Agriculture and natural    18 Sep 08        188.2
+       Water Management Investment Program               resources
+23     Himachal Pradesh Clean Energy Development         Energy                     23 Oct 08        800.0
+       Investment Program
+30     North Eastern Region Capital Cities               Water and other             1 Jun 09        200.0
+       Development Investment Program                    municipal infrastructure
+                                                         and services
+37     Second India Infrastructure Project Financing     Multisector                17 Nov 09        700.0
+       Facility
+38     Assam Power Sector Enhancement                    Energy                     18 Nov 09        200.0
+       Investment Program
+44     National Capital Region Urban Infrastructure      Multisector                10 Aug 10        150.0
+       Financing Facility
+45     Agribusiness Infrastructure Development           Agriculture and natural    16 Sep 10        170.0
+       Investment Program                                resources
+46     Infrastructure Development Investment             Water and other            28 Sep 10        250.0
+       Program for Tourism                               municipal infrastructure
+                                                         and services
+49     Sustainable Coastal Protection and                Agriculture and Natural    29 Sep 10        250.0
+       Management Investment Program                     Resources
+50     Assam Integrated Flood and Riverbank              Agriculture and natural    19 Oct 10        120.0
+       Erosion Risk Management Investment                resources
+       Program
+57     Madhya Pradesh Energy Efficiency                  Energy                      7 Jul 11        400.0
+       Improvement Investment Program
+58     North Eastern State Roads Investment              Transport and ICT          21 Jul 11        200.0
+       Program
+60     Railway Sector Investment Program                 Transport and ICT          31 Aug 11        500.0
+62     Himachal Pradesh Clean Energy Transmission        Energy                     30 Sep 11        350.0
+       Investment Program
+64     Assam Urban Infrastructure Investment             Multisector                30 Sep 11        200.0
+       Program
+67     Bihar Urban Development Investment                Water and other            29 Mar 12        200.0
+       Program                                           municipal infrastructure
+                                                         and services
+69     Rural Connectivity Investment Program             Transport and ICT          12 Jul 12        800.0
+                                                                                              Appendix 2         29
+
+
+ MFF                                                                                    Date             Total
+ No.                          Title                                Sector             Approved         ($ million)
+ 75      Kolkata Environmental Improvement                 Water and other            26 Sep 13              400.0
+         Investment Program                                municipal infrastructure
+                                                           and services
+ 76      Rajasthan Renewable Energy Transmission           Energy                     26 Sep 13              300.0
+         Investment Program
+ 77      Accelerating Infrastructure Investment Facility   Multisector                27 Sep 13              700.0
+         in India
+ 79      South Asia Subregional Economic                   Transport and ICT          28 Mar 14              500.0
+         Cooperation Road Connectivity Investment
+         Program
+ 80      Karnataka Integrated Urban Water                  Water and other            28 Mar 14              152.0
+         Management Investment Program                     municipal infrastructure
+                                                           and services
+ 83      Assam Power Sector Investment Program             Energy                      3 Jul 14              300.0
+ 85      Karnataka Integrated and Sustainable Water        Agriculture, natural       25 Sep 14              150.0
+         Resources Management Investment Program           resources and rural
+                                                           development
+ 87      Clean Energy Finance Investment Program           Finance                      30 Oct 14             500.0
+                                                                                               Total       13,193.2
+ICT = information and communication technology, MFF = multitranche financing facility, No. = number.
+Source: Asian Development Bank Loan Financial Information System Database.
+30     Appendix 3
+
+
+EVALUATION FRAMEWORK FOR THE COUNTRY ASSISTANCE PROGRAM EVALUATION
+
+                                                         Major
+                                                   Indicators and
+Evaluation          Areas of Evaluation                Areas of           Sources of         Evaluation
+Criteria              and Subcriteria              Consideration         Information           Process
+Relevance     Were the CPS strategic              Macroeconomic       Government's       Desk review of
+              objectives valid in relation to:    and social          strategies.        all relevant
+              (a) the country's development       indicators for      Country            documents.
+              needs and challenges, and (b)       India.              economic
+              ADB's corporate strategies                              reports.           Discussions with
+              and priorities?                     Economic reform                        ADB regional
+                                                  milestones.         CPSs, COBPs,       department,
+              Does ADB's sector strategy                              RRPs, TA           government
+              support the government's            Evolution of        reports, PCRs,     officials,
+              sector development plan?            India's             PPERs, and         development
+                                                  development         ADB databases.     partners, and
+              In the ADB's strategies, how        plans.                                 other
+              well did the documents                                  Discussions with   stakeholders.
+              explain (i) the policy issues       Evolution of        development
+              targeted for support, (ii) the      ADB's CPSs.         partners,          Desk review of
+              capacity-building efforts linked                        government, and    all relevant
+              with policy issues, and (iii) the   Coordination of     other              documents.
+              sector strategies and choice        activities and      stakeholders.
+              for interventions?                  strategies of
+                                                  other
+              What were the strategies to         development
+              address the capacity gap, and       partners if
+              to support government               necessary.
+              institutions for implementation
+              of the ADB program?                 Changes in ADB
+                                                  strategy areas of
+              Is there an appropriate             intervention.
+              strategy for concentrating or
+              diffusing ADB's efforts             Lessons and
+              geographically?                     findings
+                                                  identified in
+              How did ADB position itself         PCRs and
+              and its work in partnership         PPERs.
+              with other development
+              partners? Were there
+              appropriate strategies for
+              participating in sector
+              meetings or events, formal
+              partnerships, co-financing,
+              etc.?
+
+              Do the country and sector
+              results frameworks have
+              relevant indicators,
+              benchmarks, deadlines, and
+              targets? Is the program clearly
+              and realistically linked to the
+              outcomes that ADB wants to
+              influence? Does the program
+              show a pattern of good,
+                                                                                           Appendix 3       31
+
+
+                                                        Major
+                                                   Indicators and
+Evaluation          Areas of Evaluation               Areas of            Sources of           Evaluation
+Criteria              and Subcriteria              Consideration         Information            Process
+                adequate, or poor design?
+
+                Are project level DMFs
+                consistent with Sector Results
+                Frameworks? Do the DMFs
+                have relevant indicators with
+                baselines, targets and
+                deadlines?
+
+                How were upstream public
+                and private sector operations
+                aligned?
+Efficiency      How efficiently has ADB's          Implementation      PCRs, PPERs,         Desk review of
+                sector support been delivered      delays and cost     PPRs Executing       relevant
+                over the evaluation period?        overruns,           agency               documents.
+                                                   disbursement        completion
+                What is the percentage of          issues if any.      reports.             Independent
+                projects with EIRRs<12% and                                                 evaluation
+                >18%? What is the weighted         Timeliness and      Back-to-office       mission (IEM)
+                average EIRR?                      frequency of        reports.             and field
+                How well was the portfolio         data and                                 observations and
+                administered?                      collection,         Discussion with      discussions.
+                                                   including           government
+                Did ADB's bureaucratic             timeliness.         agencies and
+                processes cause systematic                             ADB regional
+                delays or other problems?          Quality of data     departments.
+                Have ADB's bureaucratic            collected.
+                processes improved?
+                                                   Timeliness and
+                                                   adequacy of
+                                                   counterpart
+                                                   funding.
+
+                                                   Procurement
+                                                   issues including
+                                                   timeliness and
+                                                   transparency.
+Effectiveness   Were the outcomes of the           Fulfillment of      Findings of          Desk review of
+                projects, programs, or TA          stated objectives   PCRs, PPERs,         relevant
+                interventions, as defined in the   for completed       and PVRs.            documents.
+                original documents approved        projects.
+                by ADB, achieved at the time                           ADB status           IEM field
+                of the evaluation, or (if          Feasibility of      reports, back-to-    observations.
+                outcome data are lacking)          achievement of      office reports
+                were outputs underway likely       objectives based    and other ADB        Key informant
+                to achieve such outcomes as        on current          reports.             interviews with
+                expected in project DMFs or        projects.                                government
+                TA papers?                                             Literature           staff, observers,
+                                                   Performance of      reviews.             development
+                How effective are sector           ADB program in                           partners, and
+                programs in terms of               India.                                   other
+                contributing to achieving                                                   stakeholders.
+32      Appendix 3
+
+
+                                                           Major
+                                                      Indicators and
+Evaluation            Areas of Evaluation                Areas of            Sources of        Evaluation
+Criteria                and Subcriteria               Consideration         Information         Process
+                 sector specific outcomes as
+                 expected in the SRFs?
+
+                 What capacity development
+                 efforts or organizational
+                 change occurred that was
+                 supported by ADB?
+Sustainability   Are the outputs and outcomes        Availability of      PCRs, PPERs.       Desk review of
+                 of the various sector programs      other funding                           relevant
+                 likely to be sustainable over       and resources.       Macroeconomic      documents.
+                 the medium term?                                         indicators
+                                                     Availability and     including          IEM and field
+                 For financial security of project   adequacy of          government's       observations.
+                 entities (as applicable), what      funding allocated    fiscal position
+                 is the percentage of projects       by project           and budget.
+                 with positive FIRRs-WACC (or        owners for
+                 positive FNPVs), percentage         operations and       Literature
+                 of projects with negative           maintenance.         reviews.
+                 FIRRs-WACC ( or negative
+                 FNPVs) and the weighted             Financial internal   Discussions with
+                 average differential between        rates of returns.    government
+                 FIRR and WACC or weighted                                officials and
+                 average FNPV, respectively?         Assessment of        other
+                                                     political will of    development
+                 Does the program have a             the government       partners.
+                 secure basis of planning and        to support
+                 budgeting for recurrent costs?      reforms.
+
+                 Will the program be supported       Government
+                 by adequate O&M?                    ownership and
+                                                     commitment to
+                 Do pertinent organizations          projects and
+                 have adequate capabilities to       reforms.
+                 support the program?
+
+                 How strongly is the
+                 government committed to
+                 capacity building,
+                 organizational changes, or
+                 policy reforms supported by
+                 the program?
+
+                 Have there been any positive
+                 or negative policy changes
+                 that affected the program?
+
+                 Did RRPs recognize risks to
+                 sustainability; efforts to
+                 mitigate risks; appropriate
+                 project design?
+Development                                          Achievements of      RRPs and           Desk reviews of
+Impacts          For project-level impacts,          targets set in                          relevant
+                                                                                             Appendix 3        33
+
+
+                                                          Major
+                                                     Indicators and
+Evaluation           Areas of Evaluation                 Areas of            Sources of          Evaluation
+Criteria                and Subcriteria              Consideration          Information            Process
+                 have the projects/ programs        ADB strategies        PPERs                documents
+                 consistently delivered the         and project
+                                                                          Time series of       IEM and field
+                 impacts expected in project        documents.
+                                                                          macroeconomic        interviews.
+                 DMFs?                              Reporting of
+                                                                          indicators from
+                                                    compliance of
+                                                                          government
+                 For sector and country-level       the safeguard
+                                                                          sources.
+                 impacts, did /will the program     policy and loan
+                 achieve its impacts as             covenants.            Discussions with
+                 expected in the SRFs and                                 government
+                 CPSs?                                                    agencies and
+                                                                          other stake
+                 Are there any other notable                              holders.
+                 contributions to inclusive
+                 growth including gender,
+                 sustainable economic
+                 development and regional
+                 cooperation, knowledge
+                 solutions or other country-
+                 wide development goals?
+
+                 Were there any notable
+                 positive or negative impacts of
+                 the program on safeguards?
+ADB = Asian Development Bank, COBP = country operational business plan, DMF = design and monitoring
+framework, EIRR = economic internal rate of return, FIRR = financial internal rate of return, FNPV = financial net
+present value, IEM = independent evaluation mission, O&M = operation and maintenance, PCR = project completion
+report, PPER = project performance evaluation report, PVR = project completion report validation report, RRP =
+report and recommendation of the President, SRF = sector results framework, TA = technical assistance, WACC =
+weighted average cost of capital.
+Source: ADB Independent Evaluation Department.
+

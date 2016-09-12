@@ -1,0 +1,458 @@
+Validation Report
+
+
+
+
+Reference Number: PCV: IND 2008-57
+Project Number: 23251
+Loan Number: 1274
+November 2008
+
+
+
+
+India: National Highways Project
+
+
+
+
+ Operations Evaluation Department
+                                  ABBREVIATIONS
+
+           ADB          ­     Asian Development Bank
+           BME          ­     benefit, monitoring, and evaluation
+           EA           ­     executing agency
+           EIRR         ­     economic internal rate of return
+           MOST         ­     Ministry of Surface Transport
+           NHAI         ­     National Highways Authority of India
+           PCR          ­     project completion report
+           PIU          ­     project implementation unit
+           SDR          ­     special drawing rights
+           TA           ­     technical assistance
+           TCR          ­     technical assistance completion report
+
+
+
+
+                                           NOTE
+                         In this report, "$" refers to US dollars.
+
+
+
+                                       Key Words
+
+india, adb, asian development bank, highways, roads, lessons, operations evaluation
+department, performance evaluation
+
+
+
+
+Director          H. Hettige, Operations Evaluation Division 2, Operations Evaluation
+                  Department (OED)
+
+Team leader       N. Singru, Evaluation Specialist, Operations Evaluation Division 2, OED
+Team members      R. Lumain, Senior Evaluation Officer, Operations Evaluation Division 2,
+                  OED
+                  C. Roldan, Senior Operations Evaluation Assistant, Operations Evaluation
+                  Division 2, OED
+                                PROJECT COMPLETION REPORT VALIDATION
+
+A. Basic Project Data                                   PCR Validation Date:                         November 2008
+Project and Loan/Grant       23251                                                                 Approved    Actual
+Number:                      1274-IND
+Project Name:                National Highways Project Total Project Costs ($ million):              308.80        302.79
+Country:                     India                     Loan/Grant ($ million)                        245.00        231.87
+                                                       (SDR equivalent):
+Sector(s):                   Transport/Roads and       Total Cofinancing ($ million):                  0.00         0.00
+                             Highways
+ADB Financing                ADF:                      Borrower ($ million):                          63.80         70.92
+($ million):                 OCR: $245.0               Beneficiaries ($ million):
+Cofinanciers:                                          Others ($ million):
+Approval Date:               29 Nov 1993               Effectiveness Date:                         20 Jun 95     4 May 95
+Signing Date:                22 Mar 1995               Closing Date:                               31 Dec 99     10 Feb 03
+Project Officers:            Name:                     Designation:                                  From           To
+                             R. Hennes                 Project Engineer, IWTC                        1998          1999
+                             P. Pattison               Senior Project Implementation                 2000          2001
+                                                        Officer, INRM
+                             T. Kandiah                Principal Investment Programs                  2002          2002
+                                                        Officer, INRM
+                             A. Akanda                 Principal Transport Specialist,                2002          2003
+                                                        INRM
+Evaluator:                   T. F. Jones, Consultant   Director:                                  H. Hettige, OED2
+Quality Control              N. Singru, Evaluation
+Reviewer:                     Specialist, OED2
+
+B. Project Description (summarized from the report and recommendation of the President)
+
+   (i)        Rationale and expected impacts. The National Highways Project (the Project) aimed to (a) assist the
+              Government in carrying out needed road improvements in major transport corridors; (b) improve the
+              institutional capability through transfer of implementation responsibility for national roads to the Ministry
+              of Surface Transport1 (MOST) and, by the fourth quarter of 1994, to the National Highways Authority of
+              India (NHAI); and (c) increase industrial employment, thereby indirectly reduce poverty. The Project
+              also strove to maintain the momentum already achieved on policy issues and quality of construction.
+
+             Following a review of needed road development in India, highway sections proposed for improvement
+             were selected for study by the Government and the Asian Development Bank (ADB). These sections,
+             which had arisen from the national highway improvement plan that emerged from a fact-finding
+             mission in December 1991, comprised a total of 1,520 kilometers (km) distributed over 21 high-
+             priority subprojects. Their selection was based on criteria partly simulating economic return
+             calculations, such as industrialization, traffic volume, and road condition. In conjunction with the
+             Government and on the basis of field observations and a screening matrix including this criteria, the
+             mission then ranked the proposed subprojects and reduced the list of highway sections for study to
+             820 km distributed over 14 subprojects. The results of the subsequent feasibility studies, undertaken
+             by domestic consulting firms guided by ADB-financed consultants under technical assistance (TA)
+             project 1678-IND from December 1992 to May 1993, showed that all sections studied were feasible,
+                                                                                             2
+             with the economic internal rate of return (EIRR) ranging between 23% and 43%.
+
+             The selection of project highway sections was based on merit (i.e., EIRR, existing road capacity
+             utilization, and degree of industrialization) as well as on degree of project preparation and the
+
+    1
+         Since renamed the Ministry of Shipping, Road Transport, and Highways.
+    2
+         ADB. 1992. Technical Assistance to India for Third Road. Manila (TA 1678-IND, for $250,000, approved on
+         26 March).
+   2
+
+
+              absence of significant problems related to environmental clearance and land availability for right-of-
+              way. This process resulted in the selection of about 330 km of high-priority sections, mainly for
+              widening to four lanes and strengthening of the existing carriageway. The sections for widening in
+              Haryana, Rajasthan, Bihar, and West Bengal complement the four-laning projects of ADB and the
+              World Bank financed under the Second Road Project (1990) and the National Highway Project
+              (1985), while the Andhra Pradesh sections complement with the Overseas Economic Cooperation
+              Fund's (OECF) proposed National Highway 2 Improvement Project. The improvements envisaged
+              were to increase the transport capacity of the existing facilities, which support the industry sector, and
+              thereby increase employment and indirectly reduce poverty. All project highway section
+              improvements were included in the Eighth Plan. In conjunction with the Project and at the
+              Government's request, three advisory TA projects were also provided: (a) road safety (TA 2001-
+                    3                                                                     4
+              IND), (b) environmental management of road projects (TA 2002-IND), and (c) technical standards
+                                                               5
+              for highway concrete structures (TA 2003-IND). The Project was thus fully within ADB's operational
+              strategy for India (Section C [iv]).
+
+  (ii)        Objectives or expected outcomes. The Project's main objectives were to (a) assist the
+              Government's efforts to improve the national highway system, particularly supporting the industry
+              sector in the five project states;6 (b) lower transport costs in the project areas and facilitate more
+              efficient movement of goods and passengers; (c) increase employment in the industry sector in the
+              five states, made possible by the highway improvements including capacity augmentation;
+              (d) upgrade the Government's institutional and implementation arrangements and construction
+              supervision by a combination of international and domestic consultants working with MOST as the
+              client; and (e) improve road transport operations.
+
+  (iii)       Components. The Project covered the improvement of five national highway sections, totaling about
+              330 km in five states (footnote 6). The improvements included widening to four lanes (234 km) and
+              strengthening of the existing pavement with an asphaltic concrete pavement. The consulting services
+              for construction supervision of civil works under the Project were to be carried out by an appropriate
+              combination of international and domestic consultants.
+
+  (iv)        Outputs. The civil works for the road improvements were implemented as envisaged at appraisal,
+              except for delays and a major change in the project scope, which involved upgrading about 65 km of
+              roads from a two- to a four-lane carriageway, including the 17 km Eluru Bypass, as warranted by
+              traffic along the affected sections of National Highway (NH) 5.
+
+C. Evaluation of Design and Implementation (project completion review [PCR] assessment and validation)
+
+  (i)         Relevance of design and formulation. At appraisal and completion, the Project is assessed as
+              highly relevant and is consistent with the Government's overall development objectives and ADB's
+              strategy for the road subsector.
+
+
+
+
+   3
+         ADB. 1993. Technical Assistance to India for Road Safety. Manila (TA 2001-IND, for $210,000, approved on
+         29 November).
+   4
+         ADB. 1993. Technical Assistance to India for Environmental Management of Road Projects. Manila (TA 2002-IND,
+         for $240,000, approved on 29 November).
+   5
+         ADB. 1993. Technical Assistance to India for Technical Standards of Highway Concrete Structures. Manila (TA
+         2003-IND, for $350,000, approved on 29 November).
+   6
+         The five states include Andhra Pradesh, Bihar, West Bengal, Haryana, and Rajasthan. Bihar state was divided in
+         2002, and the road section under the Project now lies in Jharkhand. However, to avoid confusion, the road section
+         is still referred to in the project completion review as being in Bihar to enable comparison with the appraisal report.
+                                                                                                                          3
+
+
+(ii)     Outputs and costs as envisioned during appraisal as compared to actual costs and
+         achievement of outputs; reasons for any deviation.
+
+                                   Table 1: Project Cost at Appraisal and Actual
+                                      Appraisal Estimate ($ million)             Actual ($ million)
+Project Component                     Foreign     Local      Total         Foreign    Local         Total        Ratioa
+A. Base Cost
+   1. Right-of-Way                      0.00          0.30       0.30          0.00       0.50        0.50        1.67
+                  b
+   2. Civil Works                      83.70        125.60     209.30        104.76     157.14      261.90        1.25
+      a. Contract 1 NH8
+         Gurgaon­Kotputi               32.36         48.54       80.90        32.03       48.05      80.08        0.99
+      b. Contract II NH2
+         Raniganj­Panagarth            16.00         24.01       40.01        19.67       29.51      49.18        1.23
+      c. Contract III NH2
+         Banwa Adda­Bararkar           16.91         25.36       42.27        18.22       27.34      45.56        1.08
+      d. Contract IV NH9
+         Nandigama­Vijayawada            6.40         9.61       16.01          7.08      10.61      17.69        1.10
+      e. Contract V NH5
+         Vijayawada­Eluru              12.03         18.08      30.11         27.76      41.63       69.39        2.30
+   3. Construction Supervision          7.70          6.30      14.00          6.09       4.98       11.07        0.79
+   4. Incremental Administration        0.00          1.00       1.00          0.00       1.19        1.19        1.19
+         Subtotal (A)                  91.40        133.20     224.60        110.85     163.81      274.66        1.22
+B. Contingencies
+  1. Physical                           4.90          7.00     11.90            0.00       0.00        0.00       0.00
+  2. Price                              9.50         22.80     32.30            0.00       0.00        0.00       0.00
+        Subtotal (B)                   14.40         29.80     44.20            0.00       0.00        0.00       0.00
+C. Interest and Other Charges
+    during Construction                    40.00          0.00    40.00          28.13        0.00      28.13      0.70
+            Total (A+B+C)                145.80        163.00 308.80           138.98       163.81    302.79       0.98
+NH = national highway
+a
+  Calculated as the ratio of actual project cost to appraisal cost estimate.
+b
+  The final bill for some of the civil works contracts are being reviewed, and arbitration proceedings are under way.
+Sources: Asian Development Bank reports and the National Highways Authority of India.
+
+         The loan was designed to cover about 60.9% of the local cost. Between 1995 (the year of the Loan
+         Agreement) and 2003 (the year the loan was closed), the Indian rupee was devaluated by about 50%,
+         in effect making the contract components denominated in rupees about 50% cheaper in US dollar
+         terms. This resulted in loan savings and an overall project cost of 98% of the appraisal estimate. The
+         rapid growth of traffic on NH5, specifically the section covered by Contract V, warranted widening
+         from two to four lanes and the inclusion of the Eluru Bypass, which increased the cost by 2.3 times.
+         Otherwise, component costs were not significantly out of line with appraisal estimates considering the
+         delays in implementation and increasing costs due to inflation.
+(iii)    Project cost, disbursements, borrower contribution, and conformance to schedule (as relevant
+         to project performance). Project costs were not out of line as mentioned above, but disbursements
+         were slower than envisioned at appraisal due to implementation delays. But once the Project actually
+         commenced, disbursements followed a relatively typical pattern. There were several reasons for
+         delays, including (a) delays in the start of prequalification due to late preparation of bidding
+         documents, (b) delays in handing over the Project to NHAI from MOST, (c) delays in the award of civil
+         works contracts due to nine cases of litigation, (d) slow start of civil works, (e) delays in land
+         acquisition, (f) design deficiencies, (g) late approval of a change of scope for Contract V, (h) delays in
+         approval of contract variations, and (i) delays in clearing encumbrances from the right-of-way. Delays
+         in project implementation translated into lost benefits and often higher costs. The Project was
+         completed in June 2002 compared with an appraisal estimate of October 1998, a 44-month delay.
+         The first loan extension approved in May 1999 was to allow the civil works contracts to be completed
+         by the end of 2001. Contracts I­IV were completed from January to October 2001. The delay in
+         completion of Contract IV was partly due to a major change in project scope. A second loan extension
+         was approved in December 2001 to complete Contract V, which was mostly completed in June 2002.
+ 4
+
+
+
+(iv)   Implementation arrangements, conditions and covenants, and related TA. Implementation
+       arrangements were as envisaged at appraisal. MOST was the Executing Agency (EA) for the Project.
+       Once NHAI became operational in 1995, administration of the Project was assumed by the NHAI, but
+       MOST retained responsibility for overall project coordination. NHAI was given the appropriate
+       authority to approve relatively minor change orders only in 2000 after ADB intervention. This authority
+       was passed on to the project directors at the project implementation units (PIUs), as previously they
+       had to be referred to MOST for final approval. NHAI set up an appropriate set of PIUs but had some
+       difficulty staffing them in the early stages of implementation.
+
+       The Government and the EA generally complied with the standard loan covenants with some
+       exceptions. In all, 13 major loan covenants were complied with, two were partly complied with, and
+       three were not complied with. There was partial compliance with the covenants related to (a) the use
+       of weigh-in-motion equipment procured under ADB- and World Bank-financed road projects to
+       complement axle load enforcement, and (b) suitable efforts to encourage the use of multi-axle
+       vehicles. The electronic weighbridges were used for statistical purposes but not for enforcement. This
+       changed in 2005 when the Supreme Court of India banned overloaded trucks. According to the PCR,
+       enforcement of axle load control still needs to be strengthened. The Ministry of Finance has taken
+       steps to encourage the use of multi-axle vehicles, mainly through lowering excise duty on them.
+
+       The stipulated expansion of the ADB-financed Pavement Management System for implementation
+       nationwide did not take place. However, a similar covenant under a later ADB-financed road project
+       was complied with, so this covenant could be considered as complied with even though it required
+       considerable time for implementation. Covenants related to the submission of PCRs and benefit,
+       monitoring, and evaluation (BME) reports were not complied with, although several timely requests
+       were made by ADB. NHAI did not submit the project completion and BME reports on the basis that
+       the supervising consultants were demobilized and the loan was prepaid in February 2003. It
+       submitted contract completion reports for only two of the five contracts.
+
+       The Project had three associated TA projects (Section B[i]). Although no TA completion reports were
+       prepared at the time, the projects were completed and considered successful. The TA completion
+       reports were prepared as part of the PCR.
+
+(v)    Performance of the Borrower and EA. The Government was the Borrower, and MOST was the EA.
+       As envisaged, NHAI was established and acted as the Implementing Agency. NHAI initially had
+       difficulties staffing its PIUs and gaining authority to approve needed variations and contract revisions.
+       This authority was gradually attained, and NHAI's implementation performance subsequently
+       improved. Government approval of the major change of scope involving Contract V required 16
+       months, causing an extension of the loan closing date. Other avoidable delays are described in
+       Section C (iii). Additionally, the Borrower failed to meet some important covenants as described in
+       Section C (iv). Finally, at the time of PCR preparation in 2007, the final bill for some civil works
+       contracts were still being reviewed, and arbitration proceedings were still ongoing. Although much
+       improvement to NHAI's capabilities was noted, the various delays and lack of compliance with
+       covenants led the PCR to rate the performance of the Borrower and the EA as partly satisfactory.
+       This Evaluator agrees with the rating.
+
+(vi)   Performance of ADB. The Project was administered and supervised from ADB headquarters before
+       being transferred to the India Resident Mission in October 1999. Five different ADB project officers
+       were involved in the administration of the Project. A total of 14 review missions, three disbursement
+       missions, and a midterm review were undertaken during the almost 9 years that the Project was
+       active. As a result, ADB was proactive in preparing necessary approvals and helping to solve
+       administrative and technical issues. The subject PCR was drafted more than 4 years after project
+       completion. Preparation of the PCR by ADB was delayed by nonsubmission of the PCR and BME
+       reports by the EA. ADB eventually undertook preparation of the PCR based on available information.
+       Overall, the performance of ADB was satisfactory.
+                                                                                                            5
+
+
+D. Evaluation of Performance (PCR assessment and validation)
+
+  (i)     Relevance. The relevance of the Project is considered high, as the Project was and still is consistent
+          with the Government's overall development objectives and ADB's country strategy for the road
+          subsector. In 1998, the Government announced a major program to upgrade 13,000 km of national
+          highways to a four-lane standard. This has since been expanded to other sections of the national
+          highway network.
+
+  (ii)    Effectiveness in achieving outcome. The PCR rated the Project as effective, and this appears to
+          be true. It has helped to improve important links of the national highway system, enhanced the
+          efficiency of moving goods and people, and lowered vehicle operating costs. Vehicle speeds
+          increased, and travel times have been reduced. Where needed, the Project was adjusted to
+          accommodate growing traffic demands through widening and bypass construction. Institutions have
+          been developed, and improved capacity to undertake future projects has expanded. Other benefits
+          expected to be achieved could not be fully verified as the EA did not undertake BME studies.
+
+  (iii)   Efficiency in achieving outcome and outputs. The Project is rated as highly efficient with an
+          overall EIRR of 25.3% compared with the 37.2% at appraisal. All highway sections were estimated to
+          have EIRRs ranging from 19.4% to 34.0%. The differences between the reevaluation and appraisal
+          figures are mainly due to (a) revisions in the economic costs derived from actual costs, (b) the longer
+          construction periods caused by delays in implementation, and (c) a lower-than-expected traffic growth
+          rate.
+
+  (iv)    Preliminary assessment of sustainability. Sustainability of the Project is rated as likely. NHAI has
+          been contracting out highway maintenance to the private sector. Other arrangements are being made
+          for the highway stretches being widened or to be widened under the build­operate­transfer contracts
+          that include routine and periodic maintenance. Although the use of overloaded trucks on national
+          highways is forbidden, enforcement is lacking and needs to be monitored and strengthened or else
+          the maintenance requirement may exceed the resources available.
+
+  (v)     Impact (both intended and unintended). An initial environmental examination was prepared at the
+          time of the feasibility studies and whenever realignment was proposed. The examination found that
+          there would not be any adverse environmental effects since the improvements were almost entirely
+          within the right-of-way. Also, it was reported that the contractors followed environmentally sound
+          construction practices. The PCR mission noted that drainage had been improved and that there was
+          no discernable noise, air pollution, or soil erosion problems.
+
+          BME was not carried out as expected, but the PCR mission noted that incomes of those engaged in
+          businesses near the highways had increased and that the quality of life had generally improved.
+          Employment and improved accessibility for local residents was improved judging by the increased
+          number of passenger buses in most of the project areas.
+
+          The Project was approved before ADB's Involuntary Resettlement Policy (1995) was formulated. For
+          scope changes where realignment and land acquisition were involved, ADB requested that NHAI
+          prepare a short resettlement plan, which was acceptable.
+
+E. Overall Assessment, Lessons, and Recommendations (validation of PCR assessment)
+
+  (i)     Overall assessment. Overall, the Project is considered successful on the basis of the quantitative
+          assessment of its relevance, effectiveness, efficiency, and sustainability. It achieved its main
+          objectives of improving the national highway network and contributing to institutional development.
+
+  (ii)    Lessons.
+          (a)    The provisions in the bid documents must be made more rigorous to ensure that contractors
+                 provide the committed technical and financial resources for project implementation to help
+                 ensure that contracts are finished on time and with good quality.
+    6
+
+
+                (b)      Projects should generally be in an advanced stage of preparation before loan approval to
+                         ensure early loan effectiveness and to avoid delays during implementation.
+                (c)      When a new implementing agency such as NHAI is created, it takes time for the institution to
+                         be fully staffed and for the necessary authority and other powers to be identified and
+                         granted.
+
+   (iii)        Recommendations.
+                (a)   The issue of axle overloading should be followed up and rigorous enforcement encouraged
+                      by ADB through ongoing and future projects.
+                (b)   Given the experience gained on this Project, future project preparation should recognize the
+                      need to have the Project in an advanced stage of preparation before loan approval. Also,
+                      given expected delays on the part of contractors and government approval practices, more
+                                                                            7
+                      realistic implementation schedules could be prepared.
+
+F. Monitoring and Evaluation Design, Implementation, and Utilization (PCR assessment and validation)
+
+Implementation witnessed appropriate supervision, review, and monitoring by the supervision consultants, NHAI,
+and ADB. The corrective actions suggested to the contractors were helpful in resolving issues and improving their
+performance. However, it would have been useful to put into place a project performance monitoring system,
+which should have been developed during project processing to monitor the project impact at completion and
+during project operations. The EA did not undertake BME studies. The project completion and BME reports were
+not submitted on the basis that the supervision consultants had been demobilized and the loan had been prepaid
+in February 2003 (Section C [iv]).
+
+G. Other (e.g., safeguards, including governance and anticorruption; fiduciary aspects; government assessment
+   of the Project, as applicable) (PCR assessment and validation)
+
+Safeguards were complied with. Corruption does not appear to be a major issue. Fiduciary aspects appear to have
+been well handled.
+
+H. Ratings                                                 PCR           OED Review                 Reason for
+                                                                                             Disagreement/Comments
+Relevance:                                           Highly relevant    Highly relevant
+Effectiveness in Achieving Outcome:                  Effective          Effective
+Efficiency in Achieving Outcome and                  Highly efficient   Highly efficient
+Outputs:
+Preliminary Assessment of Sustainability:            Likely             Likely
+Borrower and EA:                                     Partly             Partly
+                                                     satisfactory       satisfactory
+Performance of ADB:                                  Satisfactory       Satisfactory
+Impact:                                              Positive           Positive
+Overall Assessment:                                  Successful         Successful
+Quality of PCR:                                                         Satisfactory
+
+
+
+
+    7
+           See the PCR for ADB. 2007. Project Completion Report. India: Surat­Manor Tollway Project. Manila (Loan 1747-
+           IND) as an example of the positive effect of having adequate time for preconstruction activities
+                                                                                                              7
+
+
+I. Comments on PCR Quality
+
+The PCR is well written, complete, and in line with the above criteria. A few specific comments on the PCR follow.
+
+   (i)      The PCR mentions that litigation helped to delay implementation and that arbitration is ongoing, but it
+            would have been useful to understand how this situation could be avoided or mitigated in the future.
+   (ii)     Para. 44 of the PCR states, "no specific level of reduction of vehicle operating costs was set as a
+            target at appraisal." Appendix 17 of the report and recommendation of the President does show a
+            table of vehicle operating costs for "with" and "without" the Project.
+   (iii)    The fourth outcome in the PCR's Appendix 1, "increase industrial employment", could better be
+            characterized as a project impact.
+   (iv)     The PCR's Appendix 2 shows figures under contingency that do not seem to tally with data given in
+            the basic data.
+   (v)      PCRs, as appropriate, need to be prepared soon after project completion, usually 12­24 months after
+            project completion (PAI 6.07). In this case, the PCR was prepared more than 4 years after the loan
+            closing date.
+
+J. Recommendation for OED Follow-Up
+
+No follow-up action is required.
+
+K. Data Sources for Validation
+
+   (i)      PCR, report and recommendation of the President, legal documents;
+   (ii)     Management review meeting and staff review committee documents and summary record of discussion
+            of ADB's Board of Directors;
+   (iii)    Board reports and other progress reports;
+   (iv)     project administration memorandum and list of archived documents;
+   (v)      supervision reports, including the most recent midterm review or progress reports, and back-to-office
+            report of the PCR mission; and
+   (vi)     Operations Evaluation Department evaluations of previous projects, including the recent Sector
+            Assistance Program Evaluation and PCR reviews.
+   REGIONAL DEPARTMENT'S RESPONSE TO THE PROJECT COMPLETION REPORT
+                          VALIDATION REPORT
+
+
+On 5 August 2008, Director, OED2, Operations Evaluation Department (OED), received the
+following comments from the India Resident Mission, South Asia Department.
+
+We have reviewed OED's earlier draft project completion report validation report circulated to us
+on 3 July 2008 and its final draft sent to us for review on 31 July 2008. We appreciate that the
+comments we made to OED on the earlier draft have been adequately incorporated in the final
+draft. Therefore, we have no formal comment to make on the final draft.
+

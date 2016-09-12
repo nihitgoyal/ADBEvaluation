@@ -1,0 +1,2118 @@
+ASIAN DEVELOPMENT BANK                        PPA: IND 23706
+
+
+
+
+         PROJECT PERFORMANCE AUDIT REPORT
+
+
+
+                       ON THE
+
+
+
+                CESC LIMITED PROJECT
+            (Investment 7058/Loan 1036-IND)
+
+
+                          IN
+
+
+                        INDIA
+
+
+
+
+                     December 2002
+                                  CURRENCY EQUIVALENTS
+
+                             Currency Unit ­ Indian rupee/s (Re/Rs)
+
+                  At Appraisal         At Project Completion           At Operations Evaluation
+                  (July 1990)          (October 1998)                  (November 2002)
+Re1.00    =       $0.0575              $0.0280                         $0.0208
+$1.00     =       Rs17.40              Rs35.70                         Rs48.10
+
+
+
+
+                                        ABBREVIATIONS
+
+         ADB             -       Asian Development Bank
+         CESC            -       Calcutta Electric Supply Company
+         EIRR            -       economic internal rate of return
+         FIRR            -       financial internal rate of return
+         IFC             -       International Finance Corporation
+         OEM             -       Operations Evaluation Mission
+         PCR             -       project completion report
+         PPAR            -       project performance audit report
+         WBSEB           -       West Bengal State Electricity Board
+         WBSG            -       West Bengal State Government
+
+
+
+
+                                   WEIGHTS AND MEASURES
+
+         kV (kilovolt)                       -              1,000 volts
+         km                                  -              kilometer
+         kWh (kilowatt-hour)                 -              1,000 watt-hours
+         MVA (megavolt-ampere)               -              1,000 kilovolt-amperes
+         MVAr                                -              megavolt-ampere reactive
+         MW (megawatt)                       -              1,000 kilowatts
+
+
+
+
+                                             NOTES
+
+           (i)        The fiscal year (FY) of CESC ends on 31 March (e.g., FY 1995
+                      is the 12-month period ending 31 March 1995).
+           (ii)       In this report, "$" refers to US dollars.
+
+                        Operations Evaluation Department, PE-617
+                                        CONTENTS
+                                                           Page
+
+BASIC DATA                                                    iii
+
+EXECUTIVE SUMMARY                                            iv
+
+MAP                                                          vii
+
+I.     BACKGROUND                                             1
+
+       A.    Rationale                                        1
+       B.    Formulation                                      1
+       C.    Purpose and Outputs                              2
+       D.    Cost, Financing, and Executing Arrangements      2
+       E.    Completion and Self-Evaluation                   3
+       F.    Operations Evaluation                            3
+
+II.    PLANNING AND IMPLEMENTATION PERFORMANCE                4
+
+       A.    Formulation and Design                           4
+       B.    Achievement of Outputs                           4
+       C.    Cost and Scheduling                              5
+       D.    Procurement and Construction                     5
+       E.    Organization and Management                      5
+
+III.   ACHIEVEMENT OF PROJECT PURPOSE                         6
+
+       A.    Operational Performance                          6
+       B.    Performance of the Operating Entity              7
+       C.    Financial and Economic Reevaluation              9
+       D.    Sustainability                                  10
+
+IV.    ACHIEVEMENT OF OTHER DEVELOPMENT IMPACTS              10
+
+       A.    Socioeconomic Impact                            10
+       B.    Environmental Impact                            11
+       C.    Impact on Institutions and Policy               11
+
+V.     OVERALL ASSESSMENT                                    11
+
+       A.    Relevance                                       11
+       B.    Efficacy                                        12
+       C.    Efficiency                                      12
+       D.    Sustainability                                  12
+       E.    Institutional Development and Other Impacts     12
+       F.    Overall Project Rating                          13
+       G.    Assessment of ADB and Borrower Performance      13
+ii
+
+
+
+VI.   ISSUES, LESSONS, AND FOLLOW -UP ACTIONS     13
+
+      A.     Key Issues for the Future            13
+      B.     Lessons Identified                   14
+      C.     Follow-Up Actions                    14
+
+APPENDIXES
+
+1.    Goals, Targets, Inputs, and Results         16
+2.    Project Costs                               18
+3.    Summary of Contract Awards under ADB Loan   19
+4.    Operational and Technical Performance       20
+5.    Financial Results                           26
+6.    Financial and Economic Reevaluation         30
+                                        BASIC DATA
+                     Investment 7058/Loan 1036-IND: CESC Limited Project
+
+                                                     As per ADB
+                                                  Loan Documents                         Actual 1
+Key Project Data                              Rs million     $ million          Rs million     $ million
+Total Project Cost                             1,575           91.6              2,312            75.0
+Foreign Exchange Cost                            504           29.2                774            27.7
+Local Currency Cost                            1,071           62.4              1,538            47.3
+ADB Loan Amount/Utilization                      306           17.8                579            18.8
+Cofinancing                                      954           55.5              1,292            41.8
+
+Key Dates                                              Expected                          Actual
+Fact-Finding                                                                         2­15 May 1990
+Appraisal                                                                            20­27 Jul 1990
+Loan Negotiations                                                                    30­31 Jul 1990
+Board Approval                                                                         4 Oct 1990
+Loan Agreement                                                                         8 May 1991
+Loan Effectiveness                                    8 May 1991                       8 May 1991
+First Disbursement                                                                     6 Nov 1992
+Project Completion                                   31 Mar 1995                      30 Jun 1996
+Loan Closing                                         31 Dec 1995                      10 Sep 1996
+Months (effectiveness to completion)                     47                                62
+
+Internal Rates of Return (%)                           Appraisal              PCR               PPAR
+Economic Internal Rate of Return                         15.9                 15.8               12.1
+Financial Internal Rate of Return                         8.9                  9.2                6.3
+
+Borrower                                 CESC Limited
+
+Mission Data
+Type of Mission                             No. of Missions                    No. of Person-Days
+Fact-Finding                                        1                                   28
+Appraisal                                           1                                   16
+Meeting (IFC)                                       1                                    2
+Loan Negotiations (Calcutta)                        1                                    4
+Loan Signing (Calcutta)                             1                                    1
+Project Completion                                  1                                    6
+Operations Evaluation 2                             1                                   16
+
+
+
+
+ADB = Asian Development Bank, CESC = Calcutta Electric Supply Company, IFC = International Finance
+Corporation, PCR = project completion report, PPAR = project performance audit report.
+1
+  The dollar equivalent values reflect exchange rates applicable to the rupee cost at the time of expense.
+2
+  The Operations Evaluation Mission, which visited Calcutta during 12­20 November 2002, comprised T.M. Hutton
+  (Senior Evaluation Specialist/Mission Leader) and Haraprasad Biswas (Staff Consultant).
+                                    EXECUTIVE SUMMARY
+
+       The investment loan approved by the Asian Development Bank (ADB) in 1990 to the
+Calcutta Electric Supply Company (CESC) Limited was for a transmission project that aimed to
+achieve a more integrated system linking the power plants and substations in CESC's network.
+The original project scope was limited to augmenting CESC's 132/33 kilovolt (kV) transmission
+system. During implementation, an unexpected increase in the demand for electricity justified
+expanding the project scope to also strengthen some of CESC's transmission and distribution at
+lower voltage levels. The Project's rationale to help meet the increasing demand for electricity in
+Calcutta (renamed Kolkata in 2001) was consistent with the Government's Eighth Plan
+(FY1991­FY1995) to spur industrial growth across India and ADB's assistance strategy for
+promoting and sustaining economic growth.
+
+        Outputs under the original scope included (i) laying of four 132 kV underground
+transmission cables, (ii) construction of two new 132 kV substations, and (iii) upgrading of four
+existing 132 kV substations. Outputs for the expanded scope included (i) construction of an
+additional 132 kV underground transmission cable, (ii) construction of nine new 33 kV
+substations, and (iii) installation of a 33 kV power capacitor. The Project was formulated and
+designed by CESC's in-house engineers and approved by India's Central Electric Authority.
+
+        ADB's appraisal was completed in July 1990, and Investment 7058/Loan 1036-IND:
+CESC Limited, for $17.8 million equivalent, in support of a total project cost of $91.6 million, was
+approved on 4 October 1990. The ADB loan was to finance 61% of the estimated foreign
+exchange cost. A loan for $20.0 million equivalent from the International Finance Corporation
+(IFC) was to be used to finance the balance of the foreign exchange cost ($11.4 million) of
+imported equipment and $8.6 million of the local currency cost. Expansion to the project scope
+was approved in May 1994, and the total project cost was reestimated at $74.1 million. The
+major reduction in US dollar terms was mainly attributable to favorable currency variations and
+concessional import duties. CESC assumed responsibility for project implementation and for the
+foreign exchange risk on its ADB and IFC loans.
+
+       The Project was completed in June 1996, 15 months later than envisaged at appraisal.
+The longer time taken was due entirely to the expansion in project scope. The original project
+components were completed in December 1994, 3 months ahead of schedule. At $75.0 million,
+the actual project cost was only 1% above the revised estimate.
+
+        Construction of the new transmission lines and substations increased CESC's
+transmission capacity by 423 megawatt. Without the Project, CESC's transmission and
+distribution losses would have been about 4% higher. Voltage reliability across the 33 kV and
+lower voltage transmission lines would have also been impaired, and CESC's capacity to switch
+power sources to offset overloading and meet maintenance requirements would have been
+inadequate.
+
+        The Project is rated successful. Its rationale was relevant, and technical design
+appropriate. Implementation was efficient, and the overall cost in US dollar terms was 18% less
+than envisaged at appraisal, despite the major expansion in project scope. The Project enabled
+CESC to meet transmission requirements for new generation units at the Southern and Budge
+Budge power stations, thus helping eliminate a 15.0% supply deficit. The time-slice economic
+internal rate of return of 12.1% attests to the economic viability of CESC's investments from
+FY1990 to FY1996. The financial internal rate of return of 6.3% is close to the real weighted
+average of capital.
+                                                                                                v
+
+
+
+         Detracting from a higher rating assessment, the financial statements of CESC reveal a
+weakening financial status associated with high financial gearing and insufficient infusions of
+equity capital. Delays since FY1995 in approving increases to the electricity tariff, and rising
+transmission and distribution losses have also undermined CESC's financial performance. In
+January 2002, CESC was forced to default on fully servicing its debt obligations to lenders.
+Nevertheless, positive steps have been taken that collectively provide some optimism that
+CESC can overcome its financial difficulties. A decision by the Supreme Court on 3 October
+2002 to allow CESC to increase its electricity tariff has enabled CESC to recommence loan
+servicing. A world-renowned investment bank has been engaged to advise on financial
+restructuring. Issues surrounding the principles for approving electricity tariff adjustments were
+clarified under the Supreme Court's judgment; this should lead to more timely future
+adjustments. To reduce its transmission and distribution losses, CESC is implementing a
+program for upgrading meters, installing capacitors, and taking legal action against electricity
+theft. Complementing CESC's measures, the West Bengal Government has introduced harsh
+penalties for theft, and improved court processing for enforcement. As a result of these efforts,
+CESC's transmission and distribution losses decreased from 23.9% in FY2001 to 21.9% in
+FY2002, and are expected to fall significantly in FY2003.
+
+        The key lesson learned from the Project is that with a more comprehensive technical
+evaluation and credit assessment at appraisal, the project scope necessary to achieve CESC's
+performance targets could have been more reliably identified. This lesson and a few others from
+the Operations Evaluation Mission's observations of CESC's operations are reflected in the
+following recommendations:
+
+       (i)     ADB should ensure more comprehensive appraisal when processing future
+               private sector projects.
+       (ii)    CESC should (a) consider restructuring and corporatizing its generation,
+               transmission, and distribution so that the operations of each entity are
+               independent with separate pricing and accountability for expenditures and
+               revenues; and (b) make more use of bond and equity markets to meet
+               investment requirements.
+       (iii)   The West Bengal State Government should (a) restructure the power sector and
+               introduce competition in the provision of power in Kolkata so that the role of the
+               regulator is shifted away from price setting, and (b) provide CESC with legislative
+               support and recovery mechanisms for dealing with outstanding customer ac counts.
+                                              I.       BACKGROUND
+
+A.        Rationale
+
+1.      At the time of project conception, Calcutta 1 was experiencing shortfalls in the supply of
+electricity. The Calcutta Electric Supply Company (CESC) Limited, which was licensed to
+operate and expand the transmission and distribution network in the city, was finding it difficult
+to raise funds in the domestic market to meet its growing investment needs.2 The transmission
+network required higher voltages, additional lines from CESC's generation sources, and new
+substations in areas with high load growth. The Project's rationale of helping meet the
+increasing demand for electricity in Kolkata was consistent with the Government's Eighth Plan
+(FY1991­FY1995) that supported industrial growth across India and the Asian Development
+Bank's (ADB's) assistance strategy for promoting and sustaining economic growth. Prior to
+release of the Eighth Plan, the Government of India, in recognition that economic growth was
+being impeded by shortages of electricity supplied from public power utilities, encouraged the
+private sector to undertake a more significant role in new investments.3
+
+B.        Formulation
+
+2.      The Project was formulated by CESC with a request to ADB in August 1989 for financial
+assistance. ADB considered the Project to have merit. Following its approval by the Central
+Electric Authority, fact-finding was undertaken in May 1990, followed by appraisal in July 1990.
+ADB's loan of $17.8 million equivalent (drawn in various currencies) was approved on 4 October
+1990. 4 The Borrower was CESC Limited, a public-listed company registered on the India and
+London stock exchanges, in which 53% of the shares were owned by the private sector.5 ADB's
+loan was secured by way of a shared mortgage over CESC's fixed assets.6 There was no
+government guarantee.
+
+3.     During construction of the Project in FY1993, there was an unexpected increase in the
+demand for electricity from 881 megawatts (MW) to 967 MW.7 The increase justified an
+expansion to the project scope to strengthen CESC's network at lower voltage levels (para. 6).
+In addition to financing CESC's transmission and distribution network development, ADB
+supported also CESC's generation program, through a second loan for 2 x 250 MW generator
+
+
+
+
+1
+    Capital city of the West Bengal State, India. Officially renamed Kolkata in FY2001, and hereafter referenced as
+    Kolkata in this report, except in relation to the still legal title of CESC. Kolkata has a population of 10.6 million.
+2
+    Because of the already high exposure of local finance institutions to CESC (47% of equity and 90% of outstanding
+    debt), a policy was introduced by the Government of India restricting new lending by local finance institutions to a
+    maximum of 40% of investment cost.
+3
+    With approval of the West Bengal State Government, CESC was permitted to augment the supply of power to its
+    transmission and distribution network, in addition to power supplied from the West Bengal State Electricity Board.
+    Approval was given for CESC to install (i) 2 x 67.5 megawatts (MW) new generator units at the Southern power
+    station for commissioning in FY1991 and FY1992, and (ii) 2 x 250 MW new generator units at Budge Budge for
+    commissioning from FY1995 in two phases.
+4
+    Investment 7058/Loan 1036-IND: CESC Limited Project.
+5
+    The largest private shareholder in CESC is an industrial investment group--R.P. Goenka Group--with around
+    20%. Approximately 33% of the shares are owned by 13,000 other private shareholders, and 47% by nine public
+    sector financial institutions.
+6
+    The mortgage ranked pari passu with other lending institutions.
+7
+    Arising from the Government's relaxation of regulatory rules governing the uses to which electricity could be
+    applied.
+2
+
+
+units at Budge Budge in December 1991, and a third loan for a new power plant at Balagarh in
+December 1996.8
+
+C.         Purpose and Outputs
+
+4.      The project purpose was to augment CESC's transmission capacity so as to achieve a
+more integrated system linking the power plants and substations in CESC's system. The initial
+project scope was limited to augmenting CESC's 132 kilovolts (kV) transmission network with
+links to two new substations and four existing load centers. With the surge in load demand in
+FY1993, it became necessary to expand further CESC's 132 kV transmission network and
+strengthen CESC's transmission and distribution at 33 kV, 11 kV, and 6 kV levels.
+
+5.      The project outputs for the original scope included (i) laying four 132 kV underground
+transmission cables between New Cossipore and East Kolkata, East Kolkata and Prinsep
+Street, Prinsep Street and Park Lane, and Majerhat and Jadavpur substations; (ii) construction
+of two new 132 kV substations at East Kolkata and Jadavpur; and (iii) upgrading of four existing
+substations at Majerhat, New Cossipore, Park Lane, and Prinsep Street.
+
+6.      The project outputs for the extended scope included (i) laying an additional 132 kV
+underground transmission cable between Jadavpur and Kasba substations; (ii) transformers,
+relay, and switchgear equipment for nine new 33/11/6 kV distribution stations 9 to cater for the
+additional load demand; and (iii) installation of one 33 kV power capacitor at Kasba substation
+to improve voltage reliability. Further details of the project outputs and expected impacts are in
+Appendix 1.
+
+D.         Cost, Financing, and Executing Arrangements
+
+7.     As shown in Appendix 2, the total project cost was estimated at appraisal at
+Rs1,575 million ($91.6 million), including a foreign exchange cost of Rs504 million
+($29.2 million) and a local currency cost of Rs1,071 million ($62.4 million). ADB's loan of
+$17.8 million equivalent was to be used to finance 61% of the foreign exchange cost related to
+imported equipment, engineering services, and interest during construction. A loan for
+$20.0 million equivalent from the International Finance Corporation (IFC) was to be used to
+finance the balance of the foreign exchange cost ($11.4 million) for imported equipment and
+$8.6 million of the local currency cost. The remaining part of the local currency cost was to be
+funded by local finance institutions (Rs610 million, or $35.5 million) and CESC (Rs315 million,
+or $18.3 million).
+
+8.     In February 1994, when the need to extend the project scope became evident, the
+revised estimate for the original scope was Rs1,528 million ($50.1 million). The major reduction
+in US dollar terms was mainly attributable to favorable currency variations and concessional
+import duties. The project scope expansion increased the estimated overall project cost to
+Rs2,284 million ($74.1 million), which could still be financed within the funding arrangements
+
+
+
+
+8
+    Investment 7082/Loan 1142-IND: CESC II Limited Project, for $32 million, approved on 13 December 1991; and
+    Investment 7130/Loan 1499-IND: Balagarh Power Company Limited Project, for $40 million, approved on
+    6 December 1996. Following protracted delays in the adjustment of electricity tariffs, the validity period of the latter
+    expired and the loan was subsequently cancelled on 31 October 2001.
+9
+    At Alipore, Auckland, Bally, Chingrihata, Dhakuria, Dumdum, Kamarhati, Grey Street, and Park Circus. Following
+    detailed assessment of load requirements, the proposed substations at Bally, Dumdum, and Park Circus were
+    replaced by new substations at Jessore Road, Lillooah, and Rashbehari.
+                                                                                                               3
+
+
+envisaged at appraisal. CESC assumed the foreign exchange risk and responsibility for project
+implementation. 10
+
+E.      Completion and Self-Evaluation
+
+9.      ADB's Project Completion Review Mission inspected the Project in October 1998.
+Although no explicit rating was given, an assessment of generally successful11 could be inferred
+from the project completion report (PCR) as all project components were found to have been
+implemented satisfactorily and within budget. The performance of contractors was considered
+good, and the Project was seen to have (i) enhanced load management and operating
+efficiencies; (ii) reduced the risks of outages; and (iii) enabled power to be transferred from the
+Southern and Budge Budge power stations which, in turn, reduced CESC's reliance on power
+purchases from the West Bengal State Electricity Board (WBSEB). The Project's financial
+internal rate of return (FIRR) and economic internal rate of return (EIRR) were recalculated at
+9.2% and 15.8%, respectively, close to the appraisal estimates of 8.9% and 15.9%. Against
+these success factors, some deterioration in CESC's financial strength was observed, and
+attributed to a dispute with the West Bengal State Government (WBSG), which had not
+approved CESC's application to increase tariffs. The dispute was resolved in October 1998.
+With a 25.4% approved tariff increase, the financial strength of CESC was expected to be
+restored.
+
+10.     The PCR identified several positive lessons learned as reasons for the satisfactory
+implementation of the Project: (i) the role of ADB in working closely with CESC, (ii) the
+competence of CESC as an experienced operator, and (iii) the satisfactory legal and regulatory
+framework under which CESC operated. Attention was drawn to the need to look seriously at
+the inefficiencies in transmission and distribution due to high power losses, which were affecting
+the creditworthiness and the capacity of private sector projects to raise commercial finance.
+
+11.     The PCR reliably evaluated project implementation, but in the absence of a technical
+advisor, could not provide an assessment of the technical effectiveness of the Project. The
+broader development impacts of the Project were also not assessed, and evaluation of CESC's
+financial performance and outlook for the future proved unrealistic.
+
+F.      Operations Evaluation
+
+12.     This project performance audit report (PPAR) examines the findings of the PCR and
+reassesses the economic, financial, and operating performance of the Project. Special attention
+is given to assessing the achievement of project purpose, intended developments from the
+Project, sufficiency of technical design for meeting load growth, financial performance of CESC,
+and sufficiency of its initiatives to contain system losses. Also assessed are recovery
+mechanisms on loan and customer debt, planning, environmental issues, and the capacity for
+private sector participation to meet Kolkata's future power expansion needs. The PPAR reflects
+the findings of an Operations Evaluation Mission (OEM) that visited Kolkata in November 2002;
+a review of the PCR, appraisal report, material in ADB files, and 3 years of additional
+operational data; CESC's responses to the OEM's questionnaire; and discussions with ADB
+staff, CESC's senior management, and electricity consumers at Jadavpur. Copies of the draft
+PPAR were provided to WBSG, CESC, and ADB departments concerned for review, and their
+comments were considered in finalizing the PPAR.
+
+10
+   At appraisal, CESC's exposure to foreign exchange risk on its foreign loans was reported as negligible. CESC's
+   foreign exchange risk on the ADB and IFC loans was considered manageable and within acceptable bounds for
+   recovery through the electricity tariff.
+11
+   Under the previous three-category rating system (generally successful, partly successful, and unsuccessful).
+     4
+
+
+                           II.    PLANNING AND IMPLEMENTATION PERFORMANCE
+
+     A.      Formulation and Design
+
+     13.       Formulation of the Project was influenced by (i) the need for additional power to support
+     industrial growth, (ii) ADB's assistance strategy for promoting and sustaining economic growth,
+     (iii) the viability of CESC's proposal for achieving a cost-effective and technically efficient
+     transmission network, and (iv) the apparent shortage of financing options available to CESC. At
+     appraisal, ADB accepted CESC's technical proposal and reassessed the financial and
+     economic viability of the Project based on CESC's aggregate investment program for the period
+     FY1991­FY1995. Final technical specifications and costings were subject to detailed design
+     during implementation, using CESC's in-house technical expertise and experience.
+
+     14.     The appraisal followed ADB's general approach for public sector projects, but with less
+     comprehensiveness. The time taken from CESC's request for assistance to ADB loan approval
+     was approximately 13 months, which compared favorably with the time taken by commercial
+     banks to approve industrial loans. The overall approach proved satisfactory, but inadequate
+     attention was given to evaluating the Project's credit risk. The technical viability of
+     improvements and impact on load growth in the absence of reinforcement and upgrading of the
+     CESC system were not evaluated. If the Project's credit risk and technical inputs had been more
+     comprehensively assessed, the potential for deterioration in CESC's financial performance
+     might have become evident, and a sounder basis for ADB's involvement, and for CESC to meet
+     its loan obligations, might have emerged (para. 54).
+
+     B.      Achievement of Outputs
+
+     15.     Actual outputs were as envisaged at appraisal and subsequently revised with hardly any
+     variation (Table 1). Minor amendments followed detailed engineering assessments of the
+     system, e.g., the envisaged 132 kV underground cable between New Cossipore and East
+     Kolkata was replaced by the 132 kV underground cable between Barrackpur Trunk Road and
+     East Kolkata; the power capacitor envisaged at Kasba was replaced by a capacitor at Mulajore;
+     and the envisaged upgrading of Majerhat substation was transferred to another project (see
+     Map).
+
+                                         Table 1: Achievement of Outputs
+Item                                             Envisaged                                       Actual
+At Appraisal
+Transmission Lines               76 km of 630 mm 2 132 kV underground cable:   73 km of 630 mm 2 132 kV underground cable:
+                                 New Cossipore-East Kolkata (21 km)            BT Road-East Kolkata (29 km)
+                                 East Kolkata-Prinsep Street (21 km)           East Kolkata-Prinsep Street (20 km)
+                                 Prinsep Street-Park Lane (12 km)              Prinsep Street-Park Lane (7 km)
+                                 Majerhat-Jadavpur (22 km)                     Majerhat-Jadavpur (17 km)
+                  a
+New Substations                  132/33 kV East Kolkata                        132/33 kV East Kolkata
+                                 132/33 kV Jadavpur                            132/33 kV Jadavpur
+                       b
+Upgraded Substations             132/33 kV Park Lane, Prinsep Street, New      132/33 kV Park Lane, Prinsep Street,
+                                 Cossipore, and Majerhat                       and BT Road
+Added with Extended Scope
+Transmission Line               34 km of 630 mm 2 132 kV underground cable: 34 km of 630 mm 2 132 kV underground cable:
+                                 Jadavpur-Kasba                                 Jadavpur­Kasba
+New Substations b               Nine Distribution Substations                  Nine Distribution Substations
+Power Capacitor                 15 MVA 33 kV at Kasba                          20 MVA 33 kV at Mulajore
+    BT = Barrackpur Trunk, km = kilometer, kV = kilovolt, mm2 = square millimeter, MVA = megavolt-ampere.
+    a
+       With outdoor equipment that included 132 kV circuit breakers, 132 kV isolators, 50 MVA 132/33 kV
+       transformers; and indoor equipment for switchgear, panel, and metering.
+    b
+       Including transformers, cabling, metering, and connecting equipment.
+                                                                                               5
+
+
+C.     Cost and Scheduling
+
+16.     At Rs2,312 million ($75.0 million), the actual total project cost was only 1% above the
+revised estimate of February 1994. Financing was provided by IFC ($26.5 million), ADB
+($18.8 million), local finance institutions ($15.3 million), and CESC ($14.4 million). The
+increases in the US dollar equivalents of the ADB and IFC loans were attributable to favorable
+currency variations against the US dollar in the pool of currencies borrowed by CESC. ADB's
+loan financed 25% of the total project cost and 68% of the foreign exchange cost. IFC financed
+the balance of the foreign exchange cost and 37% of the local currency cost. The remaining
+local currency requirements were met by local finance institutions (32%) and CESC (31%)
+(Appendix 2).
+
+17.    The components of the original project scope were completed in December 1994,
+3 months ahead of appraisal schedule. The additional components were completed in June
+1996. To allow their financing, the closing date for ADB's loan was extended from 31 December
+1995 to 10 September 1996.
+
+D.     Procurement and Construction
+
+18.     At appraisal, it was agreed that procurement would be undertaken in accordance with
+CESC's standard procedures. The award of contracts for civil works and cable laying was to be
+based on a minimum of three competitive bids. Procurement within India was to be based on
+local competitive bidding, and major equipment items imported were to be procured through
+international competitive bidding. These procedures were generally followed. The procurement
+process involved multitier reviews within CESC before approval by the Central Electric
+Authority. Documentation relating to items procured with ADB funding was forwarded to ADB for
+review and approval. A summary of contract awards under ADB's loan is in Appendix 3.
+
+19.    CESC reported that the international and domestic contractors and suppliers for the
+Project had performed satisfactorily. All equipment inspected at the sites visited by the OEM
+was functioning satisfactorily with no significant defects.
+
+E.     Organization and Management
+
+20.     Organization and management for implementation were consistent with arrangements
+agreed at appraisal. Responsibility was totally vested with CESC, which had long experience
+with implementing such transmission reinforcement and upgrading. Documentation and
+inspection evidence available to the OEM and discussions with implementation personnel and
+senior management confirmed that implementation had been satisfactory with respect to the
+awarding of procurement and construction contracts, contracting of technical experts for training
+the operators of new equipment, and in-house management covering detailed design and
+construction supervision. ADB held coordination meetings with IFC at appraisal, and in 1994
+when considering the project scope expansion.
+
+21.     Apart from a loan review associated with the change in scope, ADB did not field any
+review missions to monitor project implementation. This was consistent with the private
+investment banking practice that provides for review only under special circumstances when the
+interests of the bank and its investment are at stake. Monitoring relied on the submission of
+bidding documents for equipment financed under ADB's loan, and reporting requirements as
+covenanted under ADB's loan. The OEM found that CESC kept good records of project
+accounts, and all documentation and reporting requirements were met satisfactorily.
+6
+
+
+
+                             III.     ACHIEVEMENT OF PROJECT PURPOSE
+
+A.         Operational Performance
+
+22.     Operational performance is measured in terms of the Project's achievements in
+(i) extending and augmenting the 132 kV grid to transfer power between power plants and
+substations, (ii) reinforcing overloaded 33 kV systems, (iii) reducing system losses on the
+11/6 kV distribution systems, and (iv) improving system reliability. The adequacy of
+maintenance is also reviewed.
+
+23.     The improved 132 kV transmission links to alternative generating sources enabled
+CESC to reduce its dependence on power supply from WBSEB that was impaired by frequent
+outages, and improve the availability of power in the southern distribution area of CESC's
+license. CESC's own generation as a proportion of total energy transmitted increased from
+51% at appraisal to 62% in FY1995, and 82% by FY2001. The reliability of CESC's system to
+meet load demand variations was also improved.
+
+24.    With the two-stage commissioning of the 135 MW Southern power station in FY1990
+and FY1991, CESC's power supply deficit, estimated at around 15%, was eliminated.
+Responding to the increased availability of power and improvement in transmission capacity,
+the average growth in CESC's energy sales accelerated from 1.8% per annum between FY1987
+and FY1990 to 3.8% per annum between FY1990 and FY1995, but did not reach the 5.6%
+appraisal forecast.
+
+25.    The addition of nine new 33 kV substations preempted distribution losses that would have
+otherwise occurred with further load growth.12 Without this expansion of the project scope and
+augmentation of the 132 kV grid, CESC's transmission and distribution losses would have been at
+least 4% higher. Table 2 gives performance indicators before and after the Project. Detailed
+discussion of the operational and technical performance of the Project and CESC system is in
+Appendix 4.
+
+                               Table 2: Operational Performance Indicators
+
+       Indicator                                            Before Project                 After Project
+
+       132/33 kV Load Capacity (MVA)                                 980                        1,280
+       Distribution Load Capacity (MVA)                            1,400                        1,894
+       System Voltage Across 33 kV                                32­33                       32­33a
+       System Loss Across 33 kV (%)                              2.0­2.4                     1.8­2.0 b
+       Distribution Loss Savings (%)                                  nil                    0.8­2.4 c
+
+         kV = kilovolt, MVA = megavolt-ampere.
+         a
+           The system ideally should be operating at 33 kV.
+         b
+           The 33 kV losses ideally should be around 1.8%.
+         c
+           Over the lower voltage network and arising from 132 kV augmentation only.
+
+26.    Adequate general maintenance, including checks and monitoring of technical
+performance at substations, is undertaken by CESC. Because the transmission lines
+implemented under the Project were all laid underground, regular maintenance is not required.
+The substations and the distribution equipment appear in good order and are operating at their
+
+12
+     During FY1994, WBSG relaxed some of its regulatory measures on the use of electricity. As a consequence, the
+     growth in CESC's energy sales increased from 4.2% in FY1995 to 6.6% in FY1996. The unanticipated increase
+     would, with further load growth, have led to overloading and a drop in voltage below the system design of 33 kV.
+                                                                                                                        7
+
+
+optimum design. General maintenance to meet safety standards at substation yards is variable.
+Discussions with CESC engineers confirmed their understanding of transformer maintenance
+and gas circuit-breaker handling requirements.
+
+B.         Performance of the Operating Entity
+
+           1.        Financial Performance
+
+27.     CESC's financial performance over the period FY1987­FY1990 was characterized by
+slow growth amidst persistent power shortages during evenings. While the number of customers
+increased at 4.9% per annum during that period, the supply constraints kept the energy sales
+growth at only 1.8% per annum. Net operating income (profit) before tax as a proportion of
+equity and operating revenues averaged a moderate 11.8% and 2.7%, respectively. At 14.9%,
+equity as a proportion of total assets was well below the commercial norm for ensuring financial
+sustainability. Appraisal projections to FY2000 took into account the project implementation
+schedule and the expected increase in generation from the Southern and Budge Budge power
+stations. Electricity sales were expected to increase at an overall rate of around 5.6% per
+annum. Consistent with CESC's past performance, profit before tax was projected to grow at
+12.9% per annum and to be sufficient to maintain a rate of return on equity of around 12%, on
+operating revenues of around 3%, and on net fixed assets of around 4%. The principle
+established under the Sixth Schedule of the Electricity Supply Act (1948) for approving
+electricity tariff adjustments to allow an after tax return on net fixed assets of 3% provided
+confidence in these projections.
+
+28.    The Project's investment in transmission and distribution equipment, spread over 6 years,
+represented 45% of CESC's net fixed assets at appraisal, and 3% in FY2002. Although the
+Project was a relatively small component of CESC's growing operations, it was essential for
+improving these operations and avoiding inefficiencies that would have otherwise occurred with
+continued load growth. CESC's financial viability was premised on CESC's capacity to meet its
+debt servicing requirements. Critical to the financial projections at appraisal were underlying
+assumptions relating to load growth, system losses, and tariff adjustments.
+
+29.     Appendix 5 summarizes CESC's financial statements pertaining to its operations from
+FY1988 to FY2002. The performance trend of CESC was one of solid improvement followed by
+a rapid decline in profitability. Profit before tax increased from Rs129 million in FY1990 (2.6% of
+revenues) to a maximum Rs896 million in FY1996 (7.5% of revenues), to turn into growing
+losses from FY1998 onwards. Total assets grew by 33.0% per annum to Rs47.9 billion in
+FY1996, and to a maximum Rs62.4 billion in FY1999, before easing to Rs58.9 billion in FY2001.
+Equity to total assets strengthened from 17.9% to 53.3% in FY1994, before sliding to 34.7% in
+FY2001. Significantly, and representing improved operational efficiencies, CESC's operating
+expenditures before depreciation and interest declined from 85.9% of operating revenues in
+FY1990 to 76.9% in FY2002.13 During the same period, the average tariff increased from
+Rs1.34 per kilowatt-hour (kWh) to Rs3.89 per kWh.14 This was equivalent to 9.3% per annum, as
+against the average inflation rate of 7.3% per annum, and an increase in average operating cost
+(excluding depreciation and interest) of 6.8% per annum. However, there was a significant
+difference in the average tariff increase between FY1990 and FY1996 (10.6% per annum) and
+that between FY1996 and FY2002 (8.0% per annum). As a result of this slowdown, the average
+13
+     The ratio fell to its lowest of 70.3% in FY2001.
+14
+     Still to be confirmed by the regulator. The electricity tariff is adjusted annually based on guidelines set under the
+     India Electricity Supply Act (1948) and CESC's proposal. The system of adjustment worked satisfactorily until
+     FY1995 when WBSG disagreed with CESC's proposed increase to recover fuel increases affecting operating costs
+     in FY1994. Although the increase was forthcoming, approval was not ratified until December 1996. Thereafter,
+     continuing disputes and claims arose, which led to further delays that accentuated CESC's financial losses.
+8
+
+
+tariff could not keep pace with the average operating cost (Appendix 5, Figure A5) and CESC
+started incurring losses.
+
+30.      Contributing to these overall trends were accounting treatments for the revaluation of
+assets in FY1994, inadequate adjustments of electricity tariffs from FY1995 onwards, increased
+interest on borrowings associated with an overreliance on loans to meet capital requirements,
+and growing system losses.15 Table 3 provides a summary of the key financial performance
+indicators between FY1989 and FY2002. ADB's loan covenant of a long-term debt to equity
+ratio of no more than 3 was complied with only in FY1995 and FY 1996, while the debt service
+ratio covenant of at least 1.1 times was complied with in every year except FY1998 and
+FY2002. The covenants were intended as triggers for maintaining electricity tariffs so as to
+ensure that revenues covered all operating expenses and taxes, loan interest and other
+charges, and repayment of debts when due; and that a reasonable return on CESC's capital
+base was generated, as defined in the Electricity Supply Act (1948).
+
+           Table 3: Financial Performance of the Calcutta Electric Supply Company
+Fiscal Year Ending            1989    1990     1993     1995    1996      1997     1998     1999     2001     2002
+                   a
+Debt Service Ratio             1.7      1.6      1.6     2.7      2.4      1.6      0.8      1.2      1.3        1.0
+                                                                                                                     c
+Long-Term Debt to Equity       3.5      3.5      3.9     2.4      2.7      3.1      4.3      4.6      4.7
+ Ratiob
+Operating Expenditure/        86.4     85.9    80.9     79.3     77.9     85.3     87.1     78.8     70.3.     76.9
+ Revenue (%)
+Return on Operating            2.9      2.6      3.1     7.1      7.3      0.3     (7.6)    (7.5)    (9.1)    (16.2)
+              d
+ Revenue (%)
+                                                                                                                     c
+Return on Equity (%)          13.4     12.5    12.9      3.4      4.2      0.2     (5.5)    (6.2)    (8.4)
+                                                                                                                     c
+Equity to Total Assets (%)    15.9     14.9    15.2     51.7     44.8     39.8     34.6     33.0     34.7
+                                                                                                                     e
+Average Revenue Tariff        1.20     1.34    1.69     2.10     2.45     2.77     2.89     3.21     3.51     3.89
+ (Rs per kWh)
+
+ kWh = kilowatt-hour.
+ a
+   Profit before depreciation, interest, and tax less dividends, all divided by interest plus loan repayments.
+ b
+   Equity for this ratio in calculation excluding the effect of asset revaluations.
+ c
+   Dependent on the regulator's tariff determination.
+ d
+   Profit before tax divided by operating revenue.
+ e
+   Subject to final determination and dependent on claw-back provisions awarded by the West Bengal State Electricity
+   Board. The actual average operating tariff before award was Rs3.38 per kWh.
+
+31.     In January 2002, CESC defaulted on servicing its debt obligations to several lenders,
+including ADB and IFC. This precipitated litigation from lenders through the Kolkata High Court
+for recovery of interest and loan principal. ADB abstained as a participant to the injunction,
+preferring to work with the Steering Committee16 to evolve a satisfactory restructuring of CESC's
+loans. In a separate appeal for tariff relief, the Supreme Court's decision of 3 October 2002
+(para. 37) to approve a tariff increase of 16.5% with adjustment for transmission and distribution
+losses, allowed CESC to resume its loan-servicing obligations.17
+
+
+
+
+15
+   Among these, the one-off revaluation of assets led to a substantial increase in shareholders' funds and, therefore,
+   increase in equity to total assets. Similarly, the decline in long-term borrowings to total assets occurred not
+   because the former declined, but because the revaluation and growth in assets was large relative to the growth in
+   borrowings.
+16
+   Formed by the lenders to negotiate loan restructuring with CESC.
+17
+   The adjustment was expected to result in a net effective tariff increase of about 12.3%.
+                                                                                                                 9
+
+
+           2.       Auditing Arrangements
+
+32.     Local chartered accountants are reappointed on a yearly basis for an external audit of
+CESC's accounts. The same firm of auditors has been reappointed since at least FY1987, and
+the same format for presenting CESC's accounts has been followed. While auditing procedures
+are believed to comply with the Government's requirements and standards, and generally open
+disclosure exists for all accounting items, CESC's presentation of accounts and disclosure
+details are not fully consistent with accepted international practice. Important areas requiring
+more transparency include disclosure in the income statement covering provisions on the profit
+and loss account and unpaid consumer bills, and provision for exchange rate changes on
+foreign currency liabilities and extraordinary items. Important areas requiring more transparency
+and alignment in the balance of accounts statement include the treatment and extent of unpaid
+receivables, and the treatment of consumer deposits. Presentation in the standard balance
+sheet format would help make the accounts of CESC more transparent and easier to interpret.
+
+C.         Financial and Economic Reevaluation
+
+33.     At appraisal, the financial and economic analysis covered benefits from all of CESC's
+power investments planned for commissioning during the time-slice FY1991­FY1995. 18 The
+base-case benefits assessed were considered conservative in terms of pricing and incremental
+output, and implementation arrangements sufficient to enable project completion as scheduled
+and within the estimated cost. Because the Project was to be implemented using proven
+technology and methods, no major implementation risks were anticipated. The same time-slice
+methodology was used in the PCR.
+
+34.     The OEM has reestimated the EIRR and FIRR based on more detailed information than
+was available at the time of the PCR. Differences between the appraisal, PCR, and OEM
+estimates (Table 4) are explained by differences in the load and tariff levels. The EIRR reestimate
+of 12.1% confirms the economic viability of CESC's investments, of which technical
+improvements under the Project were a part, but are not fully captured in terms of avoided
+outages and distribution losses, and improved voltage reliability. The FIRR of 6.3%, which
+assumes transmission sufficiency to meet load growth up to FY2008 and takes into account the
+cost of investments with taxes and duties, confirms the financial viability of CESC's investments
+between FY1990 and FY1996. The FIRR is close to the average real weighted cost of capital
+estimated at 6.7%, which takes into account the nominal lending rates on foreign and local
+loans, together with a premium for the foreign exchange risk, an adjustment for corporate tax,
+and an adjustment for inflation. A detailed account of the methodology and assumptions
+underlying the FIRR and EIRR reestimates is in Appendix 6.
+
+                                         Table 4: FIRR/EIRR Estimates
+                                                      (%)
+                Item                         Appraisal                 PCR                   PPAR
+                FIRR                            8.9                   9.2                      6.3
+                EIRR                           15.9                  15.8                     12.1
+
+                EIRR = economic internal rate of return, FIRR = financial internal rate of return,
+                PCR = project completion report, PPAR = project performance audit report.
+
+
+
+
+18
+     Benefits expected from other projects included additional revenue benefits derived from the commissioning of
+     Southern power station (135 MW), other upgrading, distribution, and miscellaneous projects commissioned during
+     the period.
+10
+
+
+35.    A 10% increase in the average tariff in FY1997 would have improved the FIRR to 8.6%,
+and the EIRR to 14.2%. Similarly, if a 10% tariff increase is assumed for FY2003, an FIRR of
+7.9% is obtained. Such an increase has some bearing on future tariff adjustments to be sought
+from the regulator. Should the load growth during FY2003­FY2008 be 10% higher than the
+OEM's projection, the FIRR and EIRR will improve to 6.9% and 12.9%, respectively.
+
+D.       Sustainability
+
+36.     The sustainability of project benefits depends on planning, the timely matching of capacity
+with growth in load demand, optimal system management, and maintenance. Planning follows
+CESC's master plan, last prepared in FY1994, for operations improvement. Generation sufficiency
+is being met together with back-up generation capacity available from WBSEB.19 The additional
+transmission capacity installed under the Project will not reach its maximum for many years so
+that in the unlikely event of a shutdown in generation, technical sustainability is reasonably
+assured. However, transformer capacity across CESC's network is sufficient only for the next
+3 years, and higher transformer capacities will be needed to avoid load shedding.20 System
+management is conducted satisfactorily and attention is being paid to further upgrading of CESC's
+network. Maintenance requirements are being met satisfactorily.
+
+37.      The timely matching of technical improvements with load growth is dependent on
+CESC's capacity to meet its investment requirements. Since FY1995, adjustments in the
+electricity tariff have been irregular, and distribution losses have climbed with an adverse impact
+on CESC's profits, dividends, and share price. To avoid performance failure in the future, these
+issues need to be addressed, together with financial restructuring and a change in management
+modus operandi toward meeting future investment needs. The OEM's discussions with CESC
+management showed that there was awareness of the situation and constructive steps were
+being taken. A world-renowned investment bank was engaged to advise on financial
+restructuring. Issues surrounding the principles for approving electricity tariff adjustments were
+clarified under the Supreme Court's judgment of 3 October 2002, which should lead to more
+timely future adjustments. CESC was taking measures to reduce its transmission and
+distribution losses (Appendix 4), and WBSG introduced harsh penalties for electricity theft, and
+improved court processing for enforcement. After having steadily increased from 14.6% in
+FY1991 to 23.7% in FY2001, the transmission and distribution losses decreased for the first
+time in FY2002, to 21.8%, and a further significant decline is expected in FY2003. These efforts
+provide ground for some optimism that CESC can overcome its financial difficulties. However,
+the basis for adjusting tariffs is still likely to require review (para. 51). Regular injections of equity
+capital are also needed, which to date has not been seen as necessary, or providing a sufficient
+commercial return. 21 In the absence of more definitive planning and commitment from the major
+shareholder, the financial viability of CESC's operations is uncertain. This uncertainty applies to
+the total operations of CESC, as opposed to the sustainability of project benefits, which are
+reasonably assured.
+
+                   IV.      ACHIEVEMENT OF OTHER DEVELOPMENT IMPACTS
+
+A.       Socioeconomic Impact
+
+38.   The socioeconomic situation in the project areas was not assessed at appraisal or during
+implementation. The OEM also could not reliably measure social benefits derived from the
+
+19
+   CESC's transmission network is connected to WBSEB at Howrah, Kasba, Lillooah, and Titagarh substations.
+20
+   Provision for upgrading is currently planned at Auckland and Park Lane substations.
+21
+   In the short term, it may be necessary to first divest some of CESC's operations in order to normalize its financial
+   gearing.
+                                                                                                 11
+
+
+Project, but CESC operators and users in the project areas visited reported that the reliability of
+supply improved and there were fewer outages during evenings. These improvements were seen
+to have widened the scope of commercial activities, enhanced the quality of life, and improved the
+environments in which people worked.
+
+39.    One of the factors taken into account for approval of ADB's loan was the expected
+stimulus to industrial growth that the improved availability and reliability of power would provide.
+Acceleration in industrial growth was expected to spur economic activity and, in turn, lead to
+increased electricity demand from households and small businesses. This expected outcome
+does not appear to have occurred. At appraisal, energy consumption by industry was growing at
+about 2.4% per annum. Between FY1990 and FY1996, the growth slowed to 2.1% per annum,
+despite the increased availability of power. From FY1996 to FY2002, there was zero growth in
+energy sales to industry. The OEM was unable to establish the reasons for the lack of industrial
+growth despite the improved availability and reliability of power.
+
+40.     The Project was gender neutral with no stated objective to assist women during or after
+implementation. Project benefits for women accrued largely in the form of improved availability
+of electricity, in particular less outages during evenings, in their homes.
+
+B.     Environmental Impact
+
+41.     Environmental aspects relating to the Project were not specifically addressed at appraisal,
+except for ADB's loan covenants requiring CESC to ensure that the Project was implemented with
+due regard to environmental and pollution control laws. The Project had no significant adverse
+impact on the environment. The 132 kV transmission lines were laid underground consistent with
+established practice, which avoided concerns relating to tower construction, minimum height
+clearance, and safety. The new substations are fenced off, and noise pollution from transformers
+is not audible outside the fence boundaries. Personnel safety measures against accidental high-
+voltage electrocution were built into the design and ground cover of the substations. For some
+substations, more diligent attention to controlling weed growth around the equipment is warranted.
+Procedures against the accidental operation of switchgear at the new and upgraded substations
+are appropriate.
+
+C.     Impact on Institutions and Policy
+
+42.    Appraisal included a review of CESC's organization, management, and operations. CESC
+was found to have the relevant experience to satisfactorily implement the Project. Suboptimal
+features associated with aged equipment, obsolete technologies, and multiple voltage distribution
+systems were noted, and it was recognized that CESC was taking measures to address the need
+for modernizing. Procedures for and experience in procurement were considered appropriate.
+Consequently, s pecific provision for institutional strengthening was not considered necessary.
+
+                               V.      OVERALL ASSESSMENT
+
+A.     Relevance
+
+43.    The Project's rationale to help meet the suppressed demand for electricity in Kolkata,
+and in so doing assist industrialization, was consistent with the Government's Eighth Plan
+(FY1991­FY1995) and ADB's assistance strategy to facilitate economic growth. Significant in
+ADB's decision to support the Project was the private sector status of CESC; the already high
+exposure of the local finance institutions and a new law restricting their lending to a maximum of
+40% of the investment cost; and power shortages in Kolkata that were impeding industry and
+12
+
+
+economic growth. The Project improved the availability, reliability, and security of power supply
+to consumers by enhancing CESC's transmission and load management capacity. The nine
+new substations were important for containing downstream distribution losses. In consideration
+of these factors, the Project's rationale, purpose and outputs are assessed as relevant.
+
+B.     Efficacy
+
+44.     The expansion of the project scope and the redesign of some components following
+detailed engineering were appropriate. Civil works for the 132 kV transmission underground
+cable were completed satisfactorily and in accord with established practice. Installation of
+equipment for the two new 132/33 kV substations and nine new 33 kV substations was of a high
+order. The project outputs achieved their design purpose of expanding CESC's transmission
+capacity and avoiding transmission and distribution losses that would have otherwise occurred,
+but were not of a sufficient scale to achieve a reduction in CESC's overall losses. Although the
+Project helped remove power constraints on industrial growth, it was insufficient on its own to
+effect such growth. The Project, in achieving its stated purpose and principal targets, is
+assessed as efficacious.
+
+C.     Efficiency
+
+45.     Implementation efficiency in terms of cost and schedule was satisfactory. The expansion
+of the project scope required installation of additional equipment and was responsible for the
+additional time needed for project completion. System management at generation and
+transmission is satisfactory. The reestimated EIRR of 12.1% attests to the economic viability of
+CESC's investments made over the period FY1990­FY1996. The reestimate exceeds ADB's
+efficiency benchmark, but is significantly lower than the appraisal figure. Overall, the Project's
+implementation and performance are assessed as efficient.
+
+D.     Sustainability
+
+46.      CESC's capacity to meet Kolkata's growing electricity needs is strongly dependent on
+timely injections of equity capital matched with loan support. To date, CESC has relied largely on
+borrowings to meet its capital requirements, and the interest cost has impaired the financial
+viability of its operations. CESC's financial capacity to meet expansion requirements, contain
+transmission and distribution losses, and also meet loan-servicing obligations is uncertain. While
+this uncertainty applies to CESC's total operations, the additional transmission capacity installed
+under the Project will not reach its maximum for many years and maintenance of the equipment is
+sound so that technical sustainability is reasonably assured. Accordingly, the sustainability of
+benefits generated by the Project per se is assessed as likely.
+
+E.     Institutional Development and Other Impacts
+
+47.    Project support for institutional strengthening was limited to ADB's loan covenants that
+were aimed at providing early signals for adjusting tariffs and at ensuring observance of reporting
+requirements on project implementation and CESC's financial operations. The Project, while
+improving the availability of electricity for industry, was not sufficient to spur industrial growth,
+which actually slowed. However, it allowed expansion in new connections for commercial and
+domestic consumers that widened the scope for commercial activities, and improved their home
+and work environment. Overall, institutional, economic, and other impacts of the Project are
+judged moderate.
+                                                                                                                  13
+
+
+F.       Overall Project Rating
+
+48.     The Project is rated successful.22 It enabled CESC to meet transmission requirements
+for the new generation units at the Southern and Budge Budge power stations, thus helping
+eliminate a 15% supply deficit. Detracting from a higher rating is the FIRR of 6.3%, which
+although close to the average real weighted cost of capital, reflects CESC's weakening financial
+performance that renders uncertain its capacity to fully meet future investment requirements and
+financial obligations.
+
+G.       Assessment of ADB and Borrower Performance
+
+49.    ADB's overall performance is assessed as partly satisfactory. ADB's appraisal was
+inadequate in evaluation of technical inputs and credit assessment. With a more comprehensive
+evaluation, ADB could have been instrumental in achieving a fuller project impact, and helping
+CESC secure a better basis for meeting its future capital requirements. A sounder basis for
+ADB's involvement and management of its loan investment would have been provided. Since
+the July 1990 appraisal, loan processing procedures for ADB's private sector operations have
+been strengthened. 23
+
+50.     CESC's performance is assessed as satisfactory, notwithstanding the weaknesses in its
+financial management. CESC competently managed project implementation. Procurement was
+carried out in accordance with competitive bidding procedures, and the original scope
+completed within the appraised cost and schedule. Cooperation with ADB was good, and
+adequate records of every detail of project implementation were kept. Detracting from a higher
+assessment are financial difficulties experienced by CESC due to delayed tariff increases, an
+overreliance on meeting capital requirements from borrowed funds, and rising distribution
+losses.
+
+                      VI.      ISSUES, LESSONS, AND FOLLOW-UP ACTIONS
+
+A.       Key Issues for the Future
+
+51.     Privatization and Regulatory Failure. CESC's license passes responsibility for
+meeting investment requirements to the private sector. Up to the present, CESC has viewed
+solutions to its expansion needs as a function of the availability of loan support. The public
+shareholding base of CESC is not used to raise equity for the purpose of partly funding CESC's
+investment needs.24 The underlying principle of the Electricity Supply Act (1948) whereby the
+Government undertakes to approve an adjustment to the electricity tariff to meet the full cost of
+supply is a disincentive to do so. A review of CESC's financial management strategy and of the
+principle for adjusting CESC's electricity tariff as provided under the Act is warranted.
+
+52.     The monopoly development of CESC under regulatory control 25 has contributed to its
+declining financial performance. Generation, transmission, and distribution operations remain
+22
+   Using the revised four-category rating system (highly successful, successful, partly successful, and unsuccessful).
+23
+   ADB. 2001. Private Sector Operations Strategic Direction and Review. Manila.
+24
+   Limited rights issues attached to nonconvertible redeemable debentures were offered.
+25
+   While CESC is a public company whose shares are majority owned by a private investor group and listed on the
+   London and India stock exchanges, its license to supply and distribute power is in reality permission to operate at
+   intervals (of about 10 years), after which WBSG has a "deferred option to purchase the undertaking." In effect, the
+   Government can nationalize the operations of CESC if the benefits of privatizing the supply and distribution of
+   electricity are not in the public interest. To ensure that the public interest is not exploited by the monopoly
+   operations of CESC, WBSEB is the appointed regulator responsible, among other matters, for reviewing and
+   approving (or otherwise) adjustments to the electricity tariff. CESC must also obtain approval for additional
+   investments, which until FY1988 precluded CESC from investing in generation.
+14
+
+
+bundled and without legal independence and accountability. The lack of legal entities under
+which the key operational areas are structured presents difficulties for lenders to collateralize
+their loan investments and offer more favorable lending terms. The lack of corporatization of
+CESC's operations also means that expenditures and revenues between generation and
+distribution are not legally separable. The need for internal restructuring of CESC's operations is
+evident, as is the need to restructure the Kolkata power sector so that competition is introduced
+and regulatory intervention minimized. New entrants should be encouraged in generation, and
+responsibility for expanding distribution extended to additional operators. Divestment of CESC's
+Budge Budge power station and the involvement of a strategic investor in CESC also merit
+consideration.
+
+53.     Value Added by ADB. ADB's financing followed appraisal procedures commonly
+practiced in commercial banks. There was a minimum of project administration, except for
+monitoring compliance with loan covenants related to reporting and loan servicing, and
+extending approval for CESC to utilize loan savings for an expansion in project scope. Such
+minimum involvement is consistent with global investment banking practice. The issue,
+therefore, arises as to how ADB can provide added value in its development role for private
+sector lending, and whether ADB's appraisal and administration of private sector proposals are
+appropriate.
+
+54.     One weakness evident at project formulation was the lack of technical verification by
+ADB that the project design would achieve its stated purpose and performance targets. Even
+the expanded scope, although beneficial, was of insufficient scale to contain CESC's overall
+transmission and distribution losses. Another weakness was the lack of credit assessment on
+CESC and its principal shareholder, despite ADB's loan being without government guarantee
+and independent security. The lack of standalone collateral and practical difficulties associated
+with legal recourse in the event of default meant that ADB was lending on a promissory basis--
+a feature that was later repeated for ADB's second loan to CESC (footnote 8). Loan security
+could have been strengthened with more attention to loan structuring, and ADB's exposure
+lessened through sell-down arrangements. Long-term investment lending to the private sector
+would normally entail (i) identifying the risks, (ii) setting an interest rate commensurate with the
+long-term risk and security, and (iii) underwriting or selling down the lead lender's loan to other
+international investors. ADB's private sector operations arm would add value to its impact if it
+looked to increase the volume of its lending through an increased involvement in underwriting,
+and selling down. Essential to that process is a comprehensive and high-quality credit
+assessment at appraisal that is also made available to other underwriters and potential fund
+investors.
+
+B.     Lessons Identified
+
+55.   The key lesson is that with a more comprehensive technical evaluation and credit
+assessment at appraisal, the project scope necessary to achieve CESC's performance targets
+could have been more reliably identified. This lesson and a few others from the OEM's
+observations of CESC's operations are reflected in the recommended follow-up actions below.
+
+C.     Follow-Up Actions
+
+56.    ADB should ensure more comprehensive appraisal when processing future private
+sector projects.
+
+57.    CESC should (i) consider restructuring and corporatizing its generation, transmission,
+and distribution so that the operations of each entity are independent with separate pricing and
+                                                                                                    15
+
+
+accountability for expenditures and revenues; and (ii) make more use of bond and equity
+markets to meet its investment requirements.
+
+58.    WBSG should (i) restructure the power sector and introduce competition in the provision of
+power in Kolkata so that the role of the regulator is shifted away from price setting, and (ii) provide
+CESC with legislative support and recovery mechanisms for dealing with outstanding customer
+accounts.
+                                                      GOALS, TARGETS, INPUTS, AND RESULTSa
+
+
+
+
+                                                                                                                                                                          16
+Goals                                                          Targets                           Expected Outcomes and                   Actual Outcomes and
+                                                                                                        Impacts                                 Impacts
+
+
+
+
+                                                                                                                                                                          Appendix 1
+Sector
+· Reduce resource constraints              ·    Calcutta Electric Supply Company                ·    Increased funding leading       ·   Loan funding constraints
+   on lending to the private                    (CESC) Limited, a public listed company              to progressive expansion            overcome; generation and
+   sector for power projects                    in which 53% of the shares are privately             of power generation and             transmission requirements
+                                                owned                                                transmission to the                 met
+                                                                                                     Kolkata licensed area
+·     Help expand the role of the          ·    Improved transmission and distribution          ·    Increased generation            ·   Power deficit offset;
+      private sector to improve                 efficiency in the Kolkata licensed area              output, transmission, and           transmission and distribution
+      overall efficiencies in the                                                                    distribution sales                  losses reduced specific to the
+      power sector                                                                                                                       Project but not CESC
+·     Promote economic                     ·    Meeting industry power needs and                ·    Higher production levels        ·   Industry growth sales
+      development                               enhancing system reliability                         and faster economic                 sustained at 2.2% per annum
+                                                                                                     growth                              to 1996, thereafter zero
+                                                                                                                                         growth
+
+For the Project As Appraised
+· Reduce transmission                      ·   Construction of new 132-kilovolt (kV)            ·    Increased transmission          ·   Transmission capacity
+    constraints preventing the                 substations at East Kolkata and                       network capacity                    increased by 423 megawatts
+    transfer of power between                  Jadavpur                                         ·    Reduced transmission                (MW)
+    area systems that make up              ·   Upgrading of existing 132 kV                          and distribution losses         ·   Transmission distribution
+    the Kolkata network                        substations at New Cossipore, Majerhat,               across the CESC network             losses increased to 19.9% in
+                                               Prinsep Street, and Park Lane                         from 16.3% to 15.0%                 FY1996 and 23.7% by
+                                           ·   Laying of new 132 kV interconnections            ·    Sustained voltage                   FY2001
+                                               by underground cable between                          reliability with increased      ·   Voltage reliability sustained
+                                               substations (i) New Cossipore-East                    load demand                     ·   Anticipated outages in project
+                                               Kolkata, (ii) East Kolkata-Prinsep,              ·    Limited outages                     area avoided
+                                               (iii) Park Lane-Prinsep, and (iv)                     associated with
+                                               Majerhat-Jadavpur                                     overloading
+
+
+a
+    Although some similarity in format exists, this comparison is not intended to develop a project framework that was not prepared at appraisal or reappraisal.
+Goals                                                       Targets                          Expected Outcomes and            Actual Outcomes and
+                                                                                                    Impacts                          Impacts
+
+For the Additional Scope
+· Counter the instability of            ·    Construction of new 132 kV                     ·    Increased transformer    ·   Transformer capacity
+    power distribution arising from          interconnection by underground cable                capacity by about            increased to 148 MVA
+    the unanticipated jump in                between Jadavpur and Kasba                          135 megavolt-ampere      ·   Voltage output to households/
+    power demand from 881 MW                 substations                                         (MVA)                        commercial consumers
+    in FY1993 to 967 MW in              ·    Construction of nine new 33/11/6 kV            ·    Sustained voltage            regularized at 220 volts ± 5%
+    FY1994                                   substations                                         performance and reduce   ·   20 MVAr capacitor at
+                                        ·    Installation of one 15 megavolt-ampere              outages                      Mulajore substituted for
+                                             reactive (MVAr) 33 kV power capacitor          ·    Increased capacity to        15 MVAr capacitor at Kasba
+                                             at Kasba substation                                 expand number of         ·   New connections across
+                                        ·    Supply of power equipment to improve                consumer connections         Kolkata increased by 91%
+                                             reliability                                                                      (873,000) to end of FY2002
+
+Project Inputs
+· Procurement and installation          ·    Project costs (at appraisal)                   ·    Original project         ·   Original project components
+   of cables, switchgear,                    Rs1,575 million ($91.6 million)                     completion by 31 March       completed on 31 December
+   transformers, jointing kits, and     ·    Project financing plan                              1995                         1994
+   accessories                               -- ADB $17. 8 million                          ·    Expanded project         ·   Overall project completed on
+                                             -- IFC: $20.0 million                               completion by 31 March       6 September 1996
+                                             -- LFI: $35.5 million                               1995                     ·   Project costs Rs2,312 million
+                                             -- CESC: $18.3 million                                                           ($75.0 million)
+                                                                                                                          ·   Project financing
+                                                                                                                              -- ADB: $18.8 million
+                                                                                                                              -- IFC: $26.5 million
+                                                                                                                              -- LFI: $15.3 million
+                                                                                                                              -- CESC: $14.4 million
+ADB = Asian Development Bank, IFC = International Finance Corporation, LFI = local finance institution.
+
+
+
+
+                                                                                                                                                              Appendix 1
+                                                                                                                                                              17
+                                                                                                                                                                                                         18
+                                                                                          PROJECT COSTS
+
+                                     Estimated (Rs million)                   Estimated ($ million)                            Actual (Rs million)                           Actual ($ million)a
+
+
+
+
+                                                                                                                                                                                                         Appendix 2
+Item                              Foreign    Local       Total           Foreign    Local         Total                  Foreign     Local         Total               Foreign    Local          Total
+                                 Exchange Currency       Cost           Exchange Currency         Cost                  Exchange Currency          Cost               Exchange Currency          Cost
+Original Projectb
+Land                                   0            17           17          0.0          1.0          1.0                    0           21           21                 0.0          0.6         0.6
+Civil Works                            0             7            7          0.0          0.4          0.4                    0           25           25                 0.0          0.8         0.8
+Cable, Equipment, and Spares         307           638          945         17.8         37.1         54.9                  296          712        1,008                10.6         21.9        32.5
+Engineering Services                   2            89           91          0.1          5.2          5.3                    1          220          221                 0.0          6.8         6.8
+IDC                                   76           107          183          4.4          6.2         10.6                  209          119          328                 7.5          3.7        11.2
+Contingencies                        119           213          332          6.9         12.5         19.4                    0            0            0                 0.0          0.0         0.0
+   Subtotal                          504         1,071        1,575         29.2         62.4         91.6                  506        1,097        1,603                18.1         33.8        51.9
+
+
+
+Revised Original Projectc            572           956        1,528         18.7         31.4         50.1                  506        1,097        1,603                18.1         33.8        51.9
+
+Expanded Projectc
+Civil Works                            0             9            9          0.0          0.3          0.3                    0            9            9                 0.0          0.3         0.3
+Cable, Equipment, and Spares         153           277          430          4.9          8.8         13.7                  165          294          459                 5.9          9.0        14.9
+Engineering Services                  11            10           21          0.3          0.3          0.6                   12           10           21                 0.4          0.3         0.7
+IDC                                   85           119          204          2.8          3.7          6.5                   92          128          220                 3.3          3.9         7.2
+Contingencies                         33            59           92          1.0          1.9          2.9                    0            0            0                 0.0          0.0         0.0
+   Subtotal                          282           474          756          9.0         15.0         24.0                  269          441          709                 9.6         13.5        23.1
+
+Revised Original and Expanded Project
+Land                            0                   23           23          0.0          0.8          0.8                    0           21           21                 0.0          0.6         0.6
+Civil Works                     0                   42           42          0.1          4.9          5.0                    0           34           34                 0.0          1.1         1.1
+Cable, Equipment, and Spares  534                  911        1,445         20.6         27.7         48.3                  461        1,006        1,467                16.5         30.9        47.4
+Engineering Services           13                  236          249          0.1          2.9          3.0                   12          230          242                 0.4          7.1         7.5
+IDC                           222                  182          404          5.5          7.6         13.1                  301          247          548                10.8          7.6        18.4
+Contingencies                  85                   36          121          1.4          2.5          3.9                    0            0            0                 0.0          0.0         0.0
+   Total                      854                1,430        2,284         27.7         46.4         74.1                  774        1,538        2,312                27.7         47.3        75.0
+
+Funding Source
+ADB                                  556             0          556         18.0          0.0         18.0                  579            0          579                18.8          0.0        18.8
+IFC                                  298           412          710          9.7         13.4         23.1                  195          624          819                 8.9         17.6        26.5
+LFI                                                473          473          0.0         15.3         15.3                    0          473          473                 0.0         15.3        15.3
+CESC                                               545          545          0.0         17.7         17.7                    0          441          441                 0.0         14.4        14.4
+    Total                            854         1,430        2,284         27.7         46.4         74.1                  774        1,538        2,312                27.7         47.3        75.0
+
+ADB = Asian Development Bank, CESC = Calcutta Electric Supply Company, IDC = interest and other charges during construction, IFC = International Finance Corporation, LFI = local finance institution.
+ a
+   The dollar equivalent values reflect exchange rates applicable on the rupee cost at the time of expense.
+ b
+   As appraised in July 1990.
+ c
+   As approved in February 1994.
+Sources: ADB and CESC.
+                                                                                     Appendix 3   19
+
+
+            SUMMARY OF CONTRACT AWARDS UNDER ADB LOAN a
+
+Description                                              Currency           Contract Amount
+
+
+
+Procurement of 132 kV Gas-Insulated                          DM                13,699,267
+Switchgear from Germany
+
+
+Erection Supervision of 132 kV Gas-Insulated                 DM                 3,483,618
+Switchgear from Germany
+
+
+Procurement of 132 kV Jointing Kits and                       $                 3,185,450
+Accessories from Sweden
+
+
+Procurement of 132 kV Jointing Kits and                       $                  589,356
+Accessories from Japan
+
+Procurement of Disturbance Recorder from                      $                    9,050
+Germany
+
+
+
+
+ADB = Asian Development Bank, DM = deutsche mark, kV = kilovolt.
+a
+  The balance of ADB funds was used to meet interest during construction.
+Source: ADB disbursement records and Calcutta Electric Supply Company.
+20        Appendix 4
+
+
+                           OPERATIONAL AND TECHNICAL PERFORMANCE1
+
+A.        Design
+
+1.      The 132 kilovolt (kV) transmission lines installed under the Project used 132 kV
+crosslinked polyethylene (XLPE) insulated copper cables laid underground, which are
+appropriate for a densely populated city area. The lines are not visible except where cables are
+connected with overground equipment. The termination points appeared well built, and there
+were no reports of problems with them.
+
+2.     The 132 kV substations erected at Jadavpur and East Kolkata were of conventional
+outdoor design with main and transfer bus configuration. The 132 kV substations at Prinsep
+Street and Park Lane, where land was the main constraint, included gas-insulated switchgear
+(GIS) with double bus bar configuration. For stepping down 132 kV transmission voltage to
+33 kV distribution voltage, 50 megavolt-ampere transformers were installed at Jadavpur and
+East Kolkata substations, and a 75 megavolt-ampere transformer installed at Park Lane
+substation.
+
+3.      The design of the 132 kV and 33 kV substations and transformers was in accord with
+national and international design standards. The main and transfer bus configuration for outdoor
+substations, and double bus bar configuration for GIS, provided flexibility in operation and
+enhanced power availability. At Jadavpur and East Kolkata, space was kept for future
+expansion of the substation capacity for one 132 kV/33 kV transformer. Most other substations
+in the Calcutta Electric Supply Company's (CESC's) network are similarly planned.
+
+4.      The functional design of substations was appropriate. A minor improvement in design for
+the better storage of spares was possible at Jadavpur.
+
+B.        Operation and Maintenance
+
+5.     The main equipment items at substations are summarized in Table A4.1, and power
+loads carried by the 132 kV and 33 kV transformers at each substation are summarized in Table
+A4.2.
+
+6.      During discussions, operation staff indicated there were no major operating problems for
+the 132 kV and 33 kV substations, transformers, and other equipment. No abnormal leakage of
+sulfur hexafluoride gas from circuit breakers and GIS were reported or observed during site
+inspections. Oil seepage from the two transformers of Auckland Square was scheduled for
+repair. No abnormal leakage from transformers was observed in other substations inspected.
+
+7.      As GIS was used for the first time in CESC's system, key operation and maintenance
+staff of CESC took training in the manufacturer's works in Germany. Maintenance of
+transformers and other equipment is carried out regularly. Stocks of spare parts required for
+maintenance of equipment are also maintained.
+
+8.     Equipment at the 132 kV and 33 kV substations is maintained satisfactorily. At Jadavpur,
+grass and weeds around the transformers and bus plant had grown through the graveled
+ground cover and were jeopardizing the safety features in the substation design. More diligence
+should be applied to maintaining safety design features.
+
+
+
+
+1
+    Additional summary findings of the staff consultant.
+                                                                                                                                       Appendix 4       21
+
+                                              Table A4.1: Locations and Scope of the Project
+
+
+Item                                                                                  Result
+
+At Appraisal
+                                                                                               Length (km)
+                            a
+A. 132 kV Transmission Line                                                             At
+                                                                                      Appraisal              Actual
+    Majerhat-Jadavpur                                                                    7.2                   5.6
+    Prinsep Street-Park Lane                                                             4.0                   2.2
+    Prinsep Street-East Kolkata                                                          7.0                   6.6
+    East Kolkata-Barrackpur Trunk (BT) Road                                              7.0                   9.6
+
+       Subtotal                                                                         25.2                  24.0
+
+
+B. New 132 kV and 33 kV Substations                              Construction for each new stations generally included
+   Jadavpur                                                      * 132 kV (main and transfer bus) outdoor switchyard, 6 bays
+   East Kolkata                                                  * 132 kV circuit breaker, 6 sets
+                                                                 * 132 kV isolator, 20 sets
+                                                                 * 132 kV instrument transformers and other accessories
+                                                                 * 50 MVA, 132 kV and 33 kV transformers, 2 sets
+                                                                 * Control panel and relay panels 132 kV system
+                                                                 * 33 kV, single busbar, air insulated, indoor switchgear, 12 panels
+                                                                 * Control panel and relay panels 33 kV system
+                                                                 * Miscellaneous hardware and equipment
+                                                                 * Station building, one
+
+                                            b
+C. Extension to 132 kV and 33 kV Substations Extension for each substation generally included
+   BT Road                                    * 132 kV (Main and transfer bus) outdoor switchyard, 1 bay
+                                              * 132 kV circuit breaker, isolators, and other accessories
+                                              * Control panel and relay panels 132 kV bay
+
+    Prinsep Street                                               * Double bus bar 132 kV indoor GIS switchgear, 10 bays
+                                                                 * Control panel and relay panels 132 kV system
+                                                                 * Miscellaneous plant and equipment
+                                                                 * Modification of existing building
+
+    Park Lane                                                    * Double bus bar 132 kV indoor GIS switchgear, 5 bays
+                                                                 * Double bus bar 33 kV indoor GIS switchgear, 15 bays
+                                                                 * 75 MVA, 132 kV and 33 kV transformers, 1 set
+                                                                 * Control panel and relay panels 132 kV and 33 kV system
+                                                                 * Miscellaneous plant and equipment
+                                                                 * Modification of existing building
+
+
+GIS = gas-insulated switchgear, km = kilometer, kV = kilovolt, MVA = megavolt-ampere.
+ a
+    All lines were laid underground. The lines were of copper cable construction, single core, 630 square millimeters, and insulated with crosslinked
+    polyethylene (XLPE). Because transmission is carried out in three phases, and cable is required for each phase, the actual length of cable is
+    three times the length of the line specified.
+ b
+    Extension and upgrading of Majerhat substation was transferred from the original scope to another Calcutta Electric Supply Company project.
+22      Appendix 4
+
+
+Table A4.1: Locations and Scope of the Project--Continued
+
+
+Item                                                                  Result
+
+Extended Scope
+                                                                            Length (km)
+                                       a
+D. 132 kV Transmission Line                                             At
+                                                                      Appraisal         Actual
+     Jadavpur-Kasba                                                    10.5             10.6
+
+                                      c
+E. 33/11/6 kV Distribution Substation                 Construction and extension of substation generally included
+   Alipore                                            * 16 MVA transformer along with associated plant and equipment, 1 set
+
+     Auckland Square                                  * 20 MVA transformer along with associated plant and equipment, 1 set
+
+     Chingrihatta                                     * 16 MVA transformer along with associated plant and equipment, 1 set
+
+     Dhakuria                                         * 16 MVA transformer along with associated plant and equipment, 1 set
+
+     Grey Street                                      * 16 MVA transformer along with associated plant and equipment, 1 set
+
+     Jessore Roadd                                    * 16 MVA transformer along with associated plant and equipment, 1 set
+
+     Kamarhati                                        * 16 MVA transformer along with associated plant and equipment, 1 set
+
+     Rashbeharie                                      * 16 MVA transformer along with associated plant and equipment, 1 set
+
+     Lillooahf                                        * 16 MVA transformer along with associated plant and equipment, 1 set
+
+F. 33 kV Capacitor Bank
+     Mulajore Generating Stationg                     * 33 kV, 20 MVAr capacitor bank along with plant and equipment, 1 set
+
+
+MVAr = megavolt-ampere reactive.
+ c
+    Except Lillooah, all are new substations.
+ d
+    Instead of Dumdum identified at appraisal.
+ e
+    Instead of Park Circus identified at appraisal.
+ f
+    Instead of Bally identified at appraisal.
+ g
+    Instead of 15 MVAr at Kasba.
+Source: Calcutta Electric Supply Company Limited.
+                                                          Table A4.2: Power Loading of Substation Transformers
+
+Item                                        Transformers Installed                   Power Loading               Power Loading After (MW)
+                                          Transformer     Number of                   Before (MW)
+                                        Capacity (MVA) Transformers                    1994­1995   1997­1998 1998­1999 1999­2000 2000­2001 2001­2002
+
+A. 132/33 kV Substations
+                                                                            a
+1. Jadavpur Substation                          50                      2                     0        64       65        64        74        74
+                                                                            a
+2. East Kolkata Substation                      50                      2                     0        33       35        43        52        60
+                                                                            b
+3. Park Lane Substation                         75                      2                     35       43       44        55        56        56
+
+
+B. 33/11/6 kV Substations
+                                                                            c
+1. Alipore                                      16                      2                     0        14       14        14        17        17
+                                                                            c
+2. Auckland Square                              20                      2                     0        9        9         18        18        18
+3. Chingrihatta                                 16                      1                     0        9        9         9         12        11
+                                                                            c
+4. Dhakuria                                     16                      2                     0        9        9         8         13        13
+                     d
+5. Grey Street                                  16                      1                     0        13       13        11        10        10
+6. Jessore Roadd                                16                      1                     0        15       16        17        15        17
+                 d                                                          c
+7. Kamarhati                                    16                      2                     0        12       13        13        15        13
+8. Lillooahd                                    16                      2   c
+                                                                                              14       23       23        24        24        21
+                     d                                                      b
+9. Rashbehari                                   16                      2                     0        7        7         13        14        12
+
+
+
+
+                                                                                                                                                       Appendix 4
+kV = kilovolt, MVA = megavolt-ampere, MW = megawatt.
+a
+  Both transformers installed under 132 kV augmentation project.
+b
+  Second transformer installed under 132 kV augmentation project.
+c
+  First transformer installed under 132 kV augmentation project.
+d
+  Decrease in substation load after FY1999 is due to redistribution of load from nearby substations.
+
+
+
+
+                                                                                                                                                       23
+Source: Calcutta Electric Supply Company Limited.
+24        Appendix 4
+
+
+
+
+C.        System Losses
+
+9.     CESC's system losses (auxiliary losses and transmission and distribution [T&D] losses),
+along with other operation performance indicators, are shown in Table A4.3. There was a
+steady increase on T&D losses from FY1991 to FY1997 (from 14.6% to 20.0%). T&D losses
+decreased to 19.3% in FY1998 and thereafter increased to 23.7% in FY2001. Upgrading of
+CESC's transmission system to a higher voltage, and addition of distribution substations,
+prevented T&D losses across CESC's total system from being at least 4% higher.
+
+10.     Not unrelated to the increase in CESC's T&D losses is the increase in new connections
+by 873,000 or 91% between FY1990 and FY2002, representing 48% of CESC's total consumer
+connections. Most of the increase was for small business and domestic connections. At least
+one third of CESC's increase in T&D losses is attributable to increased technical losses.
+
+11.    T&D losses of CESC are lower than those of most other areas in India. In FY1998,
+CESC's T&D losses were 19.3% compared with national average of 23.7%, Delhi's 48.1%,
+Haryana's 35.2%, Andhra Pradesh's 34.1%, and Chandigarh's 29.7%.1 CESC's T&D losses of
+19.3% were also lower than those of the Ahmedabad Electric Company Limited (20.1%) but
+higher than those of Bombay Suburban Electric Supply Limited (16.8%). Technical losses of
+CESC are estimated to be below 12%, with the balance attributed to pilferage and inaccurate
+meters. CESC is taking aggressive steps to reduce its losses and has introduced a program for
+upgrading meters, installing capacitors, upgrading its transmission system to higher voltages,
+and taking legal action against pilferage. The West Bengal State Government has introduced
+harsh penalties for theft and improved court processing for enforcement. T&D losses decreased
+from 23.7% in FY2001 to 21.8% in FY2002, and are expected to fall significantly in FY2003.
+
+D.        System Voltages
+
+12.     At all the substations inspected, the system voltages were observed to be normal. The
+132 kV system was operating at about 131 kV­132 kV, and the 33 kV at 31 kV­33 kV. All
+transformers were provided with an on-load tap changer, which helps maintain optimal voltage
+with changing load conditions.
+
+E.        System Control
+
+13.    All the five generating stations of CESC are interconnected and synchronized with the
+West Bengal State Electricity Board. 2 Total system demand and availability of power from own
+generation determine the necessary quantum of imported power. Presently, CESC's load
+management and system control are managed using a supervisory control and data acquisition
+(SCADA) system introduced in 1996. The SCADA system, although technically obsolete, is
+operated effectively. Data monitoring is automatic, control is manual, and communication is by
+telephone. A modern SCADA system would allow the system operators to schedule generation
+more efficiently and achieve a further saving in T&D losses. CESC's future development plans
+include provisions for upgrading the SCADA system.
+
+
+
+
+1
+    Source: Sixteenth Electric Power Survey of India, in which actual losses are available up to FY1998.
+2
+    Public power utility owned by the West Bengal State Government.
+                                                                                       Table A4.3: Operating Performance Indicators
+Item                                                                         1988        1989     1990    1991    1992    1993    1994    1995    1996     1997     1998     1999     2000     2001     2002
+
+
+Energy from Generation (GWh)                                                  4,139      4,295    4,335   4,446   4,710   4,852   5,173   5,421    5,832    5,991    6,206    6,386    6,421    6,765    6,824
+Energy Sold (GWh)                                                             3,513      3,589    3,639   3,795   3,902   4,035   4,202   4,380    4,670    4,794    5,010    5,071    4,937    5,165    5,333
+Energy Sold in Revenues (Rs million)                                          3,588      4,298    4,872   5,144   5,979   6,823   7,890   9,177   11,453   13,286   14,497   16,254   17,040   18,146   18,020
+Energy Cost Excluding Depreciation and Interest (Rs million)                  3,211      3,867    4,400   4,618   5,194   5,851   6,923   7,684    9,340   12,005   13,200   13,399   12,696   13,350   14,440
+Total Energy Cost (Rs million)                                                3,636      4,347    4,992   5,341   6,085   7,011   7,968   8,999   11,100   14,028   16,306   18,294   18,523   20,713   21,810
+
+Auxiliary Losses (%)                                                            8.7         8.6     9.0     9.6     9.7     9.6     9.4     9.1      9.1      9.6     10.3     10.0      9.9     10.0      9.8
+Transmission and Distribution Losses (%)                                       15.1        16.4    16.1    14.6    17.2    16.8    18.8    19.2     19.9     20.0     19.3     20.6     23.1     23.7     21.8
+Total System Losses (%)                                                        23.8        25.0    25.0    24.2    26.8    26.4    28.2    28.3     29.1     29.5     29.6     30.6     33.0     33.7     31.6
+
+Energy Purchased (GWh)                                                        2,043      2,111    1,997   1,997   1,911   1,743   1,993   2,046    2,355    2,680    2,631    2,135    1,576    1,196    1,323
+Energy from Own-Generation (GWh)                                              2,096      2,184    2,220   2,449   2,799   3,109   3,180   3,375    3,477    3,311    3,575    4,251    4,845    5,569    5,601
+Own-Generation/Total Energy Transmitted (%)                                    50.6       50.8     51.2    55.1    59.4    64.1    61.5    62.3     59.6     55.3     57.6     66.6     75.5     82.3     82.1
+
+System Maximum Demand (MW)                                                      708         738     773     774     840     873     952     956    1,043    1,138    1,160    1,183    1,195    1,238    1,290
+Average Load Demand (MW)                                                        401         410     415     433     445     461     480     500      533      547      572      579      564      590      609
+Average Load Demand/System Maximum Demand (%)                                  56.6        55.5    53.7    56.0    53.0    52.8    50.4    52.3     51.1     48.1     49.3     48.9     47.2     47.6     47.2
+
+Total Connections ('000)                                                        866        911     955    1,010   1,073   1,146   1,208   1,266    1,346    1,448    1,552    1,646    1,721    1,789    1,828
+
+Domestic Energy Sales (GWh)                                                   1,089      1,064    1,090   1,140   1,280   1,340   1,400   1,520    1,660    1,740    1,830    1,980    1,930    2,040    2,180
+Commercial Energy Sales (GWh)                                                   537        612      620     630     670     680     720     760      810      840      880      920      910      950      990
+Industrial Energy Sales (GWh)                                                 1,907      1,913    1,930   2,030   1,950   2,010   2,080   2,100    2,200    2,210    2,310    2,160    2,100    2,170    2,160
+Total Energy Sold (GWh)                                                       3,513      3,589    3,639   3,795   3,902   4,035   4,202   4,380    4,670    4,794    5,010    5,071    4,937    5,165    5,333
+
+Exchange Rate (Rs = $1.00)                                                     12.9        15.0    17.0    18.1    25.8    26.2    31.4    31.4     35.2     35.9     39.3     42.5     43.5     46.8     48.2
+Implicit Gross Domestic Deflator (1994 = 100)                                  61.5        66.7    73.7    83.9    91.2   100.0   109.4   119.3    128.2    136.8    147.6    152.9    158.8    165.3    172.3
+
+Average Revenue Tariff (Rs/kWh)
+Nominal                                                                        1.02        1.20    1.34    1.36    1.53    1.69    1.88    2.10     2.45     2.77     2.89     3.21     3.45     3.51     3.38
+Nominal from 1990 = Rs1.34/kWh Adjusted for Inflation                          1.12        1.21    1.34    1.53    1.66    1.82    1.99    2.17     2.33     2.49     2.68     2.78     2.89     3.01     3.13
+
+Average Operating Cost (Rs/kWh)
+Without Depreciation and Interest (A)                                            0.9        1.1     1.2     1.2     1.3     1.5     1.6     1.8      2.0      2.5      2.6      2.6      2.6      2.6      2.7
+
+
+
+
+                                                                                                                                                                                                                 Appendix 4
+With Depreciation and Interest     (B)                                           1.0        1.2     1.4     1.4     1.6     1.7     1.9     2.1      2.4      2.9      3.3      3.6      3.8      4.0      4.1
+                               B/A                                               1.1        1.1     1.1     1.2     1.2     1.2     1.2     1.2      1.2      1.2      1.2      1.4      1.5      1.6      1.5
+
+
+GWh = gigawatt-hour, kWh = kilowatt-hour, MW = megawatt, Rs = Indian rupees.
+
+
+
+
+                                                                                                                                                                                                                 25
+Sources: Calcutta Electric Supply Company Limited and Operations Evaluation Mission estimates.
+                                                                                                                                                                                                 26
+                                                                                       FINANCIAL RESULTS
+
+
+
+
+                                                                                                                                                                                                 Appendix 5
+                                        Table A5.1: Calcutta Electric Supply Company Summary Income Statement, 1988­2002
+                                                                              (Rs million)
+
+Item                                         1988      1989        1990       1991       1992        1993    1994    1995    1996     1997     1998      1999      2000       2001     2002
+                                                                                                                                                                                        (p)
+
+  Energy Sales                               3,588     4,298       4,872      5,144      5,979       6,823   7,890   9,177   11,453   13,286   14,497    16,254    17,040    18,146    18,020
+  Other Income                                 133       179         249        242        254         413     480     509      543      783      661       759       768       846       750
+Total Operating Revenue                      3,721     4,477       5,121      5,386      6,233       7,235   8,370   9,686   11,996   14,069   15,158    17,013    17,808    18,992    18,770
+
+   Fuel Costs                                  832     1,032       1,281      1,526      1,829       2,334   2,577   2,722    3,018    3,789    4,256     4,839     5,011     5,709     6,110
+   Purchased Power                           1,632     1,938       2,131      1,968      2,033       1,996   2,545   2,847    3,795    4,705    5,168     4,639     3,470     3,050     3,340
+   Salaries and Wages                          399       484         528        575        640         698     866   1,006    1,111    1,382    1,559     1,669     1,758     1,824
+   Repairs                                     302       398         452        514        665         732     797     918    1,127    1,156    1,035     1,004     1,214     1,191     4,990
+   Other                                        46        17           7         34         27          91     138     191      289      973    1,182     1,248     1,243     1,576
+Total Operating Expenses                     3,211     3,867       4,400      4,618      5,194       5,851   6,923   7,684    9,340   12,005   13,200    13,399    12,696    13,350    14,440
+
+Total Net Operating Income                     510       610         721        768      1,039       1,384   1,448   2,001    2,656    2,064    1,958     3,614     5,112     5,643     4,330
+
+   Depreciation                                115       121         127        136        178        318     335     573       657      701      784     1,933     1,980     3,084     3,200
+   Interest                                    310       359         465        587        713        842     710     742     1,103    1,322    2,322     2,962     3,847     4,279     4,170
+
+Net Income Before Tax                           85       130         129          45       148        225     403     686      896       41    (1,148)   (1,281)    (715)    (1,720)   (3,040)
+   Income Tax                                    0         13           0          0             0      0       0       0        0        0         0         0         0         0         0
+
+Net Income After Tax                            85       117         129          45       148        225     403     686      896       41    (1,148)   (1,281)    (715)    (1,720)   (3,040)
+
+   Provision for Dividends                      29         33          36         36        41         61      89     133      152       124        0          0        0         0         0
+   Provision for Exchange Rates                  0          0           0          0         0          0       0       0        0         0        0          0      415       201         0
+   Provision for Other                          43         60          69       (19)        79         85     221     432      505     (298)    1,148       (22)    1,415     3,065     4,584
+
+Surplus Carried to Capital Reserves             13         14          24         28        28         79      93     121      239      215         0    (1,303)   (2,545)   (4,584)   (7,624)
+
+p = provisional estimate.
+Sources: Calcutta Electric Supply Company Limited and Operations Evaluation Mission estimates.
+                                  Table A5.2: Calcutta Electric Supply Company Summary Balance Sheet, 1988­2001
+                                                                      (Rs million)
+Item                                    1988       1989      1990       1991      1992          1993      1994         1995     1996     1997     1998      1999      2000       2001
+
+                                                                                                                   a
+  Gross Fixed Assets                    4,185     4,424      4,759      6,061     7,308          7,741    23,335       24,597   25,399   26,912   42,133    43,002    58,599    60,756
+  Accumulated Depreciation              1,051     1,165      1,287      1,421     1,590          1,895     2,223        2,845    3,553    4,313    5,157     7,157     9,215    12,418
+Total Net Fixed Assets                  3,134     3,259      3,472      4,640     5,718          5,846    21,112       21,752   21,846   22,599   36,976    35,845    49,384    48,338
+
+    Work-in-Progress                      612     1,339      2,052      1,623     1,038          2,867     7,483       12,724   20,108   24,640   12,872    15,453     1,890     1,078
+
+  Receivables                             852       886        968      1,308     1,557          1,481     1,409        1,825    3,323    5,223    5,534     6,385     5,996     3,761
+  Cash Balance                             79        75        117         60        81            211       183          212      594      423      357       386       271       703
+  Other                                   217       478        486        553       720            910       998        1,903    1,958    2,612    4,089     4,189     4,338     4,897
+Total Current Assets                    1,148     1,439      1,571      1,921     2,358          2,602     2,590        3,940    5,875    8,258    9,980    10,960    10,605     9,361
+    Investments b                           0          0          0         2        11             54       57          175      112      115      120        133       133       133
+Total Assets                            4,894     6,037      7,095      8,186     9,125         11,369    31,242       38,591   47,941   55,612   59,948    62,391    62,012    58,910
+
+
+    Paid-Up Capital                       202       202        202        202       241            330       300          384      592      700      603       634       634       621
+    Reserves/Grants                       675       757        853        921     1,087          1,402    16,349       19,552   20,864   21,447   20,168    19,953    19,916    19,813
+
+Total Equity                              877       959      1,055      1,123     1,328          1,732    16,649       19,936   21,456   22,147   20,771    20,587    20,550    20,434
+
+
+    Local Finance Institution Loans     1,287     1,569      1,946      2,208     2,383          2,441     3,626        4,378    5,648    6,817    8,000     9,153     9,200    10,960
+    Foreign Loans                           0         0          0          0         0            928     2,591        4,530    7,317    9,442    8,097     7,077     6,575     6,064
+    Debentures                            184       194        202        193       411          1,071     2,114        2,212    2,203    2,221    2,213     2,046     2,235     2,032
+    Other                               1,298     1,614      1,591      2,283     2,297          2,279     2,652        2,806    4,920    6,715   10,397    11,385    10,801    10,813
+
+Total Long-Term Liabilities             2,769     3,377      3,739      4,684     5,091          6,719    10,985       13,926   20,088   25,195   28,709    29,661    28,811    29,869
+
+    Sundry Creditors                      430       561        645        835     1,099           896        907        1,146    1,697    3,365    3,653     5,703     6,385     6,848
+    Loan Maturities                       157       187        110        127       136           186        276          338      490      552      689       724       780       706
+    Other                                 536       692        395        465       395           624      1,153        1,263    2,404    2,291    3,643     4,358     4,892     2,066
+Total Current Liabilities               1,123     1,440      1,150      1,427     1,630          1,706     2,336        2,747    4,589    6,208    7,985    10,785    12,057     9,620
+                c
+    Other Funds                           650        738       838        961     1,111          1,248     1,500        1,711    1,958    2,209    2,508      2,800     3,272     3,697
+    Balancing Item                      (525)      (477)       312         (9)      (35)           (37)    (229)          271    (150)    (146)      (25)   (1,443)   (2,677)   (4,710)
+
+
+
+
+                                                                                                                                                                                          Appendix 5
+Total Liabilities                       4,894     6,037      7,095      8,186     9,125         11,369    31,242       38,591   47,941   55,612   59,948    62,391    62,012    58,910
+
+a
+  Increase on 1993 follows from a revaluation of assets. There were no further revaluations.
+b
+  Includes subsidiary and small bond investments.
+c
+  Includes capital contributions from consumers and consumer security deposits.
+
+
+
+
+                                                                                                                                                                                          27
+Source: Calcutta Electric Supply Company Limited and Operations Evaluation Mission estimates.
+                                                                                                                                                                                                                                                          28
+                                                                                        Table A5.3: Financial Performance Indicators
+
+Fiscal Year Ending                                                 1988        1989          1990         1991       1992        1993         1994         1995         1996         1997         1998         1999         2000     2001      2002
+
+
+
+
+                                                                                                                                                                                                                                                          Appendix 5
+Exchange Rate (Rs per $1.00)                                       12.88       14.95        17.04         18.07      25.83       26.20        31.38        31.38        35.18        35.93        39.28        42.48         43.49    46.75     48.18
+
+                                                                                                                                                                                                                                                      a
+Additions to Fixed Assets (Rs million)                               135         240           338          470      1,259         501       15,609        1,283           847       1,570       15,326        1,027        15,675    2,266
+
+Operating Revenue (Rs million)                                     3,721       4,477        5,121         5,386      6,233       7,235        8,370        9,686       11,996       14,069       15,158       17,013        17,808   18,992    18,770
+Gross Operating Profit (Rs million)                                  510         610          721           768      1,039       1,384        1,448        2,001        2,656        2,064        1,958        3,614         5,112    5,643     4,330
+
+Cost of Fuel (Rs million)                                            832       1,032        1,281         1,526      1,829       2,334        2,577        2,722        3,018        3,789        4,256        4,839         5,011    5,709     6,110
+Cost of Power Purchases (Rs million)                               1,632       1,938        2,131         1,968      2,033       1,996        2,545        2,847        3,795        4,705        5,168        4,639         3,470    3,050     3,340
+Repairs and Maintenance (Rs million)                                 302         398          452           514        665         732          797          918        1,127        1,156        1,035        1,004         1,214    1,191     4,990
+Salaries and Wages (Rs million)                                      399         484          528           575        640         698          866        1,006        1,111        1,382        1,559        1,669         1,758    1,824
+Other Operating Costs (Rs million)                                    46          17            7            34         27          91          138          191          289          973        1,182        1,248         1,243    1,576
+
+Depreciation (Rs million)                                            115         121           127          136        178         318           335          573         657          701          784        1,933         1,980    3,084     3,200
+Interest (Rs million)                                                310         359           465          587        713         842           710          742       1,103         1322        2,322        2,962         3,847    4,279     4,170
+
+Profit Before Tax (Rs million)b                                       85         130           129            45       148         225           403          686          896           41     (1,148)       (1,281)        (715)   (1,720)   (3,040)
+Profit After Tax (Rs million)                                         85         117           129            45       148         225           403          686          896           41     (1,148)       (1,281)        (715)   (1,720)   (3,040)
+
+                                                                                                                                                                                                                                                      a
+Total Equity (Rs million)                                            877         959        1,055         1,123      1,328       1,732       16,649       19,936       21,456       22,147       20,771       20,587        20,550   20,434
+
+                                                                                                                                                                                                                                                      a
+Net Fixed Assets (Rs million)                                      3,134       3,259        3,472         4,640      5,718       5,846       21,112       21,752       21,846       22,599       36,976       35,845        49,384   48,338
+                                                                                                                                                                                                                                                      a
+Current Assets (Rs million)                                        1,148       1,439        1,571         1,921      2,358       2,602        2,590        3,940        5,875        8,258        9,980       10,960        10,605    9,361
+                                                                                                                                                                                                                                                      a
+Total Assets (Rs million)                                          4,894       6,037        7,095         8,186      9,125      11,369       31,242       38,591       47,941       55,612       59,948       62,391        62,012   58,910
+
+                                                                                                                                                                                                                                                      a
+Current Liabilities (Rs million)                                   1,123       1,440        1,150         1,427      1,630       1,706        2,336        2,747        4,589        6,208        7,985       10,785        12,057    9,620
+                                                                                                                                                                                                                                                      a
+Long-Term Liabilities (Rs million)                                 2,769       3,377        3,739         4,684      5,091       6,719       10,985       13,926       20,088       25,195       28,709       29,661        28,811   29,869
+
+Operating Expenditure/Operating Revenue (%)                         86.3         86.4         85.9         85.7       83.3         80.9         82.7         79.3         77.9        85.3         87.1          78.8         71.3     70.3      76.9
+Depreciation and Interest/Operating Revenue (%)                     11.4         10.7         11.6         13.4       14.3         16.0         12.5         13.6         14.7        14.4         20.5          28.8         32.7     38.8      39.3
+
+                                                                                                                                                                                                                                                      a
+Profit Before Tax/Equity (%)                                          9.7        13.5         12.3           4.0      11.1         13.0          2.4          3.4          4.2          0.2        (5.5)        (6.2)        (3.5)     (8.4)
+Profit BeforeTax/Operating Revenue (%)                                2.3         2.9          2.5           0.8       2.4          3.1          4.8          7.1          7.5          0.3        (7.6)        (7.5)        (4.0)     (9.1)    (16.2)
+
+                                                                                                                                                                                                                                                      a
+Long-Term Liabilities/Equity (ratio)                                 3.2          3.5          3.5          4.2        3.8          3.9          0.7          0.7          0.9         1.1          1.4           1.4          1.4      1.5
+                                                                                                                                                                                                                                                      a
+Equity/Total Assets (%)                                             17.9         15.9         14.9         13.7       14.6         15.2         53.3         51.7         44.8        39.8         34.6          33.0         33.1     34.7
+
+                                                                                                                                                                                                                                                      a
+Current Assets/Current Liabilities (ratio)                           1.0          1.0          1.4          1.3        1.4          1.5          1.1          1.4          1.3         1.3          1.2           1.0          0.9      1.0
+                                                                                                                                                                                                                                                      a
+Current Liabilities/Total Liabilities (%)                           22.9         23.9         16.2         17.4       17.9         15.0          7.5          7.1          9.6        11.2         13.3          17.3         19.4     16.3
+                                                                                                                                                                                                                                                      a
+Long-Term Liabilities/Total Assets (%)                              56.6         55.9         52.7         57.2       55.8         59.1         35.2         36.1         41.9        45.3         47.9          47.5         46.5     50.7
+Debt Service Ratio c                                                 1.6          1.7          1.6          1.3        1.5          1.6          2.0          2.7          2.4         1.6          0.8           1.2          1.3      1.3       1.0
+Self-Financing Ratio d                                               3.9          3.1          4.4          1.6        1.6          0.3          0.3          0.4          2.7         0.5          0.5           0.5          1.1      1.3           a
+
+Long-Term/Equity (ratio) e                                           3.2          3.5          3.5          4.2        3.8          3.9          4.3          2.4          2.7         3.1          4.3           4.6          4.5      4.7           a
+
+
+
+
+Rs = Indian rupees.
+a
+    Results are dependent on the outcome of determinations for that portion of the tariff increase approved on 3 October 2002 that can be applied to FY2002.
+b
+    After depreciation and interest.
+c
+    Profit before depreciation, interest, and tax less dividends, all divided by interest plus loan repayments.
+d
+    Net funds from internal sources (return plus depreciation less dividends) divided by the average capital expenditure calculated over 3 years for the current fiscal year, previous fiscal year, and next fiscal year.
+e
+    Excluding the effect of asset revaluations on equity.
+Sources: Calcutta Electric Suppy Company Limited and Operations Evaluation Mission estimates.
+                                 Figure A5: Financial Revenues versus Operation Costs
+                                            (including depreciation and interest)
+
+
+
+         4.5
+
+
+         4.0
+
+                                 Financial Operating Costs
+         3.5                     (including depreciation and interest)
+
+
+         3.0
+
+
+         2.5
+Rs/kWh
+
+
+
+
+         2.0
+                                                                                                 Financial Revenues
+         1.5
+
+
+         1.0
+
+
+         0.5
+
+
+         0.0
+               1988     1989    1990     1991      1992   1993    1994     1995   1996   1997   1998   1999    2000   2001
+
+
+
+
+                                                                                                                             Appendix 5
+                                                             Fiscal Year
+
+
+                                        Average Revenue Tariff              Average Operating Cost
+
+
+
+
+                                                                                                                             29
+               kWh = kilowatt-hour, Rs = rupees.
+30        Appendix 6
+
+
+                              FINANCIAL AND ECONOMIC REEVALUATION
+
+A.        Methodology at Appraisal
+
+1.      The financial internal rate of return (FIRR) and economic internal rate of return (EIRR)
+were calculated on the basis of all project additions (planned and under construction) to the
+Calcutta Electric Supply Company (CESC) Limited power system for the time-slice FY1987­
+FY1995. 1 The time-slice took into account (i) all investment expenditure from FY1987, including
+that for the Southern power station, which was expected to be commissioned in two phases
+over FY1991 and FY1992; and (ii) all expected incremental operating and maintenance costs
+and incremental energy revenue from FY1990 onwards. A 25-year period, FY1990­FY2015,
+was used for the calculation.
+
+2.      The FIRR calculation included expected direct taxes and duties on capital items, which
+the EIRR calculation excluded. Operation and maintenance costs were calculated based on
+separate assessments for fuel requirements (namely, the cost of coal); power purchased; and
+other costs covering salaries and wages, repairs and maintenance, and administration. All costs
+and benefits were valued at constant 1990 prices. Costs excluded financial charges,
+depreciation, and indirect taxes. An average tariff of Rs1.31 per kilowatt-hour (kWh) was used in
+FY1991 and FY1992 to value incremental energy sales, Rs1.30/kWh in FY1993 and FY1994,
+and Rs1.29/kWh from FY1995 onwards. For the EIRR calculation, a standard conversion factor
+of 0.8 was used to convert domestic prices (applied to the local currency component of capital
+costs and the whole of operation and maintenance costs) into economic equivalent prices. The
+economic tariff was assumed equivalent to the financial tariff on the basis of consumers'
+willingness to pay at least 100% of the tariff billed. The FIRR and EIRR so obtained were 8.9%
+and 15.9%, respectively.
+
+B.        Methodology at Evaluation
+
+3.      The Asian Development Bank's project completion report (PCR) and Operations
+Evaluation Mission (OEM) independently reestimated the FIRR and EIRR following the same
+time-slice approach, but based on more factual information relating to investment costs,
+operating expenditures, and revenues. The OEM reestimates are based on actual operating
+expenditures and revenues up to FY2002.
+
+4.        Tables A6.1 and A6.2 show the FIRR and EIRR benefit and cost streams calculated by
+the OEM. The load increase represents the load taken up as a result of increased generation
+and improved transmission capacity under the Project. Differences between the appraisal, PCR,
+and OEM estimates are largely explained by the underlying assumptions for load forecasts and
+tariff level. These differences are summarized in Table A6.3.
+
+5.      For the FIRR, investment costs take into account the capital expenditures associated
+with technical services, equipment purchases, civil construction, and taxes and duties paid on
+equipment items, less income taxes. The EIRR investment costs are calculated similarly, but
+exclude duties and taxes paid. The tradeables portion of investment and operating costs is
+multiplied by the domestic numeraire of 1.1 to arrive at the economic equivalence value.
+
+
+
+1
+    It was felt that the nature of the transmission line projects was such that a meaningful FIRR and EIRR could not be
+    calculated for the Project alone.
+                                                                                          Appendix 6      31
+
+                           Table A6.1: FIRR Cost and Benefit Stream
+                               (Constant 2002 Prices--Rs million)
+
+           Load Increase       Investment Cost          Increased               Increased         Total
+            With Project         With Projecta          Operating                Revenue           Net
+                                                                b                         c
+Year           (GWh)                                      Costs                  Benefits        Benefits
+
+1988                                         1,523                                                 (1,523)
+1989                                         2,046                                                 (2,046)
+1990                                         2,051                                                 (2,051)
+1991               156                       1,525              384                   455          (1,454)
+1992               263                       1,096              661                   794            (964)
+1993               396                       1,654              989                 1,223          (1,420)
+1994               563                       2,846            1,461                 1,766          (2,540)
+1995               741                       1,191            1,878                 2,367            (702)
+1996             1,031                       2,891            2,771                 3,559          (2,103)
+1997             1,155                                        3,643                 4,269             626
+1998             1,371                                        4,217                 4,842             625
+1999             1,298                                        3,865                 4,907           1,042
+2000             1,526                                        4,258                 5,972           1,714
+2001             1,629                                        4,390                 6,245           1,855
+2002             1,735                                        4,778                 6,211           1,433
+2003             1,864                                        5,133                 6,672           1,539
+2004             1,996                                        5,497                 7,145           1,648
+2005             2,131                                        5,869                 7,630           1,760
+2006             2,269                                        6,251                 8,125           1,874
+2007             2,411                                        6,641                 8,633           1,992
+2008             2,556                                        7,041                 9,153           2,111
+2009             2,556                                        7,041                 9,153           2,111
+2010             2,556                                        7,041                 9,153           2,111
+2011             2,556                                        7,041                 9,153           2,111
+2012             2,556                                        7,041                 9,153           2,111
+2013             2,556                                        7,041                 9,153           2,111
+2014             2,556                                        7,041                 9,153           2,111
+2015             2,556                      (5,375)           7,041                 9,153           7,486
+
+
+                                                                                  FIRR                 6.3%
+
+
+FIRR = financial internal rate of return, GWh = gigawatt-hour, kWh = kilowatt-hour.
+a
+    Excluding capital investment expenditure on Budge Budge station.
+b
+    Total load (GWh) increase with Project, multiplied by the operating cost per kWh of electricity sold
+    before depreciation and interest.
+c
+    Total load (GWh) increase with Project, multiplied by the average revenue per kWh for electricity sold.
+32      Appendix 6
+
+                             Table A6.2: EIRR Cost and Benefit Stream
+                                 (Constant 2002 prices--Rs million)
+
+        Load Increase Investment Cost           Operating       Resource         Incremental        Total
+         With Project   With Project              Costs           Cost             Revenue           Net
+Year        (GWh)                                               Savings a         Benefits b       Benefits
+
+1988                            1,474                                                                (1,474)
+1989                            1,979                                                                (1,979)
+1990                            1,986                                                                (1,986)
+1991            156             1,479                  388               85             384          (1,398)
+1992            263             1,064                  669              198             563            (972)
+1993            396             1,606                1,000              246             995          (1,366)
+1994            563             2,769                1,477              313           1,527          (2,406)
+1995            741             1,160                1,898              422           2,040            (596)
+1996          1,031             2,816                2,802              589           3,168          (1,860)
+1997          1,155                                  3,683              713           3,786              815
+1998          1,371                                  4,263              774           4,369              880
+1999          1,298                                  3,907              974           4,019            1,085
+2000          1,526                                  4,305              960           5,376            2,032
+2001          1,629                                  4,438            1,057           5,508            2,126
+2002          1,735                                  4,831            1,117           5,334            1,621
+2003          1,864                                  5,190            1,200           8,447            4,457
+2004          1,996                                  5,557            1,286           9,039            4,767
+2005          2,131                                  5,934            1,373           9,646            5,084
+2006          2,269                                  6,320            1,462          10,267            5,409
+2007          2,411                                  6,715            1,553          10,903            5,742
+2008          2,556                                  7,119            1,647          11,555            6,082
+2009          2,556                                  7,119            1,647          11,418            5,946
+2010          2,556                                  7,119            1,647          11,418            5,946
+2011          2,556                                  7,119            1,647          11,418            5,946
+2012          2,556                                  7,119            1,647          11,418            5,946
+2013          2,556                                  7,119            1,647          11,418            5,946
+2014          2,556                                  7,119            1,647          11,418            5,946
+2015          2,556            (5,267)               7,119            1,647          11,418          11,213
+
+
+                                                                                 EIRR                 12.1%
+
+EIRR = economic internal rate of return, GWh = gigawatt-hour.
+a
+  From new connections, and representing the saving on alternative energy sources using kerosene and diesel fuel.
+b
+  Incremental load increase valued at "willingness to pay."
+                                                                                                 Appendix 6       33
+
+
+
+                               Table A6.3: Key Assumptions and Data Inputs
+
+Item                                          Appraisal                   PCR                      PPAR
+
+
+Methodology Approach                          time-slice                time-slice                 time-slice
+                                             (all CESC)                (all CESC)                 (all CESC)
+
+Project Period                              1987­2015                  1987­2015                  1988­2015
+
+Total Investment Cost ($ million)               90.6                       74.1                      75.0
+Nominal
+
+First Year of Revenues                        FY1990                     FY1991                    FY1991
+
+Valuation of Benefits
+
+   Energy Volume                            load increase              load increase              load increasea
+                                            (consumer sales)           (consumer sales)           (consumer sales)
+
+   Financial Tariff (Rs/kWh)                    3.29                       3.45                       3.58
+                                             (2002 prices)             (2002 prices)              (2002 prices)
+
+   Economic Tariff (Rs/kWh)                     3.29                       3.45                       na
+                                             (2002 prices)             (2002 prices)              (2002 prices)
+
+   Willingness to Pay (Rs/kWh)               financial tariff          financial tariff                4.76
+
+   Economic Benefits                        load x tariff              load x tariff              resource savings
+                                                                                                  incremental sales
+                                                                                                  at willingness to
+                                                                                                  pay
+
+   Financial Benefits                       load x tariff              load x tariff              load x tariff
+
+   Energy Savings (GWh/year)                      nil b                      nil b                     160c
+
+Valuation of Operating Costs
+
+   Financial (Rs/kWh)                           2.82                       2.69                       3.44
+                                             (2002 prices)             (2002 prices)              (2002 prices)
+   Economic (Rs/kWh)                            2.36                       2.15                       2.20
+                                             (2002 prices)             (2002 prices)              (2002 prices)
+
+Exchange Rate (Rs = $1.00)                      17.04                     35.70                      48.10
+MUV Index (1990 = 100)                          68.60                    110.20                     107.70
+GDP Deflator (1994 = 100)                       73.70                    128.20                     172.30
+
+
+CESC = Calcutta Electric Supply Company, GDP = gross domestic product, GWh = gigawatt-hour, kWh = kilowatt-
+hour, MUV = manufacturer's unit value, na = not applicable to calculations, PCR = project completion report, PPAR =
+project performance audit report.
+a
+  The PPAR load increase is disaggregated into that for (i) new consumers switching from alternative energy
+  sources, and (ii) incremental sales from increased consumption.
+b
+  Assumed fully captured in consumer sales volumes .
+c
+  Representing energy losses avoided. Measuring limitations without the aid of a computer simulation model did not
+  enable the energy savings from avoided losses to be estimated. They are not included in the financial internal rate
+  of return (FIRR) or economic internal rate of return (EIRR) estimates. Approximate savings of 160 GWh per year
+  were realized. If these savings were included in the reestimates, the FIRR would increase from 6.3% to 9.6% and
+  the EIRR from 12.1% to 14.2%.
+34        Appendix 6
+
+
+
+
+6.      The load increase was measured in terms of the actual increase in energy sales from
+FY1990 to FY2002, and projected to reach 80% of the design limit for CESC's transmission
+equipment in FY2008. 2 Thereafter, the load increase was held constant. The financial revenue
+benefits were derived from the load increase and the actual average tariff (revalued in constant
+2002 prices) applicable from FY1990 to FY2002. No change in the FY2002 average tariff was
+assumed thereafter, implying constant tariffs in real terms. Similarly, the associated financial
+operating cost was derived from the load increase and the sum of CESC's unit operating costs
+revalued in constant 2002 prices. The economic benefits equal the sum of (i) resource cost
+savings arising from new consumers switching from kerosene or diesel fuel, (ii) willingness to
+pay benefits, and (iii) increment in operating revenues generated associated with increased
+electricity consumption per consumer. Not taken into account for the EIRR reestimate is the
+incremental energy savings from avoided losses as a result of technical improvements (Table
+A6.3, footnote c).
+
+7.        Table A6.4 shows the sensitivity to changes in the main underlying parameters.
+
+                       Table A6.4: FIRR/EIRR Sensitivity to Parameter Changes
+                                                (%)
+Item                                                               FIRR                              EIRR
+
+A. Base Case                                                        6.3                              12.1
+
+B. With the Following Changes
+   10% Increase in the Average                                      8.6                              13.9
+     Tariff in FY1997
+
+      Both Changes Combined                                         9.5                              15.1
+
+C. With the Following Changes
+   10% Increase in the Average                                      7.9                              12.9
+     Tariff in FY2003
+   10% Increase in Energy Sales                                     6.9                              12.9
+     Between FY2003 and FY2008
+
+      Both Changes Combined                                         8.6                              14.3
+
+EIRR = economic internal rate of return, FIRR = financial internal rate of return.
+
+
+
+
+2
+    A higher projection would require additional investments in transformer capacity and upgrading of the distribution
+    network.
+

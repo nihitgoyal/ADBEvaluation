@@ -1,0 +1,624 @@
+  Validation Report
+
+
+
+  Reference Number: PVR-369
+  Project Number: 32298
+  Loan Number: 2323
+  August 2015*
+
+
+
+
+  Multitranche Financing Facility
+  India: Madhya Pradesh Power Sector
+  Investment Program (Tranche 1)
+
+
+
+
+Independent Evaluation Department
+
+
+
+
+* Revised December 2015.
+                                        ABBREVIATIONS
+
+           ADB                ­     Asian Development Bank
+           DMF                ­     design and monitoring framework
+           EIRR               ­     economic internal rate of return
+           FIRR               ­     financial internal rate of return
+           IED                ­     Independent Evaluation Department
+           kV                 ­     Kilovolt
+           MFF                ­     multitranche financing facility
+           MPTRANSCO          ­     Madhya Pradesh Power Transmission
+                                    Company Limited
+           MVA                ­     megavolt-ampere
+           MW                 ­     megawatt
+           PCR                ­     project completion report
+           RRP                ­     report and recommendation of the President
+           WACC               ­     weighted average cost of capital
+
+
+
+                                               NOTE
+
+                              In this report, "$" refers to US dollars.
+
+
+
+
+                                           Key Words
+
+adb, asian development bank, distribution, energy efficiency, energy sector, india, investment
+program, lessons, madhya pradesh, performance evaluation, project completion report,
+transmission network, validation
+
+
+
+
+The guidelines formally adopted by the Independent Evaluation Department (IED) on avoiding
+conflict of interest in its independent evaluations were observed in the preparation of this report.
+To the knowledge of IED management, there were no conflicts of interest of the persons
+preparing, reviewing, or approving this report.
+
+In preparing any evaluation report, or by making any designation of or reference to a particular
+territory or geographic area in this document, IED does not intend to make any judgments as to
+the legal or other status of any territory or area.
+                                        PROJECT BASIC DATA
+Project Number:         32298             PCR Circulation Date:    Aug 2013
+Loan Number:            2323              PCR Validation Date:     Oct 2015
+Project Name:           Madhya Pradesh Power Sector Investment Program (Tranche 1)
+Country:                India                                               Approved            Actual
+                                                                             ($ million)      ($ million)
+Sector:                 Energy                 Total Project Costs:           132.5             114.1
+ADB Financing:          ADF: 0.0               Loan:                          106.0              97.3
+($ million)                                    Borrower:                       11.0              16.8
+                        OCR: 106.0             Beneficiaries:                    0.0               0.0
+                                               Others:                         15.5                0.0
+Cofinancier:                                   Total Cofinancing:                0.0               0.0
+Approval Date:          4 Apr 2007             Effectiveness Date:         14 May 2007       11 Jul 2007
+Signing Date:           12 Apr 2007            Closing Date:               30 Jun 2011       30 Jun 2012
+Project Officers:                              Location:                       From:             To:
+                        N.Tas-Anvaripour       ADB headquarters              Apr 2007         Aug 2007
+                        H. Kobayashi           ADB headquarters              Sep 2007         Dec 2008
+                        V. R. Karbar           India Resident Mission        Jan 2009         Feb 2012
+                        J. Banerjee            India Resident Mission        Feb 2012          Jun 2012
+Initial Reviewers:      P. Choynowski,         Peer Reviewer:              L. Hauck, Senior Evaluation
+                          Consultant                                          Specialist, IED2
+                        F. D. De Guzman,
+                          Senior Evaluation
+                          Officer, IED2
+Quality Reviewer:       B. Nguyen, Senior      Director:                   B. Finlayson, IED2
+                           Evaluation
+                           Specialist, IED2
+ADB = Asian Development Bank; ADF = Asian Development Fund; IED2 = Independent Evaluation Department,
+Division 2; OCR = ordinary capital resources; PCR = project completion report.
+
+                                   I.      PROJECT DESCRIPTION
+
+A.        Rationale
+
+1.     In India, Madhya Pradesh faced severe challenges in supplying energy that could help
+reduce poverty and enhance the economic development of the state. According to the report
+and recommendation of the President (RRP), 1 within the energy sector, transmission capacity
+in Madhya Pradesh was inadequate as investment in the transmission network did not keep
+pace with the growing demand. Energy supply was also short and a failure of any network
+component could easily cause load shedding. The distribution system was another bottleneck
+in electricity delivery. It was characterized by high ratios of low-voltage circuit length to
+medium-voltage circuit length and overloaded power transformers. Safety was compromised
+on the distribution networks due to shoddy installation of equipment and inadequate
+maintenance practices. Distribution network losses in many areas were 40%­45%.
+
+2.      The financial position of the Madhya Pradesh State Electricity Board was critical due to
+inadequate tariffs, non-remunerative investments in rural electrification schemes, delays in
+receiving tariff subsidies from the state government of Madhya Pradesh, and high commercial
+and technical losses in the transmission and distribution networks. Following the Asian
+
+1
+    ADB. 2007. Report and Recommendation of the President to the Board of Directors: Proposed Multitranche
+    Financing Facility to India for the Madhya Pradesh Power Sector Investment Program. Manila.
+2
+
+
+Development Bank (ADB)-supported financial restructuring of the sector and unbundling of the
+Madhya Pradesh State Electricity Board in 2002 into five corporations, the state government
+injected equity and took over arrears and rural electrification loans. However, shortfalls in
+sector revenues were expected to continue in the medium-term period as a result of high
+distribution losses. Therefore, targeted loss-reduction investments were critical to bring the
+cost of supply in line with average retail tariffs and to achieve sector profitability and eventual
+financial sustainability.
+
+3.      Encouraged by the reforms made by the state government since 2001, especially the
+establishment of the Madhya Pradesh Electricity Regulatory Commission, ADB developed an
+investment program estimated to cost $5.3 billion (2007­2012), with ADB financing earmarked
+at $620 million (11.7%), through a multitranche financing facility (MFF) comprising six tranches
+over 8 years. The RRP included details for Tranche 1, which primarily related to the
+transmission segment, and Tranche 2 for the distribution segment. The project completion
+report (PCR) 2 described the progress made under Tranche 1. It is the subject of this validation.
+
+B.        Expected Impact
+
+4.     The design and monitoring framework (DMF) of the RRP indicated the expected
+impacts of the investment program in Madhya Pradesh as contributions in sustaining
+economic growth and social development and in meeting its energy demand growth.
+
+C.        Objectives or Expected Outcome
+
+5.     The DMF in the RRP indicated six expected outcomes of the MFF, as follows:
+(i) sustainable and commercially operated power sector companies; (ii) transmission
+expansion, including improvement in operational efficiency, voltage profile, and power delivery
+capacity; (iii) distribution enhancement, including reduction in system losses and improved
+supply quality and reliability; (iv) strengthened capacity of sector institutions; (v) improved
+energy efficiency; and (vi) increased private sector participation. The investment program
+envisaged physical and nonphysical investments in both transmission and distribution
+segments of the energy sector.
+
+6.      The specific outcomes of Tranche 1 related to the transmission component. The DMF
+of the PCR indicated that the project envisaged improvement in operational efficiency, voltage
+profile, and power capacity of Madhya Pradesh. The performance indicators were
+improvements by 2008­2009 over 2005­2006 in the (i) transmission capacity from 5,563
+megawatts (MW) to 8,170 MW--an increase of 47%, (ii) system availability from 95% to
+97.5%, and (iii) reduced technical losses in the transmission system from 5.2% to 4.9%.
+
+7.      Also listed as performance targets were (i) enhanced ability of the Madhya Pradesh
+Energy Department to implement further reforms, (ii) improved capacity of the Madhya Pradesh
+Electricity Regulatory Commission, (iii) improved human resources and financial management
+and accounting in all sector companies, (iv) developed capacity for interstate power trading,
+(v) energy conservation funds established to support small-scale projects promoting energy
+efficiency, and (vi) sustainable increase in private investment in the power sector. However, the
+PCR was unclear about the sequence and how these targets were going to be achieved and
+monitored. More importantly, it was not clear how the institution-building activities envisaged
+
+2
+    ADB. 2013. Completion Report: Multitranche Financing Facility: Madhya Pradesh Power Sector Investment
+    Program (Tranche 1) in India. Manila.
+                                                                                                 3
+
+
+across different tranches of the MFF would be mapped onto the targets when multiple tranches
+were running simultaneously.
+
+D.     Outputs
+
+8.      Under Tranche 1, the transmission capacity expansion component was focused on the
+construction of time-critical transmission lines, substations, and auxiliary equipment to
+evacuate and transmit power from new power stations and substations to consumers. Outputs
+delivered under Tranche 1 included the construction of (i) 2 circuit kilometers of 400 kilovolt
+(kV) and 1,435 circuit kilometers of 220 kV transmission lines across the state, (ii) two new
+400/220/132 kV substations with 315 megavolt-ampere (MVA) transformer capacity, (iii) eight
+new 220/132 kV substations with six transformer capacity of 160 megavolt-ampere (MVA) and
+two transformers of 260 MVA capacity, (iv) 10 220/132 kV transformers of 160 MVA for existing
+substations, and (v) three 220/33 kV transformer of 100 MVA. These outputs broadly
+conformed to the outputs envisaged under the RRP.
+
+E.     Provision of Inputs
+
+9.        At appraisal, the total cost of Tranche 1 was $132.5 million, comprising $106 million in
+foreign currency (80% of the total) and $26.5 million in local currency costs (20% of the total).
+Actual project cost at completion was $114.1 million, comprising $97.3 million in foreign
+currency (85.3%) and $16.8 million in local currency costs (14.7%). The lower actual cost at
+completion was attributed to (i) lower-than-estimated cost of equipment procurement as a
+result of competitive bidding; (ii) depreciation of the Indian rupee against the dollar; and
+(iii) efficient project monitoring and administration, resulting in savings in interest during
+construction.
+
+10.      The MFF was to be sourced from ADB's ordinary capital resources. The specific terms
+of each tranche were to be based on the government's periodic financing requests. The
+Government of India (the borrower) was to relend the loan to the state government of Madhya
+Pradesh on the same terms and conditions as applicable to the national government. The state
+government, in turn, onlent the funds to the Madhya Pradesh Power Transmission Company
+(MPTRANSCO) with a 1 percentage point spread, while bearing the loan's foreign exchange
+risk itself.
+
+11.      It was envisaged that MPTRANSCO and the energy sector companies would have the
+institutional capability to implement the project, and that the services of consultants would not
+be required. However, MPTRANSCO eventually appointed consultants to prepare the
+environment and social safeguard reports and formulate the resettlement plan.
+
+F.     Implementation Arrangements
+
+12.     MPTRANSCO was the executing agency for the transmission component. A
+coordinating committee comprising the chairman and the managing director of the
+MPTRANSCO, along with the managing directors of other executing agencies, was to be
+established to monitor and coordinate the overall implementation of the investment program.
+The coordinating committee was to report to the Madhya Pradesh Energy Department, which is
+responsible for monitoring the implementation of the reform policy and overall power sector
+investment. The Madhya Pradesh Electricity Regulatory Commission was to monitor the
+service delivery performance of the executing agencies.
+4
+
+
+13.     Implementation arrangements were carried out as envisaged at appraisal. The project
+management unit established within MPTRANSCO was responsible for project
+implementation. It was guided by the chief executing officer (the chairman and managing
+director) who was responsible for overall project coordination. All procurements originated from
+the project headquarters in Jabalpur, India to ensure compliance with ADB procurement
+guidelines. Officers with the rank of chief engineer were in charge of civil works, building, and
+commissioning of transmission works. The chief financial officer was responsible for financial
+matters and issued regular quarterly progress reports.
+
+14.     As the scope of the project was fully spread across the large province, ADB took care to
+put in place environmental and social safeguards as per its guiding principles and policies.
+However, these did not get prioritized into the functions of the executing agencies and the
+associated supervising and regulatory agencies. The PCR noted lapses in the observance of
+environmental and social safeguards in the initial years (PCR, paras. 37 and 43). It was in
+2010, more than 2 years after effectiveness, that ADB noted these shortcomings. ADB then
+drew the executing agencies' attention to follow the ADB environment and social safeguards
+guidelines and requirements scrupulously. Thereafter, all procedures and practices were
+reported by the PCR to have conformed to ADB standards. Details of environmental and social
+safeguards are further discussed in the impact assessment section (paras. 28­30).
+
+15.   The PCR noted that all covenants were complied with, except for one requiring the
+MPTRANSCO to maintain a 20% self-financing ratio from 2010 onwards. Compliance with
+covenants on the transfer of cash management responsibilities and environmental and social
+safeguards was delayed. Covenants were not modified, suspended, or waived during
+implementation.
+
+                      II.      EVALUATION OF PERFORMANCE AND RATINGS
+
+A.        Relevance of Design and Formulation
+
+16.     The PCR rated the project highly relevant. It indicated that project outcomes at
+appraisal and completion were consistent with India's development priorities and to the ADB
+country and sector strategies, which focused, among others, on removing transmission
+bottlenecks to facilitate better utilization of existing and planned generating stations. The
+country strategy of ADB was to fund infrastructure projects in key sectors that contribute to
+economic growth. Its sector strategy focused on (i) reinforcing and expanding existing
+transmission and distribution systems; (ii) reforming state power sectors, with emphasis on
+state electricity board restructuring and commercialization; (iii) rationalizing power tariffs, at
+bulk and retail levels; (iv) reforming the regulatory framework; and (v) improving energy
+efficiency. At project completion, the ADB strategy for the power sector in India was in line with
+the government's Eleventh Five Year Plan (2007­2012) objectives to develop infrastructure for
+economic growth and poverty reduction.
+
+17.      The choice of MFF as a modality was appropriate as ADB had earlier implemented a
+major policy and investment-oriented program in the energy sector in the state. 3 The MFF
+formulation was, thus, based on an earlier experience and understanding of ADB on the
+institutional capacity of the sector. Tranche 1 sought to make the transmission system more
+efficient and was relevant at appraisal and completion. This validation notes that the design of
+
+3
+    ADB. 2001. Report and Recommendation of the President to the Board of Directors for the Madhya Pradesh Power
+    Sector Development Program. Manila. The loan for $350 million was approved on 6 December.
+                                                                                                    5
+
+
+the project and financing instrument selected were appropriate. During implementation, the
+project design was modified to add more subprojects that were funded by savings from the
+project's cost underrun. The PCR indicated that these savings were the result of prompt
+implementation of the original scope, along with economy and efficiency achieved in
+procurement. These minor changes in project scope, which consisted of construction and
+augmentation of substations, installation of additional transformers, among other things,
+resulted in increased transmission capacity.
+
+18.      This validation considers that during formulation, inadequate attention was paid to the
+institutional aspects under the MFF, particularly under Tranche 1. Some 6­8 organizations
+(corporations, commission, department, and national agencies) with varying perspectives were
+involved in the implementation of MFF. An assessment of their priorities, commitment, and
+capacity to implement environmental and social safeguards was not adequately done. The
+validation considers this a serious flaw in the project design given the large scope and long-
+term perspective of the MFF. For this reason, the validation rates the project relevant.
+
+B.     Effectiveness in Achieving Project Outcome and Outputs
+
+19.     The PCR rated the project effective. It noted that transmission capacity increased to
+8,170 MW in early 2012 and then to 8,809 MW in September 2012, with the result that peak
+demand of 8,546 MW could be met during 2012. System availability increased to 99.2% in
+2012 from 97.5% in 2009. Technical losses were reduced to 3.5% in 2012 from 5.2% in 2006.
+Thus, the project met the objectives of (i) strengthening the transmission system, increasing
+access to electricity in Madhya Pradesh, and reducing system losses; (ii) improving power
+system operation through reliable and economic dispatches; and (iii) facilitating the evacuation
+of power from generation units. However, it is not clear if the tranche-wise reporting under an
+MFF should address itself to more immediate outputs, and if outcomes should be assessed
+only at the facility level.
+
+20.    As regards the outputs, the PCR reported that 100% of the physical targets for
+transmission expansion were met. Although, it indicated the completion of a few works was
+delayed. On the whole, this validation assesses the project effective in achieving its intended
+outputs and outcomes.
+
+C.     Efficiency of Resource Use in Achieving Outcome and Outputs
+
+21.     The PCR rated the project efficient. It indicated the project was implemented efficiently
+and all components were operating continuously to capacity from the date of commissioning. It
+also indicated the economic internal rate of return (EIRR) of all components was recalculated
+at 20.6%, higher than the 14.9% estimated at appraisal and above the 12% threshold.
+
+22.    This validation notes several irregularities in the approach used to recalculate the
+EIRR. Major shortcomings in the economic valuation of costs included lack of clarity and
+consistency in the use of the numeraire, costs were not classified and properly shadow-priced,
+mistreatment of financial charges, taxes and duties, and operating costs were assumed at 5%
+of the cumulative capital cost instead of the actual from the project operation. Likewise, the
+estimate of benefits also had problems in identification, quantification, and valuation, the
+treatment of incremental and non-incremental benefits, and it had likely been overestimated.
+6
+
+
+These concerns were discussed with the South Asia Regional Department (SARD) during this
+validation process. SARD later revised the recalculated EIRR to 12.7%. 4
+
+23.     In terms of the implementation processes, this validation notes that the project had a
+time overrun of one year. The loan closing date was extended twice for a total of 12 months,
+and it was finally closed in June 2012 as compared to the expected target June 2011. This
+validation also notes the project had lapses in implementing environmental and social
+safeguards during the first two years. It was in 2010, two years after the project started, when
+it was realized that ADB's environmental and social safeguards were not being adhered to
+(para. 14). In addition, the project did not fully adhere to the standard procedures of second-
+generation imprest account and statement of expenditure and these had to be rectified (PCR,
+para 16). On the whole, given these implementation slippages and the methodological
+concerns on the recalculated EIRR even after corrections during this validation process, the
+validation assesses the project less than efficient. 5 The corrections done on the EIRR during
+the validation process was only marginally above the required minimum and not sufficiently
+robust to firmly establish project economic viability.
+
+D.         Preliminary Assessment of Sustainability
+
+24.    The PCR rated the project likely sustainable. It stated that the design of the subprojects
+and the technology adopted were technically robust and appropriate. The project helped in
+meeting demand for power evacuation by wheeling and transferring power utilizing the
+transmission system established under the project. The technical specifications of the
+equipment procured and commissioned in the project ensured that the equipment will not likely
+become obsolete earlier than its expected life span. All commissioned components are
+expected to be used at full capacity throughout their life, making the project technologically
+and financially sustainable in the long term.
+
+25.     The PCR indicated that the financial internal rate of return (FIRR) was recalculated at
+5.3%, above the weighted average cost of capital (WACC) recalculated at 3.5%. However, this
+validation notes some concerns in the FIRR recalculation. Capital costs included financial
+charges, which should have been deducted. Operating costs were calculated at 5% of the
+cumulative capital cost, while the actual operating and maintenance costs from Madhya
+Pradesh Power Transmission Company and the distribution companies should have been
+used since the project was already operating. Energy cost at the generator, which was
+transmitted, distributed, and ultimately sold to consumers was not included in the FIRR
+calculation. The cost of land, resettlement, and income tax does not seem to have been
+included either. On the revenue side, it is not clear how output attributable to the project was
+estimated. During this validation process, SARD later revised the recalculated FIRR and
+WACC to 7.43% and 0.59%, respectively (footnote 4).
+
+26.     The PCR stated that MPTRANSCO has in-house capacity to operate and maintain the
+subprojects effectively and efficiently. Therefore, it has sufficient human, institutional, and
+financial resources to maintain the achieved outcome over the project's economic life, and to
+manage any risks that may arise. However, the PCR did not provide justification for concluding
+that MPTRANSCO has such financial adequacy and institutional capacity. During this
+validation process, SARD later provided a certificate for the MPTRANSCO's financial
+
+
+4
+    SARD's email dated 19 April 2015.
+5
+    The regional department disagrees with the downgrade and retains its rating of efficient.
+                                                                                                                7
+
+
+performance with the self-financing ratio meeting the loan covenant requirement of at least
+20%. 6 On the whole, the validation rates the project likely sustainable.
+
+E.      Impact
+
+27.     The project had two impact performance indicators: (i) growth in gross state product
+(GSP) of at least 6% annually during 2007­2012, and (ii) reduction in energy deficit from 13%
+in 2007 to 0% in 2012. The PCR indicated the first target was met as the GSP growth of
+Madhya Pradesh was about 9% during 2007­2012. For the second target, it reported the
+transmission capacity increased to 8,809 MW while peak demand of 8,546 MW was met
+successfully during 2012 (PCR, Appendix 1). The PCR indicated the project had some positive
+social impacts resulting from improved electricity supply, an enhanced economy, increased
+employment opportunities, and better quality of life for local people (PCR, para. 44). The PCR
+did not discuss in detail how and the extent to which the said social impacts were attributed to
+the project. It also did not rate the overall project impact.
+
+28.    The PCR stated that some project components contributed to the reduced leakage of
+sulphur hexafluoride (a gaseous electrical insulator) and the project contributed to an overall
+improvement in environmental conditions, but did not provide evidence to support it (PCR,
+para. 39). However, the PCR indicated the April 2010 review of the environment management
+plan implementation revealed varying levels of compliance with agreed provisions, which was
+assessed less than adequate. The PCR indicated that a number of shortcomings and
+procedural lapses in implementing environmental safeguards were found during the first two
+years of implementation, and were caused by: (i) lack of deployment of appropriately trained or
+experienced personnel, and (ii) low MPTRANSCO priority on these environmental safeguards
+(PCR, para. 37). 7
+
+29.      The resettlement plan was approved in 2007, updated in 2009 and in 2010 to cover
+two substations that involved private land acquisition under Tranche 1. The PCR indicated that
+reviews of the resettlement plan implementation in 2010 indicated procedural lapses during
+the initial phase of implementation, and these were due to MPTRANSCO: (i) not deploying a
+resettlement specialist in the environment and social management cell, (ii) not hiring a non­
+government organization for resettlement plan implementation, and (iii) not engaging an
+independent agency for monitoring and evaluation. Civil works were commenced without an
+ADB-approved updated resettlement plan for the changed scope of works. The vulnerable
+groups to whom compensation was due were not identified in accordance with the entitlement
+matrix (PCR, para. 43).
+
+30.    The PCR indicated that, consequently, in 2010, the setup for environmental and social
+safeguards management in all executing agencies had to be urgently strengthened and
+streamlined. Corrective action plans for environmental and social safeguards were put in place
+and periodic training and review meetings were required to inform executing agencies,
+
+6
+  The certificate was attached in SARD's email dated 6 March 2015. According to the certificate, MPTRANSCO's self-
+   financing ratio exceeded 20% since the 2011-12 period.
+7
+  MPTRANSCO was responsible for preparing the required environmental assessment reports and for obtaining ADB
+   concurrence before contracts were finalized and works commenced. An environment and social management cell
+   was set up in MPTRANSCO in May 2002, comprising one full-time and six part-time employees, to attend to the
+   environmental and social safeguards. The need for additional staff was not envisaged, although budget was
+   provided for local consultants, nongovernment organizations, and external agencies to monitor environment and
+   social safeguards during implementation.
+8
+
+
+advance their understanding, and firm up their commitment to environmental and social
+safeguards (PCR, paras 37 and 43). On the whole, this validation notes that the project may
+have eventually met the stated impact indicators for the transmission expansion. However,
+positive social impacts were not evidenced. Lapses in implementing environmental and social
+safeguards during the initial years could have negative effects. On this bases, this validation
+finds the project impact less than satisfactory and hence rates it moderate.
+
+                       III.    OTHER PERFORMANCE ASSESSMENTS
+
+A.     Performance of the Borrower and Executing Agency
+
+31.     The PCR rated the overall performance of the borrower and the executing agency
+satisfactory. MPTRANSCO demonstrated its capacity and ability to formulate, appraise, and
+arrange counterpart financing; and carry out engineering, procurement, and construction of a
+variety of projects that conformed to ADB specifications and standards in a satisfactory
+manner. Despite its earlier experience with ADB, and despite being involved in an MFF
+modality, the performance of MPTRANSCO was weak in terms of environmental and social
+safeguards. This validation concurs with the satisfactory rating.
+
+B.     Performance of the Asian Development Bank
+
+32.      The overall performance of ADB was rated satisfactory by the PCR. ADB regularly
+monitored project progress through review missions and quarterly progress reports and
+provided advice in a number of areas, including procurement and project management. ADB
+approvals were timely, enabling project milestones to be achieved and for projects activities to
+be smoothly executed. The executing agency, state government officials, and ADB held
+tripartite meetings, which helped in implementing the project in a timely manner. ADB
+addressed the environmental and social safeguards issues resolutely and is expected to
+remain vigilant in all other tranches of the MFF. This validation agrees with the satisfactory
+rating.
+
+          IV.    OVERALL ASSESSMENT, LESSONS, AND RECOMMENDATIONS
+
+A.     Overall Assessment and Ratings
+
+33.     This validation rates the project successful based on the four criteria ratings of relevant,
+effective, less than efficient and likely sustainable. On relevance, the validation rates the
+project relevant and not highly relevant as it finds inadequate attention was paid during project
+formulation to the institutional aspects for the implementation of the MFF, particularly under
+Tranche I. On efficiency, the less than efficient rating reflects the finding that the project had a
+time overrun and lapses in implementing environmental and social safeguards in the initial
+years. The economic analysis in the PCR was weak and the resulting EIRR could not firmly
+establish the project economic viability. The reasons stated for the ratings of effective and
+likely sustainable were presented earlier.
+
+34.     Relating to more than one of these criteria, the participating institutions' priorities,
+commitment, and capacity to implement the crucial components, such as environmental and
+social safeguards were not adequately assessed. The validation notes the bulk of planned
+energy generation expansion in Madhya Pradesh will be coal-fired thermal plants (RRP, para
+                                                                                                                9
+
+
+9). Although the project was approved before the ADB's new energy policy, 8 ADB would need
+to be careful in supporting energy projects to contribute to decarbonizing by not, directly or
+indirectly, funding coal-power generation, as called for by the Special Adviser to the United
+Nations Secretary-General. 9
+
+35.     The finding on the serious lapses on the environmental and social safeguards renders
+impact as less than satisfactory. Under the current evaluation method, impact is not part of the
+project rating. Coupled with the gaps in environmental and social safeguards, the issue of the
+link between coal-based energy and ADB's support for a low carbon economy raises serious
+concerns. Going forward, evaluation methods would include the environmental and social
+gaps in the sustainability criterion, thus marking it down the project rating directly when there
+are concerns like the ones mentioned here.
+
+                                                 Overall Ratings
+    Criteria                         PCR             IED Review              Reason for Disagreement
+                                                                                and/or Comments
+    Relevance                  Highly relevant     Relevant          The project formulation overestimated
+                                                                     the capacity of the executing agencies,
+                                                                     and misjudged MPTRANSCO's low
+                                                                     priority and implementation capacity for
+                                                                     environmental and social safeguards
+                                                                     (para. 18).
+    Effectiveness in           Effective           Effective
+    achieving project
+    outcome and outputs
+    Efficiency in achieving    Efficient           Less than         The economic analysis was weak and
+    outcome and outputs                            efficient         the recalculated EIRR could not firmly
+                                                                     establish the project economic viability.
+                                                                     The project slipped in terms of process
+                                                                     efficiency (paras. 22­23).
+    Preliminary assessment     Likely              Likely
+    of sustainability          sustainable         sustainable
+    Overall assessment         Successful          Successful
+    Borrower and executing     Satisfactory        Satisfactory
+    agency
+    Performance of ADB         Satisfactory        Satisfactory
+    Impact                     Not rated           Moderate          Positive social impacts were not
+                                                   (Less than        evidenced. Lapses in implementing
+                                                   satisfactory)     environmental and social safeguards
+                                                                     in the initial years could have negative
+                                                                     effects (paras. 27­30).
+    Quality of PCR                                 Less than         Refer to para. 40.
+                                                   satisfactory
+ADB = Asian Development Bank, FIRR = financial internal rate of return, IED = Independent Evaluation Department,
+MFF = multitranche financing facility, MPTRANSCO = Madhya Pradesh Power Transmission Company Limited, PCR
+= project completion report.
+Source: ADB Independent Evaluation Department.
+
+
+
+
+8
+    ADB. 2009. Energy Policy. Manila.
+9
+    http://lnadbg1.adb.org/oer0012p.nsf/0/7D00250AE1F8FC1D48257E990001358B/$file/6Aug-business-mirror-rev.pdf
+10
+
+
+B.     Lessons
+
+36.     The PCR identified three lessons related to environment, social safeguards, and
+project management. Most of the suggestions seem to be improvements in procedures during
+project implementation, rather than lessons. This validation has no other lessons to offer.
+
+C.     Recommendations for Follow-Up
+
+37.    The PCR recommended that a benefit monitoring and evaluation study be undertaken
+by 2015 to assess and document the socioeconomic benefits and lessons for incorporation in
+future projects. This validation concurs with the PCR recommendations and has no other
+recommendations to offer.
+
+                    V.      OTHER CONSIDERATIONS AND FOLLOW-UP
+
+A.     Monitoring and Evaluation Design, Implementation, and Utilization
+
+38.     According to the RRP, performance monitoring and evaluation was to comprise
+indicators and targets stipulated in the DMF. ADB was to prepare periodic reports to inform the
+ADB Board of Directors of overall progress. A Board information report was to be submitted
+annually and supplemental progress reports were to be submitted before ADB management
+approved individual loan agreements. From the limited information derived from the Tranche 1
+PCR, it is not clear if all these activities were undertaken regularly and on time.
+
+39.     Loan covenants required the borrower to ensure that, within 3 months of the effective
+date, a project performance monitoring system was established by the executing agency in
+accordance with the investment program and project performance indicators. The executing
+agency was to undertake periodic project performance reviews to evaluate the scope,
+implementation arrangements, progress, and achievements of objectives of the subprojects
+and the overall investment program. According to the PCR, the executing agency complied
+with the covenant on the project performance monitoring system. The PCR did not discuss the
+project performance monitoring system and, therefore, it was not possible to assess its design,
+implementation, and utilization.
+
+B.     Comments on Project Completion Report Quality
+
+40.     This validation assesses the quality of the PCR less than satisfactory. The major
+shortcoming of the PCR was the inadequate analysis and assessment of the efficiency and
+sustainability criteria. The EIRR calculation did not account for a number of project costs,
+including the cost of generated energy, land, and resettlement. Capital and operating and
+maintenance costs were not shadow-priced appropriately. The cost of land and resettlement
+costs were also omitted. Economic benefits were not identified, quantified, and valued
+appropriately. An assessment of the sustainability criterion did not follow ADB guidelines. It
+used achievements to support the sustainability rating, and failed to justify its assessment that
+the executing agency is financially and institutionally capable. The PCR erroneously used
+FIRR as an efficiency measure. The FIRR calculation also suffered from many of the
+shortcomings that characterized the EIRR calculation. The recalculated EIRR and FIRR
+required revisions during this validation process. Likewise, the assessment of MPTRANSO's
+financial performance in the PCR was inadequate and required additional information during
+this validation process to justify the sustainability rating. Lastly, there was no assessment of
+the project performance management system.
+                                                                                         11
+
+
+C.     Data Sources for Validation
+
+41.    Data sources included the RRP, PCR, and reports of loan review missions.
+
+D.     Recommendation for Independent Evaluation Department Follow-Up
+
+42.    The PCR did not provide a recommendation for a project performance evaluation
+review. This validation recommends a project performance evaluation be undertaken after the
+completion of the MFF.
+

@@ -1,0 +1,166 @@
+sap
+
+
+Validation Report
+
+
+
+
+Reference Number: PCV:IND 2010-65
+Project Number: 37900
+Investment/Loan Numbers: 7189/2057-IND
+December 2010
+
+
+
+
+India: Private Sector Housing Finance Project
+(Dewan Housing Finance Corporation Limited)
+
+
+
+
+Independent Evaluation Department
+                                              NOTES
+
+           (i) In this report, "$" refers to US dollars.
+           (ii) For an explanation of rating descriptions used in ADB evaluation reports,
+               see ADB. 2007. Guidelines for Preparing Performance Evaluation Reports on
+               Nonsovereign Operations. Manila.
+
+
+
+                                           Key Words
+
+adb, asian development bank, evaluation, extended annual review report, housing finance,
+independent evaluation department, private sector operations, validation report
+
+
+
+Director              R. B. Adhikari, Independent Evaluation Division 1, Independent Evaluation
+                      Department (IED)
+
+Team leader           H. Feig, Principal Evaluation Specialist, IED1
+Team members          N. Gamo, Evaluation Officer, IED1
+                      S. Labayen, Senior Operations Evaluation Assistant, IED1
+
+
+
+This report was subjected to disclosure restrictions agreed upon by ADB and the relevant
+sponsor or recipient of funds from ADB. This report is made publicly available in accordance
+with ADB's Public Communications Policy (PCP) and does not include any confidential
+information and other information that falls within the exceptions set out in paragraphs 126, 127,
+and 130 of the PCP.
+
+As agreed by the Independent Evaluation Department, Office of the General Counsel, Office of
+the Secretary, and the Department of External Relations, only this redacted summary will be
+uploaded in the Board Document System.
+
+
+The guidelines formally adopted by the Independent Evaluation Department (IED) on avoiding
+conflict of interest in its independent evaluations were observed in the preparation of this report.
+
+In preparing any evaluation report, or by making any designation of or reference to a particular
+territory or geographic area in this document, the Independent Evaluation Department does not
+intend to make any judgments as to the legal or other status of that territory or area.
+                                 Extended Annual Review Report Validation
+
+A. Project Description
+
+   1.     Project Background
+
+   In December 2003, the Asian Development Bank (ADB) approved funding of up to $40 million equivalent in
+   Indian rupees sourced through a local currency bond issue for the Private Sector Housing Finance Project
+   in India. The purpose was to promote market-based mortgage lending to underserved markets in the
+   country. ADB intended to extend corporate loans of $20 million each, to support the expansion of two
+   rapidly growing, well-capitalized and profitable housing finance companies (HFCs), Sundaram Home
+   Finance Limited and Dewan Housing Finance Corporation Limited (DHFL). After ADB Board approval,
+   however, the loan to Sundaram was not disbursed. The project thus entailed the provision of a 10-year loan
+                                                            1
+   to DHFL for the purpose of originating new housing loans. The loan agreement signed by DHFL and ADB
+   on 19 July 2004 provided for the extension of long-term, fixed-rate rupee debt to limit interest rate and
+   maturity mismatches, and avoid currency risk. After the loan agreement was signed, ADB, at DHFL's
+   request, amended the loan agreement to allow DHFL to draw both fixed and floating rate disbursements
+   from ADB in line with changing market conditions.
+
+   ADB's loan to DHFL in the amount of Rs918.6 million was fully disbursed from November 2004 to June
+   2005. Currently, DHFL is the third largest HFC and the second largest private sector HFC in India. Although
+   its overall share of India's mortgage finance market is growing, it is still small, at about 1.5%. In 2003, DHFL
+   had 41 branches. At the time the XARR was prepared, DHFL had 155 locations: 53 main branches, 67
+   service centers, and 35 other outlets across the country. DHFL has been targeting the low- and middle-
+   income (LMI) segment in semi-urban and rural areas and has steadily increased its disbursements to this
+   segment. It has effectively structured and diversified its products to respond to the rapidly changing
+   macroeconomic scenario without changing its customer focus and long-term lending strategy. The weighted
+   average term of the portfolio was 13.36 years as of 31 March 2007, with the average loan size showing
+   DHFL's commitment to the LMI segment.
+
+
+B. Issues, Lessons, and Recommendations (Validation of XARR Assessment)
+
+   1.     Issues and Lessons
+
+   The extended annual review report (XARR) identifies the following issues for further monitoring: (i) the
+   impact of any aggressive expansion by commercial as well as public banks into the LMI segment on
+   DHFL's financial position; and (ii) DHFL's access to long-term financing to avoid maturity mismatches. This
+   validation agrees that those issues need further monitoring. In addition, this validation recommends that the
+   Private Sector Operations Department (PSOD) closely monitor DHFL's continued compliance with ADB's
+   financial covenants.
+
+   The XARR highlights the following lessons from the project: (i) mortgage finance for customers in the LMI
+   segment can be commercially viable, but HFCs or commercial banks must have highly trained and
+   experienced staff, and sound credit underwriting and portfolio management policies to successfully
+   generate business in this market segment; and (ii) reliance on a government regulator, such as National
+   Housing Bank (NHB), as a major source of funding may not be sustainable over the long term, considering
+   that financing is not its primary function and there is an inherent conflict of interest between the financing
+   and oversight functions. This validation agrees with these lessons.
+
+
+
+   1
+        ADB. 2003. Report and Recommendation of the President to the Board of Directors: Proposed Loan to Dewan
+        Housing Finance Corporation (India). Manila.
+  2
+
+
+  2.   Recommendations
+
+  The XARR recommends the inclusion of mortgage industry prudential standardssuch as limits on a
+  borrower's ability to offer loans on a high loan-to-value basisas financial covenants for ADB financial
+  intermediation loans for housing finance. This validation agrees with this recommendation.
+
+
+C. Ratings                    XARR       Independent Evaluation                 Reason for
+                                           Department Review             Disagreement/Comments
+  Development             Satisfactory   Satisfactory
+  Outcomes and
+  Impacts
+  ADB's Investment        Satisfactory   Satisfactory               The XARR assessment underlying the
+  Profitability                                                     rating is not fully based on criteria
+                                                                    stipulated in PAI 6.07B or the IED
+                                                                    guidelines for evaluating nonsovereign
+                                                                    operations, although their application
+                                                                    would have arrived at a the same
+                                                                    rating.
+  ADB's Operational       Excellent      Satisfactory               ADB's role and contributions were
+  Effectiveness (Work                                               limited to the provision of long-term
+  Quality)                                                          funds.
+  ADB Additionality       Satisfactory   Satisfactory
+  Overall Assessment      Satisfactory   Successful                 Overall project ratings should be highly
+                                                                    successful, successful, partly
+                                                                    successful, or unsuccessful per PAI
+                                                                    6.07B and IED guidelines for evaluating
+                                                                    nonsovereign operations.
+  Quality of XARR                        Satisfactory
+         PRIVATE SECTOR OPERATIONS DEPARTMENT'S RESPONSE TO THE
+             EXTENDED ANNUAL REVIEW REPORT VALIDATION REPORT
+
+
+On 26 November 2010, Director, Independent Evaluation Department, Division 1 (IED1),
+received the following comments from the Capital Markets and Financial Sectors Division
+(PSCM), Private Sector Operations Department (PSOD).
+
+      We appreciate lED's work on the validation report. After reviewing the final report,
+      reflecting some incorporated comments from PSCM, we agree with the overall
+      assessment and have no further comments on IND: Private Sector Housing
+      Finance Project.
+

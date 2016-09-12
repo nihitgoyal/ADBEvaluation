@@ -1,0 +1,530 @@
+Validation Report
+
+
+
+
+Reference Number: PVR-268
+Project Number: 34262
+Loan Number: 1871
+November 2013
+
+
+
+
+India: Private Sector Infrastructure Facility
+at State Level Project
+
+
+
+
+ Independent Evaluation Department
+                                        ABBREVIATIONS
+
+                   ADB        ­     Asian Development Bank
+                   ICICI      ­     Industrial Credit and Investment Corporation of India
+                   IDBI       ­     Industrial Development Bank of India
+                   IL&FS      ­     Infrastructure Leasing & Financial Services Limited
+                   PCR        ­     project completion report
+                   PPP        ­     public­private partnership
+                   PSIF I     ­     Private Sector Infrastructure Facility (of ADB)
+                   PSIF II    ­     Private Sector Infrastructure Facility at State Level Project
+                                    (of ADB)
+                   RRP        ­     report and recommendation of the President
+                   TA         ­     technical assistance
+
+
+
+                                               NOTE
+
+                              In this report, "$" refers to US dollars.
+
+
+                                           Key Words
+ adb, asian development bank, borrower-intermediaries, finance, india, infrastructure, icici,
+ idbi, il&fs, on-lending program, performance-based criteria, project completion report, public-
+ private partnerships, subloan, subloan repayments, validation report
+
+
+The guidelines formally adopted by the Independent Evaluation Department (IED) on avoiding
+conflict of interest in its independent evaluations were observed in the preparation of this report.
+To the knowledge of IED management, there were no conflicts of interest of the persons
+preparing, reviewing, or approving this report.
+
+In preparing any evaluation report, or by making any designation of or reference to a particular
+territory or geographic area in this document, IED does not intend to make any judgments as to
+the legal or other status of any territory or area.
+                                               PROJECT BASIC DATA
+Project Number:          34262                 PCR Circulation Date: Dec 2010
+Loan Number              1871                  PCR Validation Date:       Nov 2013
+Project Name:            Private Sector Infrastructure Facility at State Level Project (PSIF II)
+Country:                 India                                              Approved             Actual
+                                                                            ($ million)       ($ million)
+Sector:                  Multisector            Total Program Costs:          100.00             50.40
+
+ADB Financing            ADF:      0.00            Loan:                            100.00             50.40
+($ million):                                       Borrower:                           0.00              0.00
+                         OCR: 100.00               Beneficiaries:                      0.00              0.00
+                                                Others:                                0.00              0.00
+Cofinancier:                                   Total Cofinancing:                      0.00              0.00
+Approval Date:           11 Dec 2001           Effectiveness Date:                5 Nov 2002       21 Oct 2002
+Signing Date:            5 Aug 2002            Closing Date:                     21 Oct 2007       6 Sep 2007
+Project Officers:                              Location:                            From:                To:
+                         R. M. Limjoco         ADB headquarters                    Mar 2002          Nov 2002
+                         V.V. Subramanian      ADB headquarters                    Dec 2002          Jun 2003
+                         D. Mittal             India Resident Mission              July 2003         Jul 2003
+                         M. Ravi               India Resident Mission              Aug 2003          Jul 2007
+                         T. Ito                India Resident Mission              Aug 2007          Sep 2007
+Validator:               J. Lufkin, Consultant Peer Reviewers:                 N. Subramaniam, Senior
+                                                                                  Evaluation Specialist, IED2
+                                                                               L. Hauck, Senior Evaluation
+                                                                                  Specialist, IED2
+Quality Reviewer:        C. M. Kim, Principal     Director:                    H. Hettige, IED2
+                            Evaluation
+                            Specialist, IED2
+                         R. Vasudevan,
+                            Evaluation
+                            Specialist, IED1
+ADB = Asian Development Bank, ADF = Asian Development Fund, IED2 = Independent Evaluation Department
+(Division 2), OCR = ordinary capital resources, PCR = project completion report.
+
+                                          I.     PROJECT DESCRIPTION
+
+A.        Rationale
+
+1.      The Asian Development Bank (ADB) approved the Private Sector Infrastructure Facility
+(PSIF I) to India in November 1996 1 and the Urban Environmental Infrastructure Facility in
+1997.2 The PSIF I had been more successful, having been largely drawn down and re-lent to a
+range of 11 eligible infrastructure subprojects (e.g., power, ports, and roads) through borrower-
+intermediaries--Industrial Credit and Investment Corporation of India (ICICI) Bank Limited, and
+Industrial Finance Corporation of India (IFCI) Limited. The PSIF I and its subprojects were
+considered successful, and ADB wanted to build upon its successes through a successor
+
+
+
+1
+    The PSIF I comprised Loan 1480-IND of $150 million to ICICI and Loan 1481-IND of $100 million to IFCI.
+2
+    The Urban Environmental Infrastructure Facility, approved by the ADB Board in December 1999, comprised Loans
+    1719-IND of $90 million to ICICI, Loan 1720-IND of $80 million to ICICI, and Loan 1721-IND of $30 million, also to
+    ICICI, plus and an associated technical assistance (TA-2936). Loans 1719 and 1721 were subsequently closed
+    with no utilization.
+2
+
+
+project, the Private Sector Infrastructure Facility at State Level Project (PSIF II),3 with a more
+sophisticated design in terms of reform incentives and fine-tuning. Based on the report and
+recommendation of the President (RRP), two loans of $100 million each for two different
+institutions were approved for (i) Infrastructure Leasing & Financial Services Limited (IL&FS),
+and (ii) Industrial Development Bank of India (IDBI). However, IDBI dropped out of the program
+early in the cycle. The project completion report (PCR) focused only on one loan, the IL&FS.4
+Hence, this validation relates only to the IL&FS loan.
+
+2.       At the time of approval of the PSIF II, it was assumed that purely market-based solutions
+to infrastructure finance in India could become feasible only after an interim period of public­
+private partnerships (PPPs) with state governments and various state and national financial
+institutions of India. It was also accepted that national scale efforts to remove constraints to
+infrastructure development were unrealistic compared to the possibility of attempting the same
+at state level, beginning with the most progressive states, through reform and adoption of best
+practices.
+
+3.       By focusing assistance to a few selected and cooperative states, and supporting
+innovative projects that would become models to the market, the PSIF II would then help
+institutionalize a progressive state performance that can be used (i) as a key factor in credit
+evaluation by financial institutions in India, (ii) in the credit rating of infrastructure and industrial
+projects (particularly, those backed by state guarantees), and (iii) in the provision of central
+government guarantees for state obligations. The result would be an increased flow of capital to
+the more progressive, performing states, thus giving other states the incentive to push similar
+reform packages. It was also thought that PSIF II would promote a cross-fertilization of ideas
+among the states about implementing these reforms and capturing a share of the projected flow
+of investment capital for infrastructure.
+
+4.      The participating states--Andhra Pradesh, Gujarat, Karnataka, Madhya Pradesh, and
+later, Tamil Nadu--were selected based on their willingness to undertake reforms in the area of
+infrastructure financing and to create the necessary enabling environment for private sector
+participation. A set of state eligibility criteria based on reform-mindedness was established and
+included in the loan agreement.
+
+B.       Expected Impact
+
+5.      The project's stated objective was to reduce poverty in the respective states by
+increasing economic activity through upgraded infrastructure, especially in roads. The project
+also had complex policy reform objectives such as encouraging, through conditional access to
+capital, progressive reform behavior among the selected state governments, and indirectly, of all
+state governments in India. The PSIF II included a related technical assistance (TA) project 5
+that aimed to support participating state governments in enacting reforms, mobilizing private
+financing for infrastructure, improving the enabling environment for PPPs in infrastructure, and
+increasing the number of viable projects reaching financial closure.
+
+
+
+3
+  ADB. 2001. Report and Recommendation of the President to the Board of Directors: Proposed Loans to
+   Infrastructure Leasing and Financial Services Limited and Industrial Development Bank of India and Proposed
+   Technical Assistance Grant to India for the Private Sector Infrastructure Facility at State Level Project. Manila.
+4
+  ADB. 2009. Completion Report: Private Sector Infrastructure Facility at State Level Project in India. Manila.
+5
+  ADB. 2001. Technical Assistance to India for Enhancing Private Sector Participation in Infrastructure Development
+   at the State Level. Manila.
+3
+
+
+C.        Objectives or Expected Outcomes
+
+6.      The stated expected outcome was to enhance private sector participation in
+infrastructure development, financing, and operations and maintenance in several Indian states,
+and to increase the number of projects reaching financial closure.
+
+D.        Components and Outputs
+
+7.      The PSIF II consisted of the following two components: (i) two separate loans to the
+participating financial institutions in equal amounts and on identical terms for on-lending to
+infrastructure projects in specified infrastructure sectors in four selected states--Andhra
+Pradesh, Gujarat, Karnataka, and Madhya Pradesh; and (ii) a TA grant of $1.5 million to the four
+selected states that would receive PSIF II financing, to enhance private sector participation in
+infrastructure development.
+
+8.      The project's target outputs were (i) relending by participating financial institutions--
+IL&FS and IDBI--in the four states, (ii) developing an enabling environment for private sector
+participation in infrastructure, (iii) strengthening the public­private interface, (iv) establishing an
+incentive structure for promoting private sector participation, and (v) developing risk-reduction
+strategies.
+
+E.        Provision of Inputs
+
+9.      ADB was to extend to IL&FS and IDBI two parallel 20-year London interbank offered rate
+(LIBOR)-based ordinary capital resources loans of $100 million each, guaranteed by the
+Government of India, for a total of $200 million. The borrowers were to make subloans of the
+proceeds subject to various restrictions and covenants. First, in order to simultaneously
+contribute to the development of a market for tradable project-financed debt securities in India,
+subloans were to be in the form of purchase of Indian rupee-denominated marketable securities
+from project entities, which were to be accomplished through various possible mechanisms as
+outlined in the RRP. Second, subloans had to be individually approved by ADB before
+disbursement. Third, subloans had to be in Indian rupees, with the US dollar­Indian rupee risk
+hedged by the borrower; four options for executing this--through various swaps and forwards--
+were outlined in the RRP. Fourth, the states where projects were located had to be eligible
+under the policy reform criteria and their governments would be required to make certain
+undertakings with ADB regarding their reform policies. Fifth, projects had to be under certain
+infrastructure sectors.6 And finally, performance-based criteria for initial eligibility and facility
+access were to be employed as incorporated in the design of PSIF II.
+
+10.     The IL&FS cancelled $49.60 million ($25.16 million effective 16 November 2006 and
+$24.438 million effective 14 August 2007) and utilized only $50.40 million of the $100 million
+loan facility.
+
+
+
+
+6
+    Approved sectors included (i) power distribution and transmission, (ii) state roads, (iii) privately run urban mass
+    transit systems, (iv) minor ports under private concession where connectivity is clear, (v) optic fiber cable
+    connections that are privately funded but not private telecommunication projects where commercial financing is
+    readily available, (vi) airports with services under private management or for privatization, (vii) privatized water
+    supply and sanitation services or services that are under private concessions, (viii) cyber parks for private
+    companies, and (ix) special economic zones.
+4
+
+
+F.        Implementation Arrangements
+
+11.     The executing agencies were the Infrastructure Authority for Andhra Pradesh, Ministry of
+Finance for Gujarat, and the finance departments for Karnataka and Madhya Pradesh. The
+implementing agencies were the Andhra Pradesh Industrial Infrastructure Corporation for
+Andhra Pradesh, the Gujarat Infrastructure Development Board for Gujarat, the line
+departments for Karnataka, and the Madhya Pradesh State Industrial Development Corporation
+for Madhya Pradesh. Each state would be asked to submit an undertaking, committing to fulfill
+the Continued Access Criteria agreed with ADB as contained in a Letter of Intent, and to provide
+necessary assistance to ADB consultants. Each state designated an executing and/or
+implementing agency to coordinate with ADB and the participating financial institutions, and to
+be the focal points for efforts to meet the Continued Access Criteria under the PSIF II.
+
+                       II.     EVALUATION OF PERFORMANCE AND RATINGS
+
+A.        Relevance of Design and Formulation
+
+12.     The PCR rated this project relevant. Among others, it noted that the expected outcome
+was consistent with ADB strategies and with the government's priorities as it focused on
+developing an enabling environment for PPPs in the states and on financing eligible projects
+through a qualified domestic financial institution, and further noting that the IL&FS was an
+appropriate choice of borrower-intermediary. The PCR also mentioned that the design did not
+sufficiently emphasize state-level capacity-building, which resulted in a weak pipeline of
+projects. This validation also rates the project relevant as the project's design was broadly in
+line with ADB strategy towards India, and with the government's own priorities to increase
+private sector participation in infrastructure financing.
+
+13.     The PCR discussed different aspects of the project's design, which this validation
+endorses. The PSIF was also consistent with the ADB operational strategy for India at the time,
+which was focused on removing infrastructure bottlenecks and catalyzing more infrastructure
+investments through private sector participation. The ADB operational strategy towards India at
+the time had started to shift from national to state levels due to the high degree of autonomy of
+states in the Indian system, and the fact that state governments are at the front line of social
+services and infrastructure delivery, and that PSIF II sought to further this in the four
+participating states. PSIF II continued to remain consistent with ADB's focus on infrastructure as
+one of five core areas on which ADB should concentrate its resources per its Strategy 2020.7
+The PCR also discussed the project's consistency with India's development objectives by citing
+the government's general emphasis on infrastructure, and the private sector's participation in
+infrastructure delivery in the Ninth Five-Year Plan, which was in effect at the time the project
+was designed, and continues to be relevant under the (current) Eleventh Five-Year Plan. On
+adequacy of design, the PCR explained how the project was designed to address targets
+through the various features of the on-lending program and the related TA project. Nonetheless,
+the high degree of complexity of the facility's design is noted.
+
+B.        Effectiveness in Achieving Project Outcomes
+
+14.      The PCR rated the project less effective in achieving its outcomes, based on the low
+utilization of the loan, citing the fact that the loan had a resource mobilization of around six
+
+7
+    ADB. 2008. Strategy 2020: The Long-Term Strategic Framework of the Asian Development Bank, 2008­2020.
+     Manila.
+5
+
+
+times, higher than the three times envisaged in the RRP. The PCR also cited that, although few
+in number, the subprojects were pioneering and expected by their respective state governments
+to have demonstration effect. Two of these projects were in Gujarat and one was in Tamil Nadu
+state. However, the progress in identifying a suitable project was slow. The PCR noted the
+following reasons: (i) excessive liquidity resulting in competing sources of funds; (ii) long period
+required for developing projects such as airports and special economic zones; (iii) limited
+capacity in many state governments to structure a bankable private sector project; and
+(iv) apprehension on the procedural requirements of ADB, especially social safeguard
+procedures. After the midterm review, attempts were made to increase the number of projects
+but these did not have much success.This validation also rates the project less than effective,
+given the fact that only approximately 25% of the originally approved loan amount of $200
+million was actually drawn and on-lent, and what was drawn was invested in only three projects
+in two sectors.
+
+C.         Efficiency of Resource Use in Achieving Outputs and Outcomes
+
+15.     The PCR rated the loan less efficient in achieving outcomes and outputs, citing the lack
+of profitability in two of the three subprojects in the initial years due to erroneous traffic and/or
+demand forecasts, requiring debt restructuring. This validation also rates the project less than
+efficient as the facility required highly sophisticated monitoring and management by ADB staff
+(and by the borrower-intermediaries), in relation to the amount actually disbursed.8 The PCR
+noted that the three subprojects were all completed with little or no cost or time overruns (PCR,
+para. 56).
+
+D.         Preliminary Assessment of Sustainability
+
+16.     The PCR rated the project likely to be sustainable, citing the current profitability of the
+two road subprojects. As the proceeds of subloan repayments were intended to be redeployed
+into additional eligible projects through a "revolving fund," and as IL&FS has institutional
+experience in finding, structuring, and managing such infrastructure investment projects, the
+PCR stated that IL&FS is likely to be in a position to utilize this revolving fund to finance
+additional projects. This validation also rates the project likely to be sustainable, but notes the
+lack of information in the PCR on the actual likelihood that IL&FS will remain engaged in the
+project long enough to recycle loan repayments into additional subloans after the first are
+repaid. The PCR has no analysis of the amortization schedule of the three subloans but they all
+mature during the period 2015­2019. By that time, it is likely that India's infrastructure finance
+market will have evolved very substantially from its state at the time this facility was designed,
+and the facility may have become irrelevant, and therefore not sustainable as a program,
+despite the sustainability of the individual subprojects.
+
+E.         Impact
+
+17.     The PCR did not assign a numerical or qualitative rating to the project in terms of impact,
+but mentioned that the loan did mobilize additional financing for the subprojects, supported
+increased economic activity and generated employment, and described a number of ongoing
+ADB engagements with the government in the infrastructure finance field. This validation agrees
+with those impacts and notes that subsequent ADB engagements with India in encouraging
+private sector participation in infrastructure financing seem to have evolved more or less directly
+
+8
+    A rough calculation shows that, in mission travel alone, not including staff time at HQ or consultant time spent in the
+     related TA project, this loan required one man-day for every $198,000 disbursed.
+6
+
+
+along these lines. However, the impact of the project per se is assessed by this validation to be
+negligible.
+
+                             III.    OTHER PERFORMANCE ASSESSMENTS
+
+A.         Performance of the Borrower and Executing Agency
+
+18.    The PCR had no rating on the performance of the borrower and executing agency.
+However, it contained an extensive and thorough discussion and analysis of IL&FS operational
+and financial performance that covered organization, management and staffing, personnel
+administration, lending and other operations, financial statements, and financial ratios.
+Operationally and organizationally, the PCR assessed IL&FS as a competently run and
+professionally managed financial institution, effective in its risk management, financial
+performance, compliance with the Reserve Bank of India standards, and other measures.
+
+19.     The PCR also had extensive information on the performance of IL&FS in loan
+implementation and its capacity as lender to the subprojects. It provided a thorough discussion
+of the three subprojects, examining in some detail issues of their financial viability and/or
+sustainability,9 the difficulties they (and IL&FS) faced in attaining strict compliance with ADB
+social and environmental safeguards, and related reporting. The PCR made no comments on
+the performance of the three executing agencies. This validation rates the performance of the
+borrower and executing agency satisfactory.
+
+B.         Performance of the Asian Development Bank
+
+20.      The PCR noted that ADB conducted regular review missions and tripartite meetings with
+IL&FS and the Government of India's Department of Economic Affairs, and rated the overall
+performance of ADB satisfactory. The PCR further noted that ADB responded to the slow
+process of loan implementation, by the time of the midterm review, by adding Tamil Nadu to the
+list of participating states, although IL&FS had also requested to include projects of the National
+Highways Authority of India. The PCR further stated that ADB had contributed to mitigation of
+social safeguard risks by increasing the coverage of project-affected families and the levels of
+assistance.
+
+21.      Based on information provided, ADB seemed to have followed its own procedures
+correctly, fielding the required missions in a timely manner and monitoring the loan properly.
+There was, however, a weakness in how the overall project was originally designed, given the
+realities of the financial markets in India and capacities of state governments at the time.
+
+22.      The goal of the project's design seemed unrealistic--trying to influence simultaneously
+the reform policies of state governments, to influence the evolution of India's project bond
+market, and to provide support for infrastructure financing institutions (e.g., IL&FS and IDBI)
+while, at the same time, funding specific projects that had to meet strict eligibility requirements
+and then go through complex processing involving both IL&FS and ADB. The PCR was
+objective on this subject and realistic in its ex post evaluation and the reasons why the project
+has only utilized around 25% of its funds. This validation agrees with the PCR generally, and
+finds it to be complete and fair in its evaluation and assessment of ADB's performance and role
+in this project.
+
+9
+    The subloans to Ahmedabad Mehsana Toll Road Project (toll road) and New Tirupur Area Development Project
+     (water supply) both encountered difficulties due to less-than-projected traffic and/or demand.
+7
+
+
+C.      Others
+
+23.     The PCR noted that environmental safeguards for the project had been adequately
+implemented. However, reporting to ADB on the implementation of the environmental
+management and monitoring plan had been weak. On social safeguards, some of the pipeline
+subprojects could not be financed because of difficulties in complying with ADB social safeguard
+requirements. To ensure compliance with the Involuntary Resettlement Policy of ADB, a social
+safeguard review mission was conducted and recommended several measures including the
+preparation of a revised resettlement plan for the New Tirupur Area Development Project. The
+completion of the revised resettlement plan was delayed due partly to issues on land
+acquisition. In general, IL&FS had complied with most of the covenants, although some areas
+could have had timely or better compliance.
+
+             IV.      OVERALL ASSESSMENT, LESSONS, AND RECOMMENDATIONS
+
+A.      Overall Assessment and Ratings
+
+24.      The PCR rated the project partly successful (see table). This validation also has an
+overall assessment of less than successful based on the fact that $100 million of the facility was
+cancelled when IDBI dropped out of the project, and the remaining $100 million was only 50%
+utilized by IL&FS due to lack of viable subproject candidates for subloans. This dearth of viable
+subprojects could have been better addressed by the TA project through transaction capacity
+building in the state governments, but the TA project experienced its own implementation
+problems and shortcomings. The overall project seemed to have been overambitious in its
+expectations given the realities at state government level and the capacity of local authorities to
+comply (and to document their compliance) with ADB safeguards. It also seemed to have
+"overengineered" in terms of the complexity of its conditions, incentive mechanisms, structural
+requirements (as purchase of marketable securities) for sub-financings, reporting overhead, and
+attempt to combine reform incentives and capital markets development with a straightforward
+project financing facility.
+
+                                               Overall Ratings
+                                                                                 Reason for Disagreement
+          Criteria                   PCR                 IED Review                 and/or Comments
+Relevance                     Relevant             Relevant
+Effectiveness in achieving    Less effective       Less than effective
+outcome
+Efficiency in achieving       Less efficient        Less than efficient
+outcome and outputs
+Preliminary assessment of     Likely                Likely
+sustainability
+Overall Assessment            Partly successful Less than successful
+
+Borrower and executing        Not rated            Satisfactory
+agency
+Performance of Asian          Satisfactory          Satisfactory
+Development Bank
+Impact                        Not rated             Negligible                 Refer to para. 17.
+Quality of PCR                                      Satisfactory               Refer to para. 28.
+ADB = Asian Development Bank, IED = Independent Evaluation Department, PCR = project completion report.
+Note: From May 2012, IED views the PCR's rating terminology of "partly" or "less" as equivalent to "less than" and
+uses this terminology for its own rating categories to improve clarity.
+Source: ADB Independent Evaluation Department.
+8
+
+
+B.         Lessons
+
+25.     The PCR cited the following as lessons of this project: (i) the continuing need to enhance
+the capacity of state governments to develop bankable projects; (ii) that ADB must carefully
+evaluate the safeguards compliance and monitoring capacity of intermediaries and take steps to
+improve where needed; (iii) that ADB should move safeguards compliance resources closer to
+projects and get them involved earlier in the project development cycle; (iv) that ADB should
+coordinate more closely in India those resettlement matters with land acquisition functions of
+local authorities (as land acquisition may not be handled well by the financial intermediary); and
+(v) that ADB should be more careful and critical with regard to demand risk, traffic projections,
+and others, and/or look to structure with annuities. This validation concurs with those
+observations, and adds a cautionary note on the effectiveness and efficiency of project designs
+that attempt to combine program loans to promote PPP environment and capital markets
+development with project finance facilities to invest in specific projects, particularly when they
+involve wholesale loans to financial institution intermediaries.
+
+C.         Recommendations for Follow-Up
+
+26.      While the government had policies to attract private sector participation in infrastructure
+at the time of the approval of PSIF II, only over the last few years has the government shown its
+preference for PPPs as the mode of financing infrastructure. The engagement of ADB with the
+government in promoting PPPs has been deepening, with several initiatives on mainstreaming
+PPPs and sovereign lending to the India Infrastructure Finance Company Limited (PCR, para.
+63). ADB initiatives include a TA project,10 which aims to institutionalize PPP skills at the state
+level. The lack of a pipeline of eligible subprojects under PSIF II suggests that ADB may
+continue its interventions in the PPP area to assist in creating a shelf of bankable PPP projects
+at the state level. Further, many of the PPP projects are in the road sector and the focus of ADB
+should be to develop replicable PPP structures in the urban and water supply sectors, which are
+considered difficult sectors for attracting private investment. In addition to continuing to provide
+finance through the India Infrastructure Finance Company Limited to address financial
+constraints in infrastructure, ADB may also consider nonsovereign loans (without government
+guarantees) in difficult sectors, which will build confidence on the bankability of the projects and
+assist in catalyzing additional competitive financing.
+
+                            V.       OTHER CONSIDERATIONS AND FOLLOW-UP
+
+A.         Monitoring and Evaluation Design, Implementation, and Utilization
+
+27.     The PCR indicated in Appendix 7 on compliance with loan covenants that the benefit
+monitoring and evaluation reports for the subprojects were submitted by IL&FS although with
+delay. However, the establishment of the benefit monitoring and evaluation reports or the
+project performance monitoring and evaluation system was not discussed.
+
+B.         Comments on Project Completion Report Quality
+
+28.    The PCR quality is rated satisfactory. It is generally complete in its scope and detail of
+coverage, and fair in its evaluation and assessment of the project. One small criticism is what
+was not included--this validation believes that the PCR could have drawn additional valid
+lessons and recommendations if it included a fuller discussion of the reasons and
+
+10
+     ADB. 2006. Technical Assistance to India for Mainstreaming Public­Private Partnerships at State Level. Manila.
+9
+
+
+circumstances surrounding the early withdrawal of IDBI from the project (which immediately cut
+its potential impact in half by reducing the loan amount from $200 to $100 million). The scope of
+documentary input from IL&FS seemed to have been specified only very generically in the ADB
+special loan administration mission report. 11 Perhaps if the ADB special loan administration
+mission had requested more details from IL&FS and those had been included in the PCR, it
+could have been more complete. The PCR might also have profitably examined in more detail
+the capacity-building activities undertaken through the TA project in the participating states, and
+their relationship with the lack of investible deal flow available for IL&FS to finance in those
+states.
+
+C.         Data Sources for Validation
+
+29.    This validation is based on the project's RRP, PCR, minutes of the meeting of the Board
+of Directors, back-to-office reports, interview notes, and the presentation made for the India
+Resident Mission on PPPs.
+
+D.         Recommendation for Independent Evaluation Department Follow-Up
+
+30.        No IED follow-up is recommended.
+
+
+
+
+11
+     Special Project Administration Mission, Back-to-Office Report dated 10 April 2008, Appendix 3, "Suggested Topics
+     for Project Completion Reports to be Completed by Borrowers (loans to development finance institutions)."
+

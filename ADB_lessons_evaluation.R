@@ -35,9 +35,9 @@ corpus <- tm_map(corpus, stripWhitespace)
 corpus <- tm_map(corpus, content_transformer(gsub), pattern = "^\\s+|\\s+$", replacement = "")
 
 #Temporarily removing stemming for ease of interpretation
-#corpus <- tm_map(corpus, stemDocument)
+corpus <- tm_map(corpus, stemDocument)
 
-write(sapply(1:length(corpus), function(i){corpus[[i]]$content}), "pvr_lessons.txt")
+write(sapply(1:length(corpus), function(i){corpus[[i]]$content}), "pvr_lessons_stem.txt")
 
 dtm <- DocumentTermMatrix(corpus)
 rownames(dtm) <- pvr[["ID"]]
@@ -50,26 +50,26 @@ frequency <- colSums(as.matrix(dtm))
 length(frequency)
 order <- order(frequency, decreasing = TRUE)
 frequency[order]
-write.csv(frequency[order], "output\\frequencies.csv")
+write.csv(frequency[order], "output\\frequencies_stem.csv")
 
 library(ldatuning)
 
 #Set parameters for Gibbs sampling
-burnin <- 100
-iter <- 1000
-thin <- 50
-nstart <- 5
-seed <- sample(1:1000000, 5) 
-best <- TRUE
+#burnin <- 100
+#iter <- 1000
+#thin <- 50
+#nstart <- 5
+#seed <- sample(1:1000000, 5) 
+#best <- TRUE
 
 t1 <- Sys.time()
   
 result <- FindTopicsNumber(
   dtm,
-  topics = seq(from = 5, to = 205, by = 20),
+  topics = seq(from = 20, to = 55, by = 1),
   metrics = c("Griffiths2004", "CaoJuan2009", "Arun2010", "Deveaud2014"),
   method = "Gibbs",
-  control = list(nstart = nstart, seed = seed, best = best, burnin = burnin, iter = iter, thin = thin),
+#  control = list(nstart = nstart, seed = seed, best = best, burnin = burnin, iter = iter, thin = thin),
   mc.cores = 1,
   verbose = TRUE
 )
@@ -79,53 +79,58 @@ t2 - t1
 
 FindTopicsNumber_plot(result)
 
+#Setting K manually based on graph
+k <- 26
+
 #Maximum Log Likelihood
 
 library(topicmodels)
 
-t1 <- Sys.time()
+#t1 <- Sys.time()
 
-best.model <- lapply(seq(5,205, by=20), function(k){LDA(dtm, k, method="Gibbs",
-                        control = list(nstart = nstart, seed = seed, best = best,
-                        burnin = burnin, iter = iter, thin = thin))})
-best.model.logLik <- as.data.frame(as.matrix(lapply(best.model, logLik)))
-best.model.logLik.df <- data.frame(topics=seq(5,205, by=20), LL=as.numeric(as.matrix(best.model.logLik)))
+#best.model <- lapply(seq(20,205, by=5), function(k){LDA(dtm, k, method="Gibbs",
+                        #control = list(nstart = nstart, seed = seed, best = best,
+                        #burnin = burnin, iter = iter, thin = thin)
+#                        )})
+#best.model.logLik <- as.data.frame(as.matrix(lapply(best.model, logLik)))
+#best.model.logLik.df <- data.frame(topics=seq(5,205, by=5), LL=as.numeric(as.matrix(best.model.logLik)))
 
-t2 <- Sys.time()
-t2 - t1
+#t2 <- Sys.time()
+#t2 - t1
 
-library(ggplot2)
+#library(ggplot2)
 
-ggplot(best.model.logLik.df, aes(x=topics, y=LL)) + 
-  xlab("Number of topics") + ylab("Log likelihood of the model") + geom_line() + theme_bw()
+#ggplot(best.model.logLik.df, aes(x=topics, y=LL)) + 
+#  xlab("Number of topics") + ylab("Log likelihood of the model") + geom_line() + theme_bw()
 
-best.model.logLik.df[which.max(best.model.logLik.df$LL),]
+#best.model.logLik.df[which.max(best.model.logLik.df$LL),]
 
-k <- best.model.logLik.df[which.max(best.model.logLik.df$LL), 1]
+#k <- best.model.logLik.df[which.max(best.model.logLik.df$LL), 1]
 
 #Run with topicmodels package
 
 t1 <- Sys.time()
 
 ldaOutput <- LDA(dtm, k, method="Gibbs",
-                 control = list(nstart = nstart, seed = seed, best = best, burnin = burnin,
-                                iter = iter, thin = thin))
+                 #control = list(nstart = nstart, seed = seed, best = best, burnin = burnin,
+                 #              iter = iter, thin = thin)
+                 )
 
 t2 <- Sys.time()
 t2 - t1
 
 ldaOutput.topics <- as.matrix(topics(ldaOutput))
-write.csv(ldaOutput.topics, file = paste("output\\title_topics_by_pcr.csv"))
+write.csv(ldaOutput.topics, file = paste("output\\Lessons_2016_12_21\\lesson_topics_by_pvr.csv"))
 
 ldaOutput.terms <- as.matrix(terms(ldaOutput, 20))
-write.csv(ldaOutput.terms, file = paste("output\\title_terms_by_topics.csv"))
+write.csv(ldaOutput.terms, file = paste("output\\Lessons_2016_12_21\\lesson_terms_by_topics.csv"))
 
 topicProbabilities <- as.data.frame(ldaOutput@gamma)
 topicProbabilities$ID <- ldaOutput@documents
-write.csv(topicProbabilities, file = paste("output\\title_topic_probabilities.csv"))
+write.csv(topicProbabilities, file = paste("output\\Lessons_2016_12_21\\lesson_topic_probabilities.csv"))
 
 mergedPVR <- merge(pvr, topicProbabilities, by="ID")
-write.csv(mergedPVR, file = paste("output\\PVR_with_topics.csv"))
+write.csv(mergedPVR, file = paste("output\\Lessons_2016_12_21\\PVR_with_topics.csv"))
 
 #Now run using LDA and LDAVis
 #Change the PCR variables below to the pre-processed ones... 
@@ -142,11 +147,6 @@ document.list <- strsplit(ldaInput, "[[:space:]]+")
 term.table <- table(unlist(document.list))
 term.table <- sort(term.table, decreasing = TRUE)
 vocab <- names(term.table) 
-
-#del <- names(term.table) %in% ""
-#term.table <- term.table[!del]
-
-#vocab <- vocab[!del]
 
 # now put the documents into the format required by the lda package:
 get.terms <- function(x) {
@@ -168,6 +168,8 @@ library(lda)
 
 # MCMC and model tuning parameters:
 #K <- 20
+burnin <- 100
+iter <- 1000
 alpha <- 0.02
 eta <- 0.02
 set.seed(sample(1:1000000))
@@ -207,8 +209,21 @@ stmData <- prepDocuments( stmInput$documents, stmInput$vocab, stmInput$meta, low
 
 t1 <- Sys.time()
 
-stmSelectK <- searchK(stmData$documents, stmData$vocab, K = seq(5, 205, by = 20),
-                      prevalence =~  I..CHOOSE.SECTOR + Choose.COUNTRIES + s(year) + Choose.Validation.of.Project.Program.Completion.Report.rating,
+stmSelectK <- searchK(stmData$documents, stmData$vocab, K = seq(5, 105, by = 5),
+                      prevalence =~  I..CHOOSE.SECTOR + Choose.COUNTRIES,
+                      #+ s(year) + Choose.Validation.of.Project.Program.Completion.Report.rating,
+                      data = stmData$meta, init.type = "Spectral")
+
+t2 <- Sys.time()
+t2 - t1
+
+plot.searchK(stmSelectK)
+
+t1 <- Sys.time()
+
+stmSelectK <- searchK(stmData$documents, stmData$vocab, K = seq(2, 25, by = 1),
+                      prevalence =~  I..CHOOSE.SECTOR + Choose.COUNTRIES,
+                      #+ s(year) + Choose.Validation.of.Project.Program.Completion.Report.rating,
                       data = stmData$meta, init.type = "Spectral")
 
 t2 <- Sys.time()
@@ -217,7 +232,7 @@ t2 - t1
 plot.searchK(stmSelectK)
 
 #Assigning K manually based on the graphs from previous operations. Should do this in code ideally...
-k <- 12
+k <- 5
 
 #t1 <- Sys.time()
 
@@ -230,23 +245,24 @@ k <- 12
 #plotModels(stmSelect)
 
 stmOutput <- stm(stmData$documents, stmData$vocab, K = k,
-                 prevalence =~  I..CHOOSE.SECTOR + Choose.COUNTRIES + s(year) + Choose.Validation.of.Project.Program.Completion.Report.rating,
+                 prevalence =~  I..CHOOSE.SECTOR + Choose.COUNTRIES,
                  max.em.its = 500, data = stmData$meta, init.type = "Spectral")  
 
 cloud(stmOutput)
 
 labelTopics(stmOutput)
 
-plot.STM(stmOutput, type="summary")
+plot.STM(stmOutput, type="summary", n = 10)
+plot.STM(stmOutput, type="hist")
+plot.STM(stmOutput, type="perspectives", topics = c(2,4))
 
-stmEffect <- estimateEffect(seq(1:k) ~ I..CHOOSE.SECTOR + Choose.COUNTRIES + s(year) + Choose.Validation.of.Project.Program.Completion.Report.rating,
+
+stmEffect <- estimateEffect(seq(1:k) ~ I..CHOOSE.SECTOR + Choose.COUNTRIES,
                             stmOutput, metadata=stmData$meta, uncertainty = "None")
 
-plot.estimateEffect(stmEffect, covariate = "year", model = stmOutput, method = "continuous", ci.level = 0,
-                    topics = seq(1:k))
+plot.estimateEffect(stmEffect, covariate = "I..CHOOSE.SECTOR", model = stmOutput, topics = seq(1:k))
 
-plot.estimateEffect(stmEffect, covariate = "year", model = stmOutput, method = "continuous", ci.level = 0,
-                    topics = seq(1:k))
+plot.estimateEffect(stmEffect, covariate = "Choose.COUNTRIES", model = stmOutput, topics = seq(1:k))
 
 stmTopicCorr <- topicCorr(stmOutput)
 plot.topicCorr(stmTopicCorr)
